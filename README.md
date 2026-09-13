@@ -1,58 +1,45 @@
 # Katabasis
 
-Una antología para descubrir literatura de dominio público: una lectura por
-pantalla, originales con traducciones de lectura en español e inglés, favoritos,
-paquetes opcionales, mapa de obras y autores, y una obra de arte después de cada
-cinco lecturas nuevas.
+Katabasis es una sala de lectura bilingüe para descubrir literatura de dominio
+público. Muestra una lectura por vez, permite abrir original y traducción en
+paralelo, guardar favoritos, activar paquetes opcionales y explorar obras y
+autores en un mapa.
 
-La edición actual contiene **151 lecturas y 75 imágenes**: el MVP de 51 lecturas
-más 23 paquetes opcionales. Incluye República de las Letras y Englyn de Gales.
-Los paquetes se activan en la aplicación; las preferencias y los favoritos se
-guardan en el navegador utilizado.
+La versión ejecutable restaurada en este repositorio contiene **143 lecturas**,
+**71 obras de arte** y **21 paquetes opcionales**. Las preferencias y los
+favoritos se guardan localmente en el navegador.
 
-## Abrir la página
+## Abrir Katabasis
 
-Descarga este repositorio como ZIP, extráelo y abre `dist/index.html`. Conserva
-la carpeta `dist/art` junto al HTML para que se vean todas las pinturas.
-La carpeta `dist` también está lista para un alojamiento estático.
+Cuando GitHub Pages esté configurado para publicar `main` desde la raíz, la
+aplicación estará disponible en:
 
-## Generar un solo HTML para compartir
+<https://lulasaso-ux.github.io/katabasis/>
 
-Con Python 3, desde la carpeta del proyecto:
+La página carga el HTML restaurado desde `app/` y lo reconstruye en el
+navegador. No requiere dependencias, compilación ni servidor propio. Las
+fuentes de textos, museos y lecturas diarias se abren en sitios externos; la
+colección propiamente dicha funciona sin conexión después de terminar la carga.
 
-```sh
-python build.py
-```
+## Estructura actual
 
-El resultado, `dist/index.html`, contiene textos, estilos, lógica, fuente e
-imágenes. Puedes enviarlo como un único archivo y abrirlo sin conexión. Los
-vínculos a fuentes y lecturas litúrgicas externas sí requieren internet.
+`index.html` es el punto de entrada estático. Los archivos
+`app/katabasis-*.txt` son partes consecutivas del HTML autocontenido recibido,
+incluyendo datos, estilos, lógica, fuente y reproducciones de arte. Se mantienen
+separados únicamente para que el repositorio pueda publicar la aplicación
+íntegra mediante GitHub Pages.
 
-## Generar la versión para alojamiento
+`.nojekyll` evita transformaciones del contenido por Jekyll.
 
-```sh
-python build.py --web
-```
+## Nota de restauración
 
-Genera `dist/index.html` con imágenes relativas en `dist/art`. Las pinturas
-conservan los mismos bytes que la versión independiente. Separarlas permite
-seguir añadiendo paquetes sin superar el límite de tamaño de un archivo del
-alojamiento y sin reducir su calidad.
+El único historial disponible de este repositorio contenía este README, no el
+árbol de fuentes que describía (`corpus.py`, `texts/`, `packages/`,
+`build.py`, `dist/`, etc.). La aplicación se restauró desde el archivo HTML
+proporcionado. Por ello, los recuentos de esta versión ejecutable sustituyen las
+cifras anteriores de 151 lecturas y 75 imágenes.
 
-## Contenido y fuentes
-
-- `corpus.py` y `texts/`: MVP y ampliaciones editoriales.
-- `packages/`: lecturas, originales, generadores y manifiestos de paquetes.
-- `assets/paintings/` y `assets/package-art/`: imágenes y sus atribuciones.
-- `template.html`, `app.js` y archivos asociados: interfaz.
-- `packages/README.md`: decisiones de selección, edición y traducción.
-
-Los textos se identifican como obras completas o fragmentos. El límite editorial
-es de 1.900 palabras traducidas por lectura, incluyendo los enlaces narrativos
-de los misterios. Cada ficha conserva la fuente, edición y nota de derechos.
-Las traducciones nuevas generadas por IA se identifican como traducciones de
-lectura; las versiones galesas buscan transmitir sentido e imágenes y no
-prometen reproducir la métrica o la musicalidad original.
-
-Los metadatos de cada ilustración especifican los derechos de la reproducción
-consultada. Este repositorio no asigna una licencia única a todos los materiales.
+Cada ficha conserva enlaces de procedencia y notas editoriales. Las
+reproducciones de arte y los textos pueden tener condiciones de derechos
+individuales; este repositorio no declara una licencia única para todo su
+contenido.

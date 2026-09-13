@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#493024">
+  <title>Katabasis — Cargando</title>
+  <style>
+    :root { color-scheme: light; font-family: Georgia, 'Times New Roman', serif; color: #493024; background: #eae1d6; }
+    body { min-height: 100vh; margin: 0; display: grid; place-items: center; }
+    main { width: min(34rem, calc(100% - 3rem)); padding: 2.5rem; background: #fffcf6; border: 1px solid #ded1c3; box-shadow: 0 4px 18px #49302414; }
+    h1 { margin: 0; font-size: 3.2rem; font-style: italic; font-weight: 400; color: #493024; }
+    p { color: #786352; font-size: 1.1rem; }
+    progress { width: 100%; accent-color: #a67532; }
+    .error { color: #8b2b20; }
+  </style>
+</head>
+<body>
+  <main aria-live="polite">
+    <h1>Katabasis</h1>
+    <p id="status">Cargando la sala de lectura…</p>
+    <progress id="progress" max="37" value="0"></progress>
+  </main>
+  <script>
+    (() => {
+      const paths = ["app/katabasis-01.txt","app/katabasis-02.txt","app/katabasis-03.txt","app/katabasis-04.txt","app/katabasis-05.txt","app/katabasis-06.txt","app/katabasis-07.txt","app/katabasis-08.txt","app/katabasis-09.txt","app/katabasis-10.txt","app/katabasis-11.txt","app/katabasis-12.txt","app/katabasis-13.txt","app/katabasis-14.txt","app/katabasis-15.txt","app/katabasis-16.txt","app/katabasis-17.txt","app/katabasis-18.txt","app/katabasis-19.txt","app/katabasis-20.txt","app/katabasis-21.txt","app/katabasis-22.txt","app/katabasis-23.txt","app/katabasis-24.txt","app/katabasis-25.txt","app/katabasis-26.txt","app/katabasis-27.txt","app/katabasis-28.txt","app/katabasis-29.txt","app/katabasis-30.txt","app/katabasis-31.txt","app/katabasis-32.txt","app/katabasis-33.txt","app/katabasis-34.txt","app/katabasis-35.txt","app/katabasis-36.txt","app/katabasis-37.txt"];
+      const status = document.getElementById('status');
+      const progress = document.getElementById('progress');
+      (async () => {
+        try {
+          const pieces = [];
+          for (let index = 0; index < paths.length; index += 1) {
+            const response = await fetch(paths[index], { cache: 'force-cache' });
+            if (!response.ok) throw new Error(`No se pudo cargar ${paths[index]} (HTTP ${response.status}).`);
+            pieces.push(await response.text());
+            progress.value = index + 1;
+          }
+          document.open();
+          document.write(pieces.join(''));
+          document.close();
+        } catch (error) {
+          progress.hidden = true;
+          status.className = 'error';
+          status.textContent = `Katabasis no pudo cargarse: ${error.message}`;
+        }
+      })();
+    })();
+  </script>
+</body>
+</html>
