@@ -1,4 +1,5 @@
 # Katabasis
+Sala de lectura Katabasis.
 
 Katabasis es una sala de lectura bilingüe para descubrir literatura de dominio
 público. Muestra una lectura por vez, permite abrir original y traducción en
