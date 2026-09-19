@@ -60,8 +60,8 @@ function renderReading(direction=0){
     requestAnimationFrame(fitPreview);
 }
 function fitPreview(){const preview=$('#preview'),text=$('#preview-text');if(!preview||!text)return;const w=works[current],truncated=text.scrollHeight>preview.clientHeight+1||previewRows(w).length<w.segments.length;preview.classList.toggle('truncated',truncated);$('#open-label').textContent=truncated?ui[lang].continue:ui[lang].book}
-function translateUI(){document.documentElement.lang=lang;document.querySelectorAll('[data-lang]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.lang===lang)));$('#room-title').textContent=page==='catalog'?(lang==='es'?'Obras y autores':'Works & authors'):page==='packages'?(lang==='es'?'Paquetes':'Packages'):page==='favorites'?(lang==='es'?'Guardados':'Saved'):ui[lang].room;$('#favorites-open span').textContent=lang==='es'?'Guardados':'Saved';refreshFavoriteButtons();$('#packages-open span').textContent=lang==='es'?'Paquetes':'Packages';$('#packages-open').ariaLabel=lang==='es'?'Paquetes':'Packages';$('#catalog-open span').textContent=lang==='es'?'Obras y autores':'Works & authors';$('#catalog-open').ariaLabel=lang==='es'?'Obras y autores':'Works & authors';$('#home').ariaLabel=ui[lang].room;$('#daily-open').ariaLabel=lang==='es'?'Lecturas de hoy':'Today’s readings';$('#about-open').ariaLabel=lang==='es'?'Edición y fuentes':'Edition & sources';$('#home span').textContent=ui[lang].room;$('#daily-open span').textContent=lang==='es'?'Lecturas de hoy':'Today’s readings';$('#about-open span').textContent=lang==='es'?'Edición y fuentes':'Edition & sources';$('#about-title').textContent=lang==='es'?'Edición y fuentes':'Edition & sources';$('#daily-title').textContent=lang==='es'?'Lecturas católicas de hoy':'Catholic daily readings';$('.rail-bottom .tiny-title').textContent=lang==='es'?'Leer en':'Read in';$('.brand small').textContent=lang==='es'?'Sala de lectura':'A reading room';$('#top-count').textContent=`${activeWorks().length} ${ui[lang].readings} · ${new Set(activeWorks().map(w=>w.lang)).size} ${lang==='es'?'idiomas':'languages'}`;$('#facts').innerHTML=`<p>${activeWorks().length} ${ui[lang].readings}</p><p>${ui[lang].complete}</p>`;$('#previous').textContent=lang==='es'?'← Volver':'← Back';$('#next').textContent=lang==='es'?'Descubrir →':'Discover →';$('#align-hint').textContent=ui[lang].hint;$('#discovery-hint').textContent=ui[lang].gesture;$('#discover-prev').ariaLabel=lang==='es'?'Lectura anterior':'Previous reading';$('#discover-next').ariaLabel=lang==='es'?'Descubrir otra lectura':'Discover another reading'}
-function setLanguage(l){if(!['en','es'].includes(l)||l===lang)return;saveBookPosition();lang=l;try{localStorage.setItem('katabasis-language',lang)}catch{}translateUI();renderReading();if(page==='catalog')renderCatalog();if(page==='packages')renderPackages();if(page==='favorites')renderFavorites();if(active!==null)renderBook();if($('#daily').open)renderDaily();if($('#about').open)renderAbout();if($('#art-dialog').open)renderArtDetail()}
+function translateUI(){document.documentElement.lang=lang;document.querySelectorAll('[data-lang]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.lang===lang)));$('#room-title').textContent=page==='catalog'?(lang==='es'?'Obras y autores':'Works & authors'):page==='packages'?(lang==='es'?'Paquetes':'Packages'):page==='favorites'?(lang==='es'?'Guardados':'Saved'):page==='workshop'?(lang==='es'?'Taller':'Workshop'):ui[lang].room;$('#favorites-open span').textContent=lang==='es'?'Guardados':'Saved';refreshFavoriteButtons();$('#workshop-open span').textContent=lang==='es'?'Taller':'Workshop';$('#workshop-open').ariaLabel=lang==='es'?'Taller de escritura':'Writing workshop';$('#packages-open span').textContent=lang==='es'?'Paquetes':'Packages';$('#packages-open').ariaLabel=lang==='es'?'Paquetes':'Packages';$('#catalog-open span').textContent=lang==='es'?'Obras y autores':'Works & authors';$('#catalog-open').ariaLabel=lang==='es'?'Obras y autores':'Works & authors';$('#home').ariaLabel=ui[lang].room;$('#daily-open').ariaLabel=lang==='es'?'Lecturas de hoy':'Today’s readings';$('#about-open').ariaLabel=lang==='es'?'Edición y fuentes':'Edition & sources';$('#home span').textContent=ui[lang].room;$('#daily-open span').textContent=lang==='es'?'Lecturas de hoy':'Today’s readings';$('#about-open span').textContent=lang==='es'?'Edición y fuentes':'Edition & sources';$('#about-title').textContent=lang==='es'?'Edición y fuentes':'Edition & sources';$('#daily-title').textContent=lang==='es'?'Lecturas católicas de hoy':'Catholic daily readings';$('.rail-bottom .tiny-title').textContent=lang==='es'?'Leer en':'Read in';$('.brand small').textContent=lang==='es'?'Sala de lectura':'A reading room';$('#top-count').textContent=page==='workshop'?(lang==='es'?'Práctica de escritura':'Writing practice'):`${activeWorks().length} ${ui[lang].readings} · ${new Set(activeWorks().map(w=>w.lang)).size} ${lang==='es'?'idiomas':'languages'}`;$('#facts').innerHTML=`<p>${activeWorks().length} ${ui[lang].readings}</p><p>${ui[lang].complete}</p>`;$('#previous').textContent=lang==='es'?'← Volver':'← Back';$('#next').textContent=lang==='es'?'Descubrir →':'Discover →';$('#align-hint').textContent=ui[lang].hint;$('#discovery-hint').textContent=ui[lang].gesture;$('#discover-prev').ariaLabel=lang==='es'?'Lectura anterior':'Previous reading';$('#discover-next').ariaLabel=lang==='es'?'Descubrir otra lectura':'Discover another reading'}
+function setLanguage(l){if(!['en','es'].includes(l)||l===lang)return;saveBookPosition();lang=l;try{localStorage.setItem('katabasis-language',lang)}catch{}translateUI();renderReading();if(page==='catalog')renderCatalog();if(page==='packages')renderPackages();if(page==='favorites')renderFavorites();if(page==='workshop')renderWorkshop();if(active!==null)renderBook();if($('#daily').open)renderDaily();if($('#about').open)renderAbout();if($('#art-dialog').open)renderArtDetail()}
 function highlight(key){document.querySelectorAll('#book .lit').forEach(s=>s.classList.remove('lit'));litKey=key;if(key)document.querySelectorAll('#book .segment').forEach(s=>{if(s.dataset.key===key)s.classList.add('lit')})}
 function renderBook(){const w=works[active],isSame=w.lang===lang;litKey=null;let n=0;const rows=w.segments.map((r,i)=>{const cells=[lang,'original'].map(side=>`<div class="parallel-cell" lang="${side==='original'?w.lang:lang}" dir="${side==='original'&&w.lang==='he'?'rtl':'ltr'}">${r.map((s,j)=>`<span class="segment" data-key="${i}-${j}" tabindex="${n++===0?'0':'-1'}">${esc(s[side])}</span>`).join('')}</div>`);return `<div class="parallel-row">${cells.join('')}</div>`}).join('');$('#book-content').innerHTML=`<div class="book-title"><h2 id="book-title">${esc(titleOf(w))}</h2><p>${esc(w.author)} · ${esc(scopeOf(w))}</p>${favoriteButton('reading',w.id)}</div>${journeyPanel(w)}<div class="book-headings"><div>${languages[lang]} · ${isSame?ui[lang].original:(lang==='es'?'Traducción':'Translation')}</div><div>${esc(languageOf(w))} · ${ui[lang].original}</div></div><div class="parallel ${w.kind==='Poem'?'poem':w.kind==='Theatre'?'prose theatre':'prose'}">${rows}</div>${journeyEnd(w)}<div class="book-endnote"><p>${esc(lang==='es'?(w.note_es||w.note):w.note)}</p><p>${isSame?ui[lang].same:ui[lang].working}. ${lang==='es'?'La alineación relaciona palabras, frases u oraciones por significado; algunos pasajes se agrupan por párrafos.':'Alignment links words, phrases or sentences by meaning; some passages are grouped by paragraph.'}</p><a href="${esc(w.source)}" target="_blank" rel="noopener noreferrer">${ui[lang].source}</a>${w.translation_reference?` · <a href="${esc(w.translation_reference)}" target="_blank" rel="noopener noreferrer">${lang==='es'?'Versión de Budge (1922) ↗':'Budge’s version (1922) ↗'}</a>`:''}${w.context_source?` · <a href="${esc(w.context_source)}" target="_blank" rel="noopener noreferrer">${lang==='es'?'Contexto y transmisión ↗':'Context and transmission ↗'}</a>`:''}${w.source_edition?`<p class="source-edition">${esc(w.source_edition)}</p>`:''}</div>`;$('#book-content').scrollTop=bookPositions.get(w.id)||0;const p=historyPosition;$('#previous').disabled=p<=0;$('#next').disabled=false;$('#previous').hidden=page!=='anthology'||!!w.journey_id;$('#next').hidden=page!=='anthology'||!!w.journey_id}
 function openBook(id){const i=works.findIndex(w=>w.id===id&&isEnabled(w));if(i<0)return;saveBookPosition();active=i;renderBook();if(!$('#book').open)$('#book').showModal();document.body.style.overflow='hidden'}
@@ -107,7 +107,7 @@ function renderCatalogResults(){
 }
 function selectRegion(id){if(id!=='all'&&!geography.groups.some(g=>g.id===id&&regionCount(id)))return;selectedRegion=id;document.querySelectorAll('[data-region]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.region===id)));document.querySelectorAll('[data-map-region]').forEach(p=>{p.classList.toggle('selected',p.dataset.mapRegion===id);p.setAttribute('aria-pressed',String(p.dataset.mapRegion===id))});$('#map-caption-text').innerHTML=mapCaption();renderCatalogResults();if(window.matchMedia('(max-width:730px)').matches)$('#results-title').focus({preventScroll:false})}
 function setMapView(view){if(!['world','europe','americas'].includes(view))return;mapView=view;$('#world-map').setAttribute('viewBox',mapBounds(view));document.querySelectorAll('[data-map-view]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.mapView===view)))}
-function switchPage(nextPage){if(!['anthology','catalog','packages','favorites'].includes(nextPage))return;page=nextPage;$('.feed-wrap').hidden=page!=='anthology';$('#catalog-view').hidden=page!=='catalog';$('#packages-view').hidden=page!=='packages';$('#favorites-view').hidden=page!=='favorites';for(const [id,p] of [['home','anthology'],['catalog-open','catalog'],['packages-open','packages'],['favorites-open','favorites']]){$('#'+id).classList.toggle('active',page===p);$('#'+id).setAttribute('aria-current',page===p?'page':'false')}wheelTotal=0;wheelUsed=false;touchStart=null;translateUI();if(page==='catalog'){renderCatalog();$('#catalog-title').focus()}else if(page==='packages'){renderPackages();$('#packages-title').focus()}else if(page==='favorites'){renderFavorites();$('#favorites-title').focus()}else{renderReading();$('#reading-title').focus()}}
+function switchPage(nextPage){if(!['anthology','catalog','packages','favorites','workshop'].includes(nextPage))return;page=nextPage;$('.feed-wrap').hidden=page!=='anthology';$('#catalog-view').hidden=page!=='catalog';$('#packages-view').hidden=page!=='packages';$('#favorites-view').hidden=page!=='favorites';$('#workshop-view').hidden=page!=='workshop';for(const [id,p] of [['home','anthology'],['catalog-open','catalog'],['packages-open','packages'],['favorites-open','favorites'],['workshop-open','workshop']]){$('#'+id).classList.toggle('active',page===p);$('#'+id).setAttribute('aria-current',page===p?'page':'false')}wheelTotal=0;wheelUsed=false;touchStart=null;translateUI();if(page==='catalog'){renderCatalog();$('#catalog-title').focus()}else if(page==='packages'){renderPackages();$('#packages-title').focus()}else if(page==='favorites'){renderFavorites();$('#favorites-title').focus()}else if(page==='workshop'){renderWorkshop();$('#workshop-title').focus()}else{renderReading();$('#reading-title').focus()}}
 function paintField(p,key){return p[`${key}_${lang}`]||p[key]||''}
 function paintingCard(p){return `<article class="reading painting-card" data-painting="${esc(p.id)}" aria-labelledby="reading-title"><div class="metadata"><span>${esc(paintField(p,'art_kind')||(lang==='es'?'Pintura':'Painting'))}</span><span>${lang==='es'?'Una pausa para mirar':'A moment to look'}</span></div><button class="painting-frame" data-art="${esc(p.id)}" aria-label="${lang==='es'?'Ampliar':'Enlarge'}: ${esc(paintField(p,'title'))}"><img src="${p.image}" alt="${esc(paintField(p,'alt'))}" decoding="async" draggable="false"></button><div class="painting-caption"><h2 id="reading-title" tabindex="-1">${esc(paintField(p,'title'))}</h2><p class="author">${esc(paintField(p,'artist'))} · ${esc(paintField(p,'year'))} · ${esc((paintField(p,'artist_country')||paintField(p,'country')))}</p><div class="painting-meta"><p>${esc(p.museum)} · ${lang==='es'?'Dominio público':'Public domain'}</p><a href="${esc(p.source_url)}" target="_blank" rel="noopener noreferrer">${lang==='es'?'Ver en el museo ↗':'View at the museum ↗'}</a></div>${favoriteButton('painting',p.id)}</div></article>`}
 function drawPainting(){let pool=paintings.map((_,i)=>i).filter(i=>isEnabled(paintings[i])&&!paintingsSeen.has(i));if(!pool.length){paintingsSeen.clear();pool=paintings.map((_,i)=>i).filter(i=>isEnabled(paintings[i])&&(activePaintings().length===1||i!==lastPainting))}const i=pool[Math.floor(Math.random()*pool.length)];paintingsSeen.add(i);lastPainting=i;return i}
@@ -261,6 +261,117 @@ document.addEventListener('click',e=>{
     const save=e.target.closest('[data-favorite-id]');if(save)toggleFavorite(save.dataset.favoriteType,save.dataset.favoriteId);
     const open=e.target.closest('[data-saved-open]');if(open)openFavorite(open.dataset.savedType,open.dataset.savedOpen);
     if(e.target.closest('[data-saved-discover]'))switchPage('anthology');
+});
+
+// Writing workshop — local, account-free drafts.
+const workshopForms={
+  sonnet:{name_es:'Soneto',name_en:'Sonnet',lines:14,targets:[11,11,11,11,11,11,11,11,11,11,11,11,11,11],stanzas:[4,4,3,3],rhyme:'ABBA\nABBA\nCDC\nDCD',hint_es:'14 endecasílabos · dos cuartetos y dos tercetos',hint_en:'14 hendecasyllables · two quatrains and two tercets'},
+  romance:{name_es:'Romance',name_en:'Romance',lines:16,targets:Array(16).fill(8),stanzas:[16],rhyme:'–A–A–A–A…',hint_es:'Octosílabos · asonancia en los versos pares',hint_en:'Octosyllables · assonance on even lines'},
+  decima:{name_es:'Décima espinela',name_en:'Décima espinela',lines:10,targets:Array(10).fill(8),stanzas:[10],rhyme:'ABBAACCDDC',hint_es:'10 octosílabos · esquema ABBAACCDDC',hint_en:'10 octosyllables · ABBAACCDDC'},
+  redondilla:{name_es:'Redondilla',name_en:'Redondilla',lines:4,targets:[8,8,8,8],stanzas:[4],rhyme:'ABBA',hint_es:'4 octosílabos · rima abrazada',hint_en:'4 octosyllables · enclosed rhyme'},
+  lira:{name_es:'Lira',name_en:'Lira',lines:5,targets:[7,11,7,7,11],stanzas:[5],rhyme:'aBabB',hint_es:'7 / 11 / 7 / 7 / 11 · aBabB',hint_en:'7 / 11 / 7 / 7 / 11 · aBabB'},
+  alejandrino:{name_es:'Alejandrinos',name_en:'Alexandrines',lines:8,targets:Array(8).fill(14),stanzas:[4,4],rhyme:'7 + 7',hint_es:'Versos de 14 sílabas con cesura 7 + 7',hint_en:'14-syllable lines with a 7 + 7 caesura'}
+};
+let workshopForm='sonnet';
+const workshopAdjustments={};
+function workshopDraftKey(id){return 'katabasis-workshop-draft-v1:'+id}
+function loadWorkshopDraft(id){try{return localStorage.getItem(workshopDraftKey(id))||''}catch{return ''}}
+function saveWorkshopDraft(id,text){try{localStorage.setItem(workshopDraftKey(id),text);return true}catch{return false}}
+function vowel(ch){return /[aeiouáéíóúü]/i.test(ch)}
+function cleanMetricWord(word){return word.toLowerCase().replace(/^[^a-záéíóúüñ]+|[^a-záéíóúüñy]+$/gi,'')}
+function wordNuclei(word){
+  const w=cleanMetricWord(word);if(!w)return [];
+  const nuclei=[];let i=0;
+  while(i<w.length){
+    if(!vowel(w[i])){i++;continue}
+    const start=i;let group=w[i];i++;
+    while(i<w.length&&vowel(w[i])){group+=w[i];i++}
+    const strong=c=>/[aáeéoó]/i.test(c),accentWeak=c=>/[íú]/i.test(c);
+    let count=1;
+    for(let j=1;j<group.length;j++){
+      const a=group[j-1],b=group[j];
+      if(accentWeak(a)||accentWeak(b)||(strong(a)&&strong(b)))count++;
+    }
+    for(let k=0;k<count;k++)nuclei.push(start);
+  }
+  return nuclei;
+}
+function wordSyllables(word){return Math.max(1,wordNuclei(word).length)}
+function finalStressAdjustment(word){
+  const w=cleanMetricWord(word);if(!w)return {adjust:0,label:''};
+  const nuclei=wordNuclei(w),n=nuclei.length;if(!n)return {adjust:0,label:''};
+  const accents=[...w.matchAll(/[áéíóú]/gi)];let stressed;
+  if(accents.length){const pos=accents.at(-1).index;stressed=nuclei.filter(x=>x<=pos).length-1}
+  else stressed=/[aeiouáéíóúüns]$/i.test(w)?Math.max(0,n-2):n-1;
+  const fromEnd=n-1-stressed;
+  if(fromEnd===0)return {adjust:1,label:'aguda +1'};
+  if(fromEnd>=2)return {adjust:-1,label:'esdrújula −1'};
+  return {adjust:0,label:''};
+}
+function metricCount(line,index){
+  const words=line.trim().split(/\s+/).filter(Boolean);if(!words.length)return {count:0,base:0,sinalefas:0,final:'',manual:workshopAdjustments[index]||0};
+  let base=words.reduce((sum,w)=>sum+wordSyllables(w),0),sinalefas=0;
+  for(let i=0;i<words.length-1;i++){
+    const a=cleanMetricWord(words[i]),b=cleanMetricWord(words[i+1]);
+    if(!a||!b)continue;
+    if(/[aeiouáéíóúüy]$/i.test(a)&&/^(?:h)?[aeiouáéíóúü]/i.test(b)){sinalefas++;base--}
+  }
+  const stress=finalStressAdjustment(words.at(-1));base+=stress.adjust;
+  const manual=workshopAdjustments[index]||0;
+  return {count:Math.max(0,base+manual),base:Math.max(0,base),sinalefas,final:stress.label,manual};
+}
+function formName(f){return lang==='es'?f.name_es:f.name_en}
+function formHint(f){return lang==='es'?f.hint_es:f.hint_en}
+function renderWorkshop(){
+  const el=$('#workshop-view');if(!el)return;
+  const form=workshopForms[workshopForm],draft=loadWorkshopDraft(workshopForm);
+  el.innerHTML=`<div class="workshop-inner"><div class="workshop-heading"><div><p class="tiny-title">${lang==='es'?'Escribir para aprender':'Write to learn'}</p><h2 id="workshop-title" tabindex="-1">${lang==='es'?'Taller':'Workshop'}</h2><p>${lang==='es'?'Prácticas breves para escribir dentro de formas literarias, mirar de cerca sus restricciones y aprender usándolas.':'Short practices for writing inside literary forms, examining their constraints and learning by using them.'}</p></div><p class="workshop-local">${lang==='es'?'Tus borradores se guardan solo en este navegador. No se suben a Katabasis ni se comparten con otros lectores.':'Your drafts are stored only in this browser. They are not uploaded to Katabasis or shared with other readers.'}</p></div>
+  <div class="practice-grid" aria-label="${lang==='es'?'Prácticas':'Practices'}">
+    <button class="practice-card active" aria-current="true"><strong>${lang==='es'?'Métrica':'Meter'}</strong><span>${lang==='es'?'Escribe sobre el molde de una forma poética.':'Write over the scaffold of a poetic form.'}</span></button>
+    <button class="practice-card" disabled><strong>${lang==='es'?'Imitación':'Imitation'}</strong><span>${lang==='es'?'Próximamente · escribir desde un texto de la antología.':'Coming soon · write from an anthology text.'}</span></button>
+    <button class="practice-card" disabled><strong>${lang==='es'?'Écfrasis':'Ekphrasis'}</strong><span>${lang==='es'?'Próximamente · escribir desde una obra de arte.':'Coming soon · write from an artwork.'}</span></button>
+    <button class="practice-card" disabled><strong>${lang==='es'?'Restricción':'Constraint'}</strong><span>${lang==='es'?'Próximamente · escribir bajo una regla deliberada.':'Coming soon · write under a deliberate rule.'}</span></button>
+    <button class="practice-card" disabled><strong>${lang==='es'?'Reescritura':'Rewriting'}</strong><span>${lang==='es'?'Próximamente · transformar una misma idea.':'Coming soon · transform the same idea.'}</span></button>
+  </div>
+  <div class="meter-workspace"><section class="meter-panel" aria-labelledby="meter-editor-title"><h3 id="meter-editor-title">${lang==='es'?'Métrica':'Meter'}</h3><p>${lang==='es'?'El contador es una guía: reconoce sinalefas comunes y el ajuste por palabra final, pero la métrica española admite decisiones de lectura. Usa ±1 cuando quieras imponer otra lectura.':'The counter is a guide: it recognizes common synaloepha and line-final stress, but Spanish meter allows interpretive choices. Use ±1 when you want another reading.'}</p>
+  <div class="form-picker">${Object.entries(workshopForms).map(([id,f])=>`<button data-workshop-form="${id}" aria-pressed="${id===workshopForm}"><strong>${esc(formName(f))}</strong><br><small>${esc(formHint(f))}</small></button>`).join('')}</div>
+  <textarea id="workshop-textarea" class="workshop-textarea" spellcheck="true" autocapitalize="sentences" placeholder="${lang==='es'?'Escribe aquí. Cada salto de línea es un verso.':'Write here. Each line break is a verse.'}">${esc(draft)}</textarea>
+  <div class="draft-status"><span id="workshop-save-status">${lang==='es'?'Borrador local':'Local draft'}</span><span>${lang==='es'?'Sin cuenta · solo este dispositivo':'No account · this device only'}</span></div></section>
+  <section class="poem-sheet" aria-label="${lang==='es'?'Molde métrico':'Metric scaffold'}"><div class="poem-sheet-head"><div><p class="tiny-title">${lang==='es'?'Molde':'Scaffold'}</p><h3>${esc(formName(form))}</h3><p>${esc(formHint(form))}</p></div><div class="rhyme-key">${esc(form.rhyme)}</div></div><div id="meter-preview"></div><p class="workshop-note">${lang==='es'?'Los puntos representan posiciones silábicas, no caracteres. Una línea puede ocupar exactamente el molde aunque tenga muchas más letras. En alejandrinos, la cesura se representa como 7 + 7; el cálculo automático no sustituye una lectura métrica consciente.':'Dots represent syllabic positions, not characters. A line can fit the scaffold exactly while containing many more letters. In alexandrines the caesura is shown as 7 + 7; automatic counting does not replace conscious metrical reading.'}</p></section></div></div>`;
+  updateMeterPreview();
+}
+function updateMeterPreview(){
+  const form=workshopForms[workshopForm],ta=$('#workshop-textarea'),preview=$('#meter-preview');if(!form||!ta||!preview)return;
+  const lines=ta.value.replace(/\r/g,'').split('\n'),rows=[];let cursor=0;
+  for(const stanzaSize of form.stanzas){
+    const stanza=[];
+    for(let j=0;j<stanzaSize;j++,cursor++){
+      const text=lines[cursor]||'',target=form.targets[cursor],m=metricCount(text,cursor),shown=Math.max(target,m.count),slots=Array.from({length:shown},(_,i)=>`<span class="meter-slot ${i<m.count?(i<target?'filled':'overflow'):''}"></span>`).join('');
+      const cls=m.count===target&&text.trim()?'good':m.count>target?'over':'';
+      const details=[];if(m.sinalefas)details.push(`${m.sinalefas} ${m.sinalefas===1?'sinalefa':'sinalefas'}`);if(m.final)details.push(m.final);if(m.manual)details.push(`${lang==='es'?'ajuste':'adjustment'} ${m.manual>0?'+':''}${m.manual}`);
+      const display=text.trim()?esc(text):`<span class="meter-line-text empty">${lang==='es'?'verso '+(cursor+1):'line '+(cursor+1)}</span>`;
+      stanza.push(`<div class="meter-row"><div class="meter-number">${cursor+1}</div><div class="meter-line"><div class="meter-line-text">${display}</div><div class="meter-slots" aria-label="${m.count} / ${target}">${slots}</div><div class="meter-detail">${details.join(' · ')||'&nbsp;'}${text.trim()?`<span class="meter-adjust"><button data-meter-adjust="${cursor}" data-delta="-1" title="-1">−1</button><button data-meter-adjust="${cursor}" data-delta="1" title="+1">+1</button><button data-meter-reset="${cursor}" title="${lang==='es'?'Restablecer':'Reset'}">↺</button></span>`:''}</div></div><div class="meter-count ${cls}">${m.count} / ${target}</div></div>`);
+    }
+    rows.push(`<div class="meter-stanza">${stanza.join('')}</div>`);
+  }
+  if(lines.length>form.lines&&lines.slice(form.lines).some(x=>x.trim()))rows.push(`<div class="meter-stanza"><p class="meter-detail">${lang==='es'?`Hay ${lines.length-form.lines} verso(s) fuera del molde.`:`${lines.length-form.lines} line(s) extend beyond the scaffold.`}</p></div>`);
+  preview.innerHTML=rows.join('');
+}
+function setWorkshopForm(id){
+  if(!workshopForms[id]||id===workshopForm)return;
+  const ta=$('#workshop-textarea');if(ta)saveWorkshopDraft(workshopForm,ta.value);
+  workshopForm=id;for(const k of Object.keys(workshopAdjustments))delete workshopAdjustments[k];renderWorkshop();$('#workshop-textarea')?.focus();
+}
+$('#workshop-open').onclick=()=>switchPage('workshop');
+document.addEventListener('input',e=>{
+  if(e.target.id!=='workshop-textarea')return;
+  const ok=saveWorkshopDraft(workshopForm,e.target.value);updateMeterPreview();
+  const s=$('#workshop-save-status');if(s)s.textContent=ok?(lang==='es'?'Guardado en este navegador':'Saved in this browser'):(lang==='es'?'No se pudo guardar':'Could not save');
+});
+document.addEventListener('click',e=>{
+  const form=e.target.closest('[data-workshop-form]');if(form)setWorkshopForm(form.dataset.workshopForm);
+  const adjust=e.target.closest('[data-meter-adjust]');if(adjust){const i=Number(adjust.dataset.meterAdjust),delta=Number(adjust.dataset.delta);workshopAdjustments[i]=(workshopAdjustments[i]||0)+delta;updateMeterPreview()}
+  const reset=e.target.closest('[data-meter-reset]');if(reset){delete workshopAdjustments[Number(reset.dataset.meterReset)];updateMeterPreview()}
 });
 
 </script>

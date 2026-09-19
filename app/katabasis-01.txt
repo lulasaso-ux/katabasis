@@ -255,6 +255,46 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 @media(max-width:730px){.saved-count{display:none}.favorites-view{padding-top:22px}.saved-item{gap:12px;padding:18px;flex-wrap:wrap}.saved-copy h3{font-size:23px}.saved-art{width:78px;height:100px}.saved-item>.favorite-button{margin-left:auto}.favorites-empty{padding:24px}.reading-footer .source-link{margin-left:auto}.nav button{padding:6px}.rail{gap:5px}.rail .brand{flex-shrink:0}.mobile-language{flex-shrink:0}}
 @media(max-width:400px){.rail{padding:10px}.rail .brand{font-size:23px}.nav button{padding:4px}.nav button svg{width:18px;height:18px}.mobile-language button{padding:4px}.reading-footer .source-link{width:100%;margin-top:2px}.saved-item>.favorite-button{font-size:14px}.saved-art{width:65px;height:88px}}
 
+/* Writing workshop */
+.workshop-view{flex:1;min-height:0;overflow-y:auto;overscroll-behavior:contain;padding:30px 2px 50px}
+.workshop-inner{max-width:1120px;margin:auto}
+.workshop-heading{display:flex;justify-content:space-between;gap:28px;align-items:flex-end;margin-bottom:24px}
+.workshop-heading h2{font:normal 38px/1.15 var(--serif);margin:0}
+.workshop-heading p{margin:9px 0 0;max-width:66ch;color:var(--muted);font-size:15px;line-height:1.6}
+.workshop-local{font-size:12px;color:var(--muted);max-width:29ch;text-align:right}
+.practice-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin:0 0 28px}
+.practice-card{border:1px solid var(--line);background:var(--paper);padding:15px;text-align:left;min-height:108px;border-radius:4px}
+.practice-card strong{display:block;font:normal 18px var(--serif);margin-bottom:6px}.practice-card span{display:block;font-size:12px;color:var(--muted);line-height:1.45}
+.practice-card.active{border-color:#9b7349;background:#fff9ef}.practice-card[disabled]{opacity:.55;cursor:default}
+.meter-workspace{display:grid;grid-template-columns:minmax(280px,.82fr) minmax(390px,1.18fr);gap:24px;align-items:start}
+.meter-panel,.poem-sheet{background:var(--paper);border:1px solid var(--line);border-radius:5px}
+.meter-panel{padding:22px;position:sticky;top:0}
+.meter-panel h3{font:normal 27px var(--serif);margin:0 0 5px}.meter-panel>p{font-size:13px;color:var(--muted);line-height:1.55;margin:0 0 18px}
+.form-picker{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:15px}
+.form-picker button{border:1px solid var(--line);background:#fbf5eb;padding:9px 10px;text-align:left;border-radius:3px;font-size:13px}
+.form-picker button[aria-pressed=true]{background:var(--ink);color:#fff7eb;border-color:var(--ink)}
+.workshop-textarea{display:block;width:100%;min-height:380px;resize:vertical;border:1px solid #cdbda9;background:#fffdfa;color:var(--ink);padding:16px;font:18px/1.75 var(--serif);border-radius:3px;outline:none}
+.workshop-textarea:focus{border-color:#8d6742;box-shadow:0 0 0 2px #a6753222}
+.draft-status{display:flex;justify-content:space-between;gap:12px;margin-top:10px;font-size:12px;color:var(--muted)}
+.poem-sheet{padding:27px 24px 31px;min-height:540px}
+.poem-sheet-head{display:flex;justify-content:space-between;gap:18px;align-items:flex-start;padding-bottom:18px;border-bottom:1px solid var(--line)}
+.poem-sheet-head h3{font:normal 28px var(--serif);margin:0 0 4px}.poem-sheet-head p{font-size:13px;color:var(--muted);margin:0}
+.rhyme-key{font:12px/1.5 var(--sans);letter-spacing:1px;color:#715943;text-align:right;white-space:pre-line}
+.meter-stanza{padding-top:18px}.meter-stanza+.meter-stanza{margin-top:7px;border-top:1px solid #e8ddd0}
+.meter-row{display:grid;grid-template-columns:30px minmax(0,1fr) 63px;gap:10px;align-items:start;min-height:56px;padding:5px 0}
+.meter-number{font:11px var(--sans);color:#9a8876;padding-top:5px;text-align:right}
+.meter-line{min-width:0}.meter-line-text{font:18px/1.35 var(--serif);min-height:25px;white-space:pre-wrap;overflow-wrap:anywhere}
+.meter-line-text.empty{color:#b9a997;font-style:italic}
+.meter-slots{display:flex;gap:4px;flex-wrap:wrap;margin-top:7px;min-height:8px}
+.meter-slot{width:8px;height:8px;border-radius:50%;border:1px solid #bba993;background:transparent}
+.meter-slot.filled{background:#705039;border-color:#705039}.meter-slot.overflow{background:#9b3e32;border-color:#9b3e32}
+.meter-count{font:12px var(--sans);text-align:right;padding-top:4px;color:var(--muted)}.meter-count.good{color:#466044}.meter-count.over{color:#8b3329}
+.meter-detail{font:11px/1.4 var(--sans);color:#9b8977;margin-top:5px}
+.meter-adjust{display:inline-flex;gap:3px;margin-left:6px}.meter-adjust button{border:0;background:none;color:inherit;text-decoration:underline;padding:0 2px;font-size:11px}
+.workshop-note{margin:19px 0 0;padding-top:15px;border-top:1px solid var(--line);font-size:12px;color:var(--muted);line-height:1.6}
+@media(max-width:1050px){.practice-grid{grid-template-columns:repeat(3,1fr)}.meter-workspace{grid-template-columns:1fr}.meter-panel{position:static}.workshop-textarea{min-height:260px}}
+@media(max-width:730px){.workshop-view{padding-top:22px}.workshop-heading{display:block}.workshop-heading h2{font-size:31px}.workshop-local{text-align:left;margin-top:9px}.practice-grid{grid-template-columns:1fr 1fr}.meter-panel,.poem-sheet{padding:18px}.form-picker{grid-template-columns:1fr 1fr}.meter-row{grid-template-columns:22px minmax(0,1fr) 54px;gap:7px}.meter-line-text{font-size:16px}.meter-slot{width:7px;height:7px}}
+
 </style>
 </head>
 <body>
@@ -265,13 +305,14 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 <button id="catalog-open" aria-label="Obras y autores"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m3 5 6-2 6 2 6-2v16l-6 2-6-2-6 2zM9 3v16m6-14v16"/></svg><span>Obras y autores</span></button>
 <button id="favorites-open" aria-label="Guardados"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4z"/></svg><span>Guardados</span><b id="favorites-count" class="saved-count" hidden>0</b></button>
 <button id="packages-open" aria-label="Paquetes"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m3 7 9-4 9 4-9 4zM3 7v10l9 4 9-4V7M12 11v10M7.5 5l9 4"/></svg><span>Paquetes</span></button>
+<button id="workshop-open" aria-label="Taller"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20h4L19 9l-4-4L4 16zM13.5 6.5l4 4M4 20l1-4 3 3zM3 21h18"/></svg><span>Taller</span></button>
 <button id="daily-open" aria-label="Today's Catholic readings"><svg class="icon" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M7 3v4m10-4v4M3 11h18m-13 5h1m5 0h1"/></svg><span>Today’s readings</span></button>
 <button id="about-open" aria-label="Edition and sources"><svg class="icon" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v6m0-10v.5"/></svg><span>Edition & sources</span></button>
 </nav>
 <div class="mobile-language" aria-label="Reading language"><button data-lang="en" aria-pressed="true">EN</button><button data-lang="es" aria-pressed="false">ES</button></div>
 <div class="rail-bottom"><div class="tiny-title">Read in</div><div class="lang-switch" aria-label="Reading language"><button data-lang="en" aria-pressed="true">English</button><button data-lang="es" aria-pressed="false">Español</button></div><div class="rail-facts" id="facts"></div></div>
 </aside>
-<main><header class="topbar"><h1 id="room-title">La antología</h1><span class="subtle" id="top-count"></span></header><section class="feed-wrap" aria-label="Lectura actual"><div id="feed"></div><footer class="discovery-controls"><button id="discover-prev" class="secondary" aria-label="Lectura anterior">↑</button><span id="discovery-hint">Desliza para descubrir otra lectura</span><button id="discover-next" class="secondary" aria-label="Otra lectura">↓</button></footer></section><section id="catalog-view" class="catalog-view" aria-labelledby="catalog-title" hidden></section><section id="packages-view" class="packages-view" aria-labelledby="packages-title" hidden></section><section id="favorites-view" class="favorites-view" aria-labelledby="favorites-title" hidden></section><div class="visually-hidden" id="announcement" role="status" aria-live="polite"></div></main>
+<main><header class="topbar"><h1 id="room-title">La antología</h1><span class="subtle" id="top-count"></span></header><section class="feed-wrap" aria-label="Lectura actual"><div id="feed"></div><footer class="discovery-controls"><button id="discover-prev" class="secondary" aria-label="Lectura anterior">↑</button><span id="discovery-hint">Desliza para descubrir otra lectura</span><button id="discover-next" class="secondary" aria-label="Otra lectura">↓</button></footer></section><section id="catalog-view" class="catalog-view" aria-labelledby="catalog-title" hidden></section><section id="packages-view" class="packages-view" aria-labelledby="packages-title" hidden></section><section id="favorites-view" class="favorites-view" aria-labelledby="favorites-title" hidden></section><section id="workshop-view" class="workshop-view" aria-labelledby="workshop-title" hidden></section><div class="visually-hidden" id="announcement" role="status" aria-live="polite"></div></main>
 <dialog id="book" aria-labelledby="book-title"><header class="book-bar"><span class="brand">Katabasis</span><div class="book-bar-actions"><div class="lang-switch" aria-label="Translation language"><button data-lang="en" aria-pressed="true">English</button><button data-lang="es" aria-pressed="false">Español</button></div><button class="close" data-close="book" aria-label="Close book">×</button></div></header><div class="book-content" id="book-content"></div><footer class="book-bottom"><button id="previous">← Previous</button><span class="hint" id="align-hint">Hover or tap a phrase to find its counterpart.</span><button id="next">Next →</button></footer></dialog>
 <dialog id="about" class="info-dialog" aria-labelledby="about-title"><div class="info-bar"><h2 id="about-title">Edition & sources</h2><button class="close" data-close="about" aria-label="Close information">×</button></div><div class="info-body" id="about-body"></div></dialog>
 <dialog id="daily" class="info-dialog" aria-labelledby="daily-title"><div class="info-bar"><h2 id="daily-title">Catholic daily readings</h2><button class="close" data-close="daily" aria-label="Close daily readings">×</button></div><div class="info-body" id="daily-body"></div></dialog>
