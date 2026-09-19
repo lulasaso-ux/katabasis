@@ -393,4 +393,6 @@ document.addEventListener('input',e=>{if(e.target.id==='learn-text'){try{localSt
 document.addEventListener('scroll',e=>{if(e.target.id==='learn-text')__sync()},true);translateUI();
 
 </script>
+<script src="app/compass-data.js?v=20260919-1"></script>
+<script src="app/compass.js?v=20260919-1"></script>
 </body></html>

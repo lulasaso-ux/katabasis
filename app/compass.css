@@ -1,0 +1,56 @@
+
+/* Literary Compass */
+.compass-view{flex:1;min-height:0;overflow-y:auto;overscroll-behavior:contain;padding:30px 2px 52px}
+.compass-inner{max-width:1180px;margin:auto}
+.compass-hero{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(280px,.9fr);gap:34px;align-items:end;margin-bottom:24px}
+.compass-hero h2{font:normal 42px/1.06 var(--serif);margin:3px 0 10px}
+.compass-hero p{color:var(--muted);font-size:15px;line-height:1.65;max-width:72ch}
+.compass-editorial{border-left:1px solid var(--line);padding-left:22px;font-size:12px!important;max-width:42ch!important}
+.compass-tabs{display:flex;gap:7px;flex-wrap:wrap;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:12px 0;margin-bottom:20px}
+.compass-tabs button{border:1px solid transparent;background:none;padding:8px 12px;border-radius:20px;font-size:13px}
+.compass-tabs button[aria-pressed=true]{background:var(--ink);color:#fff8ed}
+.compass-layout{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:20px;align-items:start}
+.compass-map-card,.compass-side,.compass-test-card,.compass-compare-card{background:var(--paper);border:1px solid var(--line);border-radius:5px}
+.compass-map-card{padding:14px}
+.compass-map-head{display:flex;justify-content:space-between;gap:14px;align-items:center;margin-bottom:8px}
+.compass-map-head p{font-size:12px;color:var(--muted);margin:0}
+.compass-search{border:1px solid #c9b7a3;background:#fffaf3;padding:8px 10px;min-width:210px}
+.compass-plot-wrap{position:relative;aspect-ratio:1.55/1;background:linear-gradient(to right,transparent calc(50% - .5px),#c8b6a2 calc(50% - .5px),#c8b6a2 calc(50% + .5px),transparent calc(50% + .5px)),linear-gradient(to bottom,transparent calc(50% - .5px),#c8b6a2 calc(50% - .5px),#c8b6a2 calc(50% + .5px),transparent calc(50% + .5px)),#fbf5eb;border:1px solid #dfd1c0;overflow:hidden}
+.compass-quadrant{position:absolute;font:10px var(--sans);letter-spacing:1.2px;text-transform:uppercase;color:#ab9884;pointer-events:none}
+.compass-q1{top:12px;left:14px}.compass-q2{top:12px;right:14px}.compass-q3{bottom:12px;left:14px}.compass-q4{bottom:12px;right:14px}
+.compass-axis{position:absolute;font:11px var(--sans);color:#6f5b49;background:#fbf5ebcc;padding:2px 5px;pointer-events:none}
+.compass-axis-top{top:4px;left:50%;transform:translateX(-50%)}.compass-axis-bottom{bottom:4px;left:50%;transform:translateX(-50%)}
+.compass-axis-left{left:4px;top:50%;transform:translateY(-50%) rotate(-90deg);transform-origin:left top}.compass-axis-right{right:4px;top:50%;transform:translateY(-50%) rotate(90deg);transform-origin:right top}
+.compass-dot{position:absolute;width:11px;height:11px;border:0;border-radius:50%;background:#6f5039;transform:translate(-50%,-50%);padding:0;box-shadow:0 0 0 1px #fff8ed;z-index:2}
+.compass-dot:hover,.compass-dot:focus{width:17px;height:17px;background:#2d2118;z-index:5}
+.compass-dot.selected{width:18px;height:18px;background:#a44331;z-index:6;box-shadow:0 0 0 3px #fff8ed}
+.compass-dot.compare-a{background:#40372d;width:17px;height:17px}.compass-dot.compare-b{background:#a44331;width:17px;height:17px}
+.compass-user-dot{position:absolute;width:22px;height:22px;border-radius:50%;border:3px double #8b3329;background:#fff5e7;transform:translate(-50%,-50%);z-index:7;pointer-events:none}
+.compass-user-dot::after{content:"";position:absolute;inset:5px;border-radius:50%;background:#8b3329}
+.compass-label{position:absolute;transform:translate(7px,-50%);font:10px var(--sans);color:#2f241c;white-space:nowrap;z-index:4;pointer-events:none;text-shadow:0 1px #fff8ed}
+.compass-side{padding:20px;position:sticky;top:0}
+.compass-side h3{font:normal 27px/1.15 var(--serif);margin:4px 0 4px}.compass-side .meta{font-size:12px;color:var(--muted)}
+.compass-coords{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:17px 0}
+.compass-coord{padding:10px;background:#f5eadc}.compass-coord strong{display:block;font:20px var(--serif)}.compass-coord span{font-size:10px;color:var(--muted)}
+.compass-tags{display:flex;gap:5px;flex-wrap:wrap;margin:13px 0}.compass-tags span{font-size:11px;border:1px solid #cebba6;padding:4px 7px;border-radius:12px}
+.compass-nearby{border-top:1px solid var(--line);margin-top:16px;padding-top:15px}.compass-nearby h4{font:normal 17px var(--serif);margin:0 0 8px}.compass-nearby button{display:block;border:0;background:none;padding:4px 0;text-align:left;text-decoration:underline;text-underline-offset:3px}
+.compass-read{margin-top:15px;width:100%}
+.compass-empty{color:var(--muted);font-size:14px;line-height:1.6}
+.compass-test{max-width:900px;margin:auto}.compass-test-intro{background:var(--paper);border:1px solid var(--line);padding:26px;border-radius:5px}
+.compass-test-intro h3,.compass-result h3{font:normal 31px var(--serif);margin:0 0 9px}.compass-test-intro p{color:var(--muted);line-height:1.6}
+.compass-start{margin-top:13px}.compass-progress{height:3px;background:#e5d8c8;margin:0 0 23px}.compass-progress span{display:block;height:100%;background:#6f5039}
+.compass-question{padding:28px}.compass-question-number{font:11px var(--sans);letter-spacing:1px;text-transform:uppercase;color:var(--muted)}
+.compass-question h3{font:normal 28px/1.25 var(--serif);margin:9px 0 24px}
+.compass-scale-poles{display:flex;justify-content:space-between;gap:20px;font-size:13px;color:#5f4d3e;margin-bottom:10px}.compass-scale-poles span{max-width:43%}
+.compass-scale{display:grid;grid-template-columns:repeat(5,1fr);gap:7px}
+.compass-scale button{border:1px solid #c8b49e;background:#fffaf3;min-height:54px;border-radius:3px;font-size:12px}
+.compass-scale button:hover,.compass-scale button:focus{background:#efe0cd}.compass-scale button.chosen{background:var(--ink);color:#fff;border-color:var(--ink)}
+.compass-test-nav{display:flex;justify-content:space-between;align-items:center;margin-top:20px}.compass-test-nav button{min-width:110px}
+.compass-result{background:var(--paper);border:1px solid var(--line);padding:28px;border-radius:5px}
+.compass-result-position{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin:20px 0}.compass-result-position div{background:#f5eadc;padding:14px}.compass-result-position strong{display:block;font:25px var(--serif)}
+.compass-matches{display:grid;grid-template-columns:repeat(3,1fr);gap:11px;margin-top:18px}.compass-match{border:1px solid var(--line);padding:14px;background:#fffaf3;text-align:left}.compass-match strong{font:normal 19px var(--serif);display:block}.compass-match span{font-size:11px;color:var(--muted)}
+.compass-compare{max-width:980px;margin:auto}.compass-compare-card{padding:24px}.compass-compare-selects{display:grid;grid-template-columns:1fr auto 1fr;gap:15px;align-items:end}.compass-compare-selects select{width:100%;padding:10px;border:1px solid #c8b49e;background:#fffaf3}.compass-vs{font:20px var(--serif);padding-bottom:9px}
+.compass-compare-summary{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:19px}.compass-author-box{background:#f5eadc;padding:17px}.compass-author-box h4{font:normal 23px var(--serif);margin:0 0 4px}.compass-author-box p{font-size:12px;color:var(--muted);margin:4px 0}
+.compass-method{margin-top:18px;padding-top:16px;border-top:1px solid var(--line);font-size:12px;color:var(--muted);line-height:1.6}
+@media(max-width:980px){.compass-layout{grid-template-columns:1fr}.compass-side{position:static}.compass-matches{grid-template-columns:1fr 1fr}}
+@media(max-width:730px){.compass-view{padding-top:22px}.compass-hero{display:block}.compass-hero h2{font-size:34px}.compass-editorial{border-left:0;border-top:1px solid var(--line);padding:12px 0 0}.compass-map-head{display:block}.compass-search{width:100%;margin-top:9px}.compass-plot-wrap{aspect-ratio:.92/1}.compass-label{display:none}.compass-matches,.compass-compare-summary{grid-template-columns:1fr}.compass-compare-selects{grid-template-columns:1fr}.compass-vs{text-align:center;padding:0}.compass-question{padding:20px}.compass-question h3{font-size:24px}.compass-scale{gap:4px}.compass-scale button{min-height:48px;font-size:10px}}
