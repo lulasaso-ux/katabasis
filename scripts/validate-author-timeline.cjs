@@ -30,10 +30,20 @@ assert.equal(timeline.lifespan(shakespeare,'es'),'1564 — 1616','Calendar quali
 assert.equal(timeline.lifespan(people.find(p=>p.author==='Leo Tolstoy'),'es'),'1828 — 1910');
 assert.equal(people.find(p=>p.author.startsWith('Hernando Alvarado')).birth.max,1525,'A century-precision claim is not a second birth year');
 for(const language of ['es','en']){
+  // The timeline opens on a single period; the dropdown lists every period in order, with its years.
   const all=timeline.render(catalog,lives,language);
-  assert.equal((all.match(/data-timeline-author=/g)||[]).length,people.length);
+  const first=timeline.eras.find(e=>people.some(p=>timeline.eraOf(p)===e.id));
+  assert.equal((all.match(/data-timeline-author=/g)||[]).length,people.filter(p=>timeline.eraOf(p)===first.id).length,'Only the first period is open');
   assert(all.includes('timeline-query')&&all.includes('timeline-era'));
-  for(const w of catalog)assert(all.includes('data-book="'+w.id+'"'),'Reading absent from timeline: '+w.id);
+  const options=[...all.matchAll(/<option value="([^"]+)"[^>]*>([^<]*)<\/option>/g)];
+  assert.equal(options.map(o=>o[1]).join(),timeline.eras.map(e=>e.id).join(),'Periods listed in chronological order, no catch-all');
+  for(const [,id,text] of options)if(id!=='undated')assert(/\d{3,4}.*–.*\d{3,4}/.test(text),'Period label carries its years: '+text);
+  assert(timeline.eras.filter(e=>e.from!==undefined).every((e,i,a)=>!i||a[i-1].to===e.from),'Periods are contiguous');
+  // Across the periods, every author appears exactly once and every reading is reachable.
+  const shown=timeline.eras.map(e=>timeline.results(catalog,lives,language,'',e.id)).join('');
+  assert.equal((shown.match(/data-timeline-author=/g)||[]).length,people.length);
+  for(const w of catalog)assert(shown.includes('data-book="'+w.id+'"'),'Reading absent from timeline: '+w.id);
+  assert(timeline.results(catalog,lives,language,'cervantes','ancient').includes('pkg-cervantes'),'A search spans every period');
   const match=timeline.results(catalog,lives,language,'  CERVANTES  ');
   assert.equal((match.match(/data-timeline-author=/g)||[]).length,1);
   assert(match.includes('pkg-cervantes'));
