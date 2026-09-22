@@ -20,11 +20,41 @@ for (const match of html.matchAll(/<script([^>]*)>([\s\S]*?)<\/script>/g)) {
 const read = JSON.parse(main.match(/const katabasisNewReadings=(\[[\s\S]*?\n\]);/)[1]);
 const art = JSON.parse(main.match(/const katabasisNewPaintings=(\[[\s\S]*?\n\]);/)[1]);
 const extraPackages = vm.runInNewContext('['+main.match(/packages\.push\(([\s\S]*?)\n\);/)[1]+']');
+const additions=JSON.parse(fs.readFileSync(path.join(root,'app/reading-package-additions.json'),'utf8'));
+read.push(...additions.works);art.push(...additions.paintings);extraPackages.push(...additions.packages);
 const aliases=JSON.parse(main.match(/const curatedReadingAliases=(\{[\s\S]*?\n\});/)[1]);
 const works=data['anthology-data'].filter(w=>!aliases[w.id]);
 for(const reading of read){
   const index=works.findIndex(w=>w.id===reading.id);
   if(index===-1)works.push(reading);else works[index]=reading;
+}
+const windmills=works.find(w=>w.id==='pkg-cervantes');
+Object.assign(windmills,{additional_package_ids:['quixote-mysteries'],journey_id:'quixote-mysteries',journey_step:1});
+const membership=main.slice(main.indexOf('const belongsToPackage='),main.indexOf('const activeWorks='));
+const membershipContext={enabledPackages:new Set(),windmills};
+vm.createContext(membershipContext);vm.runInContext(membership,membershipContext);
+for(const [enabled,expected] of [[[],false],[['quixote-mysteries'],true],[['spanish-golden-age'],true],[['quixote-mysteries','spanish-golden-age'],true]]){
+ membershipContext.enabledPackages=new Set(enabled);
+ assert.equal(vm.runInContext('isEnabled(windmills)',membershipContext),expected);
+}
+assert.equal(works.filter(w=>w.id==='pkg-cervantes').length,1);
+assert.deepEqual(windmills.segments,data['anthology-data'].find(w=>w.id==='pkg-cervantes').segments);
+const quixote=additions.journeys[0];assert.equal(quixote.steps.length,5);
+const journeyContext={journeys:additions.journeys,works,lang:'es',isEnabled:()=>true,esc:s=>String(s)};
+vm.createContext(journeyContext);
+vm.runInContext(main.slice(main.indexOf('function journeyFor('),main.indexOf('function renderJourneyCards(')),journeyContext);
+for(const [i,step] of quixote.steps.entries()){
+ const w=works.find(w=>w.id===step.reading_id);assert(w);assert.equal(w.journey_step,i);assert.equal(w.journey_id,quixote.id);
+ for(const language of ['es','en']){
+  assert(step['meditation_'+language]);assert(step['bridge_'+language]);
+  const words=[...w.segments.flat().map(s=>s[language]),step['bridge_'+language],step['meditation_'+language],i===4?quixote['ending_'+language]:''].join(' ').split(/\s+/).length;
+  assert(words<=1900,'Mystery exceeds ten minutes');
+  journeyContext.lang=language;journeyContext.current=w;
+  const rendered=vm.runInContext('journeyEnd(current)',journeyContext);
+  assert(rendered.includes(step['meditation_'+language]));
+  if(i>0)assert(rendered.includes(quixote.steps[i-1].reading_id));
+  if(i<4)assert(rendered.includes(quixote.steps[i+1].reading_id));
+ }
 }
 const paintings = [...data['paintings-data'], ...art];
 const packages = [...data['packages-data'], ...extraPackages];
@@ -57,13 +87,14 @@ for (const list of [works, paintings, packages]) {
   assert.equal(new Set(list.map(x=>x.id)).size, list.length, 'Duplicate ID');
 }
 for (const [id, expectedReadings, expectedArt] of [
-  ['renaissance-superpack', 12, 6], ['latin-american-romanticism', 6, 3]
+  ['renaissance-superpack', 12, 6], ['latin-american-romanticism', 6, 3], ['goethezeit',4,2], ['quixote-mysteries',5,1]
 ]) {
-  assert.equal(works.filter(w=>w.package_id===id).length, expectedReadings);
+  assert.equal(works.filter(w=>w.package_id===id||(w.additional_package_ids||[]).includes(id)).length, expectedReadings);
   assert.equal(paintings.filter(w=>w.package_id===id).length, expectedArt);
   assert(paintings.some(a=>a.id===packages.find(p=>p.id===id).cover_id && a.package_id===id));
 }
 const expectedLines = {
+ 'goethezeit-erlkonig':32,'goethezeit-mignon':21,'goethezeit-gretchen':40,
   'ren-michelangelo-sonnet':14, 'ren-camoes-fire':14, 'ren-shakespeare-73':14,
   'ren-wyatt-hunt':14, 'ren-spenser-name':14, 'ren-dubellay-ulysse':14,
   'ren-ronsard-rose':18, 'ren-san-juan-night':40, 'latrom-avellaneda-partir':14,

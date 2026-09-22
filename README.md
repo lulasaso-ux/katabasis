@@ -67,3 +67,23 @@ Validación de cantidades, versos, duración, originales, duplicados e imágenes
 ```sh
 node scripts/validate-curated-packages.cjs
 ```
+
+## Goethezeit y Misterios de Don Quijote
+
+Goethezeit reúne cuatro lecturas: Erlkönig, la canción de Mignon, Margarita
+ante la rueca y un fragmento de la carta del 10 de mayo de Werther. Conserva
+sin repetir la Canción nocturna del caminante. Incluye dos pinturas inspiradas
+en Goethe, de Moritz von Schwind y Ernst Meisel, con procedencia y derechos.
+
+Don Quijote recorre cinco misterios: la vocación caballeresca, los molinos,
+los galeotes, la derrota ante la Blanca Luna y la muerte de Alonso Quijano.
+Cuatro fragmentos nuevos se unen a la ficha original de los molinos, accesible
+desde ambos paquetes sin duplicarse. Cada episodio lleva un puente narrativo
+y una meditación editorial, separados del texto de Cervantes. Incluye un
+grabado de Gustave Doré. Originales: Project Gutenberg, libro 2000.
+
+Los datos y las reproducciones se encuentran en
+`app/reading-package-additions.json`. El cargador los incorpora antes de
+inicializar la sala. La duración de los misterios cuenta también los puentes,
+las meditaciones y el desenlace. La validación comprueba ambos idiomas,
+la navegación de los cinco episodios y la activación compartida de los molinos.
