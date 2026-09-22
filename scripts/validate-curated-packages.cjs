@@ -28,6 +28,31 @@ for(const reading of read){
 }
 const paintings = [...data['paintings-data'], ...art];
 const packages = [...data['packages-data'], ...extraPackages];
+const geography=data['geography-data'];
+const catalog=works.filter(w=>w.package_id==='mvp'||packages.some(p=>p.id===w.package_id));
+assert.equal(new Set(geography.groups.map(g=>g.id)).size, geography.groups.length, 'Duplicate map region');
+for(const w of catalog){
+  const group=geography.groups.find(g=>g.id===w.region);
+  assert(group, 'Missing map region for '+w.id+': '+w.region);
+  assert(group.es && group.en, 'Missing map translation for '+w.region);
+  if(!group.historical)assert(geography.countries.some(c=>c.id===w.region && c.d), 'Missing country shape for '+w.id);
+}
+assert.equal(geography.groups.reduce((n,g)=>n+catalog.filter(w=>w.region===g.id).length,0),catalog.length,'Map must count each reading once');
+// Exercise the actual catalog renderer for every new reading and author.
+const resultsRenderer=main.slice(main.indexOf('function renderCatalogResults(){'),main.indexOf('function selectRegion('));
+const resultElement={innerHTML:''};
+const context={activeWorks:()=>catalog,geography,selectedRegion:'all',lang:'es',
+  $:()=>resultElement,esc:s=>String(s),regionName:g=>g.es,
+  readingCount:n=>String(n),authorCount:n=>String(n),titleOf:w=>w.title_es||w.title,
+  kindOf:w=>w.kind,minutes:()=>'',languageOf:w=>w.lang,scopeOf:w=>w.scope_es||w.scope};
+vm.createContext(context);
+vm.runInContext(resultsRenderer,context);
+for(const w of read){
+  context.selectedRegion=w.region;
+  vm.runInContext('renderCatalogResults()',context);
+  assert(resultElement.innerHTML.includes('data-book="'+w.id+'"'), 'Reading missing from country results: '+w.id);
+  assert(resultElement.innerHTML.includes(w.author), 'Author missing from country results: '+w.author);
+}
 for (const list of [works, paintings, packages]) {
   assert.equal(new Set(list.map(x=>x.id)).size, list.length, 'Duplicate ID');
 }
