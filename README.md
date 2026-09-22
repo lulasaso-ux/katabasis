@@ -115,29 +115,24 @@ reproducciones de arte incluyen procedencia y derechos de dominio público.
 
 **Vondeliana** reúne cinco lecturas de Joost van den Vondel en neerlandés del
 siglo XVII, con la ortografía de la fuente conservada y declarada en cada
-ficha. Vondel nació en Colonia de padres neerlandeses y se convirtió al
-catolicismo en 1641: cumple el criterio del proyecto por partida doble.
-Tres poemas van completos —«Kinder-lyck» (16 versos), «Vitvaert van mijn
-Dochterken» (42) y «Wiltzangk» (32)— y los dos coros van íntegros, no como
-selección de estrofas: el Rey van Klaerissen del *Gysbreght van Aemstel*
-(vv. 903-950, cierre del acto III) y el Rey van Engelen de *Lucifer*
-(vv. 281-347, cierre del acto I, con Zang, Tegenzang y Toezang). Originales
-de DBNL, *De werken van Vondel*, tomos 3, 5 y 9. Las tres reproducciones son
+ficha: «Kinder-lyck» (16 versos), «Vitvaert van mijn Dochterken» (42),
+«Wiltzangk» (32), el Rey van Klaerissen del *Gysbreght van Aemstel*
+(vv. 903-950) y el Rey van Engelen de *Lucifer* (vv. 281-347, con Zang,
+Tegenzang y Toezang). Originales de DBNL, *De werken van Vondel*,
+tomos 3, 5 y 9. Las tres reproducciones son
 el retrato de Vondel por Philips Koninck (Rijksmuseum, SK-A-1954, CC0), la
 matanza de los inocentes de Cornelis van Haarlem (Rijksmuseum, SK-A-128) y
 la caída de los ángeles rebeldes de Frans Floris I (KMSKA Amberes, inv. 112,
 CC0).
 
-**Os Lusíadas** reúne seis lecturas portuguesas. El discurso del Viejo del
-Restelo va entero, estrofas 94 a 104 del Canto IV: la 94 lo pone en la playa
-y le cede la voz, y el último verso de la 104 cierra también el canto. Las
-otras cinco van completas: los sonetos «Alma minha gentil, que te partiste»
-y «Sete annos de pastor Jacob servia» de Camões, la cantiga «Comiguo me
-desavym» de Sá de Miranda tal como se imprimió en el *Cancioneiro Geral* de
-1516, «Este inferno de amar» de Almeida Garrett y el soneto «Na mão de Deus»
-de Antero de Quental. No se repiten el soneto de Camões ni el poema de Pessoa
-que ya estaban en el catálogo. Originales de pt.wikisource; cada ficha declara
-su edición en `source_edition`. Las tres reproducciones son los
+**Os Lusíadas** reúne seis lecturas portuguesas: el discurso del Viejo del
+Restelo, estrofas 94 a 104 del Canto IV, donde la 94 lo pone en la playa y el
+último verso de la 104 cierra el canto; los sonetos «Alma minha gentil, que te
+partiste» y «Sete annos de pastor Jacob servia» de Camões; la cantiga «Comiguo
+me desavym» de Sá de Miranda tal como se imprimió en el *Cancioneiro Geral* de
+1516; «Este inferno de amar» de Almeida Garrett; y el soneto «Na mão de Deus»
+de Antero de Quental. Originales de pt.wikisource; cada ficha declara su
+edición en `source_edition`. Las tres reproducciones son los
 Paneles de San Vicente de Nuno Gonçalves, panel de los Pescadores y panel del
 Infante (MNAA, inv. 1366 y 1361 Pint), y el retrato de Antero de Quental por
 Columbano Bordalo Pinheiro (MNAC — Museu do Chiado, inv. 1108).
@@ -148,12 +143,21 @@ ficha del museo que las conserva.
 
 ## Las vidas detrás de las obras
 
-Obras y autores continúa debajo del mapa y su índice con una cronología
-vertical de nacimientos y muertes. Permite buscar autores, filtrar por época
-y desplegar sus lecturas. Refleja los paquetes activos, independientemente
-del país seleccionado en el atlas. Cada época tiene su propia escala temporal,
-indicada en el gráfico; las fechas aproximadas se marcan con `c.` y línea
-discontinua.
+Obras y autores continúa debajo del mapa con una cronología de nacimientos y
+muertes. Sin país seleccionado, la lista completa de autores queda plegada
+bajo «Ver todos los autores y sus obras». La cronología muestra un periodo
+por vez, elegido en una lista ordenada de arriba abajo por nacimiento:
+
+- La Antigüedad · 800 a. C.–500
+- Los siglos medievales · 500–1400
+- Del Renacimiento al Barroco · 1400–1700
+- La modernidad · 1700–1900
+- Vidas sin fechas seguras
+
+La búsqueda por nombre recorre todos los periodos. Refleja los paquetes
+activos, independientemente del país seleccionado en el atlas. Cada periodo
+tiene su propia escala temporal; las fechas aproximadas se marcan con `c.` y
+línea discontinua.
 
 `app/author-lives.json` conserva años, incertidumbres, notas de atribución y
 enlaces biográficos de Wikidata, consultados el 22 de septiembre de 2026.
@@ -167,7 +171,34 @@ Con todos los paquetes activos hay **220 lecturas, 142 autores o autorías y
 y 13 sin límites biográficos seguros. Al añadir autores, hay que incorporar
 también su registro biográfico o una nota que explique la incertidumbre.
 
+## Pinturas en el atlas
+
+El atlas alterna entre Escritos y Pinturas. En Pinturas, cada país cuenta y
+lista las obras visuales agrupadas por artista, y cada una abre su ficha. Una
+pintura se sitúa en el país o la escuela donde trabajó su autor: Bruegel en
+Bélgica, El Greco en España, Fuseli en Gran Bretaña, Whistler en Estados
+Unidos. Las obras de los paquetes llevan su `region`; las de la colección
+original se asignan en `painting_regions` de
+`app/reading-package-additions.json`, que también añade Bélgica y Suiza al
+mapa.
+
+## Palabra por palabra
+
+Cada lectura permite, sobre el texto original, mostrar debajo de cada palabra
+su traducción literal, tomada fuera de contexto. Los originales en español se
+glosan en inglés; los ingleses, en español, y los demás en ambas lenguas,
+según el idioma de lectura. El chino clásico se glosa carácter por carácter,
+el geʽez se separa por su signo de palabra y en hebreo se ignoran los signos
+de cantilación.
+
+`app/gloss-lexicon.json` guarda las glosas por idioma y forma de palabra:
+28 idiomas y 23.432 entradas, sin entradas que ninguna lectura use.
+`app/gloss.js` divide el texto y lo presenta; `app/extras.css` contiene sus
+estilos. Al añadir o corregir una lectura hay que glosar también sus palabras
+nuevas.
+
 ```sh
 node scripts/validate-curated-packages.cjs
 node scripts/validate-author-timeline.cjs
+node scripts/validate-glosses.cjs
 ```

@@ -62,6 +62,8 @@ for(const p of extraPackages)assert(p.title_es&&p.title_en&&p.description_es&&p.
 const paintings = [...data['paintings-data'], ...art];
 const packages = [...data['packages-data'], ...extraPackages];
 const geography=data['geography-data'];
+geography.groups.push(...(additions.regions||[]));
+for(const p of paintings)if(!p.region)p.region=(additions.painting_regions||{})[p.id];
 const catalog=works.filter(w=>w.package_id==='mvp'||packages.some(p=>p.id===w.package_id));
 assert.equal(new Set(geography.groups.map(g=>g.id)).size, geography.groups.length, 'Duplicate map region');
 for(const w of catalog){
@@ -71,6 +73,23 @@ for(const w of catalog){
   if(!group.historical)assert(geography.countries.some(c=>c.id===w.region && c.d), 'Missing country shape for '+w.id);
 }
 assert.equal(geography.groups.reduce((n,g)=>n+catalog.filter(w=>w.region===g.id).length,0),catalog.length,'Map must count each reading once');
+// The paintings map: every artwork sits in exactly one region with a place on the map.
+for(const id of Object.keys(additions.painting_regions||{}))assert(paintings.some(p=>p.id===id),'Region given for an unknown artwork: '+id);
+for(const a of additions.paintings)assert(a.region,'New artworks carry their region: '+a.id);
+for(const p of paintings){
+  const group=geography.groups.find(g=>g.id===p.region);
+  assert(group&&group.es&&group.en,'Missing map region for artwork '+p.id+': '+p.region);
+  if(!group.historical)assert(geography.countries.some(c=>c.id===p.region&&c.d),'Missing country shape for artwork '+p.id);
+}
+const artRenderer=main.slice(main.indexOf('function renderPaintingResults(){'),main.indexOf('function setAtlasMode('));
+const artElement={innerHTML:''};
+const artContext={activePaintings:()=>paintings,geography,selectedRegion:'all',lang:'es',$:()=>artElement,esc:s=>String(s),
+  regionName:g=>g.es,paintField:(p,k)=>p[k+'_es']||p[k]||'',artCount:n=>String(n)};
+vm.createContext(artContext);vm.runInContext(artRenderer,artContext);
+for(const p of paintings){
+  artContext.selectedRegion=p.region;vm.runInContext('renderPaintingResults()',artContext);
+  assert(artElement.innerHTML.includes('data-art="'+p.id+'"'),'Artwork missing from its country on the paintings map: '+p.id);
+}
 // Exercise the actual catalog renderer for every new reading and author.
 const resultsRenderer=main.slice(main.indexOf('function renderCatalogResults(){'),main.indexOf('function selectRegion('));
 const resultElement={innerHTML:''};
