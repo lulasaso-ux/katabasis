@@ -2000,6 +2000,66 @@
       },
       "source": "https://www.wikidata.org/wiki/Q1398",
       "checked": "2026-09-22"
+    },
+    {
+      "author": "Joost van den Vondel",
+      "birth": {
+        "min": 1587,
+        "max": 1587,
+        "approximate": false
+      },
+      "death": {
+        "min": 1679,
+        "max": 1679,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q312673",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Francisco de Sá de Miranda",
+      "birth": {
+        "min": 1481,
+        "max": 1481,
+        "approximate": true
+      },
+      "death": {
+        "min": 1558,
+        "max": 1558,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q186872",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Almeida Garrett",
+      "birth": {
+        "min": 1799,
+        "max": 1799,
+        "approximate": false
+      },
+      "death": {
+        "min": 1854,
+        "max": 1854,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q316806",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Antero de Quental",
+      "birth": {
+        "min": 1842,
+        "max": 1842,
+        "approximate": false
+      },
+      "death": {
+        "min": 1891,
+        "max": 1891,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q467494",
+      "checked": "2026-09-22"
     }
   ]
 }

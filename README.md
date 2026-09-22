@@ -106,6 +106,46 @@ Project Gutenberg, Wikisource en ruso y The Latin Library; cada ficha enlaza
 su fuente y distingue las traducciones y síntesis editoriales. Las seis
 reproducciones de arte incluyen procedencia y derechos de dominio público.
 
+## Vondeliana y Os Lusíadas
+
+| Paquete | Lecturas | Obras visuales |
+| --- | ---: | ---: |
+| Vondeliana | 5 | 3 |
+| Os Lusíadas | 6 | 3 |
+
+**Vondeliana** reúne cinco lecturas de Joost van den Vondel en neerlandés del
+siglo XVII, con la ortografía de la fuente conservada y declarada en cada
+ficha. Vondel nació en Colonia de padres neerlandeses y se convirtió al
+catolicismo en 1641: cumple el criterio del proyecto por partida doble.
+Tres poemas van completos —«Kinder-lyck» (16 versos), «Vitvaert van mijn
+Dochterken» (42) y «Wiltzangk» (32)— y los dos coros van íntegros, no como
+selección de estrofas: el Rey van Klaerissen del *Gysbreght van Aemstel*
+(vv. 903-950, cierre del acto III) y el Rey van Engelen de *Lucifer*
+(vv. 281-347, cierre del acto I, con Zang, Tegenzang y Toezang). Originales
+de DBNL, *De werken van Vondel*, tomos 3, 5 y 9. Las tres reproducciones son
+el retrato de Vondel por Philips Koninck (Rijksmuseum, SK-A-1954, CC0), la
+matanza de los inocentes de Cornelis van Haarlem (Rijksmuseum, SK-A-128) y
+la caída de los ángeles rebeldes de Frans Floris I (KMSKA Amberes, inv. 112,
+CC0).
+
+**Os Lusíadas** reúne seis lecturas portuguesas. El discurso del Viejo del
+Restelo va entero, estrofas 94 a 104 del Canto IV: la 94 lo pone en la playa
+y le cede la voz, y el último verso de la 104 cierra también el canto. Las
+otras cinco van completas: los sonetos «Alma minha gentil, que te partiste»
+y «Sete annos de pastor Jacob servia» de Camões, la cantiga «Comiguo me
+desavym» de Sá de Miranda tal como se imprimió en el *Cancioneiro Geral* de
+1516, «Este inferno de amar» de Almeida Garrett y el soneto «Na mão de Deus»
+de Antero de Quental. No se repiten el soneto de Camões ni el poema de Pessoa
+que ya estaban en el catálogo. Originales de pt.wikisource; cada ficha declara
+su edición en `source_edition`. Las tres reproducciones son los
+Paneles de San Vicente de Nuno Gonçalves, panel de los Pescadores y panel del
+Infante (MNAA, inv. 1366 y 1361 Pint), y el retrato de Antero de Quental por
+Columbano Bordalo Pinheiro (MNAC — Museu do Chiado, inv. 1108).
+
+Ninguna de las once lecturas pasa de **4 minutos estimados** y nueve de ellas
+se leen en 1 o 2. Las seis obras visuales enlazan su ficha en Commons y la
+ficha del museo que las conserva.
+
 ## Las vidas detrás de las obras
 
 Obras y autores continúa debajo del mapa y su índice con una cronología
@@ -122,8 +162,8 @@ incertidumbre del año. Las autorías anónimas, colectivas o de biografía
 incierta permanecen en una sección explicada, sin asignarles vidas ficticias.
 `app/author-timeline.js` y `.css` contienen el renderizador y sus estilos.
 
-Con todos los paquetes activos hay **209 lecturas, 138 autores o autorías y
-100 obras visuales**. Las biografías cubren los 138 registros: 125 con fechas
+Con todos los paquetes activos hay **220 lecturas, 142 autores o autorías y
+106 obras visuales**. Las biografías cubren los 142 registros: 129 con fechas
 y 13 sin límites biográficos seguros. Al añadir autores, hay que incorporar
 también su registro biográfico o una nota que explique la incertidumbre.
 

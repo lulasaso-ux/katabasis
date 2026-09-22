@@ -90,13 +90,16 @@ for (const list of [works, paintings, packages]) {
   assert.equal(new Set(list.map(x=>x.id)).size, list.length, 'Duplicate ID');
 }
 for (const [id, expectedReadings, expectedArt] of [
-  ['renaissance-superpack', 12, 6], ['latin-american-romanticism', 6, 3], ['goethezeit',4,2], ['quixote-mysteries',5,1], ['bardolatry',4,2], ['cervantismo',4,1], ['war-peace-mysteries',5,1], ['aeneid-mysteries',5,2]
+  ['renaissance-superpack', 12, 6], ['latin-american-romanticism', 6, 3], ['goethezeit',4,2], ['quixote-mysteries',5,1], ['bardolatry',4,2], ['cervantismo',4,1], ['war-peace-mysteries',5,1], ['aeneid-mysteries',5,2],
+  ['vondeliana',5,3], ['os-lusiadas',6,3]
 ]) {
   assert.equal(works.filter(w=>w.package_id===id||(w.additional_package_ids||[]).includes(id)).length, expectedReadings);
   assert.equal(paintings.filter(w=>w.package_id===id).length, expectedArt);
   assert(paintings.some(a=>a.id===packages.find(p=>p.id===id).cover_id && a.package_id===id));
 }
 const expectedLines = {
+ 'vond-kinderlyck':16,'vond-dochterken':42,'vond-wiltzangk':32,'vond-kersnacht':48,'vond-rey-engelen':67,
+ 'lus-velho-restelo':88,'lus-alma-gentil':14,'lus-sete-annos':14,'lus-miranda-desavim':12,'lus-garrett-inferno':18,'lus-antero-maodeus':14,
  'bard-sonnet-116':14,'bard-hamlet-being':35,'bard-macbeth-tomorrow':12,'bard-tempest-revels':18,'aen-troy-burden':23,'aen-dido-farewell':21,'aen-anchises-embrace':24,'aen-pallas-return':25,'aen-turnus-last':34,
  'goethezeit-erlkonig':32,'goethezeit-mignon':21,'goethezeit-gretchen':40,
   'ren-michelangelo-sonnet':14, 'ren-camoes-fire':14, 'ren-shakespeare-73':14,
