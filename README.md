@@ -115,29 +115,24 @@ reproducciones de arte incluyen procedencia y derechos de dominio público.
 
 **Vondeliana** reúne cinco lecturas de Joost van den Vondel en neerlandés del
 siglo XVII, con la ortografía de la fuente conservada y declarada en cada
-ficha. Vondel nació en Colonia de padres neerlandeses y se convirtió al
-catolicismo en 1641: cumple el criterio del proyecto por partida doble.
-Tres poemas van completos —«Kinder-lyck» (16 versos), «Vitvaert van mijn
-Dochterken» (42) y «Wiltzangk» (32)— y los dos coros van íntegros, no como
-selección de estrofas: el Rey van Klaerissen del *Gysbreght van Aemstel*
-(vv. 903-950, cierre del acto III) y el Rey van Engelen de *Lucifer*
-(vv. 281-347, cierre del acto I, con Zang, Tegenzang y Toezang). Originales
-de DBNL, *De werken van Vondel*, tomos 3, 5 y 9. Las tres reproducciones son
+ficha: «Kinder-lyck» (16 versos), «Vitvaert van mijn Dochterken» (42),
+«Wiltzangk» (32), el Rey van Klaerissen del *Gysbreght van Aemstel*
+(vv. 903-950) y el Rey van Engelen de *Lucifer* (vv. 281-347, con Zang,
+Tegenzang y Toezang). Originales de DBNL, *De werken van Vondel*,
+tomos 3, 5 y 9. Las tres reproducciones son
 el retrato de Vondel por Philips Koninck (Rijksmuseum, SK-A-1954, CC0), la
 matanza de los inocentes de Cornelis van Haarlem (Rijksmuseum, SK-A-128) y
 la caída de los ángeles rebeldes de Frans Floris I (KMSKA Amberes, inv. 112,
 CC0).
 
-**Os Lusíadas** reúne seis lecturas portuguesas. El discurso del Viejo del
-Restelo va entero, estrofas 94 a 104 del Canto IV: la 94 lo pone en la playa
-y le cede la voz, y el último verso de la 104 cierra también el canto. Las
-otras cinco van completas: los sonetos «Alma minha gentil, que te partiste»
-y «Sete annos de pastor Jacob servia» de Camões, la cantiga «Comiguo me
-desavym» de Sá de Miranda tal como se imprimió en el *Cancioneiro Geral* de
-1516, «Este inferno de amar» de Almeida Garrett y el soneto «Na mão de Deus»
-de Antero de Quental. No se repiten el soneto de Camões ni el poema de Pessoa
-que ya estaban en el catálogo. Originales de pt.wikisource; cada ficha declara
-su edición en `source_edition`. Las tres reproducciones son los
+**Os Lusíadas** reúne seis lecturas portuguesas: el discurso del Viejo del
+Restelo, estrofas 94 a 104 del Canto IV, donde la 94 lo pone en la playa y el
+último verso de la 104 cierra el canto; los sonetos «Alma minha gentil, que te
+partiste» y «Sete annos de pastor Jacob servia» de Camões; la cantiga «Comiguo
+me desavym» de Sá de Miranda tal como se imprimió en el *Cancioneiro Geral* de
+1516; «Este inferno de amar» de Almeida Garrett; y el soneto «Na mão de Deus»
+de Antero de Quental. Originales de pt.wikisource; cada ficha declara su
+edición en `source_edition`. Las tres reproducciones son los
 Paneles de San Vicente de Nuno Gonçalves, panel de los Pescadores y panel del
 Infante (MNAA, inv. 1366 y 1361 Pint), y el retrato de Antero de Quental por
 Columbano Bordalo Pinheiro (MNAC — Museu do Chiado, inv. 1108).
