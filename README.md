@@ -87,3 +87,47 @@ Los datos y las reproducciones se encuentran en
 inicializar la sala. La duración de los misterios cuenta también los puentes,
 las meditaciones y el desenlace. La validación comprueba ambos idiomas,
 la navegación de los cinco episodios y la activación compartida de los molinos.
+
+## Bardolatry, Cervantismo y dos recorridos épicos
+
+| Paquete | Lecturas nuevas | Obras visuales |
+| --- | ---: | ---: |
+| Bardolatry | 4 | 2 |
+| Cervantismo | 4 | 1 |
+| Misterios de Guerra y paz | 5 | 1 |
+| Misterios de la Eneida | 5 | 2 |
+
+Bardolatry añade el soneto 116 y pasajes de Hamlet, Macbeth y La tempestad,
+sin repetir los sonetos 18 y 73. Cervantismo reúne cuatro pasajes de las
+Novelas ejemplares y conserva separados los misterios del Quijote.
+Los dos recorridos nuevos enlazan cinco momentos decisivos de cada obra con
+puentes narrativos, meditaciones y desenlace. Los originales proceden de
+Project Gutenberg, Wikisource en ruso y The Latin Library; cada ficha enlaza
+su fuente y distingue las traducciones y síntesis editoriales. Las seis
+reproducciones de arte incluyen procedencia y derechos de dominio público.
+
+## Las vidas detrás de las obras
+
+Obras y autores continúa debajo del mapa y su índice con una cronología
+vertical de nacimientos y muertes. Permite buscar autores, filtrar por época
+y desplegar sus lecturas. Refleja los paquetes activos, independientemente
+del país seleccionado en el atlas. Cada época tiene su propia escala temporal,
+indicada en el gráfico; las fechas aproximadas se marcan con `c.` y línea
+discontinua.
+
+`app/author-lives.json` conserva años, incertidumbres, notas de atribución y
+enlaces biográficos de Wikidata, consultados el 22 de septiembre de 2026.
+Los calificadores de calendario juliano/gregoriano no se interpretan como
+incertidumbre del año. Las autorías anónimas, colectivas o de biografía
+incierta permanecen en una sección explicada, sin asignarles vidas ficticias.
+`app/author-timeline.js` y `.css` contienen el renderizador y sus estilos.
+
+Con todos los paquetes activos hay **209 lecturas, 138 autores o autorías y
+100 obras visuales**. Las biografías cubren los 138 registros: 125 con fechas
+y 13 sin límites biográficos seguros. Al añadir autores, hay que incorporar
+también su registro biográfico o una nota que explique la incertidumbre.
+
+```sh
+node scripts/validate-curated-packages.cjs
+node scripts/validate-author-timeline.cjs
+```

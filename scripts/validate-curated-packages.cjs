@@ -39,7 +39,8 @@ for(const [enabled,expected] of [[[],false],[['quixote-mysteries'],true],[['span
 }
 assert.equal(works.filter(w=>w.id==='pkg-cervantes').length,1);
 assert.deepEqual(windmills.segments,data['anthology-data'].find(w=>w.id==='pkg-cervantes').segments);
-const quixote=additions.journeys[0];assert.equal(quixote.steps.length,5);
+for(const quixote of additions.journeys){
+assert.equal(quixote.steps.length,5);
 const journeyContext={journeys:additions.journeys,works,lang:'es',isEnabled:()=>true,esc:s=>String(s)};
 vm.createContext(journeyContext);
 vm.runInContext(main.slice(main.indexOf('function journeyFor('),main.indexOf('function renderJourneyCards(')),journeyContext);
@@ -56,6 +57,8 @@ for(const [i,step] of quixote.steps.entries()){
   if(i<4)assert(rendered.includes(quixote.steps[i+1].reading_id));
  }
 }
+}
+for(const p of extraPackages)assert(p.title_es&&p.title_en&&p.description_es&&p.description_en,'Package translations '+p.id);
 const paintings = [...data['paintings-data'], ...art];
 const packages = [...data['packages-data'], ...extraPackages];
 const geography=data['geography-data'];
@@ -87,13 +90,14 @@ for (const list of [works, paintings, packages]) {
   assert.equal(new Set(list.map(x=>x.id)).size, list.length, 'Duplicate ID');
 }
 for (const [id, expectedReadings, expectedArt] of [
-  ['renaissance-superpack', 12, 6], ['latin-american-romanticism', 6, 3], ['goethezeit',4,2], ['quixote-mysteries',5,1]
+  ['renaissance-superpack', 12, 6], ['latin-american-romanticism', 6, 3], ['goethezeit',4,2], ['quixote-mysteries',5,1], ['bardolatry',4,2], ['cervantismo',4,1], ['war-peace-mysteries',5,1], ['aeneid-mysteries',5,2]
 ]) {
   assert.equal(works.filter(w=>w.package_id===id||(w.additional_package_ids||[]).includes(id)).length, expectedReadings);
   assert.equal(paintings.filter(w=>w.package_id===id).length, expectedArt);
   assert(paintings.some(a=>a.id===packages.find(p=>p.id===id).cover_id && a.package_id===id));
 }
 const expectedLines = {
+ 'bard-sonnet-116':14,'bard-hamlet-being':35,'bard-macbeth-tomorrow':12,'bard-tempest-revels':18,'aen-troy-burden':23,'aen-dido-farewell':21,'aen-anchises-embrace':24,'aen-pallas-return':25,'aen-turnus-last':34,
  'goethezeit-erlkonig':32,'goethezeit-mignon':21,'goethezeit-gretchen':40,
   'ren-michelangelo-sonnet':14, 'ren-camoes-fire':14, 'ren-shakespeare-73':14,
   'ren-wyatt-hunt':14, 'ren-spenser-name':14, 'ren-dubellay-ulysse':14,
@@ -144,9 +148,9 @@ for (const w of read) {
   }
 }
 for (const a of art) {
-  assert(a.image.startsWith('data:image/jpeg;base64,'), 'New art must be embedded for offline use');
+  assert(/^data:image\/(jpeg|png);base64,/.test(a.image), 'New art must be embedded for offline use');
   const bytes=Buffer.from(a.image.split(',')[1],'base64');
-  assert(bytes.length>1000 && bytes[0]===255 && bytes[1]===216, 'Invalid JPEG '+a.id);
+  assert(bytes.length>1000 && ((bytes[0]===255 && bytes[1]===216)||(bytes[0]===137 && bytes.subarray(1,4).toString()==='PNG')), 'Invalid image '+a.id);
   assert(a.source_url.startsWith('https://commons.wikimedia.org/wiki/File:'));
   assert(a.rights && a.rights_policy_url);
 }
