@@ -1,0 +1,2005 @@
+{
+  "date_basis": "Biographical years; sources retain uncertainty and attribution notes.",
+  "authors": [
+    {
+      "author": "Gustavo Adolfo Bécquer",
+      "birth": {
+        "min": 1836,
+        "max": 1836,
+        "approximate": false
+      },
+      "death": {
+        "min": 1870,
+        "max": 1870,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q203715",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Rubén Darío",
+      "birth": {
+        "min": 1867,
+        "max": 1867,
+        "approximate": false
+      },
+      "death": {
+        "min": 1916,
+        "max": 1916,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q173767",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Sándor Petőfi",
+      "birth": {
+        "min": 1823,
+        "max": 1823,
+        "approximate": false
+      },
+      "death": {
+        "min": 1849,
+        "max": 1849,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q81219",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Emily Dickinson",
+      "birth": {
+        "min": 1830,
+        "max": 1830,
+        "approximate": false
+      },
+      "death": {
+        "min": 1886,
+        "max": 1886,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q4441",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Johann Wolfgang von Goethe",
+      "birth": {
+        "min": 1749,
+        "max": 1749,
+        "approximate": false
+      },
+      "death": {
+        "min": 1832,
+        "max": 1832,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q5879",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Alexander Pushkin",
+      "birth": {
+        "min": 1799,
+        "max": 1799,
+        "approximate": false
+      },
+      "death": {
+        "min": 1837,
+        "max": 1837,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q7200",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "John McCrae",
+      "birth": {
+        "min": 1872,
+        "max": 1872,
+        "approximate": false
+      },
+      "death": {
+        "min": 1918,
+        "max": 1918,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q470812",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Adam Lindsay Gordon",
+      "birth": {
+        "min": 1833,
+        "max": 1833,
+        "approximate": false
+      },
+      "death": {
+        "min": 1870,
+        "max": 1870,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q350313",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Antonio Machado",
+      "birth": {
+        "min": 1875,
+        "max": 1875,
+        "approximate": false
+      },
+      "death": {
+        "min": 1939,
+        "max": 1939,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q243771",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "William Blake",
+      "birth": {
+        "min": 1757,
+        "max": 1757,
+        "approximate": false
+      },
+      "death": {
+        "min": 1827,
+        "max": 1827,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q41513",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Christina Rossetti",
+      "birth": {
+        "min": 1830,
+        "max": 1830,
+        "approximate": false
+      },
+      "death": {
+        "min": 1894,
+        "max": 1894,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q236596",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Fernando Pessoa · as Alberto Caeiro",
+      "birth": {
+        "min": 1888,
+        "max": 1888,
+        "approximate": false
+      },
+      "death": {
+        "min": 1935,
+        "max": 1935,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q173481",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Franz Kafka",
+      "birth": {
+        "min": 1883,
+        "max": 1883,
+        "approximate": false
+      },
+      "death": {
+        "min": 1924,
+        "max": 1924,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q905",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Homer",
+      "birth": null,
+      "death": null,
+      "source": "https://www.wikidata.org/wiki/Q6691",
+      "checked": "2026-09-22",
+      "note_es": "Biografía antigua de cronología incierta; no se presenta una vida como si tuviera límites seguros.",
+      "note_en": "An ancient biography with uncertain chronology; no securely bounded lifespan is asserted."
+    },
+    {
+      "author": "José Rizal",
+      "birth": {
+        "min": 1861,
+        "max": 1861,
+        "approximate": false
+      },
+      "death": {
+        "min": 1896,
+        "max": 1896,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1500",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Catullus",
+      "birth": {
+        "min": -84,
+        "max": -84,
+        "approximate": true
+      },
+      "death": {
+        "min": -54,
+        "max": -54,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q163079",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Augustine of Hippo",
+      "birth": {
+        "min": 354,
+        "max": 354,
+        "approximate": false
+      },
+      "death": {
+        "min": 430,
+        "max": 430,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q8018",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Horace",
+      "birth": {
+        "min": -65,
+        "max": -65,
+        "approximate": false
+      },
+      "death": {
+        "min": -8,
+        "max": -8,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q6197",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Teresa of Ávila",
+      "birth": {
+        "min": 1515,
+        "max": 1515,
+        "approximate": false
+      },
+      "death": {
+        "min": 1582,
+        "max": 1582,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q174880",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "José Martí",
+      "birth": {
+        "min": 1853,
+        "max": 1853,
+        "approximate": false
+      },
+      "death": {
+        "min": 1895,
+        "max": 1895,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q103285",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Amado Nervo",
+      "birth": {
+        "min": 1870,
+        "max": 1870,
+        "approximate": false
+      },
+      "death": {
+        "min": 1919,
+        "max": 1919,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q452130",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Gospel according to Luke",
+      "birth": null,
+      "death": null,
+      "source": "https://www.wikidata.org/wiki/Q128538",
+      "checked": "2026-09-22",
+      "note_es": "Atribución tradicional del evangelio; la identidad y las fechas del autor no se conocen con certeza.",
+      "note_en": "Traditional attribution of the gospel; the author’s identity and dates are not securely known."
+    },
+    {
+      "author": "Psalms",
+      "birth": null,
+      "death": null,
+      "source": null,
+      "checked": "2026-09-22",
+      "note_es": "Autoría colectiva o anónima: no se le asigna una vida individual.",
+      "note_en": "Collective or anonymous authorship: no individual lifespan is assigned."
+    },
+    {
+      "author": "Dante Alighieri",
+      "birth": {
+        "min": 1265,
+        "max": 1265,
+        "approximate": true
+      },
+      "death": {
+        "min": 1321,
+        "max": 1321,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1067",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Giacomo Leopardi",
+      "birth": {
+        "min": 1798,
+        "max": 1798,
+        "approximate": false
+      },
+      "death": {
+        "min": 1837,
+        "max": 1837,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q172599",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Toru Dutt",
+      "birth": {
+        "min": 1856,
+        "max": 1856,
+        "approximate": false
+      },
+      "death": {
+        "min": 1877,
+        "max": 1877,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q7827414",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "William Shakespeare",
+      "birth": {
+        "min": 1564,
+        "max": 1564,
+        "approximate": false
+      },
+      "death": {
+        "min": 1616,
+        "max": 1616,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q692",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Fyodor Dostoevsky",
+      "birth": {
+        "min": 1821,
+        "max": 1821,
+        "approximate": false
+      },
+      "death": {
+        "min": 1881,
+        "max": 1881,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q991",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Oscar Wilde",
+      "birth": {
+        "min": 1854,
+        "max": 1854,
+        "approximate": false
+      },
+      "death": {
+        "min": 1900,
+        "max": 1900,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q30875",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Mihai Eminescu",
+      "birth": {
+        "min": 1850,
+        "max": 1850,
+        "approximate": false
+      },
+      "death": {
+        "min": 1889,
+        "max": 1889,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q184935",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Adam Mickiewicz",
+      "birth": {
+        "min": 1798,
+        "max": 1798,
+        "approximate": false
+      },
+      "death": {
+        "min": 1855,
+        "max": 1855,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q79822",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Francisco Balagtas",
+      "birth": {
+        "min": 1788,
+        "max": 1788,
+        "approximate": false
+      },
+      "death": {
+        "min": 1862,
+        "max": 1862,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q983125",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "José Hernández",
+      "birth": {
+        "min": 1834,
+        "max": 1834,
+        "approximate": false
+      },
+      "death": {
+        "min": 1886,
+        "max": 1886,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q377623",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Gonçalves Dias",
+      "birth": {
+        "min": 1823,
+        "max": 1823,
+        "approximate": false
+      },
+      "death": {
+        "min": 1864,
+        "max": 1864,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q611997",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Justinian’s compilers",
+      "birth": null,
+      "death": null,
+      "source": null,
+      "checked": "2026-09-22",
+      "note_es": "Autoría colectiva o anónima: no se le asigna una vida individual.",
+      "note_en": "Collective or anonymous authorship: no individual lifespan is assigned."
+    },
+    {
+      "author": "Epictetus · recorded by Arrian",
+      "birth": {
+        "min": 50,
+        "max": 50,
+        "approximate": true
+      },
+      "death": {
+        "min": 125,
+        "max": 138,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q183144",
+      "checked": "2026-09-22",
+      "note_es": "Se representa la vida de Epicteto; Arriano transmitió sus enseñanzas.",
+      "note_en": "The lifespan shown is Epictetus’s; Arrian recorded his teachings."
+    },
+    {
+      "author": "Sor Juana Inés de la Cruz",
+      "birth": {
+        "min": 1651,
+        "max": 1651,
+        "approximate": false
+      },
+      "death": {
+        "min": 1695,
+        "max": 1695,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q183074",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Rafael Pombo",
+      "birth": {
+        "min": 1833,
+        "max": 1833,
+        "approximate": false
+      },
+      "death": {
+        "min": 1912,
+        "max": 1912,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1661285",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Jean de La Fontaine",
+      "birth": {
+        "min": 1621,
+        "max": 1621,
+        "approximate": false
+      },
+      "death": {
+        "min": 1695,
+        "max": 1695,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q49496",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Arthur Rimbaud",
+      "birth": {
+        "min": 1854,
+        "max": 1854,
+        "approximate": false
+      },
+      "death": {
+        "min": 1891,
+        "max": 1891,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q493",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Paul Verlaine",
+      "birth": {
+        "min": 1844,
+        "max": 1844,
+        "approximate": false
+      },
+      "death": {
+        "min": 1896,
+        "max": 1896,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q755",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Edgar Allan Poe",
+      "birth": {
+        "min": 1809,
+        "max": 1809,
+        "approximate": false
+      },
+      "death": {
+        "min": 1849,
+        "max": 1849,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q16867",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Kate Chopin",
+      "birth": {
+        "min": 1850,
+        "max": 1850,
+        "approximate": false
+      },
+      "death": {
+        "min": 1904,
+        "max": 1904,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q230476",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Horacio Quiroga",
+      "birth": {
+        "min": 1878,
+        "max": 1878,
+        "approximate": false
+      },
+      "death": {
+        "min": 1937,
+        "max": 1937,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q16864",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Emilia Pardo Bazán",
+      "birth": {
+        "min": 1851,
+        "max": 1851,
+        "approximate": false
+      },
+      "death": {
+        "min": 1921,
+        "max": 1921,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q275929",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Ambrose Bierce",
+      "birth": {
+        "min": 1842,
+        "max": 1842,
+        "approximate": false
+      },
+      "death": {
+        "min": 1914,
+        "max": 1914,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q191050",
+      "checked": "2026-09-22",
+      "note_es": "Desapareció en 1913; 1914 es una fecha de muerte estimada.",
+      "note_en": "Disappeared in 1913; 1914 is an estimated death date."
+    },
+    {
+      "author": "Arthur Conan Doyle",
+      "birth": {
+        "min": 1859,
+        "max": 1859,
+        "approximate": false
+      },
+      "death": {
+        "min": 1930,
+        "max": 1930,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q35610",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Lola Rodríguez de Tió",
+      "birth": {
+        "min": 1843,
+        "max": 1843,
+        "approximate": false
+      },
+      "death": {
+        "min": 1924,
+        "max": 1924,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q274202",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Salomé Ureña",
+      "birth": {
+        "min": 1850,
+        "max": 1850,
+        "approximate": false
+      },
+      "death": {
+        "min": 1897,
+        "max": 1897,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q3445663",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Oswald Durand",
+      "birth": {
+        "min": 1840,
+        "max": 1840,
+        "approximate": false
+      },
+      "death": {
+        "min": 1906,
+        "max": 1906,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q3113256",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Pierre-Augustin Caron de Beaumarchais",
+      "birth": {
+        "min": 1732,
+        "max": 1732,
+        "approximate": false
+      },
+      "death": {
+        "min": 1799,
+        "max": 1799,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q70326",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Marcus Aurelius",
+      "birth": {
+        "min": 121,
+        "max": 121,
+        "approximate": false
+      },
+      "death": {
+        "min": 180,
+        "max": 180,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1430",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Seneca",
+      "birth": {
+        "min": -4,
+        "max": -4,
+        "approximate": true
+      },
+      "death": {
+        "min": 65,
+        "max": 65,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q2054",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Dionysios Solomos",
+      "birth": {
+        "min": 1798,
+        "max": 1798,
+        "approximate": false
+      },
+      "death": {
+        "min": 1857,
+        "max": 1857,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q166172",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Kostis Palamas",
+      "birth": {
+        "min": 1859,
+        "max": 1859,
+        "approximate": false
+      },
+      "death": {
+        "min": 1943,
+        "max": 1943,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q317967",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Kostas Karyotakis",
+      "birth": {
+        "min": 1896,
+        "max": 1896,
+        "approximate": false
+      },
+      "death": {
+        "min": 1928,
+        "max": 1928,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q559833",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Alexandros Papadiamantis",
+      "birth": {
+        "min": 1851,
+        "max": 1851,
+        "approximate": false
+      },
+      "death": {
+        "min": 1911,
+        "max": 1911,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q320984",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Anonymous · Ethiopian Christian tradition",
+      "birth": null,
+      "death": null,
+      "source": null,
+      "checked": "2026-09-22",
+      "note_es": "Autoría colectiva o anónima: no se le asigna una vida individual.",
+      "note_en": "Collective or anonymous authorship: no individual lifespan is assigned."
+    },
+    {
+      "author": "Uchimura Kanzō",
+      "birth": {
+        "min": 1861,
+        "max": 1861,
+        "approximate": false
+      },
+      "death": {
+        "min": 1930,
+        "max": 1930,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q485247",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Xu Dishan · 許地山",
+      "birth": {
+        "min": 1893,
+        "max": 1893,
+        "approximate": false
+      },
+      "death": {
+        "min": 1941,
+        "max": 1941,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q713079",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Pandita Ramabai",
+      "birth": {
+        "min": 1858,
+        "max": 1858,
+        "approximate": false
+      },
+      "death": {
+        "min": 1922,
+        "max": 1922,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q94889",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Joseph von Eichendorff",
+      "birth": {
+        "min": 1788,
+        "max": 1788,
+        "approximate": false
+      },
+      "death": {
+        "min": 1857,
+        "max": 1857,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q77204",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Novalis",
+      "birth": {
+        "min": 1772,
+        "max": 1772,
+        "approximate": false
+      },
+      "death": {
+        "min": 1801,
+        "max": 1801,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q60684",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Clemens Brentano",
+      "birth": {
+        "min": 1778,
+        "max": 1778,
+        "approximate": false
+      },
+      "death": {
+        "min": 1842,
+        "max": 1842,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q57235",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "E. T. A. Hoffmann",
+      "birth": {
+        "min": 1776,
+        "max": 1776,
+        "approximate": false
+      },
+      "death": {
+        "min": 1822,
+        "max": 1822,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q150471",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Anonymous · Beowulf poet",
+      "birth": null,
+      "death": null,
+      "source": null,
+      "checked": "2026-09-22",
+      "note_es": "Autoría colectiva o anónima: no se le asigna una vida individual.",
+      "note_en": "Collective or anonymous authorship: no individual lifespan is assigned."
+    },
+    {
+      "author": "Thomas Malory",
+      "birth": {
+        "min": 1405,
+        "max": 1405,
+        "approximate": true
+      },
+      "death": {
+        "min": 1471,
+        "max": 1471,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q309907",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Elizabeth Barrett Browning",
+      "birth": {
+        "min": 1806,
+        "max": 1806,
+        "approximate": true
+      },
+      "death": {
+        "min": 1861,
+        "max": 1861,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q228494",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "John Donne",
+      "birth": {
+        "min": 1572,
+        "max": 1572,
+        "approximate": true
+      },
+      "death": {
+        "min": 1631,
+        "max": 1631,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q140412",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Louise Labé",
+      "birth": {
+        "min": 1524,
+        "max": 1524,
+        "approximate": false
+      },
+      "death": {
+        "min": 1566,
+        "max": 1566,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q237098",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Anonymous · medieval Irish redactors",
+      "birth": null,
+      "death": null,
+      "source": null,
+      "checked": "2026-09-22",
+      "note_es": "Autoría colectiva o anónima: no se le asigna una vida individual.",
+      "note_en": "Collective or anonymous authorship: no individual lifespan is assigned."
+    },
+    {
+      "author": "Saxo Grammaticus",
+      "birth": {
+        "min": 1150,
+        "max": 1150,
+        "approximate": true
+      },
+      "death": {
+        "min": 1206,
+        "max": 1220,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q106837",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Hernando Alvarado Tezozómoc · tradition also shaped by Chimalpahin",
+      "birth": {
+        "min": 1525,
+        "max": 1525,
+        "approximate": true
+      },
+      "death": {
+        "min": 1606,
+        "max": 1606,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1383533",
+      "checked": "2026-09-22",
+      "note_es": "Vida aproximada de Tezozómoc; la transmisión también incluye la intervención de Chimalpahin.",
+      "note_en": "Approximate lifespan of Tezozómoc; transmission also includes Chimalpahin’s contribution."
+    },
+    {
+      "author": "Snorri Sturluson",
+      "birth": {
+        "min": 1179,
+        "max": 1179,
+        "approximate": false
+      },
+      "death": {
+        "min": 1241,
+        "max": 1241,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q102323",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Elias Lönnrot · Finnish-Karelian oral tradition",
+      "birth": {
+        "min": 1802,
+        "max": 1802,
+        "approximate": false
+      },
+      "death": {
+        "min": 1884,
+        "max": 1884,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q153159",
+      "checked": "2026-09-22",
+      "note_es": "Vida del recopilador Elias Lönnrot; la tradición oral es anterior.",
+      "note_en": "Lifespan of compiler Elias Lönnrot; the oral tradition is earlier."
+    },
+    {
+      "author": "Herman Melville",
+      "birth": {
+        "min": 1819,
+        "max": 1819,
+        "approximate": false
+      },
+      "death": {
+        "min": 1891,
+        "max": 1891,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q4985",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Matthew · Mateo",
+      "birth": null,
+      "death": null,
+      "source": "https://www.wikidata.org/wiki/Q43600",
+      "checked": "2026-09-22",
+      "note_es": "Atribución tradicional del evangelio; la identidad y las fechas del autor no se conocen con certeza.",
+      "note_en": "Traditional attribution of the gospel; the author’s identity and dates are not securely known."
+    },
+    {
+      "author": "John · Juan",
+      "birth": null,
+      "death": null,
+      "source": "https://www.wikidata.org/wiki/Q44015",
+      "checked": "2026-09-22",
+      "note_es": "Atribución tradicional del evangelio; la identidad y las fechas del autor no se conocen con certeza.",
+      "note_en": "Traditional attribution of the gospel; the author’s identity and dates are not securely known."
+    },
+    {
+      "author": "Mark · Marcos",
+      "birth": null,
+      "death": null,
+      "source": "https://www.wikidata.org/wiki/Q31966",
+      "checked": "2026-09-22",
+      "note_es": "Atribución tradicional del evangelio; la identidad y las fechas del autor no se conocen con certeza.",
+      "note_en": "Traditional attribution of the gospel; the author’s identity and dates are not securely known."
+    },
+    {
+      "author": "Isaiah · ancient Jewish tradition",
+      "birth": null,
+      "death": null,
+      "source": null,
+      "checked": "2026-09-22",
+      "note_es": "Autoría colectiva o anónima: no se le asigna una vida individual.",
+      "note_en": "Collective or anonymous authorship: no individual lifespan is assigned."
+    },
+    {
+      "author": "Community Rule · Regla de la Comunidad",
+      "birth": null,
+      "death": null,
+      "source": null,
+      "checked": "2026-09-22",
+      "note_es": "Autoría colectiva o anónima: no se le asigna una vida individual.",
+      "note_en": "Collective or anonymous authorship: no individual lifespan is assigned."
+    },
+    {
+      "author": "Sully Prudhomme",
+      "birth": {
+        "min": 1839,
+        "max": 1839,
+        "approximate": false
+      },
+      "death": {
+        "min": 1907,
+        "max": 1907,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q42247",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Theodor Mommsen",
+      "birth": {
+        "min": 1817,
+        "max": 1817,
+        "approximate": false
+      },
+      "death": {
+        "min": 1903,
+        "max": 1903,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q25351",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Bjørnstjerne Bjørnson",
+      "birth": {
+        "min": 1832,
+        "max": 1832,
+        "approximate": false
+      },
+      "death": {
+        "min": 1910,
+        "max": 1910,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q46405",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Frédéric Mistral",
+      "birth": {
+        "min": 1830,
+        "max": 1830,
+        "approximate": false
+      },
+      "death": {
+        "min": 1914,
+        "max": 1914,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q42596",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "José Echegaray",
+      "birth": {
+        "min": 1832,
+        "max": 1832,
+        "approximate": false
+      },
+      "death": {
+        "min": 1916,
+        "max": 1916,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q127349",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Hesiod",
+      "birth": null,
+      "death": null,
+      "source": "https://www.wikidata.org/wiki/Q44233",
+      "checked": "2026-09-22",
+      "note_es": "Biografía antigua de cronología incierta; no se presenta una vida como si tuviera límites seguros.",
+      "note_en": "An ancient biography with uncertain chronology; no securely bounded lifespan is asserted."
+    },
+    {
+      "author": "Plato",
+      "birth": {
+        "min": -428,
+        "max": -428,
+        "approximate": true
+      },
+      "death": {
+        "min": -348,
+        "max": -348,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q859",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Epicurus",
+      "birth": {
+        "min": -342,
+        "max": -342,
+        "approximate": false
+      },
+      "death": {
+        "min": -270,
+        "max": -270,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q43216",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Sophocles",
+      "birth": {
+        "min": -496,
+        "max": -496,
+        "approximate": true
+      },
+      "death": {
+        "min": -406,
+        "max": -406,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q7235",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Claude Monet",
+      "birth": {
+        "min": 1840,
+        "max": 1840,
+        "approximate": false
+      },
+      "death": {
+        "min": 1926,
+        "max": 1926,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q296",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Paul Cézanne",
+      "birth": {
+        "min": 1839,
+        "max": 1839,
+        "approximate": false
+      },
+      "death": {
+        "min": 1906,
+        "max": 1906,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q35548",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Vincent van Gogh",
+      "birth": {
+        "min": 1853,
+        "max": 1853,
+        "approximate": false
+      },
+      "death": {
+        "min": 1890,
+        "max": 1890,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q5582",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Hans Christian Andersen",
+      "birth": {
+        "min": 1805,
+        "max": 1805,
+        "approximate": false
+      },
+      "death": {
+        "min": 1875,
+        "max": 1875,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q5673",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "August Strindberg",
+      "birth": {
+        "min": 1849,
+        "max": 1849,
+        "approximate": false
+      },
+      "death": {
+        "min": 1912,
+        "max": 1912,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q7724",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Henrik Ibsen",
+      "birth": {
+        "min": 1828,
+        "max": 1828,
+        "approximate": false
+      },
+      "death": {
+        "min": 1906,
+        "max": 1906,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q36661",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Edith Södergran",
+      "birth": {
+        "min": 1892,
+        "max": 1892,
+        "approximate": false
+      },
+      "death": {
+        "min": 1923,
+        "max": 1923,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q466595",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Garcilaso de la Vega",
+      "birth": {
+        "min": 1503,
+        "max": 1503,
+        "approximate": true
+      },
+      "death": {
+        "min": 1536,
+        "max": 1536,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q311405",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Fray Luis de León",
+      "birth": {
+        "min": 1527,
+        "max": 1527,
+        "approximate": false
+      },
+      "death": {
+        "min": 1591,
+        "max": 1591,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q450246",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Miguel de Cervantes",
+      "birth": {
+        "min": 1547,
+        "max": 1547,
+        "approximate": true
+      },
+      "death": {
+        "min": 1616,
+        "max": 1616,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q5682",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Pedro Calderón de la Barca",
+      "birth": {
+        "min": 1600,
+        "max": 1600,
+        "approximate": false
+      },
+      "death": {
+        "min": 1681,
+        "max": 1681,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q170800",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Francesco Petrarca",
+      "birth": {
+        "min": 1304,
+        "max": 1304,
+        "approximate": false
+      },
+      "death": {
+        "min": 1374,
+        "max": 1374,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1401",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Guido Cavalcanti",
+      "birth": {
+        "min": 1255,
+        "max": 1258,
+        "approximate": true
+      },
+      "death": {
+        "min": 1300,
+        "max": 1300,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q316876",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Giovanni Boccaccio",
+      "birth": {
+        "min": 1313,
+        "max": 1313,
+        "approximate": false
+      },
+      "death": {
+        "min": 1375,
+        "max": 1375,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1402",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Charles V · Carlos V",
+      "birth": {
+        "min": 1500,
+        "max": 1500,
+        "approximate": false
+      },
+      "death": {
+        "min": 1558,
+        "max": 1558,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q32500",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Philip II · Felipe II",
+      "birth": {
+        "min": 1527,
+        "max": 1527,
+        "approximate": false
+      },
+      "death": {
+        "min": 1598,
+        "max": 1598,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q34417",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Maria Theresa · María Teresa",
+      "birth": {
+        "min": 1717,
+        "max": 1717,
+        "approximate": false
+      },
+      "death": {
+        "min": 1780,
+        "max": 1780,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q131706",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Marie Antoinette · María Antonieta",
+      "birth": {
+        "min": 1755,
+        "max": 1755,
+        "approximate": false
+      },
+      "death": {
+        "min": 1793,
+        "max": 1793,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q47365",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Watcyn Wyn (Watkin Hezekiah Williams)",
+      "birth": {
+        "min": 1844,
+        "max": 1844,
+        "approximate": false
+      },
+      "death": {
+        "min": 1905,
+        "max": 1905,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q15074921",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "John Blackwell (Alun)",
+      "birth": {
+        "min": 1797,
+        "max": 1797,
+        "approximate": false
+      },
+      "death": {
+        "min": 1840,
+        "max": 1840,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q3403756",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Goronwy Owen",
+      "birth": {
+        "min": 1723,
+        "max": 1723,
+        "approximate": false
+      },
+      "death": {
+        "min": 1769,
+        "max": 1769,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q3773585",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Robert ap Gwilym Ddu (Robert Williams)",
+      "birth": {
+        "min": 1744,
+        "max": 1744,
+        "approximate": false
+      },
+      "death": {
+        "min": 1815,
+        "max": 1815,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q20734570",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Friedrich Nietzsche",
+      "birth": {
+        "min": 1844,
+        "max": 1844,
+        "approximate": false
+      },
+      "death": {
+        "min": 1900,
+        "max": 1900,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q9358",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Karl Marx",
+      "birth": {
+        "min": 1818,
+        "max": 1818,
+        "approximate": false
+      },
+      "death": {
+        "min": 1883,
+        "max": 1883,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q9061",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Sigmund Freud",
+      "birth": {
+        "min": 1856,
+        "max": 1856,
+        "approximate": false
+      },
+      "death": {
+        "min": 1939,
+        "max": 1939,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q9215",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Tristan Corbière",
+      "birth": {
+        "min": 1845,
+        "max": 1845,
+        "approximate": false
+      },
+      "death": {
+        "min": 1875,
+        "max": 1875,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q316536",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Stéphane Mallarmé",
+      "birth": {
+        "min": 1842,
+        "max": 1842,
+        "approximate": false
+      },
+      "death": {
+        "min": 1898,
+        "max": 1898,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q767",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Marceline Desbordes-Valmore",
+      "birth": {
+        "min": 1786,
+        "max": 1786,
+        "approximate": false
+      },
+      "death": {
+        "min": 1859,
+        "max": 1859,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q466987",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Auguste de Villiers de L’Isle-Adam",
+      "birth": {
+        "min": 1838,
+        "max": 1838,
+        "approximate": false
+      },
+      "death": {
+        "min": 1889,
+        "max": 1889,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q366285",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Jorge Isaacs",
+      "birth": {
+        "min": 1837,
+        "max": 1837,
+        "approximate": false
+      },
+      "death": {
+        "min": 1895,
+        "max": 1895,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1703852",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Esteban Echeverría",
+      "birth": {
+        "min": 1805,
+        "max": 1805,
+        "approximate": false
+      },
+      "death": {
+        "min": 1851,
+        "max": 1851,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q188859",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "José María Heredia",
+      "birth": {
+        "min": 1803,
+        "max": 1803,
+        "approximate": false
+      },
+      "death": {
+        "min": 1839,
+        "max": 1839,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q609805",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Manuel Acuña",
+      "birth": {
+        "min": 1849,
+        "max": 1849,
+        "approximate": false
+      },
+      "death": {
+        "min": 1873,
+        "max": 1873,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q2255746",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Giovanni Pico della Mirandola",
+      "birth": {
+        "min": 1463,
+        "max": 1463,
+        "approximate": false
+      },
+      "death": {
+        "min": 1494,
+        "max": 1494,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q182128",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Niccolò Machiavelli",
+      "birth": {
+        "min": 1469,
+        "max": 1469,
+        "approximate": false
+      },
+      "death": {
+        "min": 1527,
+        "max": 1527,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1399",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Ludovico Ariosto",
+      "birth": {
+        "min": 1474,
+        "max": 1474,
+        "approximate": false
+      },
+      "death": {
+        "min": 1533,
+        "max": 1533,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q48900",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Michelangelo Buonarroti",
+      "birth": {
+        "min": 1475,
+        "max": 1475,
+        "approximate": false
+      },
+      "death": {
+        "min": 1564,
+        "max": 1564,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q5592",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Pierre de Ronsard",
+      "birth": {
+        "min": 1524,
+        "max": 1524,
+        "approximate": false
+      },
+      "death": {
+        "min": 1585,
+        "max": 1585,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q49752",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Joachim du Bellay",
+      "birth": {
+        "min": 1522,
+        "max": 1522,
+        "approximate": false
+      },
+      "death": {
+        "min": 1560,
+        "max": 1560,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q18420",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Luís de Camões",
+      "birth": {
+        "min": 1524,
+        "max": 1525,
+        "approximate": true
+      },
+      "death": {
+        "min": 1580,
+        "max": 1580,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q590",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Thomas Wyatt",
+      "birth": {
+        "min": 1503,
+        "max": 1503,
+        "approximate": false
+      },
+      "death": {
+        "min": 1542,
+        "max": 1542,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q314325",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Edmund Spenser",
+      "birth": {
+        "min": 1552,
+        "max": 1552,
+        "approximate": true
+      },
+      "death": {
+        "min": 1599,
+        "max": 1599,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q4352055",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Michel de Montaigne",
+      "birth": {
+        "min": 1533,
+        "max": 1533,
+        "approximate": false
+      },
+      "death": {
+        "min": 1592,
+        "max": 1592,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q41568",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "San Juan de la Cruz",
+      "birth": {
+        "min": 1542,
+        "max": 1542,
+        "approximate": false
+      },
+      "death": {
+        "min": 1591,
+        "max": 1591,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q190388",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Gertrudis Gómez de Avellaneda",
+      "birth": {
+        "min": 1814,
+        "max": 1814,
+        "approximate": false
+      },
+      "death": {
+        "min": 1873,
+        "max": 1873,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q283353",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Juan León Mera",
+      "birth": {
+        "min": 1832,
+        "max": 1832,
+        "approximate": false
+      },
+      "death": {
+        "min": 1894,
+        "max": 1894,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1710543",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Leo Tolstoy",
+      "birth": {
+        "min": 1828,
+        "max": 1828,
+        "approximate": false
+      },
+      "death": {
+        "min": 1910,
+        "max": 1910,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q7243",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Virgil",
+      "birth": {
+        "min": -70,
+        "max": -70,
+        "approximate": false
+      },
+      "death": {
+        "min": -19,
+        "max": -19,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1398",
+      "checked": "2026-09-22"
+    }
+  ]
+}
