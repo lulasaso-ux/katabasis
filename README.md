@@ -137,17 +137,14 @@ desavym» de Sá de Miranda tal como se imprimió en el *Cancioneiro Geral* de
 1516, «Este inferno de amar» de Almeida Garrett y el soneto «Na mão de Deus»
 de Antero de Quental. No se repiten el soneto de Camões ni el poema de Pessoa
 que ya estaban en el catálogo. Originales de pt.wikisource; cada ficha declara
-su edición en `source_edition`. Las tres reproducciones son el Panel de los
-Pescadores de los Paneles de San Vicente de Nuno Gonçalves (MNAA, inv. 1366
-Pint), el retrato de Antero de Quental por Columbano Bordalo Pinheiro (MNAC —
-Museu do Chiado, inv. 1108) y el retrato de Almeida Garrett por José Malhoa
-(Conservatório Nacional).
+su edición en `source_edition`. Las tres reproducciones son los
+Paneles de San Vicente de Nuno Gonçalves, panel de los Pescadores y panel del
+Infante (MNAA, inv. 1366 y 1361 Pint), y el retrato de Antero de Quental por
+Columbano Bordalo Pinheiro (MNAC — Museu do Chiado, inv. 1108).
 
 Ninguna de las once lecturas pasa de **4 minutos estimados** y nueve de ellas
-se leen en 1 o 2. Las obras visuales llevan `museum_url` con la ficha del
-museo cuando existe; la del Conservatório Nacional no publica catálogo en
-línea y lo indica en `caveats`. El idioma `nl` se añadió al mapa de idiomas de
-la aplicación para que las lecturas neerlandesas muestren su nombre.
+se leen en 1 o 2. Las seis obras visuales enlazan su ficha en Commons y la
+ficha del museo que las conserva.
 
 ## Las vidas detrás de las obras
 
