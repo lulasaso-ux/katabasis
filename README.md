@@ -141,6 +141,44 @@ Ninguna de las once lecturas pasa de **4 minutos estimados** y nueve de ellas
 se leen en 1 o 2. Las seis obras visuales enlazan su ficha en Commons y la
 ficha del museo que las conserva.
 
+## Contrapasso y The Gilded Age
+
+| Paquete | Lecturas | Obras visuales |
+| --- | ---: | ---: |
+| Contrapasso | 5 | 3 |
+| The Gilded Age | 6 | 5 |
+
+**Contrapasso** reúne cinco lecturas de Dante fuera de la *Comedia*: el
+capítulo III de la *Vita nuova* con su soneto «A ciascun’alma presa»
+(edición de Barbi, 1907); la canción petrosa «Così nel mio parlar voglio esser
+aspro» (83 versos); *De vulgari eloquentia* II.ii, desde los tres grandes temas
+hasta el final del capítulo, donde Bertran de Born es el poeta de las armas
+(edición de Giuliani, 1878); *Convivio* IV.xi, 6-14, que lo nombra entre los
+generosos; y la *Epistola* XII completa, a un amigo florentino. Originales de
+it.wikisource y la.wikisource; cada ficha declara en `source_edition` las
+erratas de transcripción corregidas. Las tres reproducciones son el Bertran de
+Born de Gustave Doré (ejemplar de *The Vision of Hell*, 1866, en el
+Metropolitan, 21.36.133), el Dante de Andrea del Castagno (Uffizi) y el
+encuentro florentino de *El saludo de Beatriz* de Dante Gabriel Rossetti
+(National Gallery of Canada, 6750.1-3).
+
+**The Gilded Age** reúne seis lecturas estadounidenses de 1883 a 1899: el
+capítulo XXXI de *Huckleberry Finn*, desde «It made me shiver» hasta la
+decisión de liberar a Jim; los tres primeros párrafos del capítulo IV de *Life
+on the Mississippi*; «The New Colossus» de Emma Lazarus; «We Wear the Mask» de
+Paul Laurence Dunbar; «A man said to the universe» de Stephen Crane; y «The
+Man with the Hoe» de Edwin Markham, con su epígrafe. Originales de Project
+Gutenberg y en.wikisource. Las cinco reproducciones son «A Fair Fit» de E. W.
+Kemble para la primera edición de *Huckleberry Finn* (Metropolitan,
+1986.1145.27, CC0), *The Great Bartholdi Statue* de Currier & Ives
+(Metropolitan, 54.90.778, CC0), *Dressing for the Carnival* (22.220, CC0) y
+*The Gulf Stream* (06.1234) de Winslow Homer, en el Metropolitan, y *Man with
+a Hoe* de Jean-François Millet (J. Paul Getty Museum, 85.PA.114).
+
+Ninguna de las once lecturas pasa de **5 minutos estimados** y cuatro de ellas
+se leen en 1 o 2. Las ocho obras visuales enlazan su ficha en Commons y la
+ficha del museo que las conserva.
+
 ## Las vidas detrás de las obras
 
 Obras y autores continúa debajo del mapa con una cronología de nacimientos y
@@ -166,8 +204,8 @@ incertidumbre del año. Las autorías anónimas, colectivas o de biografía
 incierta permanecen en una sección explicada, sin asignarles vidas ficticias.
 `app/author-timeline.js` y `.css` contienen el renderizador y sus estilos.
 
-Con todos los paquetes activos hay **220 lecturas, 142 autores o autorías y
-106 obras visuales**. Las biografías cubren los 142 registros: 129 con fechas
+Con todos los paquetes activos hay **231 lecturas, 147 autores o autorías y
+114 obras visuales**. Las biografías cubren los 147 registros: 134 con fechas
 y 13 sin límites biográficos seguros. Al añadir autores, hay que incorporar
 también su registro biográfico o una nota que explique la incertidumbre.
 
