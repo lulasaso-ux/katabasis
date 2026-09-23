@@ -179,6 +179,40 @@ Ninguna de las once lecturas pasa de **5 minutos estimados** y cuatro de ellas
 se leen en 1 o 2. Las ocho obras visuales enlazan su ficha en Commons y la
 ficha del museo que las conserva.
 
+## Tragedia y Comedia
+
+| Paquete | Lecturas | Obras visuales |
+| --- | ---: | ---: |
+| Tragedia | 6 | 5 |
+| Comedia | 6 | 4 |
+
+**Tragedia** reúne seis lecturas: el himno a Zeus del *Agamenón* de Esquilo
+(160-183); los versos finales de *Edipo rey* de Sófocles (1524-1530); el
+monólogo de Medea ante sus hijos en la *Medea* de Eurípides (1021-1080); el
+último parlamento de *Otelo* (V.2); la confesión de Fedra a Enone en la
+*Fedra* de Racine (I.3, vv. 269-316); y el último soliloquio del *Doctor
+Fausto* de Marlowe. Los griegos proceden de los textos TEI de la Perseus
+Digital Library (ediciones de Smyth, Storr y Murray). Las cinco
+reproducciones son *Edipo y la Esfinge* de Gustave Moreau, la *Medea* de
+William Wetmore Story, la lámina 14 del *Otelo* de Théodore Chassériau y el
+*Fausto* de Rembrandt, todas del Metropolitan (CC0), y la *Fedra* de
+Alexandre Cabanel (Petit Palais, PDUT1500, CC0).
+
+**Comedia** reúne seis lecturas: Estrepsíades y Sócrates en *Las nubes* de
+Aristófanes (218-238); el lamento de Euclión en la *Aulularia* de Plauto
+(713-726); el monólogo de Harpagón en *El avaro* de Molière (IV.7); «All the
+world’s a stage» de *Como gustéis* (II.7); el pasaje de las seis llaves del
+*Arte nuevo de hacer comedias* de Lope de Vega; y el monólogo del alcalde en
+*El inspector* de Gógol (V.8). Las cuatro reproducciones son una estatuilla
+ática de actor cómico, el frontispicio de Hogarth para *El avaro* grabado por
+John Vandergucht y *Los comediantes franceses* de Watteau, del Metropolitan
+(CC0), y *Las siete edades del hombre* de William Mulready (Victoria and
+Albert Museum, FA.138[O]).
+
+Ninguna de las doce lecturas pasa de **3 minutos estimados** y nueve de ellas
+se leen en 1 o 2. Las nueve obras visuales enlazan su ficha en Commons y la
+ficha del museo que las conserva.
+
 ## Las vidas detrás de las obras
 
 Obras y autores continúa debajo del mapa con una cronología de nacimientos y
@@ -204,8 +238,8 @@ incertidumbre del año. Las autorías anónimas, colectivas o de biografía
 incierta permanecen en una sección explicada, sin asignarles vidas ficticias.
 `app/author-timeline.js` y `.css` contienen el renderizador y sus estilos.
 
-Con todos los paquetes activos hay **231 lecturas, 147 autores o autorías y
-114 obras visuales**. Las biografías cubren los 147 registros: 134 con fechas
+Con todos los paquetes activos hay **243 lecturas, 156 autores o autorías y
+123 obras visuales**. Las biografías cubren los 156 registros: 143 con fechas
 y 13 sin límites biográficos seguros. Al añadir autores, hay que incorporar
 también su registro biográfico o una nota que explique la incertidumbre.
 

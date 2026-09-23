@@ -25,7 +25,7 @@ assert.equal(people.length,new Set(catalog.map(w=>w.author)).size);
 assert.equal(people.reduce((n,p)=>n+p.works.length,0),catalog.length);
 assert.equal(timeline.authors(catalog.filter(w=>w.package_id==='mvp'),lives).length,new Set(catalog.filter(w=>w.package_id==='mvp').map(w=>w.author)).size);
 const shakespeare=people.find(p=>p.author==='William Shakespeare');
-assert.equal(shakespeare.birth.min,1564);assert.equal(shakespeare.death.max,1616);assert.equal(shakespeare.works.length,6);
+assert.equal(shakespeare.birth.min,1564);assert.equal(shakespeare.death.max,1616);assert.equal(shakespeare.works.length,8);
 assert.equal(timeline.lifespan(shakespeare,'es'),'1564 — 1616','Calendar qualifiers do not make years approximate');
 assert.equal(timeline.lifespan(people.find(p=>p.author==='Leo Tolstoy'),'es'),'1828 — 1910');
 assert.equal(people.find(p=>p.author.startsWith('Hernando Alvarado')).birth.max,1525,'A century-precision claim is not a second birth year');

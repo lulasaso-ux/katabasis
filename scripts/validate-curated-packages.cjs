@@ -111,7 +111,8 @@ for (const list of [works, paintings, packages]) {
 for (const [id, expectedReadings, expectedArt] of [
   ['renaissance-superpack', 12, 6], ['latin-american-romanticism', 6, 3], ['goethezeit',4,2], ['quixote-mysteries',5,1], ['bardolatry',4,2], ['cervantismo',4,1], ['war-peace-mysteries',5,1], ['aeneid-mysteries',5,2],
   ['vondeliana',5,3], ['os-lusiadas',6,3],
-  ['contrapasso',5,3], ['gilded-age',6,5]
+  ['contrapasso',5,3], ['gilded-age',6,5],
+  ['tragedia',6,5], ['comedia',6,4]
 ]) {
   assert.equal(works.filter(w=>w.package_id===id||(w.additional_package_ids||[]).includes(id)).length, expectedReadings);
   assert.equal(paintings.filter(w=>w.package_id===id).length, expectedArt);
@@ -121,6 +122,7 @@ const expectedLines = {
  'vond-kinderlyck':16,'vond-dochterken':42,'vond-wiltzangk':32,'vond-kersnacht':48,'vond-rey-engelen':67,
  'lus-velho-restelo':88,'lus-alma-gentil':14,'lus-sete-annos':14,'lus-miranda-desavim':12,'lus-garrett-inferno':18,'lus-antero-maodeus':14,
  'contra-petra':83,'gilded-colossus':14,'gilded-mask':15,'gilded-universe':5,'gilded-hoe':51,
+ 'trag-agamemnon-zeus':22,'trag-oedipus-end':7,'trag-medea-children':61,'trag-othello-soft':20,'trag-phedre-aveu':48,'trag-faustus-hour':63,'com-aulularia-euclio':14,'com-ayli-stage':28,'com-lope-arte':16,
  'bard-sonnet-116':14,'bard-hamlet-being':35,'bard-macbeth-tomorrow':12,'bard-tempest-revels':18,'aen-troy-burden':23,'aen-dido-farewell':21,'aen-anchises-embrace':24,'aen-pallas-return':25,'aen-turnus-last':34,
  'goethezeit-erlkonig':32,'goethezeit-mignon':21,'goethezeit-gretchen':40,
   'ren-michelangelo-sonnet':14, 'ren-camoes-fire':14, 'ren-shakespeare-73':14,
