@@ -213,6 +213,28 @@ Ninguna de las doce lecturas pasa de **3 minutos estimados** y nueve de ellas
 se leen en 1 o 2. Las nueve obras visuales enlazan su ficha en Commons y la
 ficha del museo que las conserva.
 
+## Nashe vsyo
+
+| Paquete | Lecturas | Obras visuales |
+| --- | ---: | ---: |
+| Nashe vsyo | 6 | 3 |
+
+**Nashe vsyo** («Наше всё», «nuestro todo», como llamó Apolón Grigóriev a
+Pushkin en 1859) reúne seis lecturas de Alexander Pushkin distintas de «Я вас
+любил», que ya estaba en el catálogo: «Я помню чудное мгновенье», el poema a
+Anna Kern; «Пророк»; la carta de Tatiana a Oneguin (*Eugenio Oneguin*, III);
+los versos 1-20 de la Introducción de *El jinete de bronce*; «Зимнее утро»; y
+«Я памятник себе воздвиг нерукотворный». Los textos proceden de Wikisource en
+ruso y se comprobaron contra sus páginas. Las tres reproducciones son el
+retrato de Pushkin de Orest Kiprenski (Galería Tretiakov, inv. 168), la
+*Vista del monumento a Pedro I en la plaza del Senado* de Vasili Súrikov
+(Museo de Arte Súrikov de Krasnoyarsk) e *Invierno* de Iván Shishkin (Museo
+Ruso, Ж-2803).
+
+Ninguna de las seis lecturas pasa de **3 minutos estimados** y cinco de ellas
+se leen en 1 o 2. Las tres obras visuales enlazan su ficha en Commons y la
+ficha del museo que las conserva.
+
 ## Las vidas detrás de las obras
 
 Obras y autores continúa debajo del mapa con una cronología de nacimientos y
@@ -238,8 +260,8 @@ incertidumbre del año. Las autorías anónimas, colectivas o de biografía
 incierta permanecen en una sección explicada, sin asignarles vidas ficticias.
 `app/author-timeline.js` y `.css` contienen el renderizador y sus estilos.
 
-Con todos los paquetes activos hay **243 lecturas, 156 autores o autorías y
-123 obras visuales**. Las biografías cubren los 156 registros: 143 con fechas
+Con todos los paquetes activos hay **249 lecturas, 156 autores o autorías y
+126 obras visuales**. Las biografías cubren los 156 registros: 143 con fechas
 y 13 sin límites biográficos seguros. Al añadir autores, hay que incorporar
 también su registro biográfico o una nota que explique la incertidumbre.
 
