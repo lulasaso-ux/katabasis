@@ -2060,6 +2060,81 @@
       },
       "source": "https://www.wikidata.org/wiki/Q467494",
       "checked": "2026-09-22"
+    },
+    {
+      "author": "Mark Twain",
+      "birth": {
+        "min": 1835,
+        "max": 1835,
+        "approximate": false
+      },
+      "death": {
+        "min": 1910,
+        "max": 1910,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q7245",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Emma Lazarus",
+      "birth": {
+        "min": 1849,
+        "max": 1849,
+        "approximate": false
+      },
+      "death": {
+        "min": 1887,
+        "max": 1887,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q240959",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Paul Laurence Dunbar",
+      "birth": {
+        "min": 1872,
+        "max": 1872,
+        "approximate": false
+      },
+      "death": {
+        "min": 1906,
+        "max": 1906,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q974678",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Stephen Crane",
+      "birth": {
+        "min": 1871,
+        "max": 1871,
+        "approximate": false
+      },
+      "death": {
+        "min": 1900,
+        "max": 1900,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q206534",
+      "checked": "2026-09-22"
+    },
+    {
+      "author": "Edwin Markham",
+      "birth": {
+        "min": 1852,
+        "max": 1852,
+        "approximate": false
+      },
+      "death": {
+        "min": 1940,
+        "max": 1940,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q5346648",
+      "checked": "2026-09-22"
     }
   ]
 }
