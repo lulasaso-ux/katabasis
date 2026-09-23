@@ -2135,6 +2135,141 @@
       },
       "source": "https://www.wikidata.org/wiki/Q5346648",
       "checked": "2026-09-22"
+    },
+    {
+      "author": "Aeschylus",
+      "birth": {
+        "min": -525,
+        "max": -525,
+        "approximate": true
+      },
+      "death": {
+        "min": -456,
+        "max": -456,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q40939",
+      "checked": "2026-09-23"
+    },
+    {
+      "author": "Euripides",
+      "birth": {
+        "min": -485,
+        "max": -480,
+        "approximate": true
+      },
+      "death": {
+        "min": -407,
+        "max": -406,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q48305",
+      "checked": "2026-09-23"
+    },
+    {
+      "author": "Aristophanes",
+      "birth": {
+        "min": -450,
+        "max": -444,
+        "approximate": true
+      },
+      "death": {
+        "min": -388,
+        "max": -385,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q43353",
+      "checked": "2026-09-23"
+    },
+    {
+      "author": "Plautus",
+      "birth": {
+        "min": -254,
+        "max": -250,
+        "approximate": true
+      },
+      "death": {
+        "min": -184,
+        "max": -184,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q47160",
+      "checked": "2026-09-23"
+    },
+    {
+      "author": "Molière",
+      "birth": {
+        "min": 1622,
+        "max": 1622,
+        "approximate": false
+      },
+      "death": {
+        "min": 1673,
+        "max": 1673,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q687",
+      "checked": "2026-09-23"
+    },
+    {
+      "author": "Jean Racine",
+      "birth": {
+        "min": 1639,
+        "max": 1639,
+        "approximate": false
+      },
+      "death": {
+        "min": 1699,
+        "max": 1699,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q742",
+      "checked": "2026-09-23"
+    },
+    {
+      "author": "Lope de Vega",
+      "birth": {
+        "min": 1562,
+        "max": 1562,
+        "approximate": false
+      },
+      "death": {
+        "min": 1635,
+        "max": 1635,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q165257",
+      "checked": "2026-09-23"
+    },
+    {
+      "author": "Nikolai Gogol",
+      "birth": {
+        "min": 1809,
+        "max": 1809,
+        "approximate": false
+      },
+      "death": {
+        "min": 1852,
+        "max": 1852,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q43718",
+      "checked": "2026-09-23"
+    },
+    {
+      "author": "Christopher Marlowe",
+      "birth": {
+        "min": 1564,
+        "max": 1564,
+        "approximate": false
+      },
+      "death": {
+        "min": 1593,
+        "max": 1593,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q28975",
+      "checked": "2026-09-23"
     }
   ]
 }
