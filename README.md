@@ -235,6 +235,32 @@ Ninguna de las seis lecturas pasa de **3 minutos estimados** y cinco de ellas
 se leen en 1 o 2. Las tres obras visuales enlazan su ficha en Commons y la
 ficha del museo que las conserva.
 
+## República de las letras
+
+| Paquete | Lecturas | Obras visuales |
+| --- | ---: | ---: |
+| República de las letras | 6 | 5 |
+
+**República de las letras** reúne seis cartas, de 1345 a 1755: la de Petrarca a
+Cicerón (*Familiares* XXIV, 3), completa; los dos primeros párrafos de la
+carta de Erasmo a Ulrich von Hutten sobre Tomás Moro (1519); la jornada de
+Maquiavelo en su finca y en su estudio, de la carta a Francesco Vettori del 10
+de diciembre de 1513; la invitación de Descartes a Guez de Balzac para que se
+retire a Ámsterdam (1631); la carta de Madame de Sévigné a Coulanges sobre la
+boda de Lauzun (15 de diciembre de 1670), completa; y el primer párrafo de la
+carta de Voltaire a Rousseau del 30 de agosto de 1755. Los textos proceden de
+Wikisource en latín, italiano y francés y se comprobaron contra sus páginas;
+en Descartes (edición Adam-Tannery) la s larga, u/v e i/j se componen según el
+uso moderno. Las cinco reproducciones son el *Erasmo* de Durero, la portada de
+Reinier Nooms para sus vistas de Ámsterdam y el *Voltaire* de Houdon, del
+Metropolitan (CC0); la *Mujer leyendo una carta* de Vermeer (Rijksmuseum,
+SK-C-251); y el retrato de Madame de Sévigné atribuido a Claude Lefèbvre
+(Musée Carnavalet, P1978, CC0).
+
+Ninguna de las seis lecturas pasa de **4 minutos estimados** y cinco de ellas
+se leen en 3 o menos. Las cinco obras visuales enlazan su ficha en Commons y la
+ficha del museo que las conserva.
+
 ## Las vidas detrás de las obras
 
 Obras y autores continúa debajo del mapa con una cronología de nacimientos y
@@ -260,8 +286,8 @@ incertidumbre del año. Las autorías anónimas, colectivas o de biografía
 incierta permanecen en una sección explicada, sin asignarles vidas ficticias.
 `app/author-timeline.js` y `.css` contienen el renderizador y sus estilos.
 
-Con todos los paquetes activos hay **249 lecturas, 156 autores o autorías y
-126 obras visuales**. Las biografías cubren los 156 registros: 143 con fechas
+Con todos los paquetes activos hay **255 lecturas, 160 autores o autorías y
+131 obras visuales**. Las biografías cubren los 160 registros: 147 con fechas
 y 13 sin límites biográficos seguros. Al añadir autores, hay que incorporar
 también su registro biográfico o una nota que explique la incertidumbre.
 

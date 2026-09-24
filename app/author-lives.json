@@ -2270,6 +2270,66 @@
       },
       "source": "https://www.wikidata.org/wiki/Q28975",
       "checked": "2026-09-23"
+    },
+    {
+      "author": "Desiderius Erasmus",
+      "birth": {
+        "min": 1466,
+        "max": 1469,
+        "approximate": true
+      },
+      "death": {
+        "min": 1536,
+        "max": 1536,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q43499",
+      "checked": "2026-09-24"
+    },
+    {
+      "author": "René Descartes",
+      "birth": {
+        "min": 1596,
+        "max": 1596,
+        "approximate": false
+      },
+      "death": {
+        "min": 1650,
+        "max": 1650,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q9191",
+      "checked": "2026-09-24"
+    },
+    {
+      "author": "Madame de Sévigné",
+      "birth": {
+        "min": 1626,
+        "max": 1626,
+        "approximate": false
+      },
+      "death": {
+        "min": 1696,
+        "max": 1696,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q237103",
+      "checked": "2026-09-24"
+    },
+    {
+      "author": "Voltaire",
+      "birth": {
+        "min": 1694,
+        "max": 1694,
+        "approximate": false
+      },
+      "death": {
+        "min": 1778,
+        "max": 1778,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q9068",
+      "checked": "2026-09-24"
     }
   ]
 }
