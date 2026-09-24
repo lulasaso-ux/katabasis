@@ -312,7 +312,7 @@ el geʽez se separa por su signo de palabra y en hebreo se ignoran los signos
 de cantilación.
 
 `app/gloss-lexicon.json` guarda las glosas por idioma y forma de palabra:
-28 idiomas y 23.432 entradas, sin entradas que ninguna lectura use.
+28 idiomas y 26.634 entradas, sin entradas que ninguna lectura use.
 `app/gloss.js` divide el texto y lo presenta; `app/extras.css` contiene sus
 estilos. Al añadir o corregir una lectura hay que glosar también sus palabras
 nuevas.
@@ -321,4 +321,21 @@ nuevas.
 node scripts/validate-curated-packages.cjs
 node scripts/validate-author-timeline.cjs
 node scripts/validate-glosses.cjs
+node scripts/validate-compass.cjs
 ```
+
+## Brújula
+
+La brújula sitúa a 77 autores en dos ejes: de la narración transparente a la
+forma y el esteticismo, y del desencanto a la trascendencia. «Haz match
+conmigo» tiene 18 preguntas de cinco grados: 8 para el eje vertical y 10 para
+el horizontal. Tres de las horizontales preguntan hacia dónde prefiere mirar el
+lector (lo que el hambre, la guerra o el dinero hacen a la gente, frente a lo
+verdadero, lo bello o lo que merece amarse) y las demás, qué espera de una obra.
+Los dos polos de cada pregunta están redactados para que ninguno suene a
+defecto. Cada respuesta extrema mueve el resultado 10 puntos en horizontal y
+12,5 en vertical; con respuestas coherentes, fuertes o moderadas, se llega a
+los cuatro cuadrantes. `app/compass-data.js` guarda autores y preguntas, y
+`scripts/validate-compass.cjs` comprueba que las preguntas estén completas en
+los dos idiomas, que los ejes estén equilibrados y que cada cuadrante sea
+alcanzable y tenga al menos ocho autores.
