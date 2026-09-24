@@ -113,7 +113,7 @@ for (const [id, expectedReadings, expectedArt] of [
   ['vondeliana',5,3], ['os-lusiadas',6,3],
   ['contrapasso',5,3], ['gilded-age',6,5],
   ['tragedia',6,5], ['comedia',6,4],
-  ['nashe-vsyo',6,3]
+  ['nashe-vsyo',6,3], ['republica-letras',6,5]
 ]) {
   assert.equal(works.filter(w=>w.package_id===id||(w.additional_package_ids||[]).includes(id)).length, expectedReadings);
   assert.equal(paintings.filter(w=>w.package_id===id).length, expectedArt);
