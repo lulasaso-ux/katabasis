@@ -10,4 +10,5 @@
 .official-missing{font:15px/1.6 var(--serif,Georgia,serif);font-style:italic;color:#8a7866;margin:0}
 .official-note{font-size:13px;color:#786352}
 .official-row+.official-row{margin-top:14px}
+.official-row .segment{white-space:pre-line}
 @media (max-width:700px){.top-tools{gap:8px}.edition-toggle{padding:5px 7px;font-size:11px}.edition-options{width:220px}}

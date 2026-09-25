@@ -339,3 +339,27 @@ los cuatro cuadrantes. `app/compass-data.js` guarda autores y preguntas, y
 `scripts/validate-compass.cjs` comprueba que las preguntas estén completas en
 los dos idiomas, que los ejes estén equilibrados y que cada cuadrante sea
 alcanzable y tenga al menos ocho autores.
+
+## Traducciones oficiales
+
+El menú junto al número de lecturas cambia entre «Traducciones de IA» (todas
+las lecturas, con la traducción literal de trabajo) y «Solo traducciones
+oficiales». En el segundo modo quedan solo las lecturas que tienen una
+traducción publicada de dominio público al español o al inglés, y esa versión
+sustituye a la de IA, alineada con el original por estrofa o párrafo. El
+traductor, la edición y la fuente se indican bajo el texto. Si la lectura solo
+tiene versión oficial en el otro idioma, el lector lo dice y muestra el
+original. La elección se guarda en el navegador.
+
+Solo entran traducciones publicadas antes de 1930 cuyo traductor murió antes
+de 1946. Hay 120 lecturas con traducción oficial: 117 en inglés y 34 en
+español. `app/official-translations.json` guarda los bloques de texto y el
+intervalo de filas del original que cubre cada uno; `app/official.js` y
+`app/official.css` hacen el menú y la presentación.
+`scripts/validate-official.cjs` comprueba que cada lectura exista, que la
+lengua no sea la del original, que las fechas cumplan el criterio y que los
+bloques cubran todas las filas sin huecos.
+
+```sh
+node scripts/validate-official.cjs
+```

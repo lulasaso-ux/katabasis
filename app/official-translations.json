@@ -4930,6 +4930,126 @@
    ]
   }
  },
+ "ren-san-juan-night": {
+  "en": {
+   "translator": "Arthur Symons",
+   "translator_life": "1865–1945",
+   "year": "1899",
+   "edition": "“The Obscure Night of the Soul”, in Images of Good and Evil, by Arthur Symons (London, Heinemann, 1899), Internet Archive",
+   "source": "https://archive.org/details/imagesgoodandev00symogoog",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      4
+     ],
+     "text": "Upon an obscure night,\nFevered with love in love's anxiety,\n(O hapless-happy plight!)\nI went, none seeing me,\nForth from my house where all things quiet be."
+    },
+    {
+     "rows": [
+      5,
+      9
+     ],
+     "text": "By night, secure from sight,\nAnd by the secret stair, disguisedly,\n(O hapless-happy plight!)\nBy night, and privily,\nForth from my house where all things quiet be."
+    },
+    {
+     "rows": [
+      10,
+      14
+     ],
+     "text": "Blest night of wandering,\nIn secret, where by none might I be spied,\nNor I see anything;\nWithout a light or guide,\nSave that which in my heart burnt in my side."
+    },
+    {
+     "rows": [
+      15,
+      19
+     ],
+     "text": "That light did lead me on,\nMore surely than the shining of noontide,\nWhere well I knew that one\nDid for my coming bide;\nWhere he abode might none but he abide."
+    },
+    {
+     "rows": [
+      20,
+      24
+     ],
+     "text": "O night that didst lead thus,\nO night more lovely than the dawn of light,\nO night that broughtest us,\nLover to lover's sight,\nLover with loved in marriage of delight!"
+    },
+    {
+     "rows": [
+      25,
+      29
+     ],
+     "text": "Upon my flowery breast,\nWholly for him, and save himself for none,\nThere did I give sweet rest\nTo my beloved one;\nThe fanning of the cedars breathed thereon."
+    },
+    {
+     "rows": [
+      30,
+      34
+     ],
+     "text": "When the first moving air\nBlew from the tower, and waved his locks aside,\nHis hand, with gentle care,\nDid wound me in the side,\nAnd in my body all my senses died."
+    },
+    {
+     "rows": [
+      35,
+      39
+     ],
+     "text": "All things I then forgot,\nMy cheek on him who for my coming came;\nAll ceased, and I was not,\nLeaving my cares and shame\nAmong the lilies, and forgetting them."
+    }
+   ]
+  }
+ },
+ "latrom-isaacs-maria": {
+  "en": {
+   "translator": "Rollo Ogden",
+   "translator_life": "1856–1937",
+   "year": "1890",
+   "edition": "María: A South American Romance, by Jorge Isaacs, translated by Rollo Ogden (New York, Harper, 1890), chapter I, Internet Archive",
+   "source": "https://archive.org/details/mariaasouthamer00isaagoog",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "I was still a mere boy when sent away from home to study in College, founded a few years before in Bogotá, and then well known all through Colombia."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "The night before my departure, after the family gathering in the evening, one of my sisters came into my room, and, without saying a single word, because she could not trust her voice, cut off a lock of my hair; when she had gone, I found my neck wet with her tears."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "I fell asleep sorrowful, filled with a vague foreboding of coming trouble. That lock of hair taken from a boy’s head; that precaution of love against death, even in the presence of abounding life, caused my thoughts to wander all night about those scenes where I had passed, without knowing it, the happiest hours of my life."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "The next morning, my father had to loosen my mother’s arms from my neck. My sisters tried to kiss away my tears. María quietly waited her turn, and stammering out a good-bye, touched her blushing cheek to mine, chilled by the first feeling of sorrow."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "A few moments after, I was following my father, who hid his face from my eyes. The tramp of our horses on the pebbly path made my last sobs inaudible. The murmur of the Zabaletas, whose banks lay to our right, grew fainter and fainter."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "We were already rounding one of those hills in the path on which expected guests used to be looked for from the house; I threw a last glance backward: María was behind the creeper that climbed up by the windows of my mother’s room."
+    }
+   ]
+  }
+ },
  "goethezeit-erlkonig": {
   "en": {
    "translator": "Edgar Alfred Bowring",
@@ -5261,6 +5381,38 @@
       2
      ],
      "text": "Such was the end of the Ingenious Gentleman of La Mancha, whose village Cide Hamete would not indicate precisely, in order to leave all the towns and villages of La Mancha to contend among themselves for the right to adopt him and claim him as a son, as the seven cities of Greece contended for Homer."
+    }
+   ]
+  }
+ },
+ "bard-macbeth-tomorrow": {
+  "es": {
+   "translator": "Marcelino Menéndez Pelayo",
+   "translator_life": "1856–1912",
+   "year": "1881",
+   "edition": "Dramas de Guillermo Shakspeare, traducción de D. Marcelino Menéndez Pelayo (Barcelona, Biblioteca «Arte y Letras», 1881), tomo I, Project Gutenberg 53207, Macbeth, acto V, escena V",
+   "source": "https://www.gutenberg.org/ebooks/53207",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      1
+     ],
+     "text": "¡Ojalá hubiera sido más tarde! No es oportuna la ocasion para tales nuevas."
+    },
+    {
+     "rows": [
+      2,
+      6
+     ],
+     "text": "Esa engañosa palabra mañana, mañana, mañana nos va llevando por dias al sepulcro, y la falaz lumbre del ayer ilumina al necio hasta que cae en la fosa. ¡Apágate ya, luz de mi vida!"
+    },
+    {
+     "rows": [
+      7,
+      11
+     ],
+     "text": "¿Qué es la vida sino una sombra, un histrion que pasa por el teatro, y á quien se olvida despues, ó la vana y ruidosa fábula de un necio?"
     }
    ]
   }
@@ -6347,6 +6499,319 @@
    ]
   }
  },
+ "contra-petra": {
+  "en": {
+   "translator": "Charles Lyell",
+   "translator_life": "1767–1849",
+   "year": "1840",
+   "edition": "The Canzoniere of Dante Alighieri, including the Poems of the Vita Nuova and Convito, Italian and English, translated by Charles Lyell (London, Murray, 1840), canzone IX, Internet Archive",
+   "source": "https://archive.org/details/thecanzionereofdantealighi",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      12
+     ],
+     "text": "Severe shall be my speech, as are the deeds\nOf her, the rock so beautiful and cold,\nWhich every hour becomes\nStill harder and of nature more unkind.\nShe clothes her person, too, in adamant,\nSo that no arrow from Love’s quiver finds\nA part exposed; still safe\nWhether she stand, or whether she retreat;\nBut man she slays though clad in coat of mail,\nOr far retired, to escape her mortal blows,\nWhich fly as if with wings,\nAnd him o’ertake, and all his armour pierce:\nSo that no skill or might of mine ’gainst her avails."
+    },
+    {
+     "rows": [
+      13,
+      25
+     ],
+     "text": "No shield of mine I find but she can break,\nNor hiding-place can screen me from her view;\nYet as the flower crowns the leafy stalk,\nShe occupies the summit of my thoughts.\nRegardless of my pain she seems, and moved\nNo more than ship unstirred by gentlest wave.\nThe weight which sinks me down\nDefies the power of verse to paint with truth.\nAlas! thou pitiless and painful file,\nWhich silently impair’st my wasting life,\nWhy fear’st thou not as much\nThus to corrode and peel away my heart,\nAs I to tell the world whence springs thy power?"
+    },
+    {
+     "rows": [
+      26,
+      38
+     ],
+     "text": "My heart more trembles when I think on her\nIn places apt to attract observers’ eye,\nFor fear my thoughts should glimmer through\nTheir veil, and thus should be discovered,\nThan when I think of death, for every sense\nAlready is devoured by tooth of Love.\nWhat occupies my thoughts impairs\nMy faculties, and makes their efforts weak.\nBy Love I’m stricken down; he stands above me\nAnd threatens with the sword that Dido slew.\nTo Love I suppliant cry,\nMercy I beg, and humbly to him pray;\nBut he seems sent all mercy to deny."
+    },
+    {
+     "rows": [
+      39,
+      51
+     ],
+     "text": "From time to time this cruel victor lifts\nHis hand in threats to take my feeble life;\nO’erthrown and stretched upon the earth\nHe holds me, breathless and immoveable:\nLoud are the cries which rise within my mind;\nThe blood which is dispersed throughout the veins,\nAlarmed, runs swift toward\nThe heart which calls it, and I white remain.\n’Neath my left arm he strikes a blow so strong\nThat pain responsive from the heart rebounds.\nI then say: Should he lift his hand\nAgain, I in Death’s fold shall be inclosed,\nBefore the blow can have descended down."
+    },
+    {
+     "rows": [
+      52,
+      64
+     ],
+     "text": "O could I see him cleave the heart in twain\nOf that inhuman fair who mine has torn;\nGloomy not then to me would seem stern Death,\nWhither I hasten, by the beauty drawn,\nDisplayed alike in sunshine and in shade,\nOf this assassin, who both robs and kills.\nAlas! why calls she not as loud for me\nAs I for her within the burning flood?\nInstant would I exclaim: Your help is here;\nLike those who aid the drowning would I run,\nWith joy in those fair locks,\nWhich Love for my destruction gilds and curls,\nWould fix my hand, and then should rest content."
+    },
+    {
+     "rows": [
+      65,
+      77
+     ],
+     "text": "When once those golden tresses I had seized,\nWhich have to me as scourges been and goads,\nThough grasped before the dawn,\nThem would I hold till eve and morning bell;\nNor pitiful nor courteous would I be,\nBut like the bear in sportive mood would play:\nAnd oft as Love has punished me for her\nA thousand times as oft would be avenged:\nThose beauteous eyes from whence the lightnings flash,\nWhich have inflamed the wounded heart I bear,\nI close would gaze at and with fixed regard,\nAnd for her coyness ample vengeance take;\nAnd then would peace restore to her, with love."
+    },
+    {
+     "rows": [
+      78,
+      82
+     ],
+     "text": "My Song, unto my lady straight repair,\nHer who my heart has wounded, and who robs\nMy mind of that in which I most delight;\nThen pierce her with an arrow through the heart\nFor bright the honour by revenge acquired."
+    }
+   ]
+  }
+ },
+ "contra-convivio-bertran": {
+  "en": {
+   "translator": "Philip H. Wicksteed",
+   "translator_life": "1844–1927",
+   "year": "1903",
+   "edition": "The Convivio of Dante Alighieri, translated by Philip H. Wicksteed (London, Dent, Temple Classics, 1903; 1912 reprint), treatise IV, chapter XI, Internet Archive",
+   "source": "https://archive.org/details/convivioofdantea00dantuoft",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "I say that their imperfection may be noted firstly in the want of discernment in their advent, wherein no distributive justice shines, but absolute iniquity almost always; which iniquity is the proper effect of imperfection."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "For if we consider the ways in which they come, all may be gathered into three fashions;"
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "for either they come by pure fortune, as when without intention or hope they come by some unsought discovery;"
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "or they come by fortune supported by Reason, as by testaments or by mutual succession;"
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "or they come by fortune aiding reason, as in lawful or unlawful gains. By lawful I mean the earnings of art or trade or service; by unlawful I mean theft or plunder."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "And in each of these three modes that iniquity of which I speak may be observed; for hidden wealth which is discovered or rediscovered oftener presents itself to the bad than to the good; and this is so obvious that it needs no proof."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "Indeed, I have seen the place on the ribs of a mountain in Tuscany, called Falterona, where the basest churl of the whole country side discovered, as he was digging, more than a bushel of santelenas of finest silver, which had been waiting for him maybe a thousand years or more."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "And it was because he noted this want of equity that Aristotle declared that ‘the more subject a man is to understanding the less subject he is to fortune.’"
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "And I affirm that inheritance by will or by succession oftener comes to the bad than to the good; and of this I will not bring any evidence, but let each man turn his eyes round his own neighbourhood and he will perceive that of which I speak, not, so as to cast no smirch on any."
+    },
+    {
+     "rows": [
+      9,
+      9
+     ],
+     "text": "Would that it were God’s pleasure that what the Provençal desired should come to pass, that ‘whoso is not heir of the excellence should lose the inheritance of the possessions.’"
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "And I affirm that gain is precisely that which comes oftener to the bad than to the good; for illegitimate gains never come to the good at all, because they reject them."
+    },
+    {
+     "rows": [
+      11,
+      11
+     ],
+     "text": "What good man will ever seek gain by force or by fraud? It were impossible; for by the very choice of the unlawful undertaking he would cease to be good."
+    },
+    {
+     "rows": [
+      12,
+      12
+     ],
+     "text": "And lawful gains rarely come to the good, because, since much anxious care is needful thereto, and the anxious care of the good man is directed to weightier matters, rarely does the good man give sufficient attention thereto."
+    },
+    {
+     "rows": [
+      13,
+      13
+     ],
+     "text": "Wherefore it is clear that in every way the advent of these riches is iniquitous, and therefore our Lord called them iniquitous when he said, ‘Make to yourselves friends of the money of iniquity,’ inviting and encouraging men to liberality in benefactions which are the begetters of friends."
+    },
+    {
+     "rows": [
+      14,
+      14
+     ],
+     "text": "And how fair an exchange does he make who gives of these most imperfect things in order to have and to gain perfect things, such as are the hearts of worthy men! And this market is open every day."
+    },
+    {
+     "rows": [
+      15,
+      15
+     ],
+     "text": "Verily this merchandise is unlike others, for when the thought is to purchase one man by the benefaction, thousands are purchased by it."
+    },
+    {
+     "rows": [
+      16,
+      16
+     ],
+     "text": "And who has not Alexander in his heart even yet for his royal benefactions? Who has not the good King of Castile in his heart, or Saladin, or the good Marquess of Monferrato, or the good Count of Toulouse, or Bertram de Born, or Galeazzo of Montefeltro, when mention is made of their donations?"
+    },
+    {
+     "rows": [
+      17,
+      17
+     ],
+     "text": "Truly not only those who would gladly do the like, but they who would sooner die than do it, love their memory."
+    }
+   ]
+  }
+ },
+ "contra-epistola-exile": {
+  "en": {
+   "translator": "Philip H. Wicksteed",
+   "translator_life": "1844–1927",
+   "year": "1904",
+   "edition": "A Translation of the Latin Works of Dante Alighieri (London, Dent, Temple Classics, 1904), Epistola IX, “To a Florentine friend”, translated by Philip H. Wicksteed, Internet Archive",
+   "source": "https://archive.org/details/30081000492714",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "With grateful mind and close attention did I perceive from your letter, received with due reverence and affection, how deeply you have my recall at heart."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "And thereby you have bound me under the closer obligation because it so rarely chanceth that exiles find friends."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "But I go on to answer the contents of it. And if my answer be not such as perchance the pusillanimity of certain might seek, I would beg you, in all affection, to winnow it in your judgment before you pronounce upon it."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "This, then, is what has been indicated to me by the letters of your nephew and mine, and many other friends, as to the decree recently passed in Florence concerning the pardon of the exiles: That if I will consent to pay a certain sum of money, and be willing to bear the brand of oblation, I may be absolved and may return at once."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Wherein are two things ridiculous and ill-advised, O father! I say ill-advised by those who have expressed them; for your letter, more discreetly and advisedly drawn up, contained no hint of them."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "Is this the glorious recall whereby Dante Alighieri is summoned back to his fatherland after suffering well-nigh fifteen years of exile?"
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "Is this the reward of innocence manifest to all the world, of unbroken sweat and toil in study?"
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "Far be it from the familiar of philosophy, this abject self-abasement of a soul of clay! To allow himself to be presented at the altar, as a prisoner, after the fashion of some Ciolo or other infamous wretch."
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "Far be it from the preacher of justice, when he hath suffered a wrong, to pay his coin to them that inflicted it as though they had deserved well of him."
+    },
+    {
+     "rows": [
+      9,
+      9
+     ],
+     "text": "Not this the way of return to my country, O my father!"
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "but if another may hereafter be found by you or any other, which hurts not Dante’s fair fame and honour, that will I accept with no lagging feet."
+    },
+    {
+     "rows": [
+      11,
+      11
+     ],
+     "text": "If no such path leads back to Florence, then will I never enter Florence more."
+    },
+    {
+     "rows": [
+      12,
+      12
+     ],
+     "text": "What then? May I not gaze upon the mirror of the sun and stars wherever I may be?"
+    },
+    {
+     "rows": [
+      13,
+      13
+     ],
+     "text": "Can I not ponder on the sweetest truths wherever I may be beneath the heaven, but I must first make me inglorious, nay infamous, before the people and the state of Florence?"
+    },
+    {
+     "rows": [
+      14,
+      14
+     ],
+     "text": "Nor shall I lack for bread."
+    }
+   ]
+  }
+ },
  "trag-agamemnon-zeus": {
   "en": {
    "translator": "E. D. A. Morshead",
@@ -6688,6 +7153,52 @@
       60
      ],
      "text": "Ya comprendo, ya conozco en toda su extensión la horrible maldad que voy a cometer; pero la ira es mi más poderosa consejera, causa entre los hombres de las mayores desventuras."
+    }
+   ]
+  }
+ },
+ "trag-othello-soft": {
+  "es": {
+   "translator": "Marcelino Menéndez Pelayo",
+   "translator_life": "1856–1912",
+   "year": "1881",
+   "edition": "Dramas de Guillermo Shakspeare, traducción de D. Marcelino Menéndez Pelayo (Barcelona, Biblioteca «Arte y Letras», 1881), tomo I, Project Gutenberg 53207, Otelo, acto V, escena II",
+   "source": "https://www.gutenberg.org/ebooks/53207",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Oidme una palabra, nada más, y luego os ireis."
+    },
+    {
+     "rows": [
+      1,
+      5
+     ],
+     "text": "He servido bien y lealmente á la República, y ella lo sabe, pero no tratemos de eso. Sólo os pido por favor una cosa: que cuando en vuestras cartas al Senado refirais este lastimoso caso, no trateis de disculparme, ni de agravar tampoco mi culpa."
+    },
+    {
+     "rows": [
+      6,
+      13
+     ],
+     "text": "Decid que he sido un desdichado: que amé sin discrecion y con furor, que aunque tardo en recelar, me dejé arrastrar como loco por la corriente de los celos: decid que fuí tan insensato como el indio que arroja al lodo una pieza preciosa que vale más que toda su tribu. Decid que mis ojos que antes no lloraban nunca, han destilado luego largo caudal de lágrimas, como destilan su balsámico jugo los árboles de Arabia."
+    },
+    {
+     "rows": [
+      14,
+      18
+     ],
+     "text": "Contádselo todo así, y decid tambien que un dia que en Alepo un turco puso la mano en un veneciano, ultrajando la majestad de la República, yo agarré del cuello á aquel perro infiel y le maté así."
+    },
+    {
+     "rows": [
+      19,
+      19
+     ],
+     "text": "(Se hiere.)"
     }
    ]
   }
@@ -7051,6 +7562,59 @@
    ]
   }
  },
+ "com-ayli-stage": {
+  "es": {
+   "translator": "José Arnaldo Márquez",
+   "translator_life": "1832–1903",
+   "year": "1883",
+   "edition": "Dramas de Guillermo Shakspeare, traducción de José Arnaldo Márquez (Barcelona, Biblioteca «Arte y Letras», 1883), tomo IV, Como gustéis, acto II, escena VII, Project Gutenberg 59686",
+   "source": "https://www.gutenberg.org/ebooks/59686",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      5
+     ],
+     "text": "Todo el mundo es un escenario, y todos, hombres y mujeres, son meros actores. Todos tienen sus entradas y salidas, y cada hombre en su vida representa muchos papeles, siendo los actos siete edades. Al principio, infante que lloriquea en brazos de la nodriza."
+    },
+    {
+     "rows": [
+      6,
+      10
+     ],
+     "text": "Luégo lloroso rapaz, con su saquillo y su luciente cara matutina, arrastrándose de mala gana á la escuela, con paso de caracol. Después, enamorado, suspirando como una fragua, con una triste balada compuesta á las cejas de su dama."
+    },
+    {
+     "rows": [
+      11,
+      14
+     ],
+     "text": "En seguida, soldado, lleno de extrañas imprecaciones, bigotudo como el leopardo, celoso del honor, súbito y pronto en la pendencia, buscando la efímera reputación hasta en la boca del cañón."
+    },
+    {
+     "rows": [
+      15,
+      18
+     ],
+     "text": "Más tarde, juez, de redondo y prominente abdomen bien aforrado de capón, de severa mirada y barba cortada en estilo serio, lleno de sesudos adagios y de modernas citas: y así desempeña su papel."
+    },
+    {
+     "rows": [
+      19,
+      24
+     ],
+     "text": "En la sexta edad múdase en enjuto arlequín, calzado de chinelas, puestas en la nariz las antiparras y el saco al costado, y con las bien conservadas bragas de su mocedad flotando en anchos pliegues sobre sus encogidas piernas; y su sonora voz varonil vuelta al tiple de la infancia resopla y silba en su sonido."
+    },
+    {
+     "rows": [
+      25,
+      27
+     ],
+     "text": "La última escena de todas, que termina esta extraña y nutrida historia, es la segunda infancia, un mero olvido, sin dientes, sin ojos, sin palabras, sin cosa alguna."
+    }
+   ]
+  }
+ },
  "com-gogol-laugh": {
   "en": {
    "translator": "Thomas Seltzer",
@@ -7135,6 +7699,45 @@
       10
      ],
      "text": "Who was the first to say it? Tell me."
+    }
+   ]
+  }
+ },
+ "push-prorok": {
+  "en": {
+   "translator": "Ivan Panin",
+   "translator_life": "1855–1942",
+   "year": "1888",
+   "edition": "Poems by Alexander Pushkin, translated line for line by Ivan Panin (Boston, Cupples and Hurd, 1888), Project Gutenberg 54991, “The Prophet”",
+   "source": "https://www.gutenberg.org/ebooks/54991",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      7
+     ],
+     "text": "Tormented by the thirst for the spirit\nI was dragging myself in a sombre desert,\nAnd a six-winged seraph appeared\nUnto me on the parting of the roads.\nWith fingers as light as a dream\nMine eyes he touched:\nAnd mine eyes opened wise\nLike the eyes of a frightened eagle;"
+    },
+    {
+     "rows": [
+      8,
+      16
+     ],
+     "text": "He touched mine ears,\nAnd they filled with din and ringing.\nAnd I heard the trembling of the heavens\nAnd the flight of the angel's wings,\nAnd the creeping of the polyps in the sea,\nAnd the growth of the vine in the valley.\nAnd he took hold of my lips,\nAnd out he tore my sinful tongue\nWith its empty and false speech."
+    },
+    {
+     "rows": [
+      17,
+      24
+     ],
+     "text": "And the fang of the wise serpent\nBetween my terrified lips he placed\nWith bloody hand.\nAnd ope he cut with sword my breast,\nAnd out he took my trembling heart,\nAnd a coal with flaming blaze\nInto the opened breast he shoved.\nLike a corpse I lay in the desert."
+    },
+    {
+     "rows": [
+      25,
+      29
+     ],
+     "text": "And the voice of God unto me called:\nArise, O prophet, and listen, and guide.\nBe thou filled with my will,\nAnd going over land and sea\nFire with the word the hearts of men!"
     }
    ]
   }
@@ -7244,6 +7847,502 @@
       78
      ],
      "text": "’Tis finished. Horrible to read!\nWith shame I shudder and with dread—\nBut boldly I myself resign:\nThine honour is my countersign!"
+    }
+   ]
+  }
+ },
+ "push-zima": {
+  "en": {
+   "translator": "Ivan Panin",
+   "translator_life": "1855–1942",
+   "year": "1888",
+   "edition": "Poems by Alexander Pushkin, translated line for line by Ivan Panin (Boston, Cupples and Hurd, 1888), Project Gutenberg 54991, “Winter Morning”",
+   "source": "https://www.gutenberg.org/ebooks/54991",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      5
+     ],
+     "text": "Frost and sun—the day is wondrous!\nThou still art slumbering, charming friend.\n'Tis time, O Beauty, to awaken:\nOpe thine eyes, now in sweetness closed,\nTo meet the Northern Dawn of Morning\nThyself a north-star do thou appear!"
+    },
+    {
+     "rows": [
+      6,
+      11
+     ],
+     "text": "Last night, remember, the storm scolded,\nAnd darkness floated in the clouded sky;\nLike a yellow, clouded spot\nThro' the clouds the moon was gleaming,—\nAnd melancholy thou wert sitting—\nBut now ... thro' the window cast a look:"
+    },
+    {
+     "rows": [
+      12,
+      17
+     ],
+     "text": "Stretched beneath the heavens blue\nCarpet-like magnificent,\nIn the sun the snow is sparkling;\nDark alone is the wood transparent,\nAnd thro' the hoar gleams green the fir,\nAnd under the ice the rivulet sparkles."
+    },
+    {
+     "rows": [
+      18,
+      23
+     ],
+     "text": "Entire is lighted with diamond splendor\nThy chamber ... with merry crackle\nThe wood is crackling in the oven.\nTo meditation invites the sofa.\nBut know you? In the sleigh not order why\nThe brownish mare to harness?"
+    },
+    {
+     "rows": [
+      24,
+      29
+     ],
+     "text": "Over the morning snow we gliding\nTrust we shall, my friend, ourselves\nTo the speed of impatient steed;\nVisit we shall the fields forsaken,\nThe woods, dense but recently,\nAnd the banks so dear to me."
+    }
+   ]
+  }
+ },
+ "push-pamyatnik": {
+  "en": {
+   "translator": "Ivan Panin",
+   "translator_life": "1855–1942",
+   "year": "1888",
+   "edition": "Poems by Alexander Pushkin, translated line for line by Ivan Panin (Boston, Cupples and Hurd, 1888), Project Gutenberg 54991, “My Monument”",
+   "source": "https://www.gutenberg.org/ebooks/54991",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "A monument not hand-made I have for me erected;\nThe path to it well-trodden will not overgrow;\nRisen higher has it with unbending head\nThan the monument of Alexander."
+    },
+    {
+     "rows": [
+      4,
+      7
+     ],
+     "text": "No! not all of me shall die! my soul in hallowed lyre\nShall my dust survive, and escape destruction—\nAnd famous be I shall, as long as on earth sublunar\nOne bard at least living shall remain."
+    },
+    {
+     "rows": [
+      8,
+      11
+     ],
+     "text": "My name will travel over the whole of Russia great,\nAnd there pronounce my name shall every living tongue:\nThe Slav's proud scion, and the Finn, and the savage yet\nTungus, and the Calmuck, lover of the steppe."
+    },
+    {
+     "rows": [
+      12,
+      15
+     ],
+     "text": "And long to the nation I shall be dear:\nFor rousing with my lyre its noble feelings.\nFor extolling freedom in a cruel age,\nFor calling mercy upon the fallen."
+    },
+    {
+     "rows": [
+      16,
+      19
+     ],
+     "text": "The bidding of God, O Muse, obey.\nFear not insult, ask not crown:\nPraise and blame take with indifference\nAnd dispute not with the fool!"
+    }
+   ]
+  }
+ },
+ "rep-petrarca-cicero": {
+  "en": {
+   "translator": "James Harvey Robinson and Henry Winchester Rolfe",
+   "translator_life": "1863–1936 · 1858–1945",
+   "year": "1898",
+   "edition": "Petrarch, the First Modern Scholar and Man of Letters, translated by James Harvey Robinson with the collaboration of Henry Winchester Rolfe (New York, Putnam, 1898), Project Gutenberg 48776",
+   "source": "https://www.gutenberg.org/ebooks/48776",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "To Marcus Tullius Cicero."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Your letters I sought for long and diligently; and finally, where I least expected it, I found them. At once I read them, over and over, with the utmost eagerness."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "And as I read I seemed to hear your bodily voice, O Marcus Tullius, saying many things, uttering many lamentations, ranging through many phases of thought and feeling. I long had known how excellent a guide you have proved for others; at last I was to learn what sort of guidance you gave yourself."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Now it is your turn to be the listener. Hearken, wherever you are, to the words of advice, or rather of sorrow and regret, that fall, not unaccompanied by tears, from the lips of one of your successors, who loves you faithfully and cherishes your name."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "O spirit ever restless and perturbed! in old age—I am but using your own words—self-involved in calamities and ruin! what good could you think would come from your incessant wrangling, from all this wasteful strife and enmity?"
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "Where were the peace and quiet that befitted your years, your profession, your station in life?"
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "What Will-o'-the-wisp tempted you away, with a delusive hope of glory; involved you, in your declining years, in the wars of younger men; and, after exposing you to every form of misfortune, hurled you down to a death that it was unseemly for a philosopher to die?"
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "Alas! the wise counsel that you gave your brother, and the salutary advice of your great masters, you forgot. You were like a traveller in the night, whose torch lights up for others the path where he himself has miserably fallen."
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "Of Dionysius I forbear to speak; of your brother and nephew, too; of Dolabella even, if you like. At one moment you praise them all to the skies; at the next fall upon them with sudden maledictions. This, however, could perhaps be pardoned."
+    },
+    {
+     "rows": [
+      9,
+      9
+     ],
+     "text": "I will pass by Julius Cæsar, too, whose well-approved clemency was a harbour of refuge for the very men who were warring against him. Great Pompey, likewise, I refrain from mentioning. His affection for you was such that you could do with him what you would."
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "But what insanity led you to hurl yourself upon Antony?"
+    },
+    {
+     "rows": [
+      11,
+      11
+     ],
+     "text": "Love of the republic, you would probably say. But the republic had fallen before this into irretrievable ruin, as you had yourself admitted."
+    },
+    {
+     "rows": [
+      12,
+      12
+     ],
+     "text": "Still, it is possible that a lofty sense of duty, and love of liberty, constrained you to do as you did, hopeless though the effort was. That we can easily believe of so great a man. But why, then, were you so friendly with Augustus?"
+    },
+    {
+     "rows": [
+      13,
+      13
+     ],
+     "text": "What answer can you give to Brutus?"
+    },
+    {
+     "rows": [
+      14,
+      14
+     ],
+     "text": "If you accept Octavius, said he, we must conclude that you are not so anxious to be rid of all tyrants as to find a tyrant who will be well-disposed toward yourself."
+    },
+    {
+     "rows": [
+      15,
+      15
+     ],
+     "text": "Now, unhappy man, you were to take the last false step, the last and most deplorable. You began to speak ill of the very friend whom you had so lauded, although he was not doing any ill to you, but merely refusing to prevent others who were."
+    },
+    {
+     "rows": [
+      16,
+      16
+     ],
+     "text": "I grieve, dear friend, at such fickleness. These shortcomings fill me with pity and shame. Like Brutus, I feel no confidence in the arts in which you are so proficient."
+    },
+    {
+     "rows": [
+      17,
+      17
+     ],
+     "text": "What, pray, does it profit a man to teach others, and to be prating always about virtue, in high-sounding words, if he fails to give heed to his own instructions?"
+    },
+    {
+     "rows": [
+      18,
+      18
+     ],
+     "text": "Ah! how much better it would have been, how much more fitting for a philosopher, to have grown old peacefully in the country, meditating, as you yourself have somewhere said, upon the life that endures for ever, and not upon this poor fragment of life; to have known no fasces, yearned for no triumphs, found no Catilines to fill the soul with ambitious longings!"
+    },
+    {
+     "rows": [
+      19,
+      19
+     ],
+     "text": "All this, however, is vain."
+    },
+    {
+     "rows": [
+      20,
+      20
+     ],
+     "text": "Farewell, forever, my Cicero."
+    },
+    {
+     "rows": [
+      21,
+      21
+     ],
+     "text": "Written in the land of the living; on the right bank of the Adige, in Verona, a city of Transpadane Italy; on the 16th of June, and in the year of that God whom you never knew the 1345th."
+    }
+   ]
+  }
+ },
+ "rep-machiavelli-scrittoio": {
+  "en": {
+   "translator": "Linda Villari",
+   "translator_life": "1836–1915",
+   "year": "1878",
+   "edition": "Pasquale Villari, The Life and Times of Niccolò Machiavelli, translated by Linda Villari (London, Kegan Paul, 1878; new edition, Fisher Unwin, 1892), vol. II, chapter III, Internet Archive",
+   "source": "https://archive.org/details/3implifetimesofn00villuoft",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "On leaving the wood, I go to a spring, and thence up to my uccellare,"
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "with a book under my arm, either Dante, Petrarch, or one of the minor poets, such as Tibullus, Ovid, &c. I read their amorous transports, and the history of their loves, recalling my own to my mind, and time passes pleasantly in these meditations."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Then I betake myself to the inn by the roadside, chat with passers-by, ask news of the places whence they come, hear various things, and note the varied tastes and diverse fancies of mankind."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "This carries me on to the dinner hour, when in the company of my brood, I swallow whatever fare this poor little place of mine, and my slender patrimony, can afford me."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Dinner over, I go back to the inn. There I generally find the host, a butcher, a miller, and a couple of brickmakers."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "I mix with these boors the whole day, playing at cricca and at tric-trac, which games give rise to a thousand quarrels and much exchange of bad language, and we generally wrangle over farthings, and our shouting can be heard at San Casciano."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "Steeped in this degradation my wits grow mouldy, and I vent my rage at the malignity of fate, content to let it crush me in this fashion, if only to see whether it will not take shame of its work."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "At nightfall I return home and seek my writing room, and, divesting myself on its threshold of my rustic garments, stained with mud and mire, I assume courtly attire, and thus suitably clothed, enter within the ancient courts of ancient men, by whom, being cordially welcomed, I am fed with the food that alone is mine, and for which I was born, and am not ashamed to hold discourse with them and inquire the motives of their actions; and these men in their humanity reply to me, and for the space of four hours I feel no weariness, remember no trouble, no longer fear poverty, no longer dread death, my whole being is absorbed in them."
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "And since Dante says, that there could be no science without retaining that which is heard, I have recorded that which I have acquired from the conversation of these worthies, and composed a pamphlet, ‘De Principatibus,’ in which I plunge as deeply as I can into cogitations upon this subject, discussing the nature of princedom, of how many species it consists, how these are to be acquired, how they are maintained, why they are lost."
+    }
+   ]
+  }
+ },
+ "rep-sevigne-lauzun": {
+  "en": {
+   "translator": "Anonymous translation (London, 1811), revised by Sarah Josepha Hale",
+   "translator_life": "1788–1879",
+   "year": "1878",
+   "edition": "The Letters of Madame de Sévigné to her Daughter and Friends, edited by Sarah Josepha Hale from the London translation of 1811 (Boston, Roberts Brothers, 1878), letters to M. de Coulanges, letter I, Project Gutenberg 78579",
+   "source": "https://www.gutenberg.org/ebooks/78579",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Paris, Monday, Dec. 15, 1670."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "I am going to tell you a thing the most astonishing, the most surprising, the most marvelous, the most miraculous, the most magnificent, the most confounding, the most unheard of, the most singular, the most extraordinary, the most incredible, the most unforeseen, the greatest, the least, the rarest, the most common, the most public, the most private till to-day, the most brilliant, the most enviable;"
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "in short, a thing of which there is but one example in past ages, and that not an exact one either;"
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "a thing that we can not believe at Paris; how then will it gain credit at Lyons?"
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "a thing which makes everybody cry, “Lord have mercy upon us!” a thing which causes the greatest joy to Madame de Rohan and Madame de Hauterive;"
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "a thing, in fine, which is to happen on Sunday next, when those who are present will doubt the evidence of their senses; a thing which, though it is to be done on Sunday, yet perhaps will not be finished on Monday."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "I can not bring myself to tell it you; guess what it is. I give you three times to do it in."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "What, not a word to throw at a dog? Well then, I find I must tell you."
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "Monsieur de Lauzun is to be married next Sunday at the Louvre, to —— pray guess to whom!"
+    },
+    {
+     "rows": [
+      9,
+      9
+     ],
+     "text": "I give you four times to do it in, I give you six, I give you a hundred."
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "Says Madame de Coulanges, “It is really very hard to guess; perhaps it is Madame de la Vallière.”"
+    },
+    {
+     "rows": [
+      11,
+      11
+     ],
+     "text": "Indeed, madam, it is not. “It is Mademoiselle de Retz, then.” No, nor she neither; you are extremely provincial."
+    },
+    {
+     "rows": [
+      12,
+      12
+     ],
+     "text": "“Lord bless me,” say you, “what stupid wretches we are! it is Mademoiselle de Colbert all the while.” Nay, now you are still further from the mark."
+    },
+    {
+     "rows": [
+      13,
+      13
+     ],
+     "text": "“Why then it must certainly be Mademoiselle de Crequy.” You have it not yet."
+    },
+    {
+     "rows": [
+      14,
+      14
+     ],
+     "text": "Well, I find I must tell you at last. He is to be married next Sunday, at the Louvre, with the king’s leave, to Mademoiselle, Mademoiselle de —— Mademoiselle—guess, pray guess her name;"
+    },
+    {
+     "rows": [
+      15,
+      16
+     ],
+     "text": "he is to be married to Mademoiselle, the great Mademoiselle; Mademoiselle, daughter to the late Monsieur; Mademoiselle, grand-daughter of Henry the IVth;"
+    },
+    {
+     "rows": [
+      17,
+      17
+     ],
+     "text": "Mademoiselle d’Eu, Mademoiselle de Dombes, Mademoiselle de Montpensier, Mademoiselle d’Orleans, Mademoiselle, the king’s cousin-german,"
+    },
+    {
+     "rows": [
+      18,
+      18
+     ],
+     "text": "Mademoiselle, destined to the throne, Mademoiselle, the only match in France that was worthy of Monsieur."
+    },
+    {
+     "rows": [
+      19,
+      19
+     ],
+     "text": "What glorious matter for talk!"
+    },
+    {
+     "rows": [
+      20,
+      20
+     ],
+     "text": "If you should burst forth like a bedlamite, say we have told you a lie, that it is false, that we are making a jest of you, and that a pretty jest it is, without wit or invention;"
+    },
+    {
+     "rows": [
+      21,
+      21
+     ],
+     "text": "in short, if you abuse us, we shall think you quite in the right; for we have done just the same things ourselves."
+    },
+    {
+     "rows": [
+      22,
+      22
+     ],
+     "text": "Farewell, you will find by the letters you receive this post, whether we tell you truth or not."
     }
    ]
   }

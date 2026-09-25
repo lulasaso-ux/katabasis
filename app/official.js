@@ -36,7 +36,9 @@
   }
   // original(i) returns the inner HTML of original row i; rows of a block share one highlight key.
   function bookRows(w, lang, original) {
-    const t = entry(w, lang), prose = w.kind !== 'Poem';
+    // Keep line breaks when the original is made of verse lines (short rows); join prose rows with spaces.
+    const t = entry(w, lang), lens = w.segments.map(r => r.map(s => s.original).join('').length).filter(Boolean);
+    const prose = lens.reduce((a, b) => a + b, 0) / Math.max(1, lens.length) > 90;
     if (!t) {
       const all = w.segments.map((_, i) => original(i)).join(prose ? ' ' : '\n');
       return `<div class="parallel-row"><div class="parallel-cell" lang="${lang}">${missing(w, lang)}</div><div class="parallel-cell" lang="${w.lang}" dir="${w.lang === 'he' ? 'rtl' : 'ltr'}"><span class="segment" data-key="all" tabindex="0">${all}</span></div></div>`;
