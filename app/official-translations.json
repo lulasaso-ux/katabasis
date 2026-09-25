@@ -1,0 +1,3763 @@
+{
+ "goethe-night": {
+  "en": {
+   "translator": "Henry Wadsworth Longfellow",
+   "translator_life": "1807–1882",
+   "year": "1845",
+   "edition": "“Wanderer’s Night-Songs”, II, in Longfellow’s The Poets and Poetry of Europe (1845), from The Complete Poetical Works of Henry Wadsworth Longfellow, Project Gutenberg 1365",
+   "source": "https://www.gutenberg.org/ebooks/1365",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      7
+     ],
+     "text": "O'er all the hill-tops\nIs quiet now,\nIn all the tree-tops\nHearest thou\nHardly a breath;\nThe birds are asleep in the trees:\nWait; soon like these\nThou too shalt rest."
+    }
+   ]
+  }
+ },
+ "homer-cyclops": {
+  "en": {
+   "translator": "Samuel Butler",
+   "translator_life": "1835–1902",
+   "year": "1900",
+   "edition": "The Odyssey, rendered into English prose by Samuel Butler (London, 1900), Project Gutenberg 1727",
+   "source": "https://www.gutenberg.org/ebooks/1727",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "‘Cyclops, you ask my name and I will tell it you; give me, therefore, the present you promised me; my name is Noman; this is what my father and mother and my friends have always called me.’"
+    },
+    {
+     "rows": [
+      4,
+      6
+     ],
+     "text": "“But the cruel wretch said, ‘Then I will eat all Noman’s comrades before Noman himself, and will keep Noman for the last. This is the present that I will make him.’"
+    }
+   ]
+  },
+  "es": {
+   "translator": "Luis Segalá y Estalella",
+   "translator_life": "1873–1938",
+   "year": "1910",
+   "edition": "La Odisea, trad. de Luis Segalá y Estalella (Barcelona, Montaner y Simón, 1910), Project Gutenberg 58221",
+   "source": "https://www.gutenberg.org/ebooks/58221",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "«¡Ciclope! Preguntas cuál es mi nombre ilustre, y voy á decírtelo; pero dame el presente de hospitalidad que me has prometido. Mi nombre es Nadie; y Nadie me llaman mi madre, mi padre y mis compañeros todos.»"
+    },
+    {
+     "rows": [
+      4,
+      6
+     ],
+     "text": "»Así le hablé; y en seguida me respondió, con ánimo cruel: «Á Nadie me lo comeré el último, después de sus compañeros, y á todos los demás antes que á él: tal será el don hospitalario que te ofrezca.»"
+    }
+   ]
+  }
+ },
+ "luke-blind": {
+  "en": {
+   "translator": "King James Version",
+   "translator_life": "1611",
+   "year": "1611",
+   "edition": "King James Version (1611), Project Gutenberg 10",
+   "source": "https://www.gutenberg.org/ebooks/10",
+   "note_en": "",
+   "note_es": "",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "And he spake a parable unto them, Can the blind lead the blind? shall they not both fall into the ditch?"
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "The disciple is not above his master: but every one that is perfect shall be as his master."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "And why beholdest thou the mote that is in thy brother’s eye, but perceivest not the beam that is in thine own eye?"
+    },
+    {
+     "rows": [
+      3,
+      4
+     ],
+     "text": "Either how canst thou say to thy brother, Brother, let me pull out the mote that is in thine eye, when thou thyself beholdest not the beam that is in thine own eye? Thou hypocrite, cast out first the beam out of thine own eye, and then shalt thou see clearly to pull out the mote that is in thy brother’s eye."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Reina-Valera",
+   "translator_life": "Casiodoro de Reina, 1569; Cipriano de Valera, 1602; revisión de 1909",
+   "year": "1909",
+   "edition": "Biblia Reina-Valera, revisión de 1909, Wikisource en español",
+   "source": "https://es.wikisource.org/wiki/Biblia_Reina-Valera_1909/Lucas/6",
+   "note_en": "",
+   "note_es": "",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Y les decía una parábola: ¿Puede el ciego guiar al ciego? ¿No caerán ambos en el hoyo?"
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "El discípulo no es sobre su maestro; mas cualquiera que fuere como el maestro, será perfecto."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "¿Por qué miras la paja que está en el ojo de tu hermano, y la viga que está en tu propio ojo no consideras?"
+    },
+    {
+     "rows": [
+      3,
+      4
+     ],
+     "text": "¿O cómo puedes decir á tu hermano: Hermano, deja, echaré fuera la paja que está en tu ojo, no mirando tú la viga, que está en tu ojo? Hipócrita, echa primero fuera de tu ojo la viga, y entonces verás bien para sacar la paja que está en el ojo de tu hermano."
+    }
+   ]
+  }
+ },
+ "psalm117": {
+  "en": {
+   "translator": "King James Version",
+   "translator_life": "1611",
+   "year": "1611",
+   "edition": "King James Version (1611), Project Gutenberg 10",
+   "source": "https://www.gutenberg.org/ebooks/10",
+   "note_en": "",
+   "note_es": "",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "O praise the LORD, all ye nations: praise him, all ye people."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "For his merciful kindness is great toward us: and the truth of the LORD endureth for ever. Praise ye the LORD."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Reina-Valera",
+   "translator_life": "Casiodoro de Reina, 1569; Cipriano de Valera, 1602; revisión de 1909",
+   "year": "1909",
+   "edition": "Biblia Reina-Valera, revisión de 1909, Wikisource en español",
+   "source": "https://es.wikisource.org/wiki/Biblia_Reina-Valera_1909/Salmos/117",
+   "note_en": "",
+   "note_es": "",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Alabad á Jehová, naciones todas; Pueblos todos, alabadle."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Porque ha engrandecido sobre nosotros su misericordia; Y la verdad de Jehová es para siempre. Aleluya."
+    }
+   ]
+  }
+ },
+ "dante": {
+  "en": {
+   "translator": "Henry Wadsworth Longfellow",
+   "translator_life": "1807–1882",
+   "year": "1867",
+   "edition": "The Divine Comedy of Dante Alighieri, translated by Henry Wadsworth Longfellow (Boston, 1867), Project Gutenberg 1004",
+   "source": "https://www.gutenberg.org/ebooks/1004",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "Midway upon the journey of our life\nI found myself within a forest dark,\nFor the straightforward pathway had been lost."
+    },
+    {
+     "rows": [
+      4,
+      7
+     ],
+     "text": "Ah me! how hard a thing it is to say\nWhat was this forest savage, rough, and stern,\nWhich in the very thought renews the fear."
+    },
+    {
+     "rows": [
+      8,
+      11
+     ],
+     "text": "So bitter is it, death is little more;\nBut of the good to treat, which there I found,\nSpeak will I of the other things I saw there."
+    },
+    {
+     "rows": [
+      12,
+      15
+     ],
+     "text": "I cannot well repeat how there I entered,\nSo full was I of slumber at the moment\nIn which I had abandoned the true way."
+    },
+    {
+     "rows": [
+      16,
+      19
+     ],
+     "text": "But after I had reached a mountain’s foot,\nAt that point where the valley terminated,\nWhich had with consternation pierced my heart,"
+    },
+    {
+     "rows": [
+      20,
+      23
+     ],
+     "text": "Upward I looked, and I beheld its shoulders,\nVested already with that planet’s rays\nWhich leadeth others right by every road."
+    },
+    {
+     "rows": [
+      24,
+      27
+     ],
+     "text": "Then was the fear a little quieted\nThat in my heart’s lake had endured throughout\nThe night, which I had passed so piteously."
+    },
+    {
+     "rows": [
+      28,
+      31
+     ],
+     "text": "And even as he, who, with distressful breath,\nForth issued from the sea upon the shore,\nTurns to the water perilous and gazes;"
+    },
+    {
+     "rows": [
+      32,
+      35
+     ],
+     "text": "So did my soul, that still was fleeing onward,\nTurn itself back to re-behold the pass\nWhich never yet a living person left."
+    },
+    {
+     "rows": [
+      36,
+      39
+     ],
+     "text": "After my weary body I had rested,\nThe way resumed I on the desert slope,\nSo that the firm foot ever was the lower."
+    },
+    {
+     "rows": [
+      40,
+      43
+     ],
+     "text": "And lo! almost where the ascent began,\nA panther light and swift exceedingly,\nWhich with a spotted skin was covered o’er!"
+    },
+    {
+     "rows": [
+      44,
+      47
+     ],
+     "text": "And never moved she from before my face,\nNay, rather did impede so much my way,\nThat many times I to return had turned."
+    },
+    {
+     "rows": [
+      48,
+      51
+     ],
+     "text": "The time was the beginning of the morning,\nAnd up the sun was mounting with those stars\nThat with him were, what time the Love Divine"
+    },
+    {
+     "rows": [
+      52,
+      55
+     ],
+     "text": "At first in motion set those beauteous things;\nSo were to me occasion of good hope,\nThe variegated skin of that wild beast,"
+    },
+    {
+     "rows": [
+      56,
+      59
+     ],
+     "text": "The hour of time, and the delicious season;\nBut not so much, that did not give me fear\nA lion’s aspect which appeared to me."
+    },
+    {
+     "rows": [
+      60,
+      63
+     ],
+     "text": "He seemed as if against me he were coming\nWith head uplifted, and with ravenous hunger,\nSo that it seemed the air was afraid of him;"
+    },
+    {
+     "rows": [
+      64,
+      67
+     ],
+     "text": "And a she-wolf, that with all hungerings\nSeemed to be laden in her meagreness,\nAnd many folk has caused to live forlorn!"
+    },
+    {
+     "rows": [
+      68,
+      71
+     ],
+     "text": "She brought upon me so much heaviness,\nWith the affright that from her aspect came,\nThat I the hope relinquished of the height."
+    },
+    {
+     "rows": [
+      72,
+      75
+     ],
+     "text": "And as he is who willingly acquires,\nAnd the time comes that causes him to lose,\nWho weeps in all his thoughts and is despondent,"
+    },
+    {
+     "rows": [
+      76,
+      79
+     ],
+     "text": "E’en such made me that beast withouten peace,\nWhich, coming on against me by degrees\nThrust me back thither where the sun is silent."
+    },
+    {
+     "rows": [
+      80,
+      83
+     ],
+     "text": "While I was rushing downward to the lowland,\nBefore mine eyes did one present himself,\nWho seemed from long-continued silence hoarse."
+    },
+    {
+     "rows": [
+      84,
+      87
+     ],
+     "text": "When I beheld him in the desert vast,\n“Have pity on me,” unto him I cried,\n“Whiche’er thou art, or shade or real man!”"
+    },
+    {
+     "rows": [
+      88,
+      91
+     ],
+     "text": "He answered me: “Not man; man once I was,\nAnd both my parents were of Lombardy,\nAnd Mantuans by country both of them."
+    },
+    {
+     "rows": [
+      92,
+      95
+     ],
+     "text": "‘Sub Julio’ was I born, though it was late,\nAnd lived at Rome under the good Augustus,\nDuring the time of false and lying gods."
+    },
+    {
+     "rows": [
+      96,
+      99
+     ],
+     "text": "A poet was I, and I sang that just\nSon of Anchises, who came forth from Troy,\nAfter that Ilion the superb was burned."
+    },
+    {
+     "rows": [
+      100,
+      103
+     ],
+     "text": "But thou, why goest thou back to such annoyance?\nWhy climb’st thou not the Mount Delectable,\nWhich is the source and cause of every joy?”"
+    },
+    {
+     "rows": [
+      104,
+      107
+     ],
+     "text": "“Now, art thou that Virgilius and that fountain\nWhich spreads abroad so wide a river of speech?”\nI made response to him with bashful forehead."
+    },
+    {
+     "rows": [
+      108,
+      111
+     ],
+     "text": "“O, of the other poets honour and light,\nAvail me the long study and great love\nThat have impelled me to explore thy volume!"
+    },
+    {
+     "rows": [
+      112,
+      115
+     ],
+     "text": "Thou art my master, and my author thou,\nThou art alone the one from whom I took\nThe beautiful style that has done honour to me."
+    },
+    {
+     "rows": [
+      116,
+      119
+     ],
+     "text": "Behold the beast, for which I have turned back;\nDo thou protect me from her, famous Sage,\nFor she doth make my veins and pulses tremble.”"
+    },
+    {
+     "rows": [
+      120,
+      123
+     ],
+     "text": "“Thee it behoves to take another road,”\nResponded he, when he beheld me weeping,\n“If from this savage place thou wouldst escape;"
+    },
+    {
+     "rows": [
+      124,
+      127
+     ],
+     "text": "Because this beast, at which thou criest out,\nSuffers not any one to pass her way,\nBut so doth harass him, that she destroys him;"
+    },
+    {
+     "rows": [
+      128,
+      131
+     ],
+     "text": "And has a nature so malign and ruthless,\nThat never doth she glut her greedy will,\nAnd after food is hungrier than before."
+    },
+    {
+     "rows": [
+      132,
+      135
+     ],
+     "text": "Many the animals with whom she weds,\nAnd more they shall be still, until the Greyhound\nComes, who shall make her perish in her pain."
+    },
+    {
+     "rows": [
+      136,
+      139
+     ],
+     "text": "He shall not feed on either earth or pelf,\nBut upon wisdom, and on love and virtue;\n’Twixt Feltro and Feltro shall his nation be;"
+    },
+    {
+     "rows": [
+      140,
+      143
+     ],
+     "text": "Of that low Italy shall he be the saviour,\nOn whose account the maid Camilla died,\nEuryalus, Turnus, Nisus, of their wounds;"
+    },
+    {
+     "rows": [
+      144,
+      147
+     ],
+     "text": "Through every city shall he hunt her down,\nUntil he shall have driven her back to Hell,\nThere from whence envy first did let her loose."
+    },
+    {
+     "rows": [
+      148,
+      151
+     ],
+     "text": "Therefore I think and judge it for thy best\nThou follow me, and I will be thy guide,\nAnd lead thee hence through the eternal place,"
+    },
+    {
+     "rows": [
+      152,
+      155
+     ],
+     "text": "Where thou shalt hear the desperate lamentations,\nShalt see the ancient spirits disconsolate,\nWho cry out each one for the second death;"
+    },
+    {
+     "rows": [
+      156,
+      159
+     ],
+     "text": "And thou shalt see those who contented are\nWithin the fire, because they hope to come,\nWhene’er it may be, to the blessed people;"
+    },
+    {
+     "rows": [
+      160,
+      163
+     ],
+     "text": "To whom, then, if thou wishest to ascend,\nA soul shall be for that than I more worthy;\nWith her at my departure I will leave thee;"
+    },
+    {
+     "rows": [
+      164,
+      167
+     ],
+     "text": "Because that Emperor, who reigns above,\nIn that I was rebellious to his law,\nWills that through me none come into his city."
+    },
+    {
+     "rows": [
+      168,
+      171
+     ],
+     "text": "He governs everywhere, and there he reigns;\nThere is his city and his lofty throne;\nO happy he whom thereto he elects!”"
+    },
+    {
+     "rows": [
+      172,
+      175
+     ],
+     "text": "And I to him: “Poet, I thee entreat,\nBy that same God whom thou didst never know,\nSo that I may escape this woe and worse,"
+    },
+    {
+     "rows": [
+      176,
+      179
+     ],
+     "text": "Thou wouldst conduct me there where thou hast said,\nThat I may see the portal of Saint Peter,\nAnd those thou makest so disconsolate.”"
+    },
+    {
+     "rows": [
+      180,
+      180
+     ],
+     "text": "Then he moved on, and I behind him followed."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Manuel Aranda y Sanjuán",
+   "translator_life": "1845–1900",
+   "year": "1868",
+   "edition": "La Divina Comedia, traducción en prosa de Manuel Aranda y Sanjuán (Barcelona, 1868; ed. México, Universidad Nacional, 1921), Project Gutenberg 57303. Se omiten las notas del editor.",
+   "source": "https://www.gutenberg.org/ebooks/57303",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      15
+     ],
+     "text": "A la mitad del viaje de nuestra vida me encontré en una selva obscura, por haberme apartado del camino recto. ¡Ah! Cuán penoso me sería decir lo salvaje, áspera y espesa que era esta selva, cuyo recuerdo renueva mi pavor, pavor tan amargo, que la muerte no lo es tanto. Pero antes de hablar del bien que allí encontré, revelaré las demás cosas que he visto. No sé decir fijamente cómo entré allí; tan adormecido estaba cuando abandoné el verdadero camino."
+    },
+    {
+     "rows": [
+      16,
+      35
+     ],
+     "text": "Pero al llegar al pie de una cuesta, donde terminaba el valle que me había llenado de miedo el corazón, miré hacia arriba, y vi su cima revestida ya de los rayos del planeta que nos guía con seguridad por todos los senderos. Entonces se calmó algún tanto el miedo que había permanecido en el lago de mi corazón durante la noche que pasé con tanta angustia; y del mismo modo que aquel que, saliendo anhelante fuera del piélago, al llegar a la playa, se vuelve hacia las ondas peligrosas y las contempla, así mi espíritu, fugitivo aún, se volvió hacia atrás para mirar el lugar de que no salió nunca nadie vivo."
+    },
+    {
+     "rows": [
+      36,
+      79
+     ],
+     "text": "Después de haber dado algún reposo a mi fatigado cuerpo, continué subiendo por la solitaria playa, procurando afirmar siempre aquel de mis pies que estuviera más bajo. Al principio de la cuesta, aparecióseme una pantera ágil, de rápidos movimientos y cubierta de manchada piel. No se separaba de mi vista, sino que interceptaba de tal modo mi camino, que me volví muchas veces para retroceder. Era a tiempo que apuntaba el día, y el sol subía rodeado de aquellas estrellas que estaban con él cuando el amor divino imprimió el primer movimiento a todas las cosas bellas. Hora y estación tan dulces me daban motivo para augurar bien de aquella fiera de pintada piel. Pero no tanto que no me infundiera terror el aspecto de un león que a su vez se me apareció: figuróseme que venía contra mí, con la cabeza alta y con un hambre tan rabiosa, que hasta el aire parecía temerle. Siguió a éste una loba que, en medio de su demacración, parecía cargada de deseos; loba que ha obligado a vivir miserable a mucha gente. El fuego que despedían sus ojos me causó tal turbación, que perdí la esperanza de llegar a la cima. Y así como el que gustoso atesora y se entristece y llora con todos sus pensamientos cuando llega el momento en que sufre una pérdida, así me hizo padecer aquella inquieta fiera, que, viniendo a mi encuentro, poco a poco me repelía hacia donde el sol se calla."
+    },
+    {
+     "rows": [
+      80,
+      87
+     ],
+     "text": "Mientras yo retrocedía hacia el valle, se presentó a mi vista uno, que por su prolongado silencio parecía mudo. Cuando le vi en aquel gran desierto: —Piedad de mí—le grité—quienquiera que seas, sombra u hombre verdadero."
+    },
+    {
+     "rows": [
+      88,
+      103
+     ],
+     "text": "Respondióme: No soy ya hombre, pero lo he sido; mis padres fueron lombardos y ambos tuvieron a Mantua por patria. Nací \"sub Julio,\" aunque algo tarde, y vi a Roma bajo el mando del buen Augusto en tiempo de los dioses falsos y engañosos. Poeta fuí, y canté a aquel justo hijo de Anquises, que volvió de Troya después del incendio de la soberbia Ilión. Pero, ¿por qué te entregas de nuevo a tu aflicción? ¿Por qué no asciendes al delicioso monte, que es causa y principio de todo goce?"
+    },
+    {
+     "rows": [
+      104,
+      119
+     ],
+     "text": "—¡Oh! ¿Eres tú aquel Virgilio, aquella fuente que derrama tan ancho raudal de elocuencia?—le respondí ruboroso. ¡Ah!, ¡honor y antorcha de los demás poetas! Válganme para contigo el prolongado estudio y el grande amor con que he leído y meditado tu obra. Tú eres mi maestro y mi autor predilecto; tú solo eres aquél de quien he imitado el bello estilo que me ha dado tanto honor. Mira esa fiera debido a la cual retrocedía; líbrame de ella, famoso sabio, porque a su aspecto se estremecen mis venas y late con precipitación mi pulso."
+    },
+    {
+     "rows": [
+      120,
+      171
+     ],
+     "text": "—Te conviene seguir otra ruta—respondió al verme llorar—, si quieres huír de este sitio salvaje; porque esa fiera que te hace prorrumpir en tales lamentaciones no deja pasar a nadie por su camino, sino que se opone a ello matando al que a tanto se atreve. Su instinto es tan malvado y cruel, que nunca ve satisfechos sus ambiciosos deseos, y después de comer tiene más hambre que antes. Muchos son los animales a quienes se une, y serán aun muchos más hasta que venga el Lebrel y la haga morir entre dolores. Este no se alimentará de tierra ni de peltre, sino de sabiduría, de amor y de virtud, y su patria estará entre Feltro y Feltro. Será la salvación de esta humilde Italia, por quien murieron de sus heridas la virgen Camila, Euríalo y Turno y Niso. Perseguirá a la loba de ciudad en ciudad hasta que la haya arrojado en el infierno, de donde en otro tiempo la hizo salir la envidia. Ahora, por tu bien, pienso y veo claramente que debes seguirme: yo seré tu guía, y te sacaré de aquí para llevarte a un lugar eterno, donde oirás aullidos desesperados; verás los espíritus dolientes de los antiguos condenados, que llaman a gritos a la segunda muerte; verás también a los que están contentos entre las llamas, porque esperan, cuando llegue la ocasión, tener un puesto entre los bienaventurados. Si quieres, en seguida, subir hasta ellos, te acompañará en este viaje un alma más digna que yo, te dejaré con ella cuando yo parta; pues el Emperador que reina en las alturas no quiere que por mediación mía se entre en su ciudad, porque fuí rebelde a su ley. El impera en todas partes y reina arriba; arriba está su ciudad y su alto solio: ¡Oh! ¡Feliz el elegido para su reino!"
+    },
+    {
+     "rows": [
+      172,
+      179
+     ],
+     "text": "Y yo le contesté: —Poeta, te requiero por ese Dios a quien no has conocido, que me hagas huír de este mal y de otro peor; condúceme adonde has dicho, para que yo vea la puerta de San Pedro y a los que, según dices, están tan desolados."
+    },
+    {
+     "rows": [
+      180,
+      180
+     ],
+     "text": "Entonces se puso en marcha, y yo seguí tras él."
+    }
+   ]
+  }
+ },
+ "epictetus": {
+  "en": {
+   "translator": "Thomas Wentworth Higginson",
+   "translator_life": "1823–1911",
+   "year": "1865",
+   "edition": "The Enchiridion, in The Works of Epictetus, translated by Thomas Wentworth Higginson (Boston, 1865), Project Gutenberg 45109",
+   "source": "https://www.gutenberg.org/ebooks/45109",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Demand not that events should happen as you wish; but wish them to happen as they do happen, and you will go on well."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Antonio Brum",
+   "translator_life": "siglo XVII",
+   "year": "c. 1650",
+   "edition": "Enchiridión o Máximas de Epicteto, traducción de Antonio Brum, en Obras de los moralistas griegos (Madrid, Hernando, 1888), Wikisource en español. Se quitan los números de máxima y se corrigen erratas de la transcripción.",
+   "source": "https://es.wikisource.org/wiki/Enquiridión/Máximas",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Nunca pidas que las cosas se hagan como quieres; mas procura quererlas como ellas se hacen. Por este medio todo te sucederá como lo deseas."
+    }
+   ]
+  }
+ },
+ "pkg-marcus-dawn": {
+  "en": {
+   "translator": "George Long",
+   "translator_life": "1800–1879",
+   "year": "1862",
+   "edition": "The Thoughts of the Emperor M. Aurelius Antoninus, translated by George Long (London, 1862), Project Gutenberg 15877. The translator’s footnotes are omitted.",
+   "source": "https://www.gutenberg.org/ebooks/15877",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil. But I who have seen the nature of the good that it is beautiful, and of the bad that it is ugly, and the nature of him who does wrong, that it is akin to me; not [only] of the same blood or seed, but that it participates in [the same] intelligence and [the same] portion of the divinity, I can neither be injured by any of them, for no one can fix on me what is ugly, nor can I be angry with my kinsman, nor hate him. For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth. To act against one another, then, is contrary to nature; and it is acting against one another to be vexed and to turn away."
+    }
+   ]
+  }
+ },
+ "pkg-marcus-retreat": {
+  "en": {
+   "translator": "George Long",
+   "translator_life": "1800–1879",
+   "year": "1862",
+   "edition": "The Thoughts of the Emperor M. Aurelius Antoninus, translated by George Long (London, 1862), Project Gutenberg 15877. The translator’s footnotes are omitted.",
+   "source": "https://www.gutenberg.org/ebooks/15877",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and thou too art wont to desire such things very much. But this is altogether a mark of the most common sort of men, for it is in thy power whenever thou shalt choose to retire into thyself. For nowhere either with more quiet or more freedom from trouble does a man retire than into his own soul, particularly when he has within him such thoughts that by looking into them he is immediately in perfect tranquillity; and I affirm that tranquillity is nothing else than the good ordering of the mind. Constantly then give to thyself this retreat, and renew thyself; and let thy principles be brief and fundamental, which, as soon as thou shalt recur to them, will be sufficient to cleanse the soul completely, and to send thee back free from all discontent with the things to which thou returnest."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "For with what art thou discontented? With the badness of men? Recall to thy mind this conclusion, that rational animals exist for one another, and that to endure is a part of justice, and that men do wrong involuntarily; and consider how many already, after mutual enmity, suspicion, hatred, and fighting, have been stretched dead, reduced to ashes; and be quiet at last.—But perhaps thou art dissatisfied with that which is assigned to thee out of the universe.—Recall to thy recollection this alternative; either there is providence or atoms [fortuitous concurrence of things]; or remember the arguments by which it has been proved that the world is a kind of political community [and be quiet at last].—But perhaps corporeal things will still fasten upon thee.—Consider then further that the mind mingles not with the breath, whether moving gently or violently, when it has once drawn itself apart and discovered its own power, and think also of all that thou hast heard and assented to about pain and pleasure [and be quiet at last]."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "—But perhaps the desire of the thing called fame will torment thee.—See how soon everything is forgotten, and look at the chaos of infinite time on each side of [the present], and the emptiness of applause, and the changeableness and want of judgment in those who pretend to give praise, and the narrowness of the space within which it is circumscribed [and be quiet at last]. For the whole earth is a point, and how small a nook in it is this thy dwelling, and how few are there in it, and what kind of people are they who will praise thee."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "This then remains: Remember to retire into this little territory of thy own, and above all do not distract or strain thyself, but be free, and look at things as a man, as a human being, as a citizen, as a mortal. But among the things readiest to thy hand to which thou shalt turn, let there be these, which are two. One is that things do not touch the soul, for they are external and remain immovable; but our perturbations come only from the opinion which is within. The other is that all these things, which thou seest, change immediately and will no longer be; and constantly bear in mind how many of these changes thou hast already witnessed. The universe is transformation: life is opinion."
+    }
+   ]
+  }
+ },
+ "pkg-epictetus-control": {
+  "en": {
+   "translator": "Thomas Wentworth Higginson",
+   "translator_life": "1823–1911",
+   "year": "1865",
+   "edition": "The Enchiridion, in The Works of Epictetus, translated by Thomas Wentworth Higginson (Boston, 1865), Project Gutenberg 45109",
+   "source": "https://www.gutenberg.org/ebooks/45109",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "There are things which are within our power, and there are things which are beyond our power. Within our power are opinion, aim, desire, aversion, and, in one word, whatever affairs are our own. Beyond our power are body, property, reputation, office, and, in one word, whatever are not properly our own affairs."
+    },
+    {
+     "rows": [
+      1,
+      2
+     ],
+     "text": "Now the things within our power are by nature free, unrestricted, unhindered; but those beyond our power are weak, dependent, restricted, alien. Remember, then, that if you attribute freedom to things by nature dependent and take what belongs to others for your own, you will be hindered, you will lament, you will be disturbed, you will find fault both with gods and men. But if you take for your own only that which is your own and view what belongs to others just as it really is, then no one will ever compel you, no one will restrict you; you will find fault with no one, you will accuse no one, you will do nothing against your will; no one will hurt you, you will not have an enemy, nor will you suffer any harm."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Aiming, therefore, at such great things, remember that you must not allow yourself any inclination, however slight, toward the attainment of the others; but that you must entirely quit some of them, and for the present postpone the rest. But if you would have these, and possess power and wealth likewise, you may miss the latter in seeking the former; and you will certainly fail of that by which alone happiness and freedom are procured."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Seek at once, therefore, to be able to say to every unpleasing semblance, “You are but a semblance and by no means the real thing.” And then examine it by those rules which you have; and first and chiefly by this: whether it concerns the things which are within our own power or those which are not; and if it concerns anything beyond our power, be prepared to say that it is nothing to you."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Antonio Brum",
+   "translator_life": "siglo XVII",
+   "year": "c. 1650",
+   "edition": "Enchiridión o Máximas de Epicteto, traducción de Antonio Brum, en Obras de los moralistas griegos (Madrid, Hernando, 1888), Wikisource en español. Se quitan los números de máxima y se corrigen erratas de la transcripción.",
+   "source": "https://es.wikisource.org/wiki/Enquiridión/Máximas",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Hay ciertas cosas que dependen de nosotros mismos, como la opinión, la inclinación, los deseos, la aversión, y en una palabra, todas nuestras operaciones. Otras hay también que no dependen, como el cuerpo, las riquezas, la reputación, los imperios, y finalmente, todo aquello que no es de nuestra operación."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Lo que depende de nosotros es libre por su naturaleza, y no puede ser impedido ni forzado de ningún hombre; y al contrario, lo que no depende de nosotros es servil, despreciable y sujeto al ajeno poder."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Acuérdate, pues, que si juzgas por libre y tuyo lo que de su naturaleza es servil y sujeto al poder ajeno, hallarás muy grandes inconvenientes, y te verás confuso en todos tus designios y expuesto á mil molestias, y al fin acusarás á los dioses y á los hombres de tu infortunio. Y si, al contrario, creyeres ser tuyo solamente lo que de verdad te pertenece, y supieres considerar como externo ó extranjero lo que en efecto lo es, cierto que nada será capaz ni bastante para desviarte de lo que te hayas propuesto hacer; que no emprenderás cosa alguna que te pese; que no acusarás á nadie, ni murmurarás; que ninguno te ofenderá; que no tendrás enemigos, ni padecerás jamás un mínimo desplacer."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Si deseas, pues, tan grandes bienes, sabe que no basta desearlos tibiamente para obtenerlos, sino que te conviene evitar del todo algunas cosas y privarte de otras por algún tiempo. Porque si (no contento con lo que posees) tienes ambición de entrar en cargos y de amontonar riquezas, acuérdate que perderás absolutamente los medios verdaderos de granjear la libertad y la felicidad; y también podrá ser que quedes frustrado de lo que pretendes con tanta pasión."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Cuando se te ofrece algún objeto enojoso, acostúmbrate á decir en tí mismo que no es lo que parece, sino pura imaginación. Luego que hayas hecho esta reflexión, examina el objeto por las reglas que ya tienes para ello. Considera si es cosa que depende de tí; porque si no depende, dirás que no te toca."
+    }
+   ]
+  }
+ },
+ "pkg-odyssey-proem": {
+  "en": {
+   "translator": "Samuel Butler",
+   "translator_life": "1835–1902",
+   "year": "1900",
+   "edition": "The Odyssey, rendered into English prose by Samuel Butler (London, 1900), Project Gutenberg 1727",
+   "source": "https://www.gutenberg.org/ebooks/1727",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      9
+     ],
+     "text": "Tell me, O Muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home. Tell me, too, about all these things, oh daughter of Jove, from whatsoever source you may know them."
+    },
+    {
+     "rows": [
+      10,
+      20
+     ],
+     "text": "So now all who escaped death in battle or by shipwreck had got safely home except Ulysses, and he, though he was longing to return to his wife and country, was detained by the goddess Calypso, who had got him into a large cave and wanted to marry him. But as years went by, there came a time when the gods settled that he should go back to Ithaca; even then, however, when he was among his own people, his troubles were not yet over; nevertheless all the gods had now begun to pity him except Neptune, who still persecuted him without ceasing and would not let him get home."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Luis Segalá y Estalella",
+   "translator_life": "1873–1938",
+   "year": "1910",
+   "edition": "La Odisea, trad. de Luis Segalá y Estalella (Barcelona, Montaner y Simón, 1910), Project Gutenberg 58221",
+   "source": "https://www.gutenberg.org/ebooks/58221",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      9
+     ],
+     "text": "Háblame, Musa, de aquel varón de multiforme ingenio que, después de destruir la sacra ciudad de Troya, anduvo peregrinando larguísimo tiempo, vió las poblaciones y conoció las costumbres de muchos hombres y padeció en su ánimo gran número de trabajos en su navegación por el ponto, en cuanto procuraba salvar su vida y la vuelta de sus compañeros á la patria. Mas ni aun así pudo librarlos, como deseaba, y todos perecieron por sus propias locuras. ¡Insensatos! Comiéronse las vacas del Sol, hijo de Hiperión; el cual no permitió que les llegara el día del regreso. ¡Oh diosa, hija de Júpiter!: cuéntanos aunque no sea más que una parte de tales cosas."
+    },
+    {
+     "rows": [
+      10,
+      20
+     ],
+     "text": "Ya en aquel tiempo los que habían podido escapar de una muerte horrorosa estaban en sus hogares, salvos de los peligros de la guerra y del mar; y solamente Ulises, que tan gran necesidad sentía de restituirse á su patria y ver á su consorte, hallábase detenido en hueca gruta por Calipso, la ninfa veneranda, la divina entre las deidades, que anhelaba tomarlo por esposo. Con el transcurso de los años llegó por fin la época en que los dioses habían decretado que volviese á su patria, á Ítaca, aunque no por eso debía poner fin á sus trabajos, ni siquiera después de juntarse con los suyos. Y todos los dioses le compadecían, á excepción de Neptuno, que permaneció constantemente airado contra el divinal Ulises hasta que el héroe no arribó á su tierra."
+    }
+   ]
+  }
+ },
+ "pkg-odyssey-sirens": {
+  "en": {
+   "translator": "Samuel Butler",
+   "translator_life": "1835–1902",
+   "year": "1900",
+   "edition": "The Odyssey, rendered into English prose by Samuel Butler (London, 1900), Project Gutenberg 1727",
+   "source": "https://www.gutenberg.org/ebooks/1727",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      18
+     ],
+     "text": "I had hardly finished telling everything to the men before we reached the island of the two Sirens, for the wind had been very favourable. Then all of a sudden it fell dead calm; there was not a breath of wind nor a ripple upon the water, so the men furled the sails and stowed them; then taking to their oars they whitened the water with the foam they raised in rowing. Meanwhile I look a large wheel of wax and cut it up small with my sword. Then I kneaded the wax in my strong hands till it became soft, which it soon did between the kneading and the rays of the sun-god son of Hyperion. Then I stopped the ears of all my men, and they bound me hands and feet to the mast as I stood upright on the cross piece; but they went on rowing themselves. When we had got within earshot of the land, and the ship was going at a good rate, the Sirens saw that we were getting in shore and began with their singing."
+    },
+    {
+     "rows": [
+      19,
+      26
+     ],
+     "text": "“‘Come here,’ they sang, ‘renowned Ulysses, honour to the Achaean name, and listen to our two voices. No one ever sailed past us without staying to hear the enchanting sweetness of our song—and he who listens will go on his way not only charmed, but wiser, for we know all the ills that the gods laid upon the Argives and Trojans before Troy, and can tell you everything that is going to happen over the whole world.’"
+    },
+    {
+     "rows": [
+      27,
+      35
+     ],
+     "text": "“They sang these words most musically, and as I longed to hear them further I made signs by frowning to my men that they should set me free; but they quickened their stroke, and Eurylochus and Perimedes bound me with still stronger bonds till we had got out of hearing of the Sirens’ voices. Then my men took the wax from their ears and unbound me."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Luis Segalá y Estalella",
+   "translator_life": "1873–1938",
+   "year": "1910",
+   "edition": "La Odisea, trad. de Luis Segalá y Estalella (Barcelona, Montaner y Simón, 1910), Project Gutenberg 58221",
+   "source": "https://www.gutenberg.org/ebooks/58221",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      18
+     ],
+     "text": "»Mientras hablaba, declarando estas cosas á mis compañeros, la nave bien construída llegó muy presto á la isla de las Sirenas, pues la empujaba favorable viento. Desde aquel instante echóse el viento, reinó sosegada calma y algún numen adormeció las olas. Levantáronse mis compañeros, amainaron las velas y pusiéronlas en la cóncava nave; y, habiéndose sentado nuevamente en los bancos, emblanquecían el agua, agitándola con los remos de pulimentado abeto. Tomé al instante un gran pan de cera y lo partí con el agudo bronce en pedacitos, que me puse luego á apretar con mis robustas manos. Pronto se calentó la cera, porque hubo de ceder á la gran fuerza y á los rayos del soberano Sol Hiperiónida, y fuí tapando con ella los oídos de todos los compañeros. Atáronme éstos en la nave, de pies y manos, derecho y arrimado á la parte inferior del mástil; ligaron las sogas al mismo; y, sentándose en los bancos, tornaron á herir con los remos el espumoso mar. Hicimos andar la nave muy rápidamente, y, al hallarnos tan cerca de la orilla que allá hubiesen llegado nuestras voces, no se les encubrió á las Sirenas que la ligera embarcación navegaba á poca distancia y empezaron un sonoro canto:"
+    },
+    {
+     "rows": [
+      19,
+      26
+     ],
+     "text": "«¡Ea, célebre Ulises, gloria insigne de los aqueos! Acércate y detén la nave para que oigas nuestra voz. Nadie ha pasado en su negro bajel sin que oyera la suave voz que fluye de nuestra boca; sino que se van todos después de recrearse con ella y de aprender mucho; pues sabemos cuantas fatigas padecieron en la vasta Troya argivos y teucros, por la voluntad de los dioses, y conocemos también todo cuanto ocurre en la fértil tierra.»"
+    },
+    {
+     "rows": [
+      27,
+      35
+     ],
+     "text": "»Esto dijeron con su hermosa voz. Sintióse mi corazón con ganas de oirlas, y moví las cejas, mandando á los compañeros que me desatasen; pero todos se inclinaron y se pusieron á remar. Y, levantándose al punto Perimedes y Euríloco, atáronme con nuevos lazos, que me sujetaban más reciamente. Cuando dejamos atrás las Sirenas y ni su voz ni su canto se oían ya, quitáronse mis fieles compañeros la cera con que tapara sus oídos y me soltaron las ligaduras."
+    }
+   ]
+  }
+ },
+ "pkg-odyssey-bow": {
+  "en": {
+   "translator": "Samuel Butler",
+   "translator_life": "1835–1902",
+   "year": "1900",
+   "edition": "The Odyssey, rendered into English prose by Samuel Butler (London, 1900), Project Gutenberg 1727",
+   "source": "https://www.gutenberg.org/ebooks/1727",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      19
+     ],
+     "text": "But Ulysses, when he had taken it up and examined it all over, strung it as easily as a skilled bard strings a new peg of his lyre and makes the twisted gut fast at both ends. Then he took it in his right hand to prove the string, and it sang sweetly under his touch like the twittering of a swallow. The suitors were dismayed, and turned colour as they heard it; at that moment, moreover, Jove thundered loudly as a sign, and the heart of Ulysses rejoiced as he heard the omen that the son of scheming Saturn had sent him. He took an arrow that was lying upon the table—for those which the Achaeans were so shortly about to taste were all inside the quiver—he laid it on the centre-piece of the bow, and drew the notch of the arrow and the string toward him, still seated on his seat. When he had taken aim he let fly, and his arrow pierced every one of the handle-holes of the axes from the first onwards till it had gone right through them, and into the outer courtyard. Then he said to Telemachus:"
+    },
+    {
+     "rows": [
+      20,
+      26
+     ],
+     "text": "“Your guest has not disgraced you, Telemachus. I did not miss what I aimed at, and I was not long in stringing my bow. I am still strong, and not as the suitors twit me with being. Now, however, it is time for the Achaeans to prepare supper while there is still daylight, and then otherwise to disport themselves with song and dance which are the crowning ornaments of a banquet.”"
+    },
+    {
+     "rows": [
+      27,
+      30
+     ],
+     "text": "As he spoke he made a sign with his eyebrows, and Telemachus girded on his sword, grasped his spear, and stood armed beside his father’s seat."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Luis Segalá y Estalella",
+   "translator_life": "1873–1938",
+   "year": "1910",
+   "edition": "La Odisea, trad. de Luis Segalá y Estalella (Barcelona, Montaner y Simón, 1910), Project Gutenberg 58221",
+   "source": "https://www.gutenberg.org/ebooks/58221",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      19
+     ],
+     "text": "De tal suerte se expresaban los pretendientes. Mas el ingenioso Ulises, tan luego como hubo tentado y examinado el gran arco por todas partes, cual un hábil citarista y cantor tiende fácilmente con la clavija nueva la cuerda formada por el retorcido intestino de una oveja que antes atara del uno y del otro lado: de este modo, sin esfuerzo alguno, armó Ulises el grande arco. Seguidamente probó la cuerda, asiéndola con la diestra, y dejóse oir un hermoso sonido muy semejante á la voz de una golondrina. Sintieron entonces los pretendientes gran pesar y á todos se les mudó el color. Júpiter despidió un gran trueno como señal y holgóse el paciente divino Ulises de que el hijo del artero Saturno le enviase aquel presagio. Tomó el héroe una veloz flecha que estaba encima de la mesa, porque las otras se hallaban dentro de la hueca aljaba, aunque muy pronto habían de gustarlas los aqueos. Y acomodándola al arco, tiró á la vez de la cuerda y de las barbas, allí mismo, sentado en la silla; apuntó al blanco, despidió la saeta y no erró á ninguna de las segures, desde el primer agujero hasta el último: la flecha, que el bronce hacía ponderosa, las atravesó todas y salió afuera. Después de lo cual dijo á Telémaco:"
+    },
+    {
+     "rows": [
+      20,
+      26
+     ],
+     "text": "«¡Telémaco! No te afrenta el huésped que está en tu palacio: ni erré el blanco, ni me costó gran fatiga armar el arco; mis fuerzas están íntegras todavía, no cual los pretendientes, menospreciándome, me lo echaban á la cara. Pero ya es hora de aprestar la cena á los aqueos, mientras hay luz; para que después se deleiten de otro modo, con el canto y la cítara, que son los ornamentos del banquete.»"
+    },
+    {
+     "rows": [
+      27,
+      30
+     ],
+     "text": "Dijo, é hizo con las cejas una señal. Y Telémaco, el caro hijo del divinal Ulises, ciñó la aguda espada, asió su lanza y, armado de reluciente bronce, se puso en pie al lado de la silla, junto á su padre."
+    }
+   ]
+  }
+ },
+ "pkg-odyssey-bed": {
+  "en": {
+   "translator": "Samuel Butler",
+   "translator_life": "1835–1902",
+   "year": "1900",
+   "edition": "The Odyssey, rendered into English prose by Samuel Butler (London, 1900), Project Gutenberg 1727",
+   "source": "https://www.gutenberg.org/ebooks/1727",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      1
+     ],
+     "text": "She said this to try him, but Ulysses was very angry and said,"
+    },
+    {
+     "rows": [
+      2,
+      23
+     ],
+     "text": "“Wife, I am much displeased at what you have just been saying. Who has been taking my bed from the place in which I left it? He must have found it a hard task, no matter how skilled a workman he was, unless some god came and helped him to shift it. There is no man living, however strong and in his prime, who could move it from its place, for it is a marvellous curiosity which I made with my very own hands. There was a young olive growing within the precincts of the house, in full vigour, and about as thick as a bearing-post. I built my room round this with strong walls of stone and a roof to cover them, and I made the doors strong and well-fitting. Then I cut off the top boughs of the olive tree and left the stump standing. This I dressed roughly from the root upwards and then worked with carpenter’s tools well and skilfully, straightening my work by drawing a line on the wood, and making it into a bed-prop. I then bored a hole down the middle, and made it the centre-post of my bed, at which I worked till I had finished it, inlaying it with gold and silver; after this I stretched a hide of crimson leather from one side of it to the other. So you see I know all about it, and I desire to learn whether it is still there, or whether any one has been removing it by cutting down the olive tree at its roots.”"
+    },
+    {
+     "rows": [
+      24,
+      27
+     ],
+     "text": "When she heard the sure proofs Ulysses now gave her, she fairly broke down. She flew weeping to his side, flung her arms about his neck, and kissed him."
+    },
+    {
+     "rows": [
+      28,
+      49
+     ],
+     "text": "“Do not be angry with me Ulysses,” she cried, “you, who are the wisest of mankind. We have suffered, both of us. Heaven has denied us the happiness of spending our youth, and of growing old, together; do not then be aggrieved or take it amiss that I did not embrace you thus as soon as I saw you. I have been shuddering all the time through fear that someone might come here and deceive me with a lying story; for there are many very wicked people going about. Jove’s daughter Helen would never have yielded herself to a man from a foreign country, if she had known that the sons of Achaeans would come after her and bring her back. Heaven put it in her heart to do wrong, and she gave no thought to that sin, which has been the source of all our sorrows. Now, however, that you have convinced me by showing that you know all about our bed (which no human being has ever seen but you and I and a single maidservant, the daughter of Actor, who was given me by my father on my marriage, and who keeps the doors of our room) hard of belief though I have been I can mistrust no longer.”"
+    },
+    {
+     "rows": [
+      50,
+      59
+     ],
+     "text": "Then Ulysses in his turn melted, and wept as he clasped his dear and faithful wife to his bosom. As the sight of land is welcome to men who are swimming towards the shore, when Neptune has wrecked their ship with the fury of his winds and waves; a few alone reach the land, and these, covered with brine, are thankful when they find themselves on firm ground and out of danger—even so was her husband welcome to her as she looked upon him, and she could not tear her two fair arms from about his neck. Indeed they would have gone on indulging their sorrow till rosy-fingered morn appeared, had not Minerva determined otherwise, and held night back in the far west, while she would not suffer Dawn to leave Oceanus, nor to yoke the two steeds Lampus and Phaethon that bear her onward to break the day upon mankind."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Luis Segalá y Estalella",
+   "translator_life": "1873–1938",
+   "year": "1910",
+   "edition": "La Odisea, trad. de Luis Segalá y Estalella (Barcelona, Montaner y Simón, 1910), Project Gutenberg 58221",
+   "source": "https://www.gutenberg.org/ebooks/58221",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      1
+     ],
+     "text": "Habló de semejante modo para probar á su marido; pero Ulises, irritado, díjole á la honesta esposa:"
+    },
+    {
+     "rows": [
+      2,
+      23
+     ],
+     "text": "«¡Oh mujer! En verdad que me produce gran pena lo que has dicho. ¿Quién me habrá trasladado el lecho? Difícil le fuera hasta al más hábil, si no viniese un dios á cambiarlo fácilmente de sitio; mas ninguno de los mortales que hoy viven ni aun de los más jóvenes, lo movería con facilidad, pues hay una gran señal en el labrado lecho que hice yo mismo y no otro alguno. Creció dentro del patio un olivo de alargadas hojas, robusto y floreciente, que tenía el grosor de una columna. En torno del mismo labré las paredes de mi cámara, empleando multitud de piedras; la cubrí con excelente techo y la cerré con puertas sólidas, firmemente ajustadas. Después corté el ramaje de aquel olivo de alargadas hojas; pulí con el bronce su tronco desde la raíz, haciéndolo diestra y hábilmente; lo enderecé por medio de un nivel para convertirlo en pie de la cama, y lo taladré todo con un barreno. Comenzando por este pie, fuí haciendo y pulimentando la cama hasta terminarla; la adorné con oro, plata y marfil; y extendí en su parte interior unas vistosas correas de piel de buey, teñidas de púrpura. Ésta es la señal de que te hablaba; pero ignoro, oh mujer, si mi lecho sigue incólume ó ya lo trasladó alguno, habiendo cortado el olivo por el pie.»"
+    },
+    {
+     "rows": [
+      24,
+      27
+     ],
+     "text": "Así le dijo; y Penélope sintió desfallecer sus rodillas y su corazón, al reconocer las señales que Ulises describiera con tal certidumbre. Al punto corrió á su encuentro, derramando lágrimas; echóle los brazos alrededor del cuello, le besó en la cabeza y le dijo:"
+    },
+    {
+     "rows": [
+      28,
+      49
+     ],
+     "text": "«No te enojes conmigo, Ulises, ya que eres en todo el más circunspecto de los hombres; y las deidades nos enviaron la desgracia y no quisieron que gozásemos juntos de nuestra juventud, ni que juntos llegáramos al umbral de la vejez. Pero no te enfades conmigo, ni te irrites si no te abracé, como ahora, tan luego como estuviste en mi presencia; que mi ánimo, acá dentro del pecho, temía horrorizado que viniese algún hombre á engañarme con sus palabras, pues son muchos los que traman perversas astucias. La argiva Helena, hija de Júpiter, no se hubiera juntado nunca en amor y concúbito con un extraño, si hubiese sabido que los belicosos aqueos habían de traerla nuevamente á su casa y á su patria tierra. Algún dios debió de incitarla á realizar aquella vergonzosa acción; pues anteriormente jamás pensara cometer la deplorable falta que fué el origen de nuestras penas. Ahora, como acabas de referirme las señales evidentes de aquel lecho, que no vió mortal alguno sino solos tú y yo, y una esclava, Áctoris, que me había dado mi padre al venirme acá y custodiaba la puerta de nuestra sólida estancia, has logrado traer el convencimiento á mi espíritu con ser éste tan obstinado.»"
+    },
+    {
+     "rows": [
+      50,
+      59
+     ],
+     "text": "Diciendo de esta guisa, acrecentóle el deseo de sollozar; y Ulises lloraba, abrazado á su dulce y honesta esposa. Así como la tierra aparece grata á los que vienen nadando porque Neptuno les hundió en el ponto la bien construída embarcación, haciéndola juguete del viento y del gran oleaje; y unos pocos, que consiguieron salir del espumoso mar al continente, lleno el cuerpo de sarro, pisan la tierra muy alegres porque se ven libres de aquel infortunio: pues de igual manera le era agradable á Penélope la vista del esposo y no le quitaba del cuello los níveos brazos. Llorando los hallara la Aurora de rosáceos dedos, si Minerva, la deidad de los brillantes ojos, no hubiese ordenado otra cosa: alargó la noche, cuando ya tocaba á su término, y detuvo en el Océano á la Aurora, de áureo trono, no permitiéndole uncir los caballos de pies ligeros que traen la luz á los hombres, Lampo y Faetonte, que son los potros que conducen á la Aurora. Y entonces dijo á su consorte el ingenioso Ulises:"
+    }
+   ]
+  }
+ },
+ "pkg-comedy-francesca": {
+  "en": {
+   "translator": "Henry Wadsworth Longfellow",
+   "translator_life": "1807–1882",
+   "year": "1867",
+   "edition": "The Divine Comedy of Dante Alighieri, translated by Henry Wadsworth Longfellow (Boston, 1867), Project Gutenberg 1004",
+   "source": "https://www.gutenberg.org/ebooks/1004",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "And I began: “O Poet, willingly\nSpeak would I to those two, who go together,\nAnd seem upon the wind to be so light.”"
+    },
+    {
+     "rows": [
+      4,
+      7
+     ],
+     "text": "And, he to me: “Thou’lt mark, when they shall be\nNearer to us; and then do thou implore them\nBy love which leadeth them, and they will come.”"
+    },
+    {
+     "rows": [
+      8,
+      11
+     ],
+     "text": "Soon as the wind in our direction sways them,\nMy voice uplift I: “O ye weary souls!\nCome speak to us, if no one interdicts it.”"
+    },
+    {
+     "rows": [
+      12,
+      15
+     ],
+     "text": "As turtle-doves, called onward by desire,\nWith open and steady wings to the sweet nest\nFly through the air by their volition borne,"
+    },
+    {
+     "rows": [
+      16,
+      19
+     ],
+     "text": "So came they from the band where Dido is,\nApproaching us athwart the air malign,\nSo strong was the affectionate appeal."
+    },
+    {
+     "rows": [
+      20,
+      23
+     ],
+     "text": "“O living creature gracious and benignant,\nWho visiting goest through the purple air\nUs, who have stained the world incarnadine,"
+    },
+    {
+     "rows": [
+      24,
+      27
+     ],
+     "text": "If were the King of the Universe our friend,\nWe would pray unto him to give thee peace,\nSince thou hast pity on our woe perverse."
+    },
+    {
+     "rows": [
+      28,
+      31
+     ],
+     "text": "Of what it pleases thee to hear and speak,\nThat will we hear, and we will speak to you,\nWhile silent is the wind, as it is now."
+    },
+    {
+     "rows": [
+      32,
+      35
+     ],
+     "text": "Sitteth the city, wherein I was born,\nUpon the sea-shore where the Po descends\nTo rest in peace with all his retinue."
+    },
+    {
+     "rows": [
+      36,
+      39
+     ],
+     "text": "Love, that on gentle heart doth swiftly seize,\nSeized this man for the person beautiful\nThat was ta’en from me, and still the mode offends me."
+    },
+    {
+     "rows": [
+      40,
+      43
+     ],
+     "text": "Love, that exempts no one beloved from loving,\nSeized me with pleasure of this man so strongly,\nThat, as thou seest, it doth not yet desert me;"
+    },
+    {
+     "rows": [
+      44,
+      47
+     ],
+     "text": "Love has conducted us unto one death;\nCaina waiteth him who quenched our life!”\nThese words were borne along from them to us."
+    },
+    {
+     "rows": [
+      48,
+      51
+     ],
+     "text": "As soon as I had heard those souls tormented,\nI bowed my face, and so long held it down\nUntil the Poet said to me: “What thinkest?”"
+    },
+    {
+     "rows": [
+      52,
+      55
+     ],
+     "text": "When I made answer, I began: “Alas!\nHow many pleasant thoughts, how much desire,\nConducted these unto the dolorous pass!”"
+    },
+    {
+     "rows": [
+      56,
+      59
+     ],
+     "text": "Then unto them I turned me, and I spake,\nAnd I began: “Thine agonies, Francesca,\nSad and compassionate to weeping make me."
+    },
+    {
+     "rows": [
+      60,
+      63
+     ],
+     "text": "But tell me, at the time of those sweet sighs,\nBy what and in what manner Love conceded,\nThat you should know your dubious desires?”"
+    },
+    {
+     "rows": [
+      64,
+      67
+     ],
+     "text": "And she to me: “There is no greater sorrow\nThan to be mindful of the happy time\nIn misery, and that thy Teacher knows."
+    },
+    {
+     "rows": [
+      68,
+      71
+     ],
+     "text": "But, if to recognise the earliest root\nOf love in us thou hast so great desire,\nI will do even as he who weeps and speaks."
+    },
+    {
+     "rows": [
+      72,
+      75
+     ],
+     "text": "One day we reading were for our delight\nOf Launcelot, how Love did him enthral.\nAlone we were and without any fear."
+    },
+    {
+     "rows": [
+      76,
+      79
+     ],
+     "text": "Full many a time our eyes together drew\nThat reading, and drove the colour from our faces;\nBut one point only was it that o’ercame us."
+    },
+    {
+     "rows": [
+      80,
+      83
+     ],
+     "text": "When as we read of the much-longed-for smile\nBeing by such a noble lover kissed,\nThis one, who ne’er from me shall be divided,"
+    },
+    {
+     "rows": [
+      84,
+      87
+     ],
+     "text": "Kissed me upon the mouth all palpitating.\nGaleotto was the book and he who wrote it.\nThat day no farther did we read therein.”"
+    },
+    {
+     "rows": [
+      88,
+      91
+     ],
+     "text": "And all the while one spirit uttered this,\nThe other one did weep so, that, for pity,\nI swooned away as if I had been dying,"
+    },
+    {
+     "rows": [
+      92,
+      92
+     ],
+     "text": "And fell, even as a dead body falls."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Manuel Aranda y Sanjuán",
+   "translator_life": "1845–1900",
+   "year": "1868",
+   "edition": "La Divina Comedia, traducción en prosa de Manuel Aranda y Sanjuán (Barcelona, 1868; ed. México, Universidad Nacional, 1921), Project Gutenberg 57303. Se omiten las notas del editor.",
+   "source": "https://www.gutenberg.org/ebooks/57303",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "Empecé a decir: —Poeta, quisiera hablar a aquellas dos almas que van juntas y parecen más ligeras que las otras impelidas por el viento."
+    },
+    {
+     "rows": [
+      4,
+      7
+     ],
+     "text": "Y él me contestó: —Espera que estén más cerca de nosotros: y entonces ruégales, por el amor que las conduce, que se dirijan hacia ti."
+    },
+    {
+     "rows": [
+      8,
+      11
+     ],
+     "text": "Tan pronto como el viento las impulsó hacia nosotros, alcé la voz diciendo: —¡Oh almas atormentadas!, venid a hablarnos, si otro no se opone a ello."
+    },
+    {
+     "rows": [
+      12,
+      19
+     ],
+     "text": "Así como dos palomas, excitadas por sus deseos, se dirigen con las alas abiertas y firmes hacia el dulce nido, llevadas en el aire por una misma voluntad, así salieron aquellas dos almas de entre la multitud donde estaba Dido, dirigiéndose hacia nosotros a través del aire malsano, atraídas por mi eficaz y afectuoso llamamiento."
+    },
+    {
+     "rows": [
+      20,
+      47
+     ],
+     "text": "—¡Oh sér gracioso y benigno, que vienes a visitar enmedio de este aire negruzco a los que hemos teñido el mundo de sangre! Si fuéramos amados por el Rey del universo, le rogaríamos por tu tranquilidad, ya que te compadeces de nuestro acerbo dolor. Todo lo que te agrade oír y decir, te lo diremos y escucharemos con gusto mientras que siga el viento tan tranquilo como ahora. La tierra donde nací está situada en la costa donde desemboca el Po con todos sus afluentes para descansar en el mar. Amor, que se apodera pronto de un corazón gentil, hizo que éste se prendara de aquel hermoso cuerpo que me fué arrebatado de un modo que aún me atormenta. Amor, que no dispensa de amar al que es amado, hizo que me entregara vivamente al placer de que se embriagaba éste, que, como ves, no me abandona nunca. Amor nos condujo a la misma muerte. Caína espera al que nos arrancó la vida."
+    },
+    {
+     "rows": [
+      48,
+      55
+     ],
+     "text": "Tales fueron las palabras de las dos sombras. Al oír a aquellas almas atormentadas, bajé la cabeza y la tuve inclinada tanto tiempo, que el poeta me dijo: —¿En qué piensas? —¡Ah!—exclamé al contestarle—; ¡cuán dulces pensamientos, cuántos deseos les han conducido a doloroso tránsito!"
+    },
+    {
+     "rows": [
+      56,
+      63
+     ],
+     "text": "Después me dirigí hacia ellos, diciéndoles: —Francisca, tus desgracias me hacen derramar tristes y compasivas lágrimas. Pero dime: en tiempo de los dulces suspiros ¿cómo os permitió Amor conocer vuestros secretos deseos?"
+    },
+    {
+     "rows": [
+      64,
+      87
+     ],
+     "text": "Ella me contestó: —No hay mayor dolor que acordarse del tiempo feliz en la miseria; y eso lo sabe bien tu Maestro. Pero si tienes tanto deseo de conocer cuál fué el principal origen de nuestro amor, haré como el que habla y llora a la vez. Leíamos un día por pasatiempo las aventuras de Lancelote, y de qué modo cayó en las redes del Amor: estábamos solos y sin abrigar sospecha alguna. Aquella lectura hizo que nuestros ojos se buscaran muchas veces y que palideciera nuestro semblante; mas un solo pasaje fué el que decidió de nosotros. Cuando leímos que la deseada sonrisa de la amada fué interrumpida por el beso del amante, éste, que jamás se ha de separar de mí, me besó tembloroso en la boca: el libro y quien lo escribió fué para nosotros otro Galeoto; aquel día ya no leímos más."
+    },
+    {
+     "rows": [
+      88,
+      92
+     ],
+     "text": "Mientras que un alma decía esto, la otra lloraba de tal modo, que, movido de compasión, desfallecí como si me muriera, y caí como cae un cuerpo inanimado."
+    }
+   ]
+  }
+ },
+ "pkg-comedy-stars": {
+  "en": {
+   "translator": "Henry Wadsworth Longfellow",
+   "translator_life": "1807–1882",
+   "year": "1867",
+   "edition": "The Divine Comedy of Dante Alighieri, translated by Henry Wadsworth Longfellow (Boston, 1867), Project Gutenberg 1004",
+   "source": "https://www.gutenberg.org/ebooks/1004",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "To run o’er better waters hoists its sail\nThe little vessel of my genius now,\nThat leaves behind itself a sea so cruel;"
+    },
+    {
+     "rows": [
+      4,
+      7
+     ],
+     "text": "And of that second kingdom will I sing\nWherein the human spirit doth purge itself,\nAnd to ascend to heaven becometh worthy."
+    },
+    {
+     "rows": [
+      8,
+      11
+     ],
+     "text": "But let dead Poesy here rise again,\nO holy Muses, since that I am yours,\nAnd here Calliope somewhat ascend,"
+    },
+    {
+     "rows": [
+      12,
+      15
+     ],
+     "text": "My song accompanying with that sound,\nOf which the miserable magpies felt\nThe blow so great, that they despaired of pardon."
+    },
+    {
+     "rows": [
+      16,
+      19
+     ],
+     "text": "Sweet colour of the oriental sapphire,\nThat was upgathered in the cloudless aspect\nOf the pure air, as far as the first circle,"
+    },
+    {
+     "rows": [
+      20,
+      23
+     ],
+     "text": "Unto mine eyes did recommence delight\nSoon as I issued forth from the dead air,\nWhich had with sadness filled mine eyes and breast."
+    },
+    {
+     "rows": [
+      24,
+      27
+     ],
+     "text": "The beauteous planet, that to love incites,\nWas making all the orient to laugh,\nVeiling the Fishes that were in her escort."
+    },
+    {
+     "rows": [
+      28,
+      31
+     ],
+     "text": "To the right hand I turned, and fixed my mind\nUpon the other pole, and saw four stars\nNe’er seen before save by the primal people."
+    },
+    {
+     "rows": [
+      32,
+      34
+     ],
+     "text": "Rejoicing in their flamelets seemed the heaven.\nO thou septentrional and widowed site,\nBecause thou art deprived of seeing these!"
+    }
+   ]
+  },
+  "es": {
+   "translator": "Manuel Aranda y Sanjuán",
+   "translator_life": "1845–1900",
+   "year": "1868",
+   "edition": "La Divina Comedia, traducción en prosa de Manuel Aranda y Sanjuán (Barcelona, 1868; ed. México, Universidad Nacional, 1921), Project Gutenberg 57303. Se omiten las notas del editor.",
+   "source": "https://www.gutenberg.org/ebooks/57303",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      15
+     ],
+     "text": "Ahora la navecilla de mi ingenio, que deja en pos de sí un mar tan cruel, desplegará las velas para navegar por mejores aguas; y cantaré aquel segundo reino, donde se purifica el espíritu humano, y se hace digno de subir al Cielo. Resucite aquí, pues, la muerta poseía, ¡oh santas Musas!, pues que soy vuestro; y realce Calíope mi canto, acompañándolo con aquella voz que produjo tal efecto en las desgraciadas Urracas, que desesperaron de alcanzar su perdón."
+    },
+    {
+     "rows": [
+      16,
+      27
+     ],
+     "text": "Un suave color de zafiro oriental, contenido en el sereno aspecto del aire puro hasta el primer cielo, reapareció delicioso a mi vista en cuanto salí de la atmósfera muerta, que me había contristado los ojos y el corazón. El bello planeta que convida a amar hacía sonreír todo el Oriente, desvaneciendo al signo de Piscis, que seguía en pos de él."
+    },
+    {
+     "rows": [
+      28,
+      34
+     ],
+     "text": "Me volví a la derecha, y dirigiendo mi espíritu hacia el otro polo, distinguí cuatro estrellas únicamente vistas por los primeros humanos. El cielo parecía gozar con sus resplandores. ¡Oh Septentrión, sitio verdaderamente viudo, pues que te ves privado de admirarlas!"
+    }
+   ]
+  }
+ },
+ "pkg-comedy-beatrice": {
+  "en": {
+   "translator": "Henry Wadsworth Longfellow",
+   "translator_life": "1807–1882",
+   "year": "1867",
+   "edition": "The Divine Comedy of Dante Alighieri, translated by Henry Wadsworth Longfellow (Boston, 1867), Project Gutenberg 1004",
+   "source": "https://www.gutenberg.org/ebooks/1004",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "Ere now have I beheld, as day began,\nThe eastern hemisphere all tinged with rose,\nAnd the other heaven with fair serene adorned;"
+    },
+    {
+     "rows": [
+      4,
+      7
+     ],
+     "text": "And the sun’s face, uprising, overshadowed\nSo that by tempering influence of vapours\nFor a long interval the eye sustained it;"
+    },
+    {
+     "rows": [
+      8,
+      11
+     ],
+     "text": "Thus in the bosom of a cloud of flowers\nWhich from those hands angelical ascended,\nAnd downward fell again inside and out,"
+    },
+    {
+     "rows": [
+      12,
+      15
+     ],
+     "text": "Over her snow-white veil with olive cinct\nAppeared a lady under a green mantle,\nVested in colour of the living flame."
+    },
+    {
+     "rows": [
+      16,
+      19
+     ],
+     "text": "And my own spirit, that already now\nSo long a time had been, that in her presence\nTrembling with awe it had not stood abashed,"
+    },
+    {
+     "rows": [
+      20,
+      23
+     ],
+     "text": "Without more knowledge having by mine eyes,\nThrough occult virtue that from her proceeded\nOf ancient love the mighty influence felt."
+    },
+    {
+     "rows": [
+      24,
+      27
+     ],
+     "text": "As soon as on my vision smote the power\nSublime, that had already pierced me through\nEre from my boyhood I had yet come forth,"
+    },
+    {
+     "rows": [
+      28,
+      31
+     ],
+     "text": "To the left hand I turned with that reliance\nWith which the little child runs to his mother,\nWhen he has fear, or when he is afflicted,"
+    },
+    {
+     "rows": [
+      32,
+      35
+     ],
+     "text": "To say unto Virgilius: “Not a drachm\nOf blood remains in me, that does not tremble;\nI know the traces of the ancient flame.”"
+    },
+    {
+     "rows": [
+      36,
+      39
+     ],
+     "text": "But us Virgilius of himself deprived\nHad left, Virgilius, sweetest of all fathers,\nVirgilius, to whom I for safety gave me:"
+    },
+    {
+     "rows": [
+      40,
+      43
+     ],
+     "text": "Nor whatsoever lost the ancient mother\nAvailed my cheeks now purified from dew,\nThat weeping they should not again be darkened."
+    },
+    {
+     "rows": [
+      44,
+      47
+     ],
+     "text": "“Dante, because Virgilius has departed\nDo not weep yet, do not weep yet awhile;\nFor by another sword thou need’st must weep.”"
+    },
+    {
+     "rows": [
+      48,
+      51
+     ],
+     "text": "E’en as an admiral, who on poop and prow\nComes to behold the people that are working\nIn other ships, and cheers them to well-doing,"
+    },
+    {
+     "rows": [
+      52,
+      55
+     ],
+     "text": "Upon the left hand border of the car,\nWhen at the sound I turned of my own name,\nWhich of necessity is here recorded,"
+    },
+    {
+     "rows": [
+      56,
+      59
+     ],
+     "text": "I saw the Lady, who erewhile appeared\nVeiled underneath the angelic festival,\nDirect her eyes to me across the river."
+    },
+    {
+     "rows": [
+      60,
+      63
+     ],
+     "text": "Although the veil, that from her head descended,\nEncircled with the foliage of Minerva,\nDid not permit her to appear distinctly,"
+    },
+    {
+     "rows": [
+      64,
+      67
+     ],
+     "text": "In attitude still royally majestic\nContinued she, like unto one who speaks,\nAnd keeps his warmest utterance in reserve:"
+    },
+    {
+     "rows": [
+      68,
+      71
+     ],
+     "text": "“Look at me well; in sooth I’m Beatrice!\nHow didst thou deign to come unto the Mountain?\nDidst thou not know that man is happy here?”"
+    },
+    {
+     "rows": [
+      72,
+      75
+     ],
+     "text": "Mine eyes fell downward into the clear fountain,\nBut, seeing myself therein, I sought the grass,\nSo great a shame did weigh my forehead down."
+    },
+    {
+     "rows": [
+      76,
+      78
+     ],
+     "text": "As to the son the mother seems superb,\nSo she appeared to me; for somewhat bitter\nTasteth the savour of severe compassion."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Manuel Aranda y Sanjuán",
+   "translator_life": "1845–1900",
+   "year": "1868",
+   "edition": "La Divina Comedia, traducción en prosa de Manuel Aranda y Sanjuán (Barcelona, 1868; ed. México, Universidad Nacional, 1921), Project Gutenberg 57303. Se omiten las notas del editor.",
+   "source": "https://www.gutenberg.org/ebooks/57303",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      23
+     ],
+     "text": "Yo he visto, al romper el día, la parte oriental enteramente sonrosada, el resto del cielo adornado de una hermosa serenidad, y la faz del Sol naciente cubierta de sombras, de suerte que a través de los vapores que amortiguaban su resplandor, podía contemplarla el ojo por largo tiempo: del mismo modo, a través de una nube de flores que salía de manos angelicales y caía sobre el carro y en torno suyo, se me apareció una dama coronada de oliva sobre un velo blanco, cubierta de un verde manto, y vestida del color de una vívida llama. Mi espíritu, que hacía largo tiempo no había quedado abatido, temblando de estupor en su presencia, sin que mis ojos la reconocieran, sintió no obstante el gran poder del antiguo amor, a causa de la oculta influencia que de ella emanaba."
+    },
+    {
+     "rows": [
+      24,
+      35
+     ],
+     "text": "En cuanto hirió mis ojos la alta virtud que me había avasallado antes de que yo saliera de la infancia, me volví hacia la izquierda, con el mismo respeto con que corre el niño hacia su madre, cuando tiene miedo, o cuando está afligido, para decir a Virgilio: \"No ha quedado en mi cuerpo una sola gota de sangre que no tiemble; reconozco las señales de mi antigua llama.\""
+    },
+    {
+     "rows": [
+      36,
+      43
+     ],
+     "text": "Pero Virgilio nos había privado de sí; Virgilio, el dulcísimo padre, Virgilio, que me había sido enviado por aquélla para mi salvación. Ni aun todo lo que perdió la antigua madre pudo impedir que mis mejillas enjutas se bañaran en triste llanto."
+    },
+    {
+     "rows": [
+      44,
+      47
+     ],
+     "text": "—¡Dante, no llores todavía; no llores todavía porque Virgilio se vaya, pues es preciso que llores por otra herida!"
+    },
+    {
+     "rows": [
+      48,
+      67
+     ],
+     "text": "Como el almirante que va de popa a proa examinando la gente que monta los otros buques, y la anima a portarse bien, del mismo modo sobre el borde izquierdo del carro, vi yo, cuando me volví al oír mi nombre, que aquí se consigna por necesidad, a la Dama que se me apareció anteriormente velada por los halagos angelicales, dirigiendo sus ojos hacia mí de la parte acá del río. Aunque el velo que descendía de su cabeza, rodeado de las hojas de Minerva, no permitiese que se distinguieran sus facciones, con su actitud regia y altiva continuó de esta suerte, como aquel que al hablar reserva las palabras más calurosas para lo último:"
+    },
+    {
+     "rows": [
+      68,
+      71
+     ],
+     "text": "—Mírame bien, soy yo; soy en efecto Beatriz, ¿Cómo te has dignado subir a este monte? ¿No sabías que el hombre es aquí dichoso?"
+    },
+    {
+     "rows": [
+      72,
+      78
+     ],
+     "text": "Mis ojos se inclinaron hacia las limpias ondas; pero viéndome reflejado en ellas, los dirigí hacia la hierba: tanta fué la vergüenza que abatió mi frente. Parecióme Beatriz tan terrible como una madre irritada a su hijo, porque amarga el sabor de la piedad acerba."
+    }
+   ]
+  }
+ },
+ "pkg-comedy-vision": {
+  "en": {
+   "translator": "Henry Wadsworth Longfellow",
+   "translator_life": "1807–1882",
+   "year": "1867",
+   "edition": "The Divine Comedy of Dante Alighieri, translated by Henry Wadsworth Longfellow (Boston, 1867), Project Gutenberg 1004",
+   "source": "https://www.gutenberg.org/ebooks/1004",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "Within the deep and luminous subsistence\nOf the High Light appeared to me three circles,\nOf threefold colour and of one dimension,"
+    },
+    {
+     "rows": [
+      4,
+      7
+     ],
+     "text": "And by the second seemed the first reflected\nAs Iris is by Iris, and the third\nSeemed fire that equally from both is breathed."
+    },
+    {
+     "rows": [
+      8,
+      11
+     ],
+     "text": "O how all speech is feeble and falls short\nOf my conceit, and this to what I saw\nIs such, ’tis not enough to call it little!"
+    },
+    {
+     "rows": [
+      12,
+      15
+     ],
+     "text": "O Light Eterne, sole in thyself that dwellest,\nSole knowest thyself, and, known unto thyself\nAnd knowing, lovest and smilest on thyself!"
+    },
+    {
+     "rows": [
+      16,
+      19
+     ],
+     "text": "That circulation, which being thus conceived\nAppeared in thee as a reflected light,\nWhen somewhat contemplated by mine eyes,"
+    },
+    {
+     "rows": [
+      20,
+      23
+     ],
+     "text": "Within itself, of its own very colour\nSeemed to me painted with our effigy,\nWherefore my sight was all absorbed therein."
+    },
+    {
+     "rows": [
+      24,
+      27
+     ],
+     "text": "As the geometrician, who endeavours\nTo square the circle, and discovers not,\nBy taking thought, the principle he wants,"
+    },
+    {
+     "rows": [
+      28,
+      31
+     ],
+     "text": "Even such was I at that new apparition;\nI wished to see how the image to the circle\nConformed itself, and how it there finds place;"
+    },
+    {
+     "rows": [
+      32,
+      35
+     ],
+     "text": "But my own wings were not enough for this,\nHad it not been that then my mind there smote\nA flash of lightning, wherein came its wish."
+    },
+    {
+     "rows": [
+      36,
+      39
+     ],
+     "text": "Here vigour failed the lofty fantasy:\nBut now was turning my desire and will,\nEven as a wheel that equally is moved,"
+    },
+    {
+     "rows": [
+      40,
+      40
+     ],
+     "text": "The Love which moves the sun and the other stars."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Manuel Aranda y Sanjuán",
+   "translator_life": "1845–1900",
+   "year": "1868",
+   "edition": "La Divina Comedia, traducción en prosa de Manuel Aranda y Sanjuán (Barcelona, 1868; ed. México, Universidad Nacional, 1921), Project Gutenberg 57303. Se omiten las notas del editor.",
+   "source": "https://www.gutenberg.org/ebooks/57303",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      11
+     ],
+     "text": "En la profunda y clara substancia de la alta luz se me aparecieron tres círculos de tres colores y de una sola dimensión: el uno parecía reflejado por otro como Iris por Iris, y el tercero parecía un fuego procedente de ambos por igual. ¡Ah!, ¡cuán escasa y débil es la lengua para decir mi concepto! Y éste lo es tanto, comparado a lo que vi, que la palabra \"poco\" no basta para expresar su pequeñez."
+    },
+    {
+     "rows": [
+      12,
+      15
+     ],
+     "text": "¡Oh Luz eterna, que en ti solamente resides, que sola te comprendes, y que siendo por ti a la vez inteligente y entendida, te amas y te complaces en ti misma!"
+    },
+    {
+     "rows": [
+      16,
+      23
+     ],
+     "text": "Aquel de tus círculos, que parecía proceder de ti como el rayo reflejado procede del rayo directo, cuando mis ojos lo contemplaron en torno, parecióme que dentro de sí con su propio color representaba nuestra efigie, por lo cual mi vista estaba fija atentamente en él."
+    },
+    {
+     "rows": [
+      24,
+      35
+     ],
+     "text": "Como el geómetra que se dedica con todo empeño a medir el círculo, y por más que piensa no encuentra el principio que necesita, lo mismo estaba yo ante aquella nueva imagen. Yo quería ver cómo correspondía la efigie al círculo, y cómo a él estaba unida; pero no alcanzaban a tanto mis propias alas, si no hubiera sido iluminada mi mente por un resplandor, merced al cual fué satisfecho su deseo."
+    },
+    {
+     "rows": [
+      36,
+      40
+     ],
+     "text": "Aquí faltó la fuerza a mi elevada fantasía; pero ya eran movidos mi deseo y mi voluntad, como rueda cuyas partes giran todas igualmente, por el Amor que mueve el Sol y las demás estrellas."
+    }
+   ]
+  }
+ },
+ "pkg-lum-baptism": {
+  "en": {
+   "translator": "King James Version",
+   "translator_life": "1611",
+   "year": "1611",
+   "edition": "King James Version (1611), Project Gutenberg 10",
+   "source": "https://www.gutenberg.org/ebooks/10",
+   "note_en": "",
+   "note_es": "",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?"
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:"
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Reina-Valera",
+   "translator_life": "Casiodoro de Reina, 1569; Cipriano de Valera, 1602; revisión de 1909",
+   "year": "1909",
+   "edition": "Biblia Reina-Valera, revisión de 1909, Wikisource en español",
+   "source": "https://es.wikisource.org/wiki/Biblia_Reina-Valera_1909/Mateo/3",
+   "note_en": "",
+   "note_es": "",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Entonces Jesús vino de Galilea á Juan al Jordán, para ser bautizado de él."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Mas Juan lo resistía mucho, diciendo: Yo he menester ser bautizado de ti, ¿y tú vienes á mí?"
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Empero respondiendo Jesús le dijo: Deja ahora; porque así nos conviene cumplir toda justicia. Entonces le dejó."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Y Jesús, después que fué bautizado, subió luego del agua; y he aquí los cielos le fueron abiertos, y vió al Espíritu de Dios que descendía como paloma, y venía sobre él."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Y he aquí una voz de los cielos que decía: Este es mi Hijo amado, en el cual tengo contentamiento."
+    }
+   ]
+  }
+ },
+ "pkg-lum-cana": {
+  "en": {
+   "translator": "King James Version",
+   "translator_life": "1611",
+   "year": "1611",
+   "edition": "King James Version (1611), Project Gutenberg 10",
+   "source": "https://www.gutenberg.org/ebooks/10",
+   "note_en": "",
+   "note_es": "",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:"
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "And both Jesus was called, and his disciples, to the marriage."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "And when they wanted wine, the mother of Jesus saith unto him, They have no wine."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "His mother saith unto the servants, Whatsoever he saith unto you, do it."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare it."
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,"
+    },
+    {
+     "rows": [
+      9,
+      9
+     ],
+     "text": "And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: but thou hast kept the good wine until now."
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Reina-Valera",
+   "translator_life": "Casiodoro de Reina, 1569; Cipriano de Valera, 1602; revisión de 1909",
+   "year": "1909",
+   "edition": "Biblia Reina-Valera, revisión de 1909, Wikisource en español",
+   "source": "https://es.wikisource.org/wiki/Biblia_Reina-Valera_1909/Juan/2",
+   "note_en": "",
+   "note_es": "",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Y al tercer día hiciéronse unas bodas en Caná de Galilea; y estaba allí la madre de Jesús."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Y fué también llamado Jesús y sus discípulos á las bodas."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Y faltando el vino, la madre de Jesús le dijo: Vino no tienen."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Y dícele Jesús: ¿Qué tengo yo contigo, mujer? aun no ha venido mi hora."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Su madre dice á los que servían: Haced todo lo que os dijere."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "Y estaban allí seis tinajuelas de piedra para agua, conforme á la purificación de los Judíos, que cabían en cada una dos ó tres cántaros."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "Díceles Jesús: Henchid estas tinajuelas de agua. E hinchiéronlas hasta arriba."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "Y díceles: Sacad ahora, y presentad al maestresala. Y presentáron le."
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "Y como el maestresala gustó el agua hecha vino, que no sabía de dónde era (mas lo sabían los sirvientes que habían sacado el agua), el maestresala llama al esposo,"
+    },
+    {
+     "rows": [
+      9,
+      9
+     ],
+     "text": "Y dícele: Todo hombre pone primero el buen vino, y cuando están satisfechos, entonces lo que es peor; mas tú has guardado el buen vino hasta ahora."
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "Este principio de señales hizo Jesús en Caná de Galilea, y manifestó su gloria; y sus discípulos creyeron en él."
+    }
+   ]
+  }
+ },
+ "pkg-lum-kingdom": {
+  "en": {
+   "translator": "King James Version",
+   "translator_life": "1611",
+   "year": "1611",
+   "edition": "King James Version (1611), Project Gutenberg 10",
+   "source": "https://www.gutenberg.org/ebooks/10",
+   "note_en": "",
+   "note_es": "",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God,"
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "And Jesus said unto them, Come ye after me, and I will make you to become fishers of men."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "And straightway they forsook their nets, and followed him."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "And when he had gone a little farther thence, he saw James the son of Zebedee, and John his brother, who also were in the ship mending their nets."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "And straightway he called them: and they left their father Zebedee in the ship with the hired servants, and went after him."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Reina-Valera",
+   "translator_life": "Casiodoro de Reina, 1569; Cipriano de Valera, 1602; revisión de 1909",
+   "year": "1909",
+   "edition": "Biblia Reina-Valera, revisión de 1909, Wikisource en español",
+   "source": "https://es.wikisource.org/wiki/Biblia_Reina-Valera_1909/Marcos/1",
+   "note_en": "",
+   "note_es": "",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Mas después que Juan fué encarcelado, Jesús vino á Galilea predicando el evangelio del reino de Dios,"
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Y diciendo: El tiempo es cumplido, y el reino de Dios está cerca: arrepentíos, y creed al evangelio."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Y pasando junto á la mar de Galilea, vió á Simón, y á Andrés su hermano, que echaban la red en la mar; porque eran pescadores."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Y les dijo Jesús: Venid en pos de mí, y haré que seáis pescadores de hombres."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Y luego, dejadas sus redes, le siguieron."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "Y pasando de allí un poco más adelante, vió á Jacobo, hijo de Zebedeo, y á Juan su hermano, también ellos en el navío, que aderezaban las redes."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "Y luego los llamó: y dejando á su padre Zebedeo en el barco con los jornaleros, fueron en pos de él."
+    }
+   ]
+  }
+ },
+ "pkg-lum-transfiguration": {
+  "en": {
+   "translator": "King James Version",
+   "translator_life": "1611",
+   "year": "1611",
+   "edition": "King James Version (1611), Project Gutenberg 10",
+   "source": "https://www.gutenberg.org/ebooks/10",
+   "note_en": "",
+   "note_es": "",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,"
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "And, behold, there appeared unto them Moses and Elias talking with him."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "And when the disciples heard it, they fell on their face, and were sore afraid."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "And Jesus came and touched them, and said, Arise, and be not afraid."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "And when they had lifted up their eyes, they saw no man, save Jesus only."
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "And as they came down from the mountain, Jesus charged them, saying, Tell the vision to no man, until the Son of man be risen again from the dead."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Reina-Valera",
+   "translator_life": "Casiodoro de Reina, 1569; Cipriano de Valera, 1602; revisión de 1909",
+   "year": "1909",
+   "edition": "Biblia Reina-Valera, revisión de 1909, Wikisource en español",
+   "source": "https://es.wikisource.org/wiki/Biblia_Reina-Valera_1909/Mateo/17",
+   "note_en": "",
+   "note_es": "",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Y después de seis días, Jesús toma á Pedro, y á Jacobo, y á Juan su hermano, y los lleva aparte á un monte alto:"
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Y se transfiguró delante de ellos; y resplandeció su rostro como el sol, y sus vestidos fueron blancos como la luz."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Y he aquí les aparecieron Moisés y Elías, hablando con él."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Y respondiendo Pedro, dijo á Jesús: Señor, bien es que nos quedemos aquí: si quieres, hagamos aquí tres pabellones: para ti uno, y para Moisés otro, y otro para Elías."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Y estando aún él hablando, he aquí una nube de luz que los cubrió; y he aquí una voz de la nube, que dijo: Este es mi Hijo amado, en el cual tomo contentamiento: á él oíd."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "Y oyendo esto los discípulos, cayeron sobre sus rostros, y temieron en gran manera."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "Entonces Jesús llegando, los tocó, y dijo: Levantaos, y no temáis."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "Y alzando ellos sus ojos, á nadie vieron, sino á solo Jesús."
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "Y como descendieron del monte, les mandó Jesús, diciendo: No digáis á nadie la visión, hasta que el Hijo del hombre resucite de los muertos."
+    }
+   ]
+  }
+ },
+ "pkg-lum-eucharist": {
+  "en": {
+   "translator": "King James Version",
+   "translator_life": "1611",
+   "year": "1611",
+   "edition": "King James Version (1611), Project Gutenberg 10",
+   "source": "https://www.gutenberg.org/ebooks/10",
+   "note_en": "",
+   "note_es": "",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "And he took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it;"
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "For this is my blood of the new testament, which is shed for many for the remission of sins."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father’s kingdom."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "And when they had sung an hymn, they went out into the mount of Olives."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Reina-Valera",
+   "translator_life": "Casiodoro de Reina, 1569; Cipriano de Valera, 1602; revisión de 1909",
+   "year": "1909",
+   "edition": "Biblia Reina-Valera, revisión de 1909, Wikisource en español",
+   "source": "https://es.wikisource.org/wiki/Biblia_Reina-Valera_1909/Mateo/26",
+   "note_en": "",
+   "note_es": "",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Y comiendo ellos, tomó Jesús el pan, y bendijo, y lo partió, y dió á sus discípulos, y dijo: Tomad, comed. esto es mi cuerpo."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Y tomando el vaso, y hechas gracias, les dió, diciendo: Bebed de él todos;"
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Porque esto es mi sangre del nuevo pacto, la cual es derramada por muchos para remisión de los pecados."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Y os digo, que desde ahora no beberé más de este fruto de la vid, hasta aquel día, cuando lo tengo de beber nuevo con vosotros en el reino de mi Padre."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Y habiendo cantado el himno, salieron al monte de las Olivas."
+    }
+   ]
+  }
+ },
+ "pkg-dss-peace": {
+  "en": {
+   "translator": "King James Version",
+   "translator_life": "1611",
+   "year": "1611",
+   "edition": "King James Version (1611), Project Gutenberg 10",
+   "source": "https://www.gutenberg.org/ebooks/10",
+   "note_en": "It translates the Masoretic text of Isaiah, not the Qumran scroll, which differs in some words.",
+   "note_es": "Traduce el texto masorético de Isaías, no el del rollo de Qumrán, que difiere en algunas palabras.",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the LORD, as the waters cover the sea."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Reina-Valera",
+   "translator_life": "Casiodoro de Reina, 1569; Cipriano de Valera, 1602; revisión de 1909",
+   "year": "1909",
+   "edition": "Biblia Reina-Valera, revisión de 1909, Wikisource en español",
+   "source": "https://es.wikisource.org/wiki/Biblia_Reina-Valera_1909/Isaías/11",
+   "note_en": "It translates the Masoretic text of Isaiah, not the Qumran scroll, which differs in some words.",
+   "note_es": "Traduce el texto masorético de Isaías, no el del rollo de Qumrán, que difiere en algunas palabras.",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Morará el lobo con el cordero, y el tigre con el cabrito se acostará: el becerro y el león y la bestia doméstica andarán juntos, y un niño los pastoreará."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "La vaca y la osa pacerán, sus crías se echarán juntas; y el león como el buey comerá paja."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Y el niño de teta se entretendrá sobre la cueva del áspid, y el recién destetado extenderá su mano sobre la caverna del basilisco."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "No harán mal ni dañarán en todo mi santo monte; porque la tierra será llena del conocimiento de Jehová, como cubren la mar las aguas."
+    }
+   ]
+  }
+ },
+ "pkg-dss-desert": {
+  "en": {
+   "translator": "King James Version",
+   "translator_life": "1611",
+   "year": "1611",
+   "edition": "King James Version (1611), Project Gutenberg 10",
+   "source": "https://www.gutenberg.org/ebooks/10",
+   "note_en": "It translates the Masoretic text of Isaiah, not the Qumran scroll, which differs in some words.",
+   "note_es": "Traduce el texto masorético de Isaías, no el del rollo de Qumrán, que difiere en algunas palabras.",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Strengthen ye the weak hands, and confirm the feeble knees."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Say to them that are of a fearful heart, Be strong, fear not: behold, your God will come with vengeance, even God with a recompence; he will come and save you."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Then the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Then shall the lame man leap as an hart, and the tongue of the dumb sing: for in the wilderness shall waters break out, and streams in the desert."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "And the parched ground shall become a pool, and the thirsty land springs of water: in the habitation of dragons, where each lay, shall be grass with reeds and rushes."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Reina-Valera",
+   "translator_life": "Casiodoro de Reina, 1569; Cipriano de Valera, 1602; revisión de 1909",
+   "year": "1909",
+   "edition": "Biblia Reina-Valera, revisión de 1909, Wikisource en español",
+   "source": "https://es.wikisource.org/wiki/Biblia_Reina-Valera_1909/Isaías/35",
+   "note_en": "It translates the Masoretic text of Isaiah, not the Qumran scroll, which differs in some words.",
+   "note_es": "Traduce el texto masorético de Isaías, no el del rollo de Qumrán, que difiere en algunas palabras.",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Confortad á las manos cansadas, roborad las vacilantes rodillas."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Decid á los de corazón apocado: Confortaos, no temáis: he aquí que vuestro Dios viene con venganza, con pago: el mismo Dios vendrá, y os salvará."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Entonces los ojos de los ciegos serán abiertos, y los oídos de los sordos se abrirán."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Entonces el cojo saltará como un ciervo, y cantará la lengua del mudo; porque aguas serán cavadas en el desierto, y torrentes en la soledad."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "El lugar seco será tornado en estanque, y el secadal en manaderos de aguas; en la habitación de chacales, en su cama, será lugar de cañas y de juncos."
+    }
+   ]
+  }
+ },
+ "pkg-sophocles-ode": {
+  "en": {
+   "translator": "Francis Storr",
+   "translator_life": "1839–1919",
+   "year": "1912",
+   "edition": "Sophocles, translated by Francis Storr (Loeb Classical Library, 1912), Project Gutenberg 31",
+   "source": "https://www.gutenberg.org/ebooks/31",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      8
+     ],
+     "text": "Many wonders there be, but naught more wondrous than man;\nOver the surging sea, with a whitening south wind wan,\nThrough the foam of the firth, man makes his perilous way;\nAnd the eldest of deities Earth that knows not toil nor decay\nEver he furrows and scores, as his team, year in year out,\nWith breed of the yoked horse, the ploughshare turneth about."
+    },
+    {
+     "rows": [
+      9,
+      17
+     ],
+     "text": "The light-witted birds of the air, the beasts of the weald and the wood\nHe traps with his woven snare, and the brood of the briny flood.\nMaster of cunning he: the savage bull, and the hart\nWho roams the mountain free, are tamed by his infinite art;\nAnd the shaggy rough-maned steed is broken to bear the bit."
+    },
+    {
+     "rows": [
+      18,
+      24
+     ],
+     "text": "Speech and the wind-swift speed of counsel and civic wit,\nHe hath learnt for himself all these; and the arrowy rain to fly\nAnd the nipping airs that freeze, ’neath the open winter sky.\nHe hath provision for all: fell plague he hath learnt to endure;\nSafe whate’er may befall: yet for death he hath found no cure."
+    },
+    {
+     "rows": [
+      25,
+      30
+     ],
+     "text": "Passing the wildest flight thought are the cunning and skill,\nThat guide man now to the light, but now to counsels of ill.\nIf he honors the laws of the land, and reveres the Gods of the State\nProudly his city shall stand; but a cityless outcast I rate\nWhoso bold in his pride from the path of right doth depart;\nNe’er may I sit by his side, or share the thoughts of his heart."
+    }
+   ]
+  }
+ },
+ "pkg-cervantes": {
+  "en": {
+   "translator": "John Ormsby",
+   "translator_life": "1829–1895",
+   "year": "1885",
+   "edition": "The Ingenious Gentleman Don Quixote of La Mancha, translated by John Ormsby (London, 1885), Project Gutenberg 996",
+   "source": "https://www.gutenberg.org/ebooks/996",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      1
+     ],
+     "text": "At this point they came in sight of thirty or forty windmills that there are on that plain, and as soon as Don Quixote saw them he said to his squire, “Fortune is arranging matters for us better than we could have shaped our desires ourselves, for look there, friend Sancho Panza, where thirty or more monstrous giants present themselves, all of whom I mean to engage in battle and slay, and with whose spoils we shall begin to make our fortunes; for this is righteous warfare, and it is God’s good service to sweep so evil a breed from off the face of the earth.”"
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "“What giants?” said Sancho Panza."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "“Those thou seest there,” answered his master, “with the long arms, and some have them nearly two leagues long.”"
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "“Look, your worship,” said Sancho; “what we see there are not giants but windmills, and what seem to be their arms are the sails that turned by the wind make the millstone go.”"
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "“It is easy to see,” replied Don Quixote, “that thou art not used to this business of adventures; those are giants; and if thou art afraid, away with thee out of this and betake thyself to prayer while I engage them in fierce and unequal combat.”"
+    },
+    {
+     "rows": [
+      6,
+      7
+     ],
+     "text": "So saying, he gave the spur to his steed Rocinante, heedless of the cries his squire Sancho sent after him, warning him that most certainly they were windmills and not giants he was going to attack. He, however, was so positive they were giants that he neither heard the cries of Sancho, nor perceived, near as he was, what they were, but made at them shouting, “Fly not, cowards and vile beings, for a single knight attacks you.”"
+    },
+    {
+     "rows": [
+      8,
+      9
+     ],
+     "text": "A slight breeze at this moment sprang up, and the great sails began to move, seeing which Don Quixote exclaimed, “Though ye flourish more arms than the giant Briareus, ye have to reckon with me.”"
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "So saying, and commending himself with all his heart to his lady Dulcinea, imploring her to support him in such a peril, with lance in rest and covered by his buckler, he charged at Rocinante’s fullest gallop and fell upon the first mill that stood in front of him; but as he drove his lance-point into the sail the wind whirled it round with such force that it shivered the lance to pieces, sweeping with it horse and rider, who went rolling over on the plain, in a sorry condition. Sancho hastened to his assistance as fast as his ass could go, and when he came up found him unable to move, with such a shock had Rocinante fallen with him."
+    },
+    {
+     "rows": [
+      11,
+      11
+     ],
+     "text": "“God bless me!” said Sancho, “did I not tell your worship to mind what you were about, for they were only windmills? and no one could have made any mistake about it but one who had something of the same kind in his head.”"
+    },
+    {
+     "rows": [
+      12,
+      12
+     ],
+     "text": "“Hush, friend Sancho,” replied Don Quixote, “the fortunes of war more than any other are liable to frequent fluctuations; and moreover I think, and it is the truth, that that same sage Friston who carried off my study and books, has turned these giants into mills in order to rob me of the glory of vanquishing them, such is the enmity he bears me; but in the end his wicked arts will avail but little against my good sword.”"
+    },
+    {
+     "rows": [
+      13,
+      14
+     ],
+     "text": "“God order it as he may,” said Sancho Panza, and helping him to rise got him up again on Rocinante, whose shoulder was half out;"
+    }
+   ]
+  }
+ },
+ "pkg-dante": {
+  "en": {
+   "translator": "Dante Gabriel Rossetti",
+   "translator_life": "1828–1882",
+   "year": "1861",
+   "edition": "The New Life (La Vita Nuova), translated by Dante Gabriel Rossetti (1861; ed. 1899), Project Gutenberg 41085. The translator’s footnotes are omitted.",
+   "source": "https://www.gutenberg.org/ebooks/41085",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      4
+     ],
+     "text": "My lady looks so gentle and so pure\nWhen yielding salutation by the way,\nThat the tongue trembles and has nought to say,\nAnd the eyes, which fain would see, may not endure."
+    },
+    {
+     "rows": [
+      5,
+      9
+     ],
+     "text": "And still, amid the praise she hears secure,\nShe walks with humbleness for her array;\nSeeming a creature sent from Heaven to stay\nOn earth, and show a miracle made sure."
+    },
+    {
+     "rows": [
+      10,
+      13
+     ],
+     "text": "She is so pleasant in the eyes of men\nThat through the sight the inmost heart doth gain\nA sweetness which needs proof to know it by:"
+    },
+    {
+     "rows": [
+      14,
+      16
+     ],
+     "text": "And from between her lips there seems to move\nA soothing essence that is full of love,\nSaying for ever to the spirit, “Sigh!”"
+    }
+   ]
+  }
+ },
+ "pkg-petrarch": {
+  "en": {
+   "translator": "John Nott",
+   "translator_life": "1751–1825",
+   "year": "1808",
+   "edition": "Petrarch’s Sonnets (1808), in The Sonnets, Triumphs, and Other Poems of Petrarch (London, Bohn, 1859), Project Gutenberg 17650",
+   "source": "https://www.gutenberg.org/ebooks/17650",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      4
+     ],
+     "text": "Her golden tresses on the wind she threw,\nWhich twisted them in many a beauteous braid;\nIn her fine eyes the burning glances play'd,\nWith lovely light, which now they seldom show:"
+    },
+    {
+     "rows": [
+      5,
+      9
+     ],
+     "text": "Ah! then it seem'd her face wore pity's hue,\nYet haply fancy my fond sense betray'd;\nNor strange that I, in whose warm heart was laid\nLove's fuel, suddenly enkindled grew!"
+    },
+    {
+     "rows": [
+      10,
+      13
+     ],
+     "text": "Not like a mortal's did her step appear,\nAngelic was her form; her voice, methought,\nPour'd more than human accents on the ear."
+    },
+    {
+     "rows": [
+      14,
+      16
+     ],
+     "text": "A living sun was what my vision caught,\nA spirit pure; and though not such still found,\nUnbending of the bow ne'er heals the wound."
+    }
+   ]
+  }
+ },
+ "pkg-renaissance-tasso-opening": {
+  "en": {
+   "translator": "Edward Fairfax",
+   "translator_life": "c. 1580–1635",
+   "year": "1600",
+   "edition": "Godfrey of Bulloigne, or The Recoverie of Jerusalem, translated by Edward Fairfax (London, 1600), Project Gutenberg 392",
+   "source": "https://www.gutenberg.org/ebooks/392",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "The sacred armies, and the godly knight,\nThat the great sepulchre of Christ did free,\nI sing; much wrought his valor and foresight,\nAnd in that glorious war much suffered he;\nIn vain ’gainst him did Hell oppose her might,\nIn vain the Turks and Morians armed be:\nHis soldiers wild, to brawls and mutinies prest,\nReduced he to peace, so Heaven him blest."
+    }
+   ]
+  }
+ },
+ "ren-ariosto-opening": {
+  "en": {
+   "translator": "William Stewart Rose",
+   "translator_life": "1775–1843",
+   "year": "1823",
+   "edition": "The Orlando Furioso, translated into English verse by William Stewart Rose (London, 1823–1831), Project Gutenberg 615",
+   "source": "https://www.gutenberg.org/ebooks/615",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      7
+     ],
+     "text": "OF LOVES and LADIES, KNIGHTS and ARMS, I sing,\nOf COURTESIES, and many a DARING FEAT;\nAnd from those ancient days my story bring,\nWhen Moors from Afric passed in hostile fleet,\nAnd ravaged France, with Agramant their king,\nFlushed with his youthful rage and furious heat,\nWho on king Charles', the Roman emperor's head\nHad vowed due vengeance for Troyano dead."
+    },
+    {
+     "rows": [
+      8,
+      15
+     ],
+     "text": "In the same strain of Roland will I tell\nThings unattempted yet in prose or rhyme,\nOn whom strange madness and rank fury fell,\nA man esteemed so wise in former time;\nIf she, who to like cruel pass has well\nNigh brought my feeble wit which fain would climb\nAnd hourly wastes my sense, concede me skill\nAnd strength my daring promise to fulfil."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Manuel Aranda y Sanjuán",
+   "translator_life": "1845–1900",
+   "year": "1872",
+   "edition": "Orlando furioso, traducido al castellano y anotado por Manuel Aranda y Sanjuán, t. I (Barcelona, La Ilustración, 1872), Project Gutenberg 46201",
+   "source": "https://www.gutenberg.org/ebooks/46201",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      7
+     ],
+     "text": "Canto la galantería, las damas, los caballeros, las armas, los amores y las arriesgadas empresas del tiempo en que los moros atravesaron el mar de África é hicieron grandes estragos en Francia, imitando el impetuoso y juvenil ardor de su rey Agramante, el cual se jactaba de vengar la muerte de Trojan en la persona de Carlos, emperador de romanos."
+    },
+    {
+     "rows": [
+      8,
+      15
+     ],
+     "text": "Con respecto á Orlando, referiré cosas que jamás se han dicho en prosa ni en verso; manifestaré cómo se convirtió en un loco furioso aquel hombre tenido siempre como modelo de cordura: ojalá que aquella por quien me falta poco para verme en tal estado, segun lo que va amortiguando mi escaso ingenio, me conceda el suficiente para llevar á cabo lo que prometo."
+    }
+   ]
+  }
+ },
+ "ren-michelangelo-sonnet": {
+  "en": {
+   "translator": "John Addington Symonds",
+   "translator_life": "1840–1893",
+   "year": "1878",
+   "edition": "The Sonnets of Michael Angelo Buonarroti and Tommaso Campanella, translated into rhymed English by John Addington Symonds (London, 1878), Project Gutenberg 10314",
+   "source": "https://www.gutenberg.org/ebooks/10314",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "The best of artists hath no thought to show\nWhich the rough stone in its superfluous shell\nDoth not include: to break the marble spell\nIs all the hand that serves the brain can do."
+    },
+    {
+     "rows": [
+      4,
+      7
+     ],
+     "text": "The ill I shun, the good I seek, even so\nIn thee, fair lady, proud, ineffable,\nLies hidden: but the art I wield so well\nWorks adverse to my wish, and lays me low."
+    },
+    {
+     "rows": [
+      8,
+      10
+     ],
+     "text": "Therefore not love, nor thy transcendent face,\nNor cruelty, nor fortune, nor disdain,\nCause my mischance, nor fate, nor destiny;"
+    },
+    {
+     "rows": [
+      11,
+      13
+     ],
+     "text": "Since in thy heart thou carriest death and grace\nEnclosed together, and my worthless brain\nCan draw forth only death to feed on me."
+    }
+   ]
+  }
+ },
+ "goethezeit-erlkonig": {
+  "en": {
+   "translator": "Edgar Alfred Bowring",
+   "translator_life": "1826–1911",
+   "year": "1853",
+   "edition": "The Poems of Goethe, translated in the original metres by Edgar Alfred Bowring (London, 1853; 2nd ed. 1874), Project Gutenberg 1287",
+   "source": "https://www.gutenberg.org/ebooks/1287",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "Who rides there so late through the night dark and drear?\nThe father it is, with his infant so dear;\nHe holdeth the boy tightly clasp'd in his arm,\nHe holdeth him safely, he keepeth him warm."
+    },
+    {
+     "rows": [
+      4,
+      7
+     ],
+     "text": "\"My son, wherefore seek'st thou thy face thus to hide?\"\n\"Look, father, the Erl-King is close by our side!\nDost see not the Erl-King, with crown and with train?\"\n\"My son, 'tis the mist rising over the plain.\""
+    },
+    {
+     "rows": [
+      8,
+      11
+     ],
+     "text": "\"Oh, come, thou dear infant! oh come thou with me!\nFull many a game I will play there with thee;\nOn my strand, lovely flowers their blossoms unfold,\nMy mother shall grace thee with garments of gold.\""
+    },
+    {
+     "rows": [
+      12,
+      15
+     ],
+     "text": "\"My father, my father, and dost thou not hear\nThe words that the Erl-King now breathes in mine ear?\"\n\"Be calm, dearest child, 'tis thy fancy deceives;\n'Tis the sad wind that sighs through the withering leaves.\""
+    },
+    {
+     "rows": [
+      16,
+      19
+     ],
+     "text": "\"Wilt go, then, dear infant, wilt go with me there?\nMy daughters shall tend thee with sisterly care\nMy daughters by night their glad festival keep,\nThey'll dance thee, and rock thee, and sing thee to sleep.\""
+    },
+    {
+     "rows": [
+      20,
+      23
+     ],
+     "text": "\"My father, my father, and dost thou not see,\nHow the Erl-King his daughters has brought here for me?\"\n\"My darling, my darling, I see it aright,\n'Tis the aged grey willows deceiving thy sight.\""
+    },
+    {
+     "rows": [
+      24,
+      27
+     ],
+     "text": "\"I love thee, I'm charm'd by thy beauty, dear boy!\nAnd if thou'rt unwilling, then force I'll employ.\"\n\"My father, my father, he seizes me fast,\nFull sorely the Erl-King has hurt me at last.\""
+    },
+    {
+     "rows": [
+      28,
+      31
+     ],
+     "text": "The father now gallops, with terror half wild,\nHe grasps in his arms the poor shuddering child;\nHe reaches his courtyard with toil and with dread,—\nThe child in his arms finds he motionless, dead."
+    }
+   ]
+  }
+ },
+ "goethezeit-mignon": {
+  "en": {
+   "translator": "Edgar Alfred Bowring",
+   "translator_life": "1826–1911",
+   "year": "1853",
+   "edition": "The Poems of Goethe, translated in the original metres by Edgar Alfred Bowring (London, 1853; 2nd ed. 1874), Project Gutenberg 1287",
+   "source": "https://www.gutenberg.org/ebooks/1287",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      6
+     ],
+     "text": "Know'st thou the land where the fair citron blows,\nWhere the bright orange midst the foliage glows,\nWhere soft winds greet us from the azure skies,\nWhere silent myrtles, stately laurels rise,\nKnow'st thou it well?\n'Tis there, 'tis there,\nThat I with thee, beloved one, would repair."
+    },
+    {
+     "rows": [
+      7,
+      13
+     ],
+     "text": "Know'st thou the house? On columns rests its pile,\nIts halls are gleaming, and its chambers smile,\nAnd marble statues stand and gaze on me:\n\"Poor child! what sorrow hath befallen thee?\"\nKnow'st thou it well?\n'Tis there, 'tis there,\nThat I with thee, protector, would repair!"
+    },
+    {
+     "rows": [
+      14,
+      20
+     ],
+     "text": "Know'st thou the mountain, and its cloudy bridge?\nThe mule can scarcely find the misty ridge;\nIn caverns dwells the dragon's olden brood,\nThe frowning crag obstructs the raging flood.\nKnow'st thou it well?\n'Tis there, 'tis there,\nOur path lies—Father—thither, oh repair!"
+    }
+   ]
+  }
+ },
+ "goethezeit-gretchen": {
+  "en": {
+   "translator": "Bayard Taylor",
+   "translator_life": "1825–1878",
+   "year": "1871",
+   "edition": "Faust, a Tragedy, translated in the original metres by Bayard Taylor (Boston, 1871), Project Gutenberg 14591",
+   "source": "https://www.gutenberg.org/ebooks/14591",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "My peace is gone,\nMy heart is sore:\nI never shall find it,\nAh, nevermore!"
+    },
+    {
+     "rows": [
+      4,
+      7
+     ],
+     "text": "Save I have him near.\nThe grave is here;\nThe world is gall\nAnd bitterness all."
+    },
+    {
+     "rows": [
+      8,
+      11
+     ],
+     "text": "My poor weak head\nIs racked and crazed;\nMy thought is lost,\nMy senses mazed."
+    },
+    {
+     "rows": [
+      12,
+      15
+     ],
+     "text": "My peace is gone,\nMy heart is sore:\nI never shall find it,\nAh, nevermore!"
+    },
+    {
+     "rows": [
+      16,
+      19
+     ],
+     "text": "To see him, him only,\nAt the pane I sit;\nTo meet him, him only,\nThe house I quit."
+    },
+    {
+     "rows": [
+      20,
+      23
+     ],
+     "text": "His lofty gait,\nHis noble size,\nThe smile of his mouth,\nThe power of his eyes,"
+    },
+    {
+     "rows": [
+      24,
+      27
+     ],
+     "text": "And the magic flow\nOf his talk, the bliss\nIn the clasp of his hand,\nAnd, ah! his kiss!"
+    },
+    {
+     "rows": [
+      28,
+      31
+     ],
+     "text": "My peace is gone,\nMy heart is sore:\nI never shall find it,\nAh, nevermore!"
+    },
+    {
+     "rows": [
+      32,
+      35
+     ],
+     "text": "My bosom yearns\nFor him alone;\nAh, dared I clasp him,\nAnd hold, and own!"
+    },
+    {
+     "rows": [
+      36,
+      39
+     ],
+     "text": "And kiss his mouth,\nTo heart’s desire,\nAnd on his kisses\nAt last expire!"
+    }
+   ]
+  }
+ },
+ "goethezeit-werther-may": {
+  "en": {
+   "translator": "R. Dillon Boylan",
+   "translator_life": "fl. 1854",
+   "year": "1854",
+   "edition": "The Sorrows of Young Werther, translated by R. D. Boylan (London, Bohn, 1854), Project Gutenberg 2527",
+   "source": "https://www.gutenberg.org/ebooks/2527",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God! O my friend—but it is too much for my strength—I sink under the weight of the splendour of these visions!"
+    }
+   ]
+  },
+  "es": {
+   "translator": "José Mor de Fuentes",
+   "translator_life": "1762–1848",
+   "year": "1835",
+   "edition": "Las cuitas de Werther, traducción de José Mor de Fuentes (Barcelona, 1835; ed. 1919), Wikisource en español. Se corrigen tres erratas de la transcripción (incien a, ei, allå).",
+   "source": "https://es.wikisource.org/wiki/Las_cuitas_de_Werther/Libro_primero",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Una bonanza asombrosa embarga todo mi espiritu, idéntica con la madrugada apacible de primavera, que paladeo hasta lo último de mis entrañas. Aquí solito me voy recreando con mi existencia, por sitios criados de intento para almas como la mia. Me hallo, mi siempre querido, tan venturoso, tan de extremo a extremo sumido en el regazo de mi plácido sosiego, que desfallece mi arte en tan sumo abandono. Nada he acertado aún a dibujar, ni siquiera una pincelada, y, sin embargo, jamás he venido a ser pintor tan grande como en este momento. Cuando la galana vega me inciensa, y el sol encumbrado baña el haz de la lobreguez impenetrable de mis arboledas, y tan sólo algún penado destello llega a calar hasta el santuario, entonces me tiendo por el mullido césped, junto al arroyuelo despeñado, y en la inmediación al suelo, millares de yerbezuelas se me hacen reparables; cuando percibo de cerca en mi pecho, el torbellino de un mundo en miniatura, y entre los tallos, innumerables e inapeables hechuras de gusanillos y de mosquituelos, y me encarna la presencia del Todopoderoso que nos crió a su semejanza, con el ambiente del amor mismo, cuya perpetua oleada es todo holganza y alimento para nosotros... ¡Ay amigo!, cuando luego anochece para mis ojos, y tierra y cielo se agolpan allá sobre mi espiritu como la imagen del dueño idolatrado, entonces me echo menos a mi mismo, y recapacito: «¡Ah!, si acertases a expresar cumplidamente, si pudieses reanimar sobre el papel cuanto vive y arde en toda tu esencia, para que allí se espejase toda tu alma, como ésta se espeja en el sumo Criador!...» ¡Ay amigo!... Pero me ataja el desengaño, y rindo al poderio de todo un numen tanto embeleso."
+    }
+   ]
+  }
+ },
+ "quixote-calling": {
+  "en": {
+   "translator": "John Ormsby",
+   "translator_life": "1829–1895",
+   "year": "1885",
+   "edition": "The Ingenious Gentleman Don Quixote of La Mancha, translated by John Ormsby (London, 1885), Project Gutenberg 996",
+   "source": "https://www.gutenberg.org/ebooks/996",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "In short, his wits being quite gone, he hit upon the strangest notion that ever madman in this world hit upon, and that was that he fancied it was right and requisite, as well for the support of his own honour as for the service of his country, that he should make a knight-errant of himself, roaming the world over in full armour and on horseback in quest of adventures, and putting in practice himself all that he had read of as being the usual practices of knights-errant; righting every kind of wrong, and exposing himself to peril and danger from which, in the issue, he was to reap eternal renown and fame. Already the poor man saw himself crowned by the might of his arm Emperor of Trebizond at least; and so, led away by the intense enjoyment he found in these pleasant fancies, he set himself forthwith to put his scheme into execution."
+    }
+   ]
+  }
+ },
+ "quixote-galley-slaves": {
+  "en": {
+   "translator": "John Ormsby",
+   "translator_life": "1829–1895",
+   "year": "1885",
+   "edition": "The Ingenious Gentleman Don Quixote of La Mancha, translated by John Ormsby (London, 1885), Project Gutenberg 996",
+   "source": "https://www.gutenberg.org/ebooks/996",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "“From all you have told me, dear brethren, I make out clearly that though they have punished you for your faults, the punishments you are about to endure do not give you much pleasure, and that you go to them very much against the grain and against your will, and that perhaps this one’s want of courage under torture, that one’s want of money, the other’s want of advocacy, and lastly the perverted judgment of the judge may have been the cause of your ruin and of your failure to obtain the justice you had on your side. All which presents itself now to my mind, urging, persuading, and even compelling me to demonstrate in your case the purpose for which Heaven sent me into the world and caused me to make profession of the order of chivalry to which I belong, and the vow I took therein to give aid to those in need and under the oppression of the strong. But as I know that it is a mark of prudence not to do by foul means what may be done by fair, I will ask these gentlemen, the guards and commissary, to be so good as to release you and let you go in peace, as there will be no lack of others to serve the king under more favourable circumstances; for it seems to me a hard case to make slaves of those whom God and nature have made free. Moreover, sirs of the guard,” added Don Quixote, “these poor fellows have done nothing to you; let each answer for his own sins yonder; there is a God in Heaven who will not forget to punish the wicked or reward the good; and it is not fitting that honest men should be the instruments of punishment to others, they being therein no way concerned. This request I make thus gently and quietly, that, if you comply with it, I may have reason for thanking you; and, if you will not voluntarily, this lance and sword together with the might of my arm shall compel you to comply with it by force.”"
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "“Nice nonsense!” said the commissary; “a fine piece of pleasantry he has come out with at last! He wants us to let the king’s prisoners go, as if we had any authority to release them, or he to order us to do so! Go your way, sir, and good luck to you; put that basin straight that you’ve got on your head, and don’t go looking for three feet on a cat.” “’Tis you that are the cat, rat, and rascal,” replied Don Quixote, and acting on the word he fell upon him so suddenly that without giving him time to defend himself he brought him to the ground sorely wounded with a lance-thrust; and lucky it was for him that it was the one that had the musket. The other guards stood thunderstruck and amazed at this unexpected event, but recovering presence of mind, those on horseback seized their swords, and those on foot their javelins, and attacked Don Quixote, who was waiting for them with great calmness; and no doubt it would have gone badly with him if the galley slaves, seeing the chance before them of liberating themselves, had not effected it by contriving to break the chain on which they were strung. Such was the confusion, that the guards, now rushing at the galley slaves who were breaking loose, now to attack Don Quixote who was waiting for them, did nothing at all that was of any use. Sancho, on his part, gave a helping hand to release Gines de Pasamonte, who was the first to leap forth upon the plain free and unfettered, and who, attacking the prostrate commissary, took from him his sword and the musket, with which, aiming at one and levelling at another, he, without ever discharging it, drove every one of the guards off the field, for they took to flight, as well to escape Pasamonte’s musket, as the showers of stones the now released galley slaves were raining upon them."
+    }
+   ]
+  }
+ },
+ "quixote-white-moon": {
+  "en": {
+   "translator": "John Ormsby",
+   "translator_life": "1829–1895",
+   "year": "1885",
+   "edition": "The Ingenious Gentleman Don Quixote of La Mancha, translated by John Ormsby (London, 1885), Project Gutenberg 996",
+   "source": "https://www.gutenberg.org/ebooks/996",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "“Dulcinea del Toboso is the fairest woman in the world, and I the most unfortunate knight on earth; it is not fitting that this truth should suffer by my feebleness; drive your lance home, sir knight, and take my life, since you have taken away my honour.”"
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "“That will I not, in sooth,” said he of the White Moon; “live the fame of the lady Dulcinea’s beauty undimmed as ever; all I require is that the great Don Quixote retire to his own home for a year, or for so long a time as shall by me be enjoined upon him, as we agreed before engaging in this combat.”"
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "The viceroy, Don Antonio, and several others who were present heard all this, and heard too how Don Quixote replied that so long as nothing in prejudice of Dulcinea was demanded of him, he would observe all the rest like a true and loyal knight."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "The engagement given, he of the White Moon wheeled about, and making obeisance to the viceroy with a movement of the head, rode away into the city at a half gallop."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "The viceroy bade Don Antonio hasten after him, and by some means or other find out who he was. They raised Don Quixote up and uncovered his face, and found him pale and bathed with sweat. Rocinante from the mere hard measure he had received lay unable to stir for the present. Sancho, wholly dejected and woebegone, knew not what to say or do. He fancied that all was a dream, that the whole business was a piece of enchantment. Here was his master defeated, and bound not to take up arms for a year. He saw the light of the glory of his achievements obscured; the hopes of the promises lately made him swept away like smoke before the wind; Rocinante, he feared, was crippled for life, and his master’s bones out of joint; for if he were only shaken out of his madness it would be no small luck. In the end they carried him into the city in a hand-chair which the viceroy sent for, and thither the viceroy himself returned, eager to ascertain who this Knight of the White Moon was who had left Don Quixote in such a sad plight."
+    }
+   ]
+  }
+ },
+ "quixote-death": {
+  "en": {
+   "translator": "John Ormsby",
+   "translator_life": "1829–1895",
+   "year": "1885",
+   "edition": "The Ingenious Gentleman Don Quixote of La Mancha, translated by John Ormsby (London, 1885), Project Gutenberg 996",
+   "source": "https://www.gutenberg.org/ebooks/996",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "At last Don Quixote’s end came, after he had received all the sacraments, and had in full and forcible terms expressed his detestation of books of chivalry. The notary was there at the time, and he said that in no book of chivalry had he ever read of any knight-errant dying in his bed so calmly and so like a Christian as Don Quixote, who amid the tears and lamentations of all present yielded up his spirit, that is to say died."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "On perceiving it the curate begged the notary to bear witness that Alonso Quixano the Good, commonly called Don Quixote of La Mancha, had passed away from this present life, and died naturally; and said he desired this testimony in order to remove the possibility of any other author save Cide Hamete Benengeli bringing him to life again falsely and making interminable stories out of his achievements."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Such was the end of the Ingenious Gentleman of La Mancha, whose village Cide Hamete would not indicate precisely, in order to leave all the towns and villages of La Mancha to contend among themselves for the right to adopt him and claim him as a son, as the seven cities of Greece contended for Homer."
+    }
+   ]
+  }
+ },
+ "aen-troy-burden": {
+  "en": {
+   "translator": "Theodore C. Williams",
+   "translator_life": "1855–1915",
+   "year": "1908",
+   "edition": "The Aeneid of Virgil, translated by Theodore C. Williams (Boston, Houghton Mifflin, 1908; 1910 printing), Perseus Digital Library. OCR slips corrected (I/l, 0/O).",
+   "source": "https://github.com/PerseusDL/canonical-latinLit/blob/master/data/phi0690/phi003/phi0690.phi003.perseus-eng2.xml",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      13
+     ],
+     "text": "“Haste, father, on these bending shoulders climb!\nThis back is ready, and the burden light;\none peril smites us both, whate'er befall;\none rescue both shall find. Close at my side\nlet young Iulus run, while, not too nigh,\nmy wife Creusa heeds what way we go.\nYe servants of our house, give ear, I pray,\nto my command. Outside the city's gates\nlies a low mound and long since ruined fane\nto Ceres vowed; a cypress, ancient shade\no'erhangs it, which our fathers' pious care\nprotected year by year; by various paths\nbe that our meeting-place. But in thy hands\nbring, sire, our household gods, and sanctifies:\nfor me to touch, who come this very hour\nfrom battle and the fresh blood of the slain,\nwere but abomination, till what time\nin living waters I shall make me clean.”"
+    },
+    {
+     "rows": [
+      14,
+      22
+     ],
+     "text": "So saying, I bowed my neck and shoulders broad,\no'erspread me with a lion's tawny skin,\nand lifted up my load. Close at my side\nlittle Iulus twined his hand in mine\nand followed, with unequal step, his sire.\nMy wife at distance came. We hastened on,\ncreeping through shadows; I, who once had viewed\nundaunted every instrument of war\nand all the gathered Greeks in grim array,\nnow shook at every gust, and heard all sounds\nwith fevered trepidation, fearing both\nfor him I bore and him who clasped my hand."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Miguel Antonio Caro",
+   "translator_life": "1843–1909",
+   "year": "1873",
+   "edition": "La Eneida de Virgilio, traducida en verso castellano por Miguel Antonio Caro (1873–1876; ed. 1902–1905), Wikisource en español. Se quitan los números de estrofa y de verso, y se corrigen espacios perdidos en la transcripción.",
+   "source": "https://es.wikisource.org/wiki/Eneida_(Caro_tr.)",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      2
+     ],
+     "text": "«Sube en mis hombros, padre: á fe que mucha\n»No ha de serles la carga: en todo evento,\n»Uno sea el peligro á entrambos; una,\n»O piadosa ó adversa, la fortuna."
+    },
+    {
+     "rows": [
+      3,
+      7
+     ],
+     "text": "»Ascanio venga de su padre al lado;\n»Tú, Creusa, seguir mis huellas cuida;\n»Y todos en los ánimos grabado\n»Tened lo que os encargo en esta huida:\n»Bien sabeis, servidores, de un collado\n»Que está de la ciudad á la salida,\n»Do de Céres ruinoso un templo antiguo\n»A un vetusto cipres yace contiguo:"
+    },
+    {
+     "rows": [
+      8,
+      13
+     ],
+     "text": "»Cipres que nuestros padres reverentes\n»Honraron siempre en sus felices dias;—\n»Allí nos juntaremos, diligentes\n»Sendereando por diversas vias.—\n»Toma, ¡oh padre! los Dioses: yo de ardientes\n»Refriegas salgo; si las manos mias\n»Pusiese en ellos, en corriente clara\n»No lustradas aún, los profanara.»"
+    },
+    {
+     "rows": [
+      14,
+      18
+     ],
+     "text": "»Callo; y encima del comun vestido,\nCon una piel bermeja leonina\nLos anchos hombros encubrirme cuido,\nY al grato peso mi cerviz se inclina.\nEl tierno Ascanio, de mi mano asido,\nConmigo á paso desigual camina:\nQuedóse atras mi esposa: opaca niebla\nEn torno nuestro los espacios puebla."
+    },
+    {
+     "rows": [
+      19,
+      22
+     ],
+     "text": "»Mas yo que en la ciudad momentos ántes\nNo temí de la lid el alto estruendo,\nNo las armas, no griegos batallantes\nRemolinados en tropel horrendo,\nAhora al sonar las auras oscilantes,\nAl más leve rüido me suspendo,\nNo temeroso por la vida mia,\nSí por mi dulce carga y compañía."
+    }
+   ]
+  }
+ },
+ "aen-dido-farewell": {
+  "en": {
+   "translator": "Theodore C. Williams",
+   "translator_life": "1855–1915",
+   "year": "1908",
+   "edition": "The Aeneid of Virgil, translated by Theodore C. Williams (Boston, Houghton Mifflin, 1908; 1910 printing), Perseus Digital Library. OCR slips corrected (I/l, 0/O).",
+   "source": "https://github.com/PerseusDL/canonical-latinLit/blob/master/data/phi0690/phi003/phi0690.phi003.perseus-eng2.xml",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      7
+     ],
+     "text": "“Sweet relics! Ever dear when Fate and Heaven\nupon me smiled, receive my parting breath,\nand from my woe set free! My life is done.\nI have accomplished what my lot allowed;\nand now my spirit to the world of death\nin royal honor goes. The founder I\nof yonder noble city, I have seen\nwalls at my bidding rise. I was avenged\nfor my slain husband: I chastised the crimes\nof our injurious brother. Woe is me!\nBlest had I been, beyond deserving blest,\nif but the Trojan galleys ne'er had moored\nupon my kingdom's bound!”"
+    },
+    {
+     "rows": [
+      8,
+      11
+     ],
+     "text": "So saying, she pressed\none last kiss on the couch. “Though for my death\nno vengeance fall, O, give me death!” she cried.\n“O thus! O thus! it is my will to take\nthe journey to the dark. From yonder sea\nmay his cold Trojan eyes discern the flames\nthat make me ashes! Be this cruel death\nhis omen as he sails!” She spoke no more."
+    },
+    {
+     "rows": [
+      12,
+      20
+     ],
+     "text": "But almost ere she ceased, her maidens all\nthronged to obey her cry, and found their Queen\nprone fallen on the sword, the reeking steel\nstill in her bloody hands. Shrill clamor flew\nalong the lofty halls; wild rumor spread\nthrough the whole smitten city: loud lament,\ngroans and the wail of women echoed on\nfrom roof to roof, and to the dome of air\nthe noise of mourning rose. Such were the cry\nif a besieging host should break the walls\nof Carthage or old Tyre, and wrathful flames\no'er towers of kings and worshipped altars roll."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Miguel Antonio Caro",
+   "translator_life": "1843–1909",
+   "year": "1873",
+   "edition": "La Eneida de Virgilio, traducida en verso castellano por Miguel Antonio Caro (1873–1876; ed. 1902–1905), Wikisource en español. Se quitan los números de estrofa y de verso, y se corrigen espacios perdidos en la transcripción.",
+   "source": "https://es.wikisource.org/wiki/Eneida_(Caro_tr.)",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "«¡Oh dulces prendas con mejor fortuna!\n¡Dulces por siempre cuando Dios queria!\nMi espíritu os entrego, y mi importuna\nMemoria cese con la vida mia!\nLa senda anduve que emprendí en la cuna;\nViví las horas que vivir debia:\nHoy, fin logrando á míseros afanes,\nVan á otro mundo mis augustos manes."
+    },
+    {
+     "rows": [
+      4,
+      7
+     ],
+     "text": "»Fundé yo una ciudad, ciudad preclara,\nMurallas propias coronó mi mano;\nVengué la sombra del esposo cara;\nYo tomé enmienda del malvado hermano.\n¡Feliz, harto feliz si no tocara\nMis costas, nada más, bajel troyano!»"
+    },
+    {
+     "rows": [
+      8,
+      11
+     ],
+     "text": "Y aquí, á par que en el lecho el rostro imprime,\n«¿Moriré inulta? ¡mas muramos!» gime.\n\n«¡Así á la eternidad partir me agrada!\nEl Dárdano este fuego á ver acierte\nVolviendo de la mar una mirada,\nY el triste agüero lleve de mi muerte!»"
+    },
+    {
+     "rows": [
+      12,
+      14
+     ],
+     "text": "Dijo; y, herida en esto, derribada,\nLa mano en sangre tinta, el hierro fuerte\nManando sangre las doncellas notan,\nY el palacio á gemidos alborotan."
+    },
+    {
+     "rows": [
+      15,
+      20
+     ],
+     "text": "Ya la Fama fatídicos rumores\nVa furiosa esparciendo en giro vago;\nTodo es lamento y llantos y clamores;\nTodo es alarma de espantoso estrago.\nParece cual si entrasen vencedores\nLa antigua Tiro ó la imperial Cartago,\nO que incendio voraz llamas crueles\nTendiese por los altos capiteles."
+    }
+   ]
+  }
+ },
+ "aen-anchises-embrace": {
+  "en": {
+   "translator": "Theodore C. Williams",
+   "translator_life": "1855–1915",
+   "year": "1908",
+   "edition": "The Aeneid of Virgil, translated by Theodore C. Williams (Boston, Houghton Mifflin, 1908; 1910 printing), Perseus Digital Library. OCR slips corrected (I/l, 0/O).",
+   "source": "https://github.com/PerseusDL/canonical-latinLit/blob/master/data/phi0690/phi003/phi0690.phi003.perseus-eng2.xml",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      4
+     ],
+     "text": "Father Anchises in a pleasant vale\nStood pondering, while his eyes and thought surveyed\nA host of prisoned spirits, who there abode\nAwaiting entrance to terrestrial air.\nAnd musing he reviewed the legions bright\nOf his own progeny and offspring proud—\nTheir fates and fortunes, virtues and great deeds."
+    },
+    {
+     "rows": [
+      5,
+      7
+     ],
+     "text": "Soon he discerned Aeneas drawing nigh\no'er the green slope, and, lifting both his hands\nIn eager welcome, spread them swiftly forth.\nTears from his eyelids rained, and thus he spoke:"
+    },
+    {
+     "rows": [
+      8,
+      15
+     ],
+     "text": "“Art here at last? Hath thy well-proven love\nOf me thy sire achieved yon arduous way?\nWill Heaven, beloved son, once more allow\nThat eye to eye we look? and shall I hear\nThy kindred accent mingling with my own?\nI cherished long this hope. My prophet-soul\nNumbered the lapse of days, nor did my thought\nDeceive. O, o'er what lands and seas wast driven\nTo this embrace! What perils manifold\nAssailed thee, O my son, on every side!\nHow long I trembled, lest that Libyan throne\nShould work thee woe!”"
+    },
+    {
+     "rows": [
+      16,
+      19
+     ],
+     "text": "Aeneas thus replied:\n“Thine image, sire, thy melancholy shade,\nCame oft upon my vision, and impelled\nMy journey hitherward. Our fleet of ships\nLies safe at anchor in the Tuscan seas.\nCome, clasp my hand! Come, father, I implore,\nAnd heart to heart this fond embrace receive!”"
+    },
+    {
+     "rows": [
+      20,
+      23
+     ],
+     "text": "So speaking, all his eyes suffused with tears;\nThrice would his arms in vain that shape enfold.\nThrice from the touch of hand the vision fled,\nLike wafted winds or likest hovering dreams."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Miguel Antonio Caro",
+   "translator_life": "1843–1909",
+   "year": "1873",
+   "edition": "La Eneida de Virgilio, traducida en verso castellano por Miguel Antonio Caro (1873–1876; ed. 1902–1905), Wikisource en español. Se quitan los números de estrofa y de verso, y se corrigen espacios perdidos en la transcripción.",
+   "source": "https://es.wikisource.org/wiki/Eneida_(Caro_tr.)",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      4
+     ],
+     "text": "En un valle cubierto de verdura,\nAnquíses, en el fondo, atento via\nGuardadas almas que del aura pura\nSubirán á gozar llegado el dia;\nAllí en sombra numera su futura\nCara prole, y mirando se extasía\nLa fortuna y valor hereditarios,\nGlorias, triunfos, virtudes, lances varios."
+    },
+    {
+     "rows": [
+      5,
+      10
+     ],
+     "text": "Y viendo que hácia allá se dirigia\nHollando Enéas el gramoso prado,\nAbre Anquíses los brazos, de alegría\nLágrimas vierte y clama enajenado:\n«¿Conque venciste intransitable via,\nHijo, á fuerza de amor? ¿Conque á mi lado\nHoy tornas? ¿Es posible que consigo\nVerte, oirte, tocarte, hablar contigo?"
+    },
+    {
+     "rows": [
+      11,
+      15
+     ],
+     "text": "»Yo, tiempos computando, aqueste día\nFausto acercarse vi: cumplióse el voto.\n¡Mas cuánta extraña tierra en tu porfía\nHabrás medido, y cuánto mar ignoto,\nY qué de riesgos arrostrado, en via\nDe confin tan profundo y tan remoto!\nDe los líbicos pueblos, hijo amado,\n¡Cuánto temblé por tí funesto hado!»"
+    },
+    {
+     "rows": [
+      16,
+      19
+     ],
+     "text": "Enéas contestóle en tal manera:\n«Tu imágen veneranda, padre mio,\nSiguiéndome doliente por doquiera,\nForzóme á visitar el reino umbrío.\nOcupan mis bajeles la ribera\nTirrena. Mas tú ahora, con desvío\nNo á mi mano, señor, robes la tuya;\nNo á mi abrazo filial tu cuello huya.»"
+    },
+    {
+     "rows": [
+      20,
+      23
+     ],
+     "text": "Dice, y llorando, con amante empeño\nTres veces va á abrazar al padre anciano;\nCual humo huye la sombra ó como sueño\nY él tres veces aprieta el aire vano."
+    }
+   ]
+  }
+ },
+ "aen-pallas-return": {
+  "en": {
+   "translator": "Theodore C. Williams",
+   "translator_life": "1855–1915",
+   "year": "1908",
+   "edition": "The Aeneid of Virgil, translated by Theodore C. Williams (Boston, Houghton Mifflin, 1908; 1910 printing), Perseus Digital Library. OCR slips corrected (I/l, 0/O).",
+   "source": "https://github.com/PerseusDL/canonical-latinLit/blob/master/data/phi0690/phi003/phi0690.phi003.perseus-eng2.xml",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      8
+     ],
+     "text": "Now Rumor, herald of prodigious woe,\nto King Evander hied, Evander's house\nand city filling, where, but late, her word\nhad told in Latium Pallas' victory.\nth' Arcadians thronging to the city-gates\nbear funeral torches, the accustomed way;\nin lines of flame the long street flashes far,\nlighting the fields beyond. To meet them moves\na Phrygian company, to join with theirs\nits lamentation loud. The Latin wives,\nsoon as they saw them entering, aroused\nthe whole sad city with shrill songs of woe."
+    },
+    {
+     "rows": [
+      9,
+      12
+     ],
+     "text": "No hand could stay Evander. Forth he flew\ninto the midmost tumult, and fell prone\non his dead Pallas, on the resting bier;\nhe clung to the pale corse with tears, with groans,\ntill anguish for a space his lips unsealed:"
+    },
+    {
+     "rows": [
+      13,
+      24
+     ],
+     "text": "“Not this thy promise, Pallas, to thy sire,\nto walk not rashly in the war-god's way.\nI knew too well how honor's morning-star,\nand sweet, foretasted glory tempt and woo\nin a first battle. O first-fruit forlorn\nof youth so fair! O prelude pitiless\nof war approaching! O my vows and prayers,\nwhich not one god would hear! My blessed wife,\nhow happy was the death that spared thee not\nto taste this bitterness! But I, the while,\nby living longer lived to meet my doom,—\na father sole-surviving. Would I myself\nhad perished by the Rutule's cruel spear,\nthe Trojan's cause espousing! This breath of life\nhow gladly had I given! And O, that now\nyon black solemnity were bearing home\nmyself, not Pallas, dead!"
+    }
+   ]
+  },
+  "es": {
+   "translator": "Miguel Antonio Caro",
+   "translator_life": "1843–1909",
+   "year": "1873",
+   "edition": "La Eneida de Virgilio, traducida en verso castellano por Miguel Antonio Caro (1873–1876; ed. 1902–1905), Wikisource en español. Se quitan los números de estrofa y de verso, y se corrigen espacios perdidos en la transcripción.",
+   "source": "https://es.wikisource.org/wiki/Eneida_(Caro_tr.)",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      4
+     ],
+     "text": "Entretanto la Fama voladora,\nQue ya á Palante vencedor mentia,\nDe lúgubres alarmas nuncia ahora\nEn torno á Evandro va, llenando impía\nMuros y techos donde Evandro mora.\nLos Arcades acorren á porfía\nHácia las puertas, y segun costumbre\nAntorchas asen de funérea lumbre."
+    },
+    {
+     "rows": [
+      5,
+      8
+     ],
+     "text": "Brilla de luces prolongada hilera\nDespartiendo los campos que ilumina.\nLa frigia turba, en tanto, plañidera\nA los muros sus pasos encamina.\nRetínense ambos pueblos; ya la entera\nProcesion á los techos se avecina:\nLas matronas la ven, y altos lamentos\nPor la triste ciudad dan á los vientos."
+    },
+    {
+     "rows": [
+      9,
+      12
+     ],
+     "text": "A moderar á Evandro no es bastante\nFuerza humana. Allá vuela, allá se arroja,\nY deteniendo el féretro, á Palante\nPostrado abraza, en lágrimas le moja,\nContra el seno le estrecha sollozante.\nCuando hubo apénas la mortal congoja\nDado paso á la voz, gimiendo dice:\n«¡Ay hijo de mi alma! ¡ay infelice!"
+    },
+    {
+     "rows": [
+      13,
+      18
+     ],
+     "text": "«En vano me ofreciste cautelarte\nDel peligro fatal. Yo bien sabía\nCuánto en la guerra á seducir es parte\nDe la gloria el sabor; con qué energía\nEn el primer conflicto arrastra Marte\nLa juvenil ardiente fantasía!\n¡Tristes primicias de tu edad lozana!\n¡Dura preparacion de lid cercana!"
+    },
+    {
+     "rows": [
+      19,
+      21
+     ],
+     "text": "»¡Ay! que mis votos y mis preces nada\nMe valieron. Y tú, bendita esposa,\nNo á tan fieros dolores reservada,\n¡Cuánto fuiste, muriendo, venturosa!\nPor modo opuesto, yo de mi jornada\nHe vencido la senda trabajosa,\nDe las pruebas triunfé del hado esquivo,\nY ya ¡padre infeliz! me sobrevivo."
+    },
+    {
+     "rows": [
+      22,
+      24
+     ],
+     "text": "«¡Hubiera yo seguido los reales\nTroyanos, y los Rútulos me hubiesen\nA dardos abrumado, y pompas tales\nA mí, no á mi Palante, aquí trajesen!"
+    }
+   ]
+  }
+ },
+ "aen-turnus-last": {
+  "en": {
+   "translator": "Theodore C. Williams",
+   "translator_life": "1855–1915",
+   "year": "1908",
+   "edition": "The Aeneid of Virgil, translated by Theodore C. Williams (Boston, Houghton Mifflin, 1908; 1910 printing), Perseus Digital Library. OCR slips corrected (I/l, 0/O).",
+   "source": "https://github.com/PerseusDL/canonical-latinLit/blob/master/data/phi0690/phi003/phi0690.phi003.perseus-eng2.xml",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      10
+     ],
+     "text": "Above his faltering terror gleams in air\nAeneas' fatal spear; whose eye perceived\nthe moment of success, and all whose strength\nstruck forth: the vast and ponderous rock outflung\nfrom engines which make breach in sieged walls\nnot louder roars nor breaks in thunder-sound\nmore terrible; like some black whirlwind flew\nthe death-delivering spear, and, rending wide\nthe corselet's edges and the heavy rim\nof the last circles of the seven-fold shield,\npierced, hissing, through the thigh. Huge Turnus sinks\no'erwhelmed upon the ground with doubling knee.\nUp spring the Rutules, groaning; the whole hill\nroars answering round them, and from far and wide\nthe lofty groves give back an echoing cry."
+    },
+    {
+     "rows": [
+      11,
+      18
+     ],
+     "text": "Lowly, with suppliant eyes, and holding forth\nhis hand in prayer: “I have my meed,” he cried,\n“Nor ask for mercy. Use what Fate has given!\nBut if a father's grief upon thy heart\nhave power at all,—for Sire Anchises once\nto thee was dear,—I pray thee to show grace\nto Daunus in his desolate old age;\nand me, or, if thou wilt, my lifeless clay,\nto him and his restore. For, lo, thou art\nmy conqueror! Ausonia's eyes have seen\nme suppliant, me fallen. Thou hast made\nLavinia thy bride. Why further urge\nour enmity?”"
+    },
+    {
+     "rows": [
+      19,
+      25
+     ],
+     "text": "With swift and dreadful arms\nAeneas o'er him stood, with rolling eyes,\nbut his bare sword restraining; for such words\nmoved on him more and more: when suddenly,\nover the mighty shoulder slung, he saw\nthat fatal baldric studded with bright gold\nwhich youthful Pallas wore, what time he fell\nvanquished by Turnus' stroke, whose shoulders now\ncarried such trophy of a foeman slain."
+    },
+    {
+     "rows": [
+      26,
+      30
+     ],
+     "text": "Aeneas' eyes took sure and slow survey\nof spoils that were the proof and memory\nof cruel sorrow; then with kindling rage\nand terrifying look, he cried, “Wouldst thou,\nclad in a prize stripped off my chosen friend,\nescape this hand? In this thy mortal wound\n't is Pallas has a victim; Pallas takes\nthe lawful forfeit of thy guilty blood!”"
+    },
+    {
+     "rows": [
+      31,
+      33
+     ],
+     "text": "He said, and buried deep his furious blade\nin the opposer's heart. The failing limbs\nsank cold and helpless; and the vital breath\nwith moan of wrath to darkness fled away."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Miguel Antonio Caro",
+   "translator_life": "1843–1909",
+   "year": "1873",
+   "edition": "La Eneida de Virgilio, traducida en verso castellano por Miguel Antonio Caro (1873–1876; ed. 1902–1905), Wikisource en español. Se quitan los números de estrofa y de verso, y se corrigen espacios perdidos en la transcripción.",
+   "source": "https://es.wikisource.org/wiki/Eneida_(Caro_tr.)",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      4
+     ],
+     "text": "Dudar ve á Turno, y su asta fulminante\nVibra Enéas, propicio punto cata\nCon los ojos, y arrójala distante,\nY entero en ella su poder desata.\nNo con ímpetu suele semejante\nPiedra que de ballesta se arrebata\nTerrífica zumbar; ni así, encendido,\nEstalla el rayo en hórrido estampido."
+    },
+    {
+     "rows": [
+      5,
+      8
+     ],
+     "text": "Fiero estrago llevando, el hierro crudo\nVuela á guisa de negro torbellino,\nY por lo bajo rompe del escudo\nHasta el séptimo cerco diamantino,\nY el halda abriendo á la loriga, pudo\nCrujiente en medio al muslo hacer camino\nAl fiero golpe, que de accion le priva,\nTurno enorme de hinojos se derriba."
+    },
+    {
+     "rows": [
+      9,
+      18
+     ],
+     "text": "Alzándose, en doliente vocería\nLos Rútulos prorumpen; gime el viento,\nY tiembla en torno el monte, y á porfía\nVuelven los altos bosques el lamento.\nEl, hincado, la diestra dirigia\nY miradas de humilde sentimiento\nA Enéas: «He mi suerte merecido,\nY nada,» exclama, «para mí te pido.\n\n«¡Venciste! todo en mí te pertenece;\nMe han visto los Ausonios prosternado\nTender las palmas. Si piedad merece\nUn padre (fuélo Anquises) desdichado,\nLa ancianidad de Dauno compadece,\nY vivo, ó muerto, cual te venga en grado,\nEste hijo tu piedad le restituya.\n¡Oh! cese tu rencor; ¡Lavinia es tuya!»"
+    },
+    {
+     "rows": [
+      19,
+      25
+     ],
+     "text": "Paróse armado el héroe encrudecido,\nY revolviendo los ardientes ojos\nLa diestra reprimió: ya del rendido\nEl discurso amansaba sus enojos,\nCuando el infausto talabarte vido\nDe Palante asomar, ricos despojos\nQue echó sobre sus hombros Turno ufano,\nMuerto el mancebo, y con sangrienta mano.\n\nHan resaltado las que el cinto lleva\nLucientes inequívocas labores."
+    },
+    {
+     "rows": [
+      26,
+      30
+     ],
+     "text": "Conforme Enéas las miradas ceba\nEn aquel monumento de dolores\nInsanables, la colera renueva,\nY clama así, terrible en sus furores:\n«¿Con tan queridas prendas te atavías,\nY escapar de mis manos presumías?\n\n«Palante es quien te hiere; sí, Palante\nQuien te inmola, y se venga en tu culpada\nSangre!»"
+    },
+    {
+     "rows": [
+      31,
+      33
+     ],
+     "text": "Dice, y al pecho que delante\nTiene, encamina la fulmínea espada\nEnardecido. Turno en ese instante\nA manos siente de la muerte helada\nSus miembros desatarse, y gemebundo\nSu espíritu indignado huye al profundo."
+    }
+   ]
+  }
+ },
+ "contra-vn-heart": {
+  "en": {
+   "translator": "Dante Gabriel Rossetti",
+   "translator_life": "1828–1882",
+   "year": "1861",
+   "edition": "The New Life (La Vita Nuova), translated by Dante Gabriel Rossetti (1861; ed. 1899), Project Gutenberg 41085. The translator’s footnotes are omitted.",
+   "source": "https://www.gutenberg.org/ebooks/41085",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      15
+     ],
+     "text": "After the lapse of so many days that nine years exactly were completed since the above-written appearance of this most gracious being, on the last of those days it happened that the same wonderful lady appeared to me dressed all in pure white, between two gentle ladies elder than she. And passing through a street, she turned her eyes thither where I stood sorely abashed: and by her unspeakable courtesy, which is now guerdoned in the Great Cycle, she saluted me with so virtuous a bearing that I seemed then and there to behold the very limits of blessedness. The hour of her most sweet salutation was exactly the ninth of that day; and because it was the first time that any words from her reached mine ears, I came into such sweetness that I parted thence as one intoxicated. And betaking me to the loneliness of mine own room, I fell to thinking of this most courteous lady, thinking of whom I was overtaken by a pleasant slumber, wherein a marvellous vision was presented to me: for there appeared to be in my room a mist of the colour of fire, within the which I discerned the figure of a lord of terrible aspect to such as should gaze upon him, but who seemed therewithal to rejoice inwardly that it was a marvel to see. Speaking he said many things, among the which I could understand but few; and of these, this: Ego dominus tuus. In his arms it seemed to me that a person was sleeping, covered only with a blood-coloured cloth; upon whom looking very attentively, I knew that it was the lady of the salutation who had deigned the day before to salute me. And he who held her held also in his hand a thing that was burning in flames; and he said to me, Vide cor tuum. But when he had remained with me a little while, I thought that he set himself to awaken her that slept; after the which he made her to eat that thing which flamed in his hand; and she ate as one fearing. Then, having waited again a space, all his joy was turned into most bitter weeping; and as he wept he gathered the lady into his arms, and it seemed to me that he went with her up towards heaven: whereby such a great anguish came upon me that my light slumber could not endure through it, but was suddenly broken. And immediately having considered, I knew that the hour wherein this vision had been made manifest to me was the fourth hour (which is to say, the first of the nine last hours) of the night. “I am thy master.” “Behold thy heart.”"
+    },
+    {
+     "rows": [
+      16,
+      18
+     ],
+     "text": "Then, musing on what I had seen, I proposed to relate the same to many poets who were famous in that day: and for that I had myself in some sort the art of discoursing with rhyme, I resolved on making a sonnet, in the which, having saluted all such as are subject unto Love, and entreated them to expound my vision, I should write unto them those things which I had seen in my sleep. And the sonnet I made was this:—"
+    },
+    {
+     "rows": [
+      19,
+      22
+     ],
+     "text": "To every heart which the sweet pain doth move,\nAnd unto which these words may now be brought\nFor true interpretation and kind thought,\nBe greeting in our Lord’s name, which is Love."
+    },
+    {
+     "rows": [
+      23,
+      26
+     ],
+     "text": "Of those long hours wherein the stars, above,\nWake and keep watch, the third was almost nought,\nWhen Love was shown me with such terrors fraught\nAs may not carelessly be spoken of."
+    },
+    {
+     "rows": [
+      27,
+      29
+     ],
+     "text": "He seemed like one who is full of joy, and had\nMy heart within his hand, and on his arm\nMy lady, with a mantle round her, slept;"
+    },
+    {
+     "rows": [
+      30,
+      32
+     ],
+     "text": "Whom (having wakened her) anon he made\nTo eat that heart; she ate, as fearing harm.\nThen he went out; and as he went, he wept."
+    },
+    {
+     "rows": [
+      33,
+      33
+     ],
+     "text": "This sonnet is divided into two parts. In the first part I give greeting, and ask an answer; in the second, I signify what thing has to be answered to. The second part commences here: “Of those long hours.”"
+    },
+    {
+     "rows": [
+      34,
+      36
+     ],
+     "text": "To this sonnet I received many answers, conveying many different opinions; of the which one was sent by him whom I now call the first among my friends, and it began thus, “Unto my thinking thou beheld’st all worth.” And indeed, it was when he learned that I was he who had sent those rhymes to him, that our friendship commenced. But the true meaning of that vision was not then perceived by any one, though it be now evident to the least skilful."
+    }
+   ]
+  }
+ },
+ "trag-agamemnon-zeus": {
+  "en": {
+   "translator": "E. D. A. Morshead",
+   "translator_life": "1849–1912",
+   "year": "1881",
+   "edition": "The House of Atreus, being the Agamemnon, Libation-Bearers and Furies of Aeschylus, translated into English verse by E. D. A. Morshead (London, 1881), Project Gutenberg 8604",
+   "source": "https://www.gutenberg.org/ebooks/8604",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      6
+     ],
+     "text": "Zeus—if to The Unknown\nThat name of many names seem good—\nZeus, upon Thee I call.\nThro’ the mind’s every road\nI passed, but vain are all,\nSave that which names thee Zeus, the Highest One,\nWere it but mine to cast away the load,\nThe weary load, that weighs my spirit down."
+    },
+    {
+     "rows": [
+      7,
+      11
+     ],
+     "text": "He that was Lord of old,\nIn full-blown pride of place and valour bold,\nHath fallen and is gone, even as an old tale told!\nAnd he that next held sway,\nBy stronger grasp o’erthrown\nHath pass’d away!"
+    },
+    {
+     "rows": [
+      12,
+      16
+     ],
+     "text": "And whoso now shall bid the triumph-chant arise\nTo Zeus, and Zeus alone,\nHe shall be found the truly wise.\n’Tis Zeus alone who shows the perfect way\nOf knowledge: He hath ruled,\nMen shall learn wisdom, by affliction schooled."
+    },
+    {
+     "rows": [
+      17,
+      21
+     ],
+     "text": "In visions of the night, like dropping rain,\nDescend the many memories of pain\nBefore the spirit’s sight: through tears and dole\nComes wisdom o’er the unwilling soul—\nA boon, I wot, of all Divinity,\nThat holds its sacred throne in strength, above the sky!"
+    }
+   ]
+  },
+  "es": {
+   "translator": "Fernando Segundo Brieva Salvatierra",
+   "translator_life": "1845–1906",
+   "year": "1880",
+   "edition": "Tragedias de Esquilo, versión directa del griego por Fernando Segundo Brieva Salvatierra (1880; ed. México, Universidad Nacional, 1921), Project Gutenberg 66023",
+   "source": "https://www.gutenberg.org/ebooks/66023",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      6
+     ],
+     "text": "¡Oh, Zeus, quien quiera que tú seas, yo te invoco con este nombre, si con él te agrada de ser invocado! Porque bien considerado todo en mi mente, para arrojar de mí el peso de estas vanas inquietudes, no hallaré en verdad quien con Zeus pueda compararse."
+    },
+    {
+     "rows": [
+      7,
+      13
+     ],
+     "text": "El primero que fué grande en el mundo, aquel dios que estaba rebosando fuerza, y al cual nadie se resistía, nada podría mandar hoy: fué antes; ya nada es. El que vino después de él, encontró quien le venciese, y feneció. Mas quien de corazón celebre a Zeus con jubiloso himno de triunfo, llegará al colmo de la sabia prudencia."
+    },
+    {
+     "rows": [
+      14,
+      21
+     ],
+     "text": "A aquel dios que encamina a los mortales a la sabiduría, y dispuso que en el dolor se hiciesen señores de la ciencia. Hasta en el sueño mismo el penoso recuerdo de nuestros males está destilando sobre el corazón, y aun sin quererlo nos llega el pensar con cordura. Don del dios, que sentado en augusto trono rige con diestra vigorosa la nave de nuestros destinos."
+    }
+   ]
+  }
+ },
+ "trag-oedipus-end": {
+  "en": {
+   "translator": "Francis Storr",
+   "translator_life": "1839–1919",
+   "year": "1912",
+   "edition": "Sophocles, translated by Francis Storr (Loeb Classical Library, 1912), Project Gutenberg 31",
+   "source": "https://www.gutenberg.org/ebooks/31",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      6
+     ],
+     "text": "Look ye, countrymen and Thebans, this is Oedipus the great,\nHe who knew the Sphinx’s riddle and was mightiest in our state.\nWho of all our townsmen gazed not on his fame with envious eyes?\nNow, in what a sea of troubles sunk and overwhelmed he lies!\nTherefore wait to see life’s ending ere thou count one mortal blest;\nWait till free from pain and sorrow he has gained his final rest."
+    }
+   ]
+  }
+ }
+}

@@ -23,7 +23,7 @@
   </main>
   <script>
     (() => {
-      const version = "20260924-compass-quiz18-v1";
+      const version = "20260925-official-wip1";
       const paths = ["app/katabasis-01.txt","app/katabasis-02.txt","app/katabasis-03.txt","app/katabasis-04.txt","app/katabasis-05.txt","app/katabasis-06.txt","app/katabasis-07.txt","app/katabasis-08.txt","app/katabasis-09.txt","app/katabasis-10.txt","app/katabasis-11.txt","app/katabasis-12.txt","app/katabasis-13.txt","app/katabasis-14.txt","app/katabasis-15.txt","app/katabasis-16.txt","app/katabasis-17.txt","app/katabasis-18.txt","app/katabasis-19.txt","app/katabasis-20.txt","app/katabasis-21.txt","app/katabasis-22.txt","app/katabasis-23.txt","app/katabasis-24.txt","app/katabasis-25.txt","app/katabasis-26.txt","app/katabasis-27.txt","app/katabasis-28.txt","app/katabasis-29.txt","app/katabasis-30.txt","app/katabasis-31.txt","app/katabasis-32.txt","app/katabasis-33.txt","app/katabasis-34.txt","app/katabasis-35.txt","app/katabasis-36.txt","app/katabasis-37.txt"];
       const status = document.getElementById('status');
       const progress = document.getElementById('progress');
@@ -40,7 +40,7 @@
           if (!additionsResponse.ok) throw new Error('No se pudieron cargar los nuevos paquetes.');
           const additions = await additionsResponse.json();
           const additionsScript = '<script id="reading-package-additions" type="application/json">' + JSON.stringify(additions).replace(/</g, '\\u003c') + '<' + '/script>';
-          const timelinePaths = ['app/author-lives.json', 'app/author-timeline.js', 'app/author-timeline.css', 'app/gloss-lexicon.json', 'app/gloss.js', 'app/extras.css'];
+          const timelinePaths = ['app/author-lives.json', 'app/author-timeline.js', 'app/author-timeline.css', 'app/gloss-lexicon.json', 'app/gloss.js', 'app/extras.css', 'app/official-translations.json', 'app/official.js', 'app/official.css'];
           const timelineFiles = await Promise.all(timelinePaths.map(async path => {
             const response = await fetch(`${path}?v=${version}`, { cache: 'no-cache' });
             if (!response.ok) throw new Error(`No se pudo cargar ${path} (HTTP ${response.status}).`);
@@ -49,7 +49,8 @@
           const lives = JSON.parse(timelineFiles[0]);
           const lexicon = JSON.parse(timelineFiles[3]);
           const timelineScripts = '<script id="author-lives" type="application/json">' + JSON.stringify(lives).replace(/</g, '\\u003c') + '<' + '/script>' + '<style>' + timelineFiles[2] + '</style><script>' + timelineFiles[1] + '<' + '/script>'
-            + '<script id="gloss-lexicon" type="application/json">' + JSON.stringify(lexicon).replace(/</g, '\\u003c') + '<' + '/script>' + '<style>' + timelineFiles[5] + '</style><script>' + timelineFiles[4] + '<' + '/script>';
+            + '<script id="gloss-lexicon" type="application/json">' + JSON.stringify(lexicon).replace(/</g, '\\u003c') + '<' + '/script>' + '<style>' + timelineFiles[5] + '</style><script>' + timelineFiles[4] + '<' + '/script>'
+            + '<script id="official-translations" type="application/json">' + JSON.stringify(JSON.parse(timelineFiles[6])).replace(/</g, '\\u003c') + '<' + '/script>' + '<style>' + timelineFiles[8] + '</style><script>' + timelineFiles[7] + '<' + '/script>';
           const page = pieces.join('').replace('</head>', additionsScript + timelineScripts + '</head>');
           progress.value = 41;
           document.open();
