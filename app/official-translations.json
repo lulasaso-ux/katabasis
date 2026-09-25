@@ -65,6 +65,201 @@
    ]
   }
  },
+ "rizal": {
+  "en": {
+   "translator": "Charles E. Derbyshire",
+   "translator_life": "1880–1933",
+   "year": "1913",
+   "edition": "“My Last Farewell”, translated by Charles Derbyshire, in Austin Craig, Lineage, Life and Labors of José Rizal, Philippine Patriot (Manila, 1913), Project Gutenberg 6867",
+   "source": "https://www.gutenberg.org/ebooks/6867",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      5
+     ],
+     "text": "Farewell, dear Fatherland, clime of the sun caress'd,\nPearl of the Orient seas, our Eden lost!\nGladly now I go to give thee this faded life's best,\nAnd were it brighter, fresher, or more blest,\nStill would I give it thee, nor count the cost."
+    },
+    {
+     "rows": [
+      6,
+      11
+     ],
+     "text": "On the field of battle, 'mid the frenzy of fight,\nOthers have given their lives, without doubt or heed;\nThe place matters not--cypress or laurel or lily white,\nScaffold of open plain, combat or martyrdom's plight,\n'Tis ever the same, to serve our home and country's need."
+    },
+    {
+     "rows": [
+      12,
+      17
+     ],
+     "text": "I die just when I see the dawn break,\nThrough the gloom of night, to herald the day;\nAnd if color is lacking my blood thou shalt take,\nPour'd out at need for thy dear sake,\nTo dye with its crimson the waking ray."
+    },
+    {
+     "rows": [
+      18,
+      23
+     ],
+     "text": "My dreams, when life first opened to me,\nMy dreams, when the hopes of youth beat high,\nWere to see thy lov'd face, O gem of the Orient sea,\nFrom gloom and grief, from care and sorrow free;\nNo blush on thy brow, no tear in thine eye"
+    },
+    {
+     "rows": [
+      24,
+      29
+     ],
+     "text": "Dream of my life, my living and burning desire,\nAll hail! cries the soul that is now to take flight;\nAll hail! And sweet it is for thee to expire;\nTo die for thy sake, that thou mayst aspire;\nAnd sleep in thy bosom eternity's long night."
+    },
+    {
+     "rows": [
+      30,
+      35
+     ],
+     "text": "If over my grave some day thou seest grow,\nIn the grassy sod, a humble flower,\nDraw it to thy lips and kiss my soul so,\nWhile I may feel on my brow in the cold tomb below\nThe touch of thy tenderness, thy breath's warm power."
+    },
+    {
+     "rows": [
+      36,
+      41
+     ],
+     "text": "Let the moon beam over me soft and serene,\nLet the dawn shed over me its radiant flashes,\nLet the wind with sad lament over me keen;\nAnd if on my cross a bird should be seen,\nLet it trill there its hymn of peace to my ashes."
+    },
+    {
+     "rows": [
+      42,
+      47
+     ],
+     "text": "Let the sun draw the vapors up to the sky,\nAnd heavenward in purity bear my tardy protest;\nLet some kind soul o'er my untimely fate sigh,\nAnd in the still evening a prayer be lifted on high\nFrom thee, O my country, that in God I may rest."
+    },
+    {
+     "rows": [
+      48,
+      53
+     ],
+     "text": "Pray for all those that hapless have died,\nFor all who have suffered the unmeasur'd pain;\nFor our mothers that bitterly their woes have cried,\nFor widows and orphans, for captives by torture tried;\nAnd then for thyself that redemption thou mayst gain."
+    },
+    {
+     "rows": [
+      54,
+      59
+     ],
+     "text": "And when the dark night wraps the graveyard around,\nWith only the dead in their vigil to see;\nBreak not my repose or the mystery profound,\nAnd perchance thou mayst hear a sad hymn resound;\n'Tis I, O my country, raising a song unto thee."
+    },
+    {
+     "rows": [
+      60,
+      65
+     ],
+     "text": "When even my grave is remembered no more,\nUnmark'd by never a cross nor a stone;\nLet the plow sweep through it, the spade turn it o'er,\nThat my ashes may carpet thy earthly floor,\nBefore into nothingness at last they are blown."
+    },
+    {
+     "rows": [
+      66,
+      71
+     ],
+     "text": "Then will oblivion bring to me no care,\nAs over thy vales and plains I sweep;\nThrobbing and cleansed in thy space and air,\nWith color and light, with song and lament I fare,\nEver repeating the faith that I keep."
+    },
+    {
+     "rows": [
+      72,
+      77
+     ],
+     "text": "My Fatherland ador'd, that sadness to my sorrow lends,\nBeloved Filipinas, hear now my last good-by!\nI give thee all: parents and kindred and friends;\nFor I go where no slave before the oppressor bends,\nWhere faith can never kill, and God reigns e'er on high!"
+    },
+    {
+     "rows": [
+      78,
+      82
+     ],
+     "text": "Farewell to you all, from my soul torn away,\nFriends of my childhood in the home dispossessed!\nGive thanks that I rest from the wearisome day!\nFarewell to thee, too, sweet friend that lightened my way;\nBeloved creatures all, farewell! In death there is rest!"
+    }
+   ]
+  }
+ },
+ "catullus": {
+  "en": {
+   "translator": "Richard Francis Burton",
+   "translator_life": "1821–1890",
+   "year": "1894",
+   "edition": "The Carmina of Caius Valerius Catullus, translated by Sir Richard F. Burton, with a prose version by Leonard C. Smithers (London, 1894), Project Gutenberg 20732",
+   "source": "https://www.gutenberg.org/ebooks/20732",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      1
+     ],
+     "text": "Hate I, and love I. Haps thou'lt ask me wherefore I do so.\nWot I not, yet so I do feeling a torture of pain."
+    }
+   ]
+  }
+ },
+ "augustine": {
+  "en": {
+   "translator": "Edward Bouverie Pusey",
+   "translator_life": "1800–1882",
+   "year": "1838",
+   "edition": "The Confessions of St. Augustine, translated by E. B. Pusey (Oxford, 1838), Project Gutenberg 3296",
+   "source": "https://www.gutenberg.org/ebooks/3296",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Great art Thou, O Lord, and greatly to be praised; great is Thy power, and Thy wisdom infinite."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "And Thee would man praise; man, but a particle of Thy creation; man, that bears about him his mortality, the witness of his sin, the witness that Thou resistest the proud: yet would man praise Thee; he, but a particle of Thy creation."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Thou awakest us to delight in Thy praise; for Thou madest us for Thyself, and our heart is restless, until it repose in Thee."
+    }
+   ]
+  }
+ },
+ "horace": {
+  "en": {
+   "translator": "John Conington",
+   "translator_life": "1825–1869",
+   "year": "1863",
+   "edition": "The Odes and Carmen Saeculare of Horace, translated by John Conington (London, 1863; 5th ed. 1872), Project Gutenberg 5432",
+   "source": "https://www.gutenberg.org/ebooks/5432",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      7
+     ],
+     "text": "Ask not ('tis forbidden knowledge), what our destined term of years,\nMine and yours; nor scan the tables of your Babylonish seers.\nBetter far to bear the future, my Leuconoe, like the past,\nWhether Jove has many winters yet to give, or this our last;\nTHIS, that makes the Tyrrhene billows spend their strength against the shore.\nStrain your wine and prove your wisdom; life is short; should hope be more?\nIn the moment of our talking, envious time has ebb'd away.\nSeize the present; trust to-morrow e'en as little as you may."
+    }
+   ]
+  }
+ },
+ "teresa": {
+  "en": {
+   "translator": "Henry Wadsworth Longfellow",
+   "translator_life": "1807–1882",
+   "year": "1878",
+   "edition": "“Santa Teresa’s Book-Mark”, translated by Henry Wadsworth Longfellow (Kéramos and Other Poems, 1878), from The Complete Poetical Works of Henry Wadsworth Longfellow, Project Gutenberg 1365",
+   "source": "https://www.gutenberg.org/ebooks/1365",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      8
+     ],
+     "text": "Let nothing disturb thee,\nNothing affright thee;\nAll things are passing;\nGod never changeth;\nPatient endurance\nAttaineth to all things;\nWho God possesseth\nIn nothing is wanting;\nAlone God sufficeth."
+    }
+   ]
+  }
+ },
  "luke-blind": {
   "en": {
    "translator": "King James Version",
@@ -602,6 +797,31 @@
    ]
   }
  },
+ "justinian": {
+  "en": {
+   "translator": "John Baron Moyle",
+   "translator_life": "1852–1930",
+   "year": "1883",
+   "edition": "The Institutes of Justinian, translated by J. B. Moyle (Oxford, 1883; 5th ed. 1913), Project Gutenberg 5983",
+   "source": "https://www.gutenberg.org/ebooks/5983",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Having laid down these general definitions, and our object being the exposition of the law of the Roman people, we think that the most advantageous plan will be to commence with an easy and simple path, and then to proceed to details with a most careful and scrupulous exactness of interpretation."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Otherwise, if we begin by burdening the student's memory, as yet weak and untrained, with a multitude and variety of matters, one of two things will happen: either we shall cause him wholly to desert the study of law, or else we shall bring him at last, after great labour, and often, too, distrustful of his own powers (the commonest cause, among the young, of ill-success), to a point which he might have reached earlier, without such labour and confident in himself, had he been led along a smoother path."
+    }
+   ]
+  }
+ },
  "epictetus": {
   "en": {
    "translator": "Thomas Wentworth Higginson",
@@ -632,6 +852,52 @@
       0
      ],
      "text": "Nunca pidas que las cosas se hagan como quieres; mas procura quererlas como ellas se hacen. Por este medio todo te sucederá como lo deseas."
+    }
+   ]
+  }
+ },
+ "lafontaine": {
+  "en": {
+   "translator": "Elizur Wright",
+   "translator_life": "1804–1885",
+   "year": "1841",
+   "edition": "Fables of La Fontaine, translated by Elizur Wright (Boston, 1841; new edition, London, 1882), book I, fable II, Project Gutenberg 7241",
+   "source": "https://www.gutenberg.org/ebooks/7241",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "Perch'd on a lofty oak,\nSir Raven held a lunch of cheese;\nSir Fox, who smelt it in the breeze,\nThus to the holder spoke:—"
+    },
+    {
+     "rows": [
+      4,
+      8
+     ],
+     "text": "'Ha! how do you do, Sir Raven?\nWell, your coat, sir, is a brave one!\nSo black and glossy, on my word, sir,\nWith voice to match, you were a bird, sir,\nWell fit to be the Phoenix of these days.'"
+    },
+    {
+     "rows": [
+      9,
+      11
+     ],
+     "text": "Sir Raven, overset with praise,\nMust show how musical his croak.\nDown fell the luncheon from the oak;"
+    },
+    {
+     "rows": [
+      12,
+      15
+     ],
+     "text": "Which snatching up, Sir Fox thus spoke:—\n'The flatterer, my good sir,\nAye liveth on his listener;\nWhich lesson, if you please,\nIs doubtless worth the cheese.'"
+    },
+    {
+     "rows": [
+      16,
+      17
+     ],
+     "text": "A bit too late, Sir Raven swore\nThe rogue should never cheat him more."
     }
    ]
   }
@@ -772,6 +1038,423 @@
       4
      ],
      "text": "Cuando se te ofrece algún objeto enojoso, acostúmbrate á decir en tí mismo que no es lo que parece, sino pura imaginación. Luego que hayas hecho esta reflexión, examina el objeto por las reglas que ya tienes para ello. Considera si es cosa que depende de tí; porque si no depende, dirás que no te toca."
+    }
+   ]
+  }
+ },
+ "pkg-kebra-wisdom": {
+  "en": {
+   "translator": "E. A. Wallis Budge",
+   "translator_life": "1857–1934",
+   "year": "1922",
+   "edition": "The Queen of Sheba and her only son Menyelek, being the “Book of the Glory of Kings” (Kebra Nagast), translated by Sir E. A. Wallis Budge (London, Medici Society, 1922), Internet Archive",
+   "source": "https://archive.org/details/queenofshebahero00kebr",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "And the Queen said unto them, “Hearken, O ye who are my people, and give ye ear to my words. For I desire wisdom and my heart seeketh to find understanding. I am smitten with the love of wisdom, and I am constrained by the cords of understanding; for wisdom is far better than treasure of gold and silver, and wisdom is the best of everything that hath been created on the earth."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Now unto what under the heavens shall wisdom be compared? It is sweeter than honey, and it maketh one to rejoice more than wine, and it illumineth more than the sun, and it is to be loved more than precious stones. And it fatteneth more than oil, and it satisfieth more than dainty meats, and it giveth [a man] more renown than thousands of gold and silver. It is a source of joy for the heart, and a bright and shining light for the eyes, and a giver of speed to the feet, and a shield for the breast, and a helmet for the head, and chain-work for the neck, and a belt for the loins. It maketh the ears to hear and hearts to understand, it is a teacher of those who are learned, and it is a consoler of those who are discreet and prudent, and it giveth fame to those who seek after it."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "And as for a kingdom, it cannot stand without wisdom, and riches cannot be preserved without wisdom; the foot cannot keep the place wherein it hath set itself without wisdom. And without wisdom that which the tongue speaketh is not acceptable."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Wisdom is the best of all treasures. He who heapeth up gold and silver doeth so to no profit without wisdom, but he who heapeth up wisdom — no man can filch it from his heart. That which fools heap up the wise consume. And because of the wickedness of those who do evil the righteous are praised; and because of the wicked acts of fools the wise are beloved."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Wisdom is an exalted thing and a rich thing: I will love her like a mother, and she shall embrace me like her child. I will follow the footprints of wisdom and she shall protect me for ever; I will seek after wisdom, and she shall be with me for ever; I will follow her footprints, and she shall not cast me away; I will lean upon her, and she shall be unto me a wall of adamant; I will seek asylum with her, and she shall be unto me power and strength; I will rejoice in her, and she shall be unto me abundant grace."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "For it is right for us to follow the footprints of wisdom, and for the soles of our feet to stand upon the threshold of the gates of wisdom. Let us seek her, and we shall find her; let us love her, and she will not withdraw herself from us; let us pursue her, and we shall overtake her; let us ask, and we shall receive; and let us turn our hearts to her so that we may never forget her. If [we] remember her, she will have us in remembrance; and in connection with fools thou shalt not remember wisdom, for they do not hold her in honour, and she doth not love them."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "The honouring of wisdom is the honouring of the wise man, and the loving of wisdom is the loving of the wise man. Love the wise man and withdraw not thyself from him, and by the sight of him thou shalt become wise; hearken to the utterance of his mouth, so that thou mayest become like unto him; watch the place whereon he hath set his foot, and leave him not, so that thou mayest receive the remainder of his wisdom."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "And I love him merely on hearing concerning him and without seeing him, and the whole story of him that hath been told me is to me as the desire of my heart, and like water to the thirsty man.”"
+    }
+   ]
+  }
+ },
+ "pkg-kebra-worker": {
+  "en": {
+   "translator": "E. A. Wallis Budge",
+   "translator_life": "1857–1934",
+   "year": "1922",
+   "edition": "The Queen of Sheba and her only son Menyelek, being the “Book of the Glory of Kings” (Kebra Nagast), translated by Sir E. A. Wallis Budge (London, Medici Society, 1922), Internet Archive",
+   "source": "https://archive.org/details/queenofshebahero00kebr",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "And as Solomon was talking in this wise with the Queen, he saw a certain labourer carrying a stone upon his head and a skin of water upon his neck and shoulders, and his food and his sandals were [tied] about his loins, and there were pieces of wood in his hands; his garments were ragged and tattered, the sweat fell in drops from his face, and water from the skin of water dripped down upon his feet."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "And the labourer passed before Solomon,"
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "and as he was going by the King said unto him, “Stand still”; and the labourer stood still. And the King turned to the Queen and said unto her, “Look at this man. Wherein am I superior to this man? And in what am I better than this man? And wherein shall I glory over this man? For I am a man and dust and ashes, who to-morrow will become worms and corruption, and yet at this moment I appear like one who will never die."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Who would make any complaint against God if He were to give unto this man as He hath given to me, and if He were to make me even as this man is? Are we not both of us beings, that is to say men? As is his death, [so] is my death; and as is his life [so] is my life. Yet this man is stronger to work than I am, for God giveth power to those who are feeble just as it pleaseth Him to do so.” And Solomon said unto the labourer, “Get thee to thy work.”"
+    }
+   ]
+  }
+ },
+ "pkg-romantic-novalis": {
+  "en": {
+   "translator": "George MacDonald",
+   "translator_life": "1824–1905",
+   "year": "1897",
+   "edition": "Hymns to the Night, III, in Rampolli: Growths from a Long-Planted Root, translated by George MacDonald (London, Longmans, 1897), Project Gutenberg 8949",
+   "source": "https://www.gutenberg.org/ebooks/8949",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Once when I was shedding bitter tears, when, dissolved in pain, my hope was melting away, and I stood alone by the barren hillock which in its narrow dark bosom hid the vanished form of my Life, lonely as never yet was lonely man, driven by anguish unspeakable, powerless, and no longer aught but a conscious misery;"
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "—as there I looked about me for help, unable to go on or to turn back, and clung to the fleeting, extinguished life with an endless longing: then, out of the blue distances, from the hills of my ancient bliss, came a shiver of twilight, and at once snapped the bond of birth, the fetter of the Light."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Away fled the glory of the world, and with it my mourning; the sadness flowed together into a new, unfathomable world. Thou, soul of the Night, heavenly Slumber, didst come upon me; the region gently upheaved itself, and over it hovered my unbound, new-born spirit."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "The hillock became a cloud of dust, and through the cloud I saw the glorified face of my beloved. In her eyes eternity reposed. I laid hold of her hands, and the tears became a sparkling chain that could not be broken."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Into the distance swept by, like a tempest, thousands of years. On her neck I welcomed the new life with ecstatic tears."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "Never was such another dream; then first and ever since I hold fast an eternal, unchangeable faith in the heaven of the Night, and its sun, the Beloved."
+    }
+   ]
+  }
+ },
+ "pkg-romantic-hoffmann": {
+  "en": {
+   "translator": "J. T. Bealby",
+   "translator_life": "1858–1944",
+   "year": "1885",
+   "edition": "“The Sand-Man”, in Weird Tales by E. T. A. Hoffmann, translated by J. T. Bealby (London, Nimmo, 1885), vol. 1, Project Gutenberg 31377",
+   "source": "https://www.gutenberg.org/ebooks/31377",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Professor Spalanzani appeared to be greatly pleased at the intimacy that had sprung up between his daughter Olimpia and Nathanael, and showed the young man many unmistakable proofs of his good feeling towards him; and when Nathanael ventured at length to hint very delicately at an alliance with Olimpia, the Professor smiled all over his face at once, and said he should allow his daughter to make a perfectly free choice."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Encouraged by these words, and with the fire of desire burning in his heart, Nathanael resolved the very next day to implore Olimpia to tell him frankly, in plain words, what he had long read in her sweet loving glances,—that she would be his for ever."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "He looked for the ring which his mother had given him at parting; he would present it to Olimpia as a symbol of his devotion, and of the happy life he was to lead with her from that time onwards. Whilst looking for it he came across his letters from Clara and Lothair; he threw them carelessly aside, found the ring, put it in his pocket, and ran across to Olimpia."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Whilst still on the stairs, in the entrance-passage, he heard an extraordinary hubbub; the noise seemed to proceed from Spalanzani's study. There was a stamping—a rattling—pushing—knocking against the door, with curses and oaths intermingled. \"Leave hold—leave hold—you monster—you rascal—staked your life and honour upon it?—Ha! ha! ha! ha!—That was not our wager—I, I made the eyes—I the clock-work.—Go to the devil with your clock-work—you damned dog of a watch-maker—be off—Satan—stop—you paltry turner—you infernal beast!—stop—begone—let me go.\""
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "The voices which were thus making all this racket and rumpus were those of Spalanzani and the fearsome Coppelius. Nathanael rushed in, impelled by some nameless dread. The Professor was grasping a female figure by the shoulders, the Italian Coppola held her by the feet; and they were pulling and dragging each other backwards and forwards, fighting furiously to get possession of her."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "Nathanael recoiled with horror on recognising that the figure was Olimpia. Boiling with rage, he was about to tear his beloved from the grasp of the madmen, when Coppola by an extraordinary exertion of strength twisted the figure out of the Professor's hands and gave him such a terrible blow with her, that he reeled backwards and fell over the table all amongst the phials and retorts, the bottles and glass cylinders, which covered it: all these things were smashed into a thousand pieces."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "But Coppola threw the figure across his shoulder, and, laughing shrilly and horribly, ran hastily down the stairs, the figure's ugly feet hanging down and banging and rattling like wood against the steps. Nathanael was stupefied;—he had seen only too distinctly that in Olimpia's pallid waxed face there were no eyes, merely black holes in their stead; she was an inanimate puppet."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "Spalanzani was rolling on the floor; the pieces of glass had cut his head and breast and arm; the blood was escaping from him in streams. But he gathered his strength together by an effort. \"After him—after him! What do you stand staring there for? Coppelius—Coppelius—he's stolen my best automaton—at which I've worked for twenty years—staked my life upon it—the clock-work— speech—movement—mine—your eyes—stolen your eyes—damn him—curse him—after him—fetch me back Olimpia—there are the eyes.\""
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "And now Nathanael saw a pair of bloody eyes lying on the floor staring at him; Spalanzani seized them with his uninjured hand and threw them at him, so that they hit his breast. Then madness dug her burning talons into him and swept down into his heart, rending his mind and thoughts to shreds. \"Aha! aha! aha! Fire-wheel—fire-wheel! Spin round, fire-wheel! merrily, merrily! Aha! wooden doll! spin round, pretty wooden doll!\" and he threw himself upon the Professor, clutching him fast by the throat. He would certainly have strangled him had not several people, attracted by the noise, rushed in and torn away the madman; and so they saved the Professor, whose wounds were immediately dressed."
+    },
+    {
+     "rows": [
+      9,
+      9
+     ],
+     "text": "Siegmund, with all his strength, was not able to subdue the frantic lunatic, who continued to scream in a dreadful way, \"Spin round, wooden doll!\" and to strike out right and left with his doubled fists. At length the united strength of several succeeded in overpowering him by throwing him on the floor and binding him. His cries passed into a brutish bellow that was awful to hear; and thus raging with the harrowing violence of madness, he was taken away to the madhouse."
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "Before continuing my narration of what happened further to the unfortunate Nathanael, I will tell you, indulgent reader, in case you take any interest in that skilful mechanician and fabricator of automata, Spalanzani, that he recovered completely from his wounds. He had, however, to leave the university, for Nathanael's fate had created a great sensation; and the opinion was pretty generally expressed that it was an imposture altogether unpardonable to have smuggled a wooden puppet instead of a living person into intelligent tea-circles,—for Olimpia had been present at several with success."
+    },
+    {
+     "rows": [
+      11,
+      11
+     ],
+     "text": "Lawyers called it a cunning piece of knavery, and all the harder to punish since it was directed against the public; and it had been so craftily contrived that it had escaped unobserved by all except a few preternaturally acute students, although everybody was very wise now and remembered to have thought of several facts which occurred to them as suspicious. But these latter could not succeed in making out any sort of a consistent tale. For was it, for instance, a thing likely to occur to any one as suspicious that, according to the declaration of an elegant beau of these tea-parties, Olimpia had, contrary to all good manners, sneezed oftener than she had yawned? The former must have been, in the opinion of this elegant gentleman, the winding up of the concealed clock-work; it had always been accompanied by an observable creaking, and so on."
+    },
+    {
+     "rows": [
+      12,
+      12
+     ],
+     "text": "The Professor of Poetry and Eloquence took a pinch of snuff, and, slapping the lid to and clearing his throat, said solemnly, \"My most honourable ladies and gentlemen, don't you see then where the rub is? The whole thing is an allegory, a continuous metaphor. You understand me? Sapienti sat.\""
+    },
+    {
+     "rows": [
+      13,
+      13
+     ],
+     "text": "But several most honourable gentlemen did not rest satisfied with this explanation; the history of this automaton had sunk deeply into their souls, and an absurd mistrust of human figures began to prevail. Several lovers, in order to be fully convinced that they were not paying court to a wooden puppet, required that their mistress should sing and dance a little out of time, should embroider or knit or play with her little pug, &c., when being read to, but above all things else that she should do something more than merely listen—that she should frequently speak in such a way as to really show that her words presupposed as a condition some thinking and feeling."
+    },
+    {
+     "rows": [
+      14,
+      14
+     ],
+     "text": "The bonds of love were in many cases drawn closer in consequence, and so of course became more engaging; in other instances they gradually relaxed and fell away. \"I cannot really be made responsible for it,\" was the remark of more than one young gallant. At the tea-gatherings everybody, in order to ward off suspicion, yawned to an incredible extent and never sneezed. Spalanzani was obliged, as has been said, to leave the place in order to escape a criminal charge of having fraudulently imposed an automaton upon human society. Coppola, too, had also disappeared."
+    }
+   ]
+  }
+ },
+ "pkg-beowulf-grendel": {
+  "en": {
+   "translator": "Francis B. Gummere",
+   "translator_life": "1855–1919",
+   "year": "1909",
+   "edition": "The Oldest English Epic: Beowulf, Finnsburg, Waldere, Deor, Widsith, and the German Hildebrand, translated by Francis B. Gummere (New York, Macmillan, 1909), Project Gutenberg 981",
+   "source": "https://www.gutenberg.org/ebooks/981",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      12
+     ],
+     "text": "Not in any wise would the earls'-defence\nsuffer that slaughterous stranger to live,\nuseless deeming his days and years\nto men on earth. Now many an earl\nof Beowulf brandished blade ancestral,\nfain the life of their lord to shield,\ntheir praised prince, if power were theirs;\nnever they knew, -- as they neared the foe,\nhardy-hearted heroes of war,\naiming their swords on every side\nthe accursed to kill, -- no keenest blade,\nno farest of falchions fashioned on earth,\ncould harm or hurt that hideous fiend!"
+    },
+    {
+     "rows": [
+      13,
+      33
+     ],
+     "text": "He was safe, by his spells, from sword of battle,\nfrom edge of iron. Yet his end and parting\non that same day of this our life\nwoful should be, and his wandering soul\nfar off flit to the fiends' domain.\nSoon he found, who in former days,\nharmful in heart and hated of God,\non many a man such murder wrought,\nthat the frame of his body failed him now.\nFor him the keen-souled kinsman of Hygelac\nheld in hand; hateful alive\nwas each to other. The outlaw dire\ntook mortal hurt; a mighty wound\nshowed on his shoulder, and sinews cracked,\nand the bone-frame burst. To Beowulf now\nthe glory was given, and Grendel thence\ndeath-sick his den in the dark moor sought,\nnoisome abode:  he knew too well\nthat here was the last of life, an end\nof his days on earth. -- To all the Danes\nby that bloody battle the boon had come."
+    },
+    {
+     "rows": [
+      34,
+      45
+     ],
+     "text": "From ravage had rescued the roving stranger\nHrothgar's hall; the hardy and wise one\nhad purged it anew. His night-work pleased him,\nhis deed and its honor. To Eastern Danes\nhad the valiant Geat his vaunt made good,\nall their sorrow and ills assuaged,\ntheir bale of battle borne so long,\nand all the dole they erst endured\npain a-plenty. -- 'Twas proof of this,\nwhen the hardy-in-fight a hand laid down,\narm and shoulder, -- all, indeed,\nof Grendel's gripe, -- 'neath the gabled roof."
+    }
+   ]
+  }
+ },
+ "pkg-beowulf-depths": {
+  "en": {
+   "translator": "Francis B. Gummere",
+   "translator_life": "1855–1919",
+   "year": "1909",
+   "edition": "The Oldest English Epic: Beowulf, Finnsburg, Waldere, Deor, Widsith, and the German Hildebrand, translated by Francis B. Gummere (New York, Macmillan, 1909), Project Gutenberg 981",
+   "source": "https://www.gutenberg.org/ebooks/981",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      13
+     ],
+     "text": "After these words the Weder-Geat lord\nboldly hastened, biding never\nanswer at all:  the ocean floods\nclosed o'er the hero. Long while of the day\nfled ere he felt the floor of the sea.\nSoon found the fiend who the flood-domain\nsword-hungry held these hundred winters,\ngreedy and grim, that some guest from above,\nsome man, was raiding her monster-realm.\nShe grasped out for him with grisly claws,\nand the warrior seized; yet scathed she not\nhis body hale; the breastplate hindered,\nas she strove to shatter the sark of war,\nthe linked harness, with loathsome hand."
+    },
+    {
+     "rows": [
+      14,
+      25
+     ],
+     "text": "Then bore this brine-wolf, when bottom she touched,\nthe lord of rings to the lair she haunted\nwhiles vainly he strove, though his valor held,\nweapon to wield against wondrous monsters\nthat sore beset him; sea-beasts many\ntried with fierce tusks to tear his mail,\nand swarmed on the stranger. But soon he marked\nhe was now in some hall, he knew not which,\nwhere water never could work him harm,\nnor through the roof could reach him ever\nfangs of the flood. Firelight he saw,\nbeams of a blaze that brightly shone."
+    },
+    {
+     "rows": [
+      26,
+      36
+     ],
+     "text": "Then the warrior was ware of that wolf-of-the-deep,\nmere-wife monstrous. For mighty stroke\nhe swung his blade, and the blow withheld not.\nThen sang on her head that seemly blade\nits war-song wild. But the warrior found\nthe light-of-battle was loath to bite,\nto harm the heart:  its hard edge failed\nthe noble at need, yet had known of old\nstrife hand to hand, and had helmets cloven,\ndoomed men's fighting-gear. First time, this,\nfor the gleaming blade that its glory fell."
+    },
+    {
+     "rows": [
+      37,
+      46
+     ],
+     "text": "Firm still stood, nor failed in valor,\nheedful of high deeds, Hygelac's kinsman;\nflung away fretted sword, featly jewelled,\nthe angry earl; on earth it lay\nsteel-edged and stiff. His strength he trusted,\nhand-gripe of might. So man shall do\nwhenever in war he weens to earn him\nlasting fame, nor fears for his life!\nSeized then by shoulder, shrank not from combat,\nthe Geatish war-prince Grendel's mother."
+    },
+    {
+     "rows": [
+      47,
+      57
+     ],
+     "text": "Flung then the fierce one, filled with wrath,\nhis deadly foe, that she fell to ground.\nSwift on her part she paid him back\nwith grisly grasp, and grappled with him.\nSpent with struggle, stumbled the warrior,\nfiercest of fighting-men, fell adown.\nOn the hall-guest she hurled herself, hent her short sword,\nbroad and brown-edged, the bairn to avenge,\nthe sole-born son. -- On his shoulder lay\nbraided breast-mail, barring death,\nwithstanding entrance of edge or blade."
+    },
+    {
+     "rows": [
+      58,
+      70
+     ],
+     "text": "Life would have ended for Ecgtheow's son,\nunder wide earth for that earl of Geats,\nhad his armor of war not aided him,\nbattle-net hard, and holy God\nwielded the victory, wisest Maker.\nThe Lord of Heaven allowed his cause;\nand easily rose the earl erect.\n'MID the battle-gear saw he a blade triumphant,\nold-sword of Eotens, with edge of proof,\nwarriors' heirloom, weapon unmatched,\n-- save only 'twas more than other men\nto bandy-of-battle could bear at all --\nas the giants had wrought it, ready and keen."
+    },
+    {
+     "rows": [
+      71,
+      77
+     ],
+     "text": "Seized then its chain-hilt the Scyldings' chieftain,\nbold and battle-grim, brandished the sword,\nreckless of life, and so wrathfully smote\nthat it gripped her neck and grasped her hard,\nher bone-rings breaking:  the blade pierced through\nthat fated-one's flesh:  to floor she sank.\nBloody the blade:  he was blithe of his deed."
+    }
+   ]
+  }
+ },
+ "pkg-beowulf-last": {
+  "en": {
+   "translator": "Francis B. Gummere",
+   "translator_life": "1855–1919",
+   "year": "1909",
+   "edition": "The Oldest English Epic: Beowulf, Finnsburg, Waldere, Deor, Widsith, and the German Hildebrand, translated by Francis B. Gummere (New York, Macmillan, 1909), Project Gutenberg 981",
+   "source": "https://www.gutenberg.org/ebooks/981",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      14
+     ],
+     "text": "For the gold and treasure, to God my thanks,\nto the Wielder-of-Wonders, with words I say,\nfor what I behold, to Heaven's Lord,\nfor the grace that I give such gifts to my folk\nor ever the day of my death be run!\nNow I've bartered here for booty of treasure\nthe last of my life, so look ye well\nto the needs of my land! No longer I tarry.\nA barrow bid ye the battle-famed raise\nfor my ashes. 'Twill shine by the shore of the flood,\nto folk of mine memorial fair\non Hrones Headland high uplifted,\nthat ocean-wanderers oft may hail\nBeowulf's Barrow, as back from far\nthey drive their keels o'er the darkling wave.\""
+    },
+    {
+     "rows": [
+      15,
+      26
+     ],
+     "text": "From his neck he unclasped the collar of gold,\nvalorous king, to his vassal gave it\nwith bright-gold helmet, breastplate, and ring,\nto the youthful thane:  bade him use them in joy.\n\"Thou art end and remnant of all our race\nthe Waegmunding name. For Wyrd hath swept them,\nall my line, to the land of doom,\nearls in their glory:  I after them go.\"\nThis word was the last which the wise old man\nharbored in heart ere hot death-waves\nof balefire he chose. From his bosom fled\nhis soul to seek the saints' reward."
+    }
+   ]
+  }
+ },
+ "pkg-beowulf-funeral": {
+  "en": {
+   "translator": "Francis B. Gummere",
+   "translator_life": "1855–1919",
+   "year": "1909",
+   "edition": "The Oldest English Epic: Beowulf, Finnsburg, Waldere, Deor, Widsith, and the German Hildebrand, translated by Francis B. Gummere (New York, Macmillan, 1909), Project Gutenberg 981",
+   "source": "https://www.gutenberg.org/ebooks/981",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      10
+     ],
+     "text": "Then about that barrow the battle-keen rode,\natheling-born, a band of twelve,\nlament to make, to mourn their king,\nchant their dirge, and their chieftain honor.\nThey praised his earlship, his acts of prowess\nworthily witnessed:  and well it is\nthat men their master-friend mightily laud,\nheartily love, when hence he goes\nfrom life in the body forlorn away.\nThus made their mourning the men of Geatland,\nfor their hero's passing his hearth-companions:"
+    },
+    {
+     "rows": [
+      11,
+      13
+     ],
+     "text": "quoth that of all the kings of earth,\nof men he was mildest and most beloved,\nto his kin the kindest, keenest for praise."
     }
    ]
   }
@@ -1034,6 +1717,376 @@
       59
      ],
      "text": "Diciendo de esta guisa, acrecentóle el deseo de sollozar; y Ulises lloraba, abrazado á su dulce y honesta esposa. Así como la tierra aparece grata á los que vienen nadando porque Neptuno les hundió en el ponto la bien construída embarcación, haciéndola juguete del viento y del gran oleaje; y unos pocos, que consiguieron salir del espumoso mar al continente, lleno el cuerpo de sarro, pisan la tierra muy alegres porque se ven libres de aquel infortunio: pues de igual manera le era agradable á Penélope la vista del esposo y no le quitaba del cuello los níveos brazos. Llorando los hallara la Aurora de rosáceos dedos, si Minerva, la deidad de los brillantes ojos, no hubiese ordenado otra cosa: alargó la noche, cuando ya tocaba á su término, y detuvo en el Océano á la Aurora, de áureo trono, no permitiéndole uncir los caballos de pies ligeros que traen la luz á los hombres, Lampo y Faetonte, que son los potros que conducen á la Aurora. Y entonces dijo á su consorte el ingenioso Ulises:"
+    }
+   ]
+  }
+ },
+ "pkg-beowulf": {
+  "en": {
+   "translator": "Francis B. Gummere",
+   "translator_life": "1855–1919",
+   "year": "1909",
+   "edition": "The Oldest English Epic: Beowulf, Finnsburg, Waldere, Deor, Widsith, and the German Hildebrand, translated by Francis B. Gummere (New York, Macmillan, 1909), Project Gutenberg 981",
+   "source": "https://www.gutenberg.org/ebooks/981",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      11
+     ],
+     "text": "Lo, praise of the prowess of people-kings\nof spear-armed Danes, in days long sped,\nwe have heard, and what honor the athelings won!\nOft Scyld the Scefing from squadroned foes,\nfrom many a tribe, the mead-bench tore,\nawing the earls. Since erst he lay\nfriendless, a foundling, fate repaid him:\nfor he waxed under welkin, in wealth he throve,\ntill before him the folk, both far and near,\nwho house by the whale-path, heard his mandate,\ngave him gifts:  a good king he!"
+    },
+    {
+     "rows": [
+      12,
+      20
+     ],
+     "text": "To him an heir was afterward born,\na son in his halls, whom heaven sent\nto favor the folk, feeling their woe\nthat erst they had lacked an earl for leader\nso long a while; the Lord endowed him,\nthe Wielder of Wonder, with world's renown.\nFamed was this Beowulf: far flew the boast of him,\nson of Scyld, in the Scandian lands."
+    },
+    {
+     "rows": [
+      21,
+      27
+     ],
+     "text": "So becomes it a youth to quit him well\nwith his father's friends, by fee and gift,\nthat to aid him, aged, in after days,\ncome warriors willing, should war draw nigh,\nliegemen loyal:  by lauded deeds\nshall an earl have honor in every clan."
+    },
+    {
+     "rows": [
+      28,
+      34
+     ],
+     "text": "Forth he fared at the fated moment,\nsturdy Scyld to the shelter of God.\nThen they bore him over to ocean's billow,\nloving clansmen, as late he charged them,\nwhile wielded words the winsome Scyld,\nthe leader beloved who long had ruled...."
+    },
+    {
+     "rows": [
+      35,
+      46
+     ],
+     "text": "In the roadstead rocked a ring-dight vessel,\nice-flecked, outbound, atheling's barge:\nthere laid they down their darling lord\non the breast of the boat, the breaker-of-rings,\nby the mast the mighty one. Many a treasure\nfetched from far was freighted with him.\nNo ship have I known so nobly dight\nwith weapons of war and weeds of battle,\nwith breastplate and blade:  on his bosom lay\na heaped hoard that hence should go\nfar o'er the flood with him floating away."
+    },
+    {
+     "rows": [
+      47,
+      56
+     ],
+     "text": "No less these loaded the lordly gifts,\nthanes' huge treasure, than those had done\nwho in former time forth had sent him\nsole on the seas, a suckling child.\nHigh o'er his head they hoist the standard,\na gold-wove banner; let billows take him,\ngave him to ocean. Grave were their spirits,\nmournful their mood. No man is able\nto say in sooth, no son of the halls,\nno hero 'neath heaven, -- who harbored that freight!"
+    }
+   ]
+  }
+ },
+ "pkg-amleth": {
+  "en": {
+   "translator": "Oliver Elton",
+   "translator_life": "1861–1945",
+   "year": "1894",
+   "edition": "The First Nine Books of the Danish History of Saxo Grammaticus, translated by Oliver Elton (London, 1894), book III, Project Gutenberg 1150",
+   "source": "https://www.gutenberg.org/ebooks/1150",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "He had now passed three years in valiant deeds of war; and, in order to win higher rank in Rorik's favour, he assigned to him the best trophies and the pick of the plunder. His friendship with Rorik enabled him to woo and will in marriage his daughter Gerutha, who bore him a son Amleth."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Such great good fortune stung Feng with jealousy, so that he resolved treacherously to waylay his brother, thus showing that goodness is not safe even from those of a man's own house. And behold, when a chance came to murder him, his bloody hand sated the deadly passion of his soul. Then he took the wife of the brother he had butchered, capping unnatural murder with incest. For whoso yields to one iniquity, speedily falls an easier victim to the next, the first being an incentive to the second. Also, the man veiled the monstrosity of his deed with such hardihood of cunning, that he made up a mock pretence of goodwill to excuse his crime, and glossed over fratricide with a show of righteousness. Gerutha, said he, though so gentle that she would do no man the slightest hurt, had been visited with her husband's extremest hate; and it was all to save her that he had slain his brother; for he thought it shameful that a lady so meek and unrancorous should suffer the heavy disdain of her husband. Nor did his smooth words fail in their intent; for at courts, where fools are sometimes favoured and backbiters preferred, a lie lacks not credit. Nor did Feng keep from shameful embraces the hands that had slain a brother; pursuing with equal guilt both of his wicked and impious deeds."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Amleth beheld all this, but feared lest too shrewd a behaviour might make his uncle suspect him. So he chose to feign dulness, and pretend an utter lack of wits. This cunning course not only concealed his intelligence but ensured his safety. Every day he remained in his mother's house utterly listless and unclean, flinging himself on the ground and bespattering his person with foul and filthy dirt. His discoloured face and visage smutched with slime denoted foolish and grotesque madness. All he said was of a piece with these follies; all he did savoured of utter lethargy. In a word, you would not have thought him a man at all, but some absurd abortion due to a mad fit of destiny. He used at times to sit over the fire, and, raking up the embers with his hands, to fashion wooden crooks, and harden them in the fire, shaping at their lips certain barbs, to make them hold more tightly to their fastenings. When asked what he was about, he said that he was preparing sharp javelins to avenge his father. This answer was not a little scoffed at, all men deriding his idle and ridiculous pursuit; but the thing helped his purpose afterwards."
+    }
+   ]
+  }
+ },
+ "pkg-fenrir": {
+  "en": {
+   "translator": "Rasmus B. Anderson",
+   "translator_life": "1846–1936",
+   "year": "1880",
+   "edition": "The Younger Edda, also called Snorre’s Edda, or the Prose Edda, translated by Rasmus B. Anderson (Chicago, Griggs, 1880), Project Gutenberg 18947",
+   "source": "https://www.gutenberg.org/ebooks/18947",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "The wolf was fostered by the asas at home, and Tyr was the only one who had the courage to go to him and give him food. When the gods saw how much he grew every day, and all prophecies declared that he was predestined to become fatal to them, they resolved to make a very strong fetter, which they called Lading. They brought it to the wolf, and bade him try his strength on the fetter. The wolf, who did not think it would be too strong for him, let them do therewith as they pleased. But as soon as he spurned against it the fetter burst asunder, and he was free from Lading. Then the asas made another fetter, by one-half stronger, and this they called Drome. They wanted the wolf to try this also, saying to him that he would become very famous for his strength, if so strong a chain was not able to hold him. The wolf thought that this fetter was indeed very strong, but also that his strength had increased since he broke Lading. He also took into consideration that it was necessary to expose one’s self to some danger if he desired to become famous; so he let them put the fetter on him. When the asas said they were ready, the wolf shook himself, spurned against and dashed the fetter on the ground, so that the broken pieces flew a long distance. Thus he broke loose out of Drome. Since then it has been held as a proverb, “to get loose out of Lading” or “to dash out of Drome,” whenever anything is extraordinarily hard."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "The asas now began to fear that they would not get the wolf bound. So Alfather sent the youth, who is called Skirner, and is Frey’s messenger, to some dwarfs in Svartalfaheim, and had them make the fetter which is called Gleipner. It was made of six things: of the footfall of cats, of the beard of woman, of the roots of the mountain, of the sinews of the bear, of the breath of the fish, and of the spittle of the birds."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "If you have not known this before, you can easily find out that it is true and that there is no lie about it, since you must have observed that a woman has no beard, that a cat’s footfall cannot be heard, and that mountains have no roots; and I know, forsooth, that what I have told you is perfectly true, although there are some things that you do not understand."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Then said Ganglere: This I must surely understand to be true. I can see these things which you have taken as proof. But how was the fetter smithied?"
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Answered Har: That I can well explain to you. It was smooth and soft as a silken string. How strong and trusty it was you shall now hear. When the fetter was brought to the asas, they thanked the messenger for doing his errand so well. Then they went out into the lake called Amsvartner, to the holm (rocky island) called Lyngve, and called the wolf to go with them. They showed him the silken band and bade him break it, saying that it was somewhat stronger than its thinness would lead one to suppose. Then they handed it from one to the other and tried its strength with their hands, but it did not break. Still they said the wolf would be able to snap it."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "The wolf answered: It seems to me that I will get no fame though I break asunder so slender a thread as this is. But if it is made with craft and guile, then, little though it may look, that band will never come on my feet."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "Then said the asas that he would easily be able to break a slim silken band, since he had already burst large iron fetters asunder. But even if you are unable to break this band, you have nothing to fear from the gods, for we will immediately loose you again."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "The wolf answered: If you get me bound so fast that I am not able to loose myself again, you will skulk away, and it will be long before I get any help from you, wherefore I am loth to let this band be laid on me; but in order that you may not accuse me of cowardice, let some one of you lay his hand in my mouth as a pledge that this is done without deceit."
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "The one asa looked at the other, and thought there now was a choice of two evils, and no one would offer his hand, before Tyr held out his right hand and laid it in the wolf’s mouth. But when the wolf now began to spurn against it the band grew stiffer, and the more he strained the tighter it got. They all laughed except Tyr; he lost his hand. When the asas saw that the wolf was sufficiently well bound, they took the chain which was fixed to the fetter, and which was called Gelgja, and drew it through a large rock which is called Gjol, and fastened this rock deep down in the earth. Then they took a large stone, which is called Tvite, and drove it still deeper into the ground, and used this stone for a fastening-pin. The wolf opened his mouth terribly wide, raged and twisted himself with all his might, and wanted to bite them; but they put a sword in his mouth, in such a manner that the hilt stood in his lower jaw and the point in the upper, that is his gag. He howls terribly, and the saliva which runs from his mouth forms a river called Von. There he will lie until Ragnarok."
+    },
+    {
+     "rows": [
+      9,
+      9
+     ],
+     "text": "Then said Ganglere: Very bad are these children of Loke, but they are strong and mighty. But why did not the asas kill the wolf when they have evil to expect from him?"
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "Har answered: So great respect have the gods for their holiness and peace-stead, that they would not stain them with the blood of the wolf, though prophecies foretell that he must become the bane of Odin."
+    }
+   ]
+  }
+ },
+ "pkg-baldr": {
+  "en": {
+   "translator": "Rasmus B. Anderson",
+   "translator_life": "1846–1936",
+   "year": "1880",
+   "edition": "The Younger Edda, also called Snorre’s Edda, or the Prose Edda, translated by Rasmus B. Anderson (Chicago, Griggs, 1880), Project Gutenberg 18947",
+   "source": "https://www.gutenberg.org/ebooks/18947",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "But of Hermod it is to be told that he rode nine nights through deep and dark valleys, and did not see light until he came to the Gjallar-river and rode on the Gjallar-bridge, which is thatched with shining gold."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Modgud is the name of the may who guards the bridge. She asked him for his name, and of what kin he was, saying that the day before there rode five fylkes (kingdoms, bands) of dead men over the bridge; but she added, it does not shake less under you alone, and you do not have the hue of dead men. Why do you ride the way to Hel?"
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "He answered: I am to ride to Hel to find Balder. Have you seen him pass this way?"
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "She answered that Balder had ridden over the Gjallar-bridge; adding: But downward and northward lies the way to Hel."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Then Hermod rode on till he came to Hel’s gate. He alighted from his horse, drew the girths tighter, remounted him, clapped the spurs into him, and the horse leaped over the gate with so much force that he never touched it. Thereupon Hermod proceeded to the hall and alighted from his steed. He went in, and saw there sitting on the foremost seat his brother Balder. He tarried there over night. In the morning he asked Hel whether Balder might ride home with him, and told how great weeping there was among the asas."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "But Hel replied that it should now be tried whether Balder was so much beloved as was said. If all things, said she, both quick and dead, will weep for him, then he shall go back to the asas, but if anything refuses to shed tears, then he shall remain with Hel."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "Hermod arose, and Balder accompanied him out of the hall. He took the ring Draupner and sent it as a keepsake to Odin. Nanna sent Frigg a kerchief and other gifts, and to Fulla she sent a ring. Thereupon Hermod rode back and came to Asgard, where he reported the tidings he had seen and heard. Then the asas sent messengers over all the world, praying that Balder might be wept out of Hel’s power. All things did so,—men and beasts, the earth, stones, trees and all metals, just as you must have seen that these things weep when they come out of frost and into heat."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "When the messengers returned home and had done their errand well, they found a certain cave wherein sat a giantess (gygr = ogress) whose name was Thok. They requested her to weep Balder from Hel; but she answered:"
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "Thok will weep"
+    },
+    {
+     "rows": [
+      9,
+      9
+     ],
+     "text": "With dry tears"
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "For Balder’s burial;"
+    },
+    {
+     "rows": [
+      11,
+      11
+     ],
+     "text": "Neither in life nor in death"
+    },
+    {
+     "rows": [
+      12,
+      12
+     ],
+     "text": "Gave he me gladness."
+    },
+    {
+     "rows": [
+      13,
+      13
+     ],
+     "text": "Let Hel keep what she has!"
+    },
+    {
+     "rows": [
+      14,
+      14
+     ],
+     "text": "It is generally believed that this Thok was Loke, Laufey’s son, who has wrought most evil among the asas."
+    }
+   ]
+  }
+ },
+ "pkg-kalevala": {
+  "en": {
+   "translator": "John Martin Crawford",
+   "translator_life": "1845–1916",
+   "year": "1888",
+   "edition": "The Kalevala, the Epic Poem of Finland, translated by John Martin Crawford (New York, Alden, 1888), rune I, Project Gutenberg 5186",
+   "source": "https://www.gutenberg.org/ebooks/5186",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "Scarce a moment onward passes,\nEre a beauteous duck descending,\nHastens toward the water-mother,\nComes a-flying hither, thither,\nSeeks herself a place for nesting."
+    },
+    {
+     "rows": [
+      4,
+      7
+     ],
+     "text": "Flies she eastward, flies she westward,\nCircles northward, circles southward,\nCannot find a grassy hillock,\nNot the smallest bit of verdure;\nCannot find a spot protected,\nCannot find a place befitting,\nWhere to make her nest in safety."
+    },
+    {
+     "rows": [
+      8,
+      11
+     ],
+     "text": "Flying slowly, looking round her,\nShe descries no place for resting,\nThinking loud and long debating,\nAnd her words are such as follow:\n“Build I in the winds my dwelling,\nOn the floods my place of nesting?\nSurely would the winds destroy it,\nFar away the waves would wash it.”"
+    },
+    {
+     "rows": [
+      12,
+      15
+     ],
+     "text": "Then the daughter of the Ether,\nNow the hapless water-mother,\nRaised her shoulders out of water,\nRaised her knees above the ocean,\nThat the duck might build her dwelling,\nBuild her nesting-place in safety."
+    },
+    {
+     "rows": [
+      16,
+      19
+     ],
+     "text": "Thereupon the duck in beauty,\nFlying slowly, looking round her,\nSpies the shoulders of the maiden,\nSees the knees of Ether’s daughter,\nNow the hapless water-mother,\nThinks them to be grassy hillocks,\nOn the blue back of the ocean."
+    },
+    {
+     "rows": [
+      20,
+      23
+     ],
+     "text": "Thence she flies and hovers slowly,\nLightly on the knee she settles,\nFinds a nesting-place befitting,\nWhere to lay her eggs in safety.\nHere she builds her humble dwelling,\nLays her eggs within, at pleasure,\nSix, the golden eggs she lays there,\nThen a seventh, an egg of iron;"
+    },
+    {
+     "rows": [
+      24,
+      26
+     ],
+     "text": "Sits upon her eggs to hatch them,\nQuickly warms them on the knee-cap\nOf the hapless water-mother;\nHatches one day, then a second,\nThen a third day sits and hatches."
+    },
+    {
+     "rows": [
+      27,
+      30
+     ],
+     "text": "Warmer grows the water round her,\nWarmer is her bed in ocean,\nWhile her knee with fire is kindled,\nAnd her shoulders too are burning,\nFire in every vein is coursing."
+    },
+    {
+     "rows": [
+      31,
+      34
+     ],
+     "text": "Quick the maiden moves her shoulders,\nShakes her members in succession,\nShakes the nest from its foundation,\nAnd the eggs fall into ocean,\nDash in pieces on the bottom\nOf the deep and boundless waters."
+    },
+    {
+     "rows": [
+      35,
+      42
+     ],
+     "text": "In the sand they do not perish,\nNot the pieces in the ocean;\nBut transformed, in wondrous beauty\nAll the fragments come together\nForming pieces two in number,\nOne the upper, one the lower,\nEqual to the one, the other.\nFrom one half the egg, the lower,\nGrows the nether vault of Terra:\nFrom the upper half remaining,\nGrows the upper vault of Heaven;\nFrom the white part come the moonbeams,\nFrom the yellow part the sunshine,\nFrom the motley part the starlight,\nFrom the dark part grows the cloudage."
     }
    ]
   }
@@ -2546,6 +3599,334 @@
    ]
   }
  },
+ "pkg-nobel-mommsen": {
+  "en": {
+   "translator": "William Purdie Dickson",
+   "translator_life": "1823–1901",
+   "year": "1862",
+   "edition": "The History of Rome by Theodor Mommsen, translated by William Purdie Dickson (London, Bentley, 1862–1866; revised 1894), book II, chapter VII, Project Gutenberg 10706",
+   "source": "https://www.gutenberg.org/ebooks/10706",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "The Romans, covered by their cavalry, forced the passage of the Siris, and opened the battle with a vehement and successful cavalry charge; the king, who led his cavalry in person, was thrown from his horse, and the Greek horsemen, panic-struck by the disappearance of their leader, abandoned the field to the squadrons of the enemy."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Pyrrhus, however, put himself at the head of his infantry, and began a fresh and more decisive engagement. Seven times the legions and the phalanx met in shock of battle, and still the conflict was undecided. Then Megacles, one of the best officers of the king, fell, and, because on this hotly-contested day he had worn the king's armour, the army for the second time believed that the king had fallen; the ranks wavered; Laevinus already felt sure of the victory and threw the whole of his cavalry on the flank of the Greeks."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "But Pyrrhus, marching with uncovered head through the ranks of the infantry, revived the sinking courage of his troops. The elephants which had hitherto been kept in reserve were brought up to meet the cavalry; the horses took fright at them; the soldiers, not knowing how to encounter the huge beasts, turned and fled;"
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "the masses of disordered horsemen and the pursuing elephants at length broke the compact ranks of the Roman infantry, and the elephants in concert with the excellent Thessalian cavalry wrought great slaughter among the fugitives. Had not a brave Roman soldier, Gaius Minucius, the first hastate of the fourth legion, wounded one of the elephants and thereby thrown the pursuing troops into confusion, the Roman army would have been extirpated; as it was, the remainder of the Roman troops succeeded in retreating across the Siris."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Their loss was great; 7000 Romans were found by the victors dead or wounded on the field of battle, 2000 were brought in prisoners; the Romans themselves stated their loss, including probably the wounded carried off the field, at 15, men. But Pyrrhus's army had suffered not much less: nearly of his best soldiers strewed the field of battle, and several of his ablest captains had fallen."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "Considering that his loss fell chiefly on the veteran soldiers who were far more difficult to be replaced than the Roman militia, and that he owed his victory only to the surprise produced by the attack of the elephants which could not be often repeated, the king, skilful judge of tactics as he was, may well at an after period have described this victory as resembling a defeat; although he was not so foolish as to communicate that piece of self-criticism to the public—as the Roman poets afterwards invented the story—in the inscription of the votive offering presented by him at Tarentum."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "Politically it mattered little in the first instance at what sacrifices the victory was bought; the gain of the first battle against the Romans was of inestimable value for Pyrrhus. His talents as a general had been brilliantly displayed on this new field of battle, and if anything could breathe unity and energy into the languishing league of the Italians, the victory of Heraclea could not fail to do so."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "But even the immediate results of the victory were considerable and lasting. Lucania was lost to the Romans: Laevinus collected the troops stationed there and marched to Apulia, The Bruttians, Lucanians, and Samnites joined Pyrrhus unmolested. With the exception of Rhegium, which pined under the oppression of the Campanian mutineers, the whole of the Greek cities joined the king, and Locri even voluntarily delivered up to him the Roman garrison; in his case they were persuaded, and with reason, that they would not be abandoned to the Italians. The Sabellians and Greeks thus passed over to Pyrrhus; but the victory produced no further effect."
+    }
+   ]
+  }
+ },
+ "pkg-nobel-echegaray": {
+  "en": {
+   "translator": "Hannah Lynch",
+   "translator_life": "1859–1904",
+   "year": "1895",
+   "edition": "The Great Galeoto; Folly or Saintliness: Two Plays, translated by Hannah Lynch (London, John Lane, 1895), prologue, scene I, Project Gutenberg 55981",
+   "source": "https://www.gutenberg.org/ebooks/55981",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "A study; to the left a balcony, on right a door; in the middle a table strewn with papers and books, and a lighted lamp upon it. Towards the right a sofa. Night."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "[Seated at table and preparing to write.]"
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "ERNEST. Nothing—impossible! It is striving with the impossible. The idea is there; my head is fevered with it; I feel it. At moments an inward light illuminates it, and I see it. I see it in its floating form, vaguely outlined, and suddenly a secret voice seems to animate it, and I hear sounds of sorrow, sonorous sighs, shouts of sardonic laughter ... a whole world of passions alive and struggling...."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "They burst forth from me, extend around me, and the air is full of them. Then, then I say to myself: ''Tis now the moment.' I take up my pen, stare into space, listen attentively, restraining my very heart-beats, and bend over the paper.... Ah, but the irony of impotency! The outlines become blurred, the vision fades, the cries and sighs faint away ... and nothingness, nothingness encircles me...."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "The monotony of empty space, of inert thought, of dreamy lassitude! and more than all the monotony of an idle pen and lifeless paper that lacks the life of thought! Ah! How varied are the shapes of nothingness, and how, in its dark and silent way, it mocks creatures of my stamp! So many, many forms! Canvas without colour, bits of marble without shape, confused noise of chaotic vibrations. But nothing more irritating, more insolent, meaner than this insolent pen of mine"
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "[throws it away], nothing worse than this white sheet of paper. Oh, if I cannot fill it, at least I may destroy it—vile accomplice of my ambition and my eternal humiliation. Thus, thus ... smaller and still smaller. [Tears up paper. Pauses.]"
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "And then! How lucky that nobody saw me! For in truth such fury is absurd and unjust. No, I will not yield. I will think and think, until either I have conquered or am crushed. No, I will not give up. Let me see, let me see ... if in that way——"
+    }
+   ]
+  }
+ },
+ "pkg-hesiod-virtue": {
+  "en": {
+   "translator": "Hugh G. Evelyn-White",
+   "translator_life": "1884–1924",
+   "year": "1914",
+   "edition": "Hesiod, the Homeric Hymns and Homerica, translated by Hugh G. Evelyn-White (Loeb Classical Library, 1914), Project Gutenberg 348",
+   "source": "https://www.gutenberg.org/ebooks/348",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      1
+     ],
+     "text": "Badness can be got easily and in shoals: the road to her is smooth, and she lives very near us."
+    },
+    {
+     "rows": [
+      2,
+      3
+     ],
+     "text": "But between us and Goodness the gods have placed the sweat of our brows: long and steep is the path that leads to her,"
+    },
+    {
+     "rows": [
+      4,
+      5
+     ],
+     "text": "and it is rough at the first; but when a man has reached the top, then is she easy to reach, though before that she was hard."
+    }
+   ]
+  }
+ },
+ "pkg-plato-cave": {
+  "en": {
+   "translator": "Benjamin Jowett",
+   "translator_life": "1817–1893",
+   "year": "1871",
+   "edition": "The Republic of Plato, translated by Benjamin Jowett (Oxford, 1871; 3rd ed. 1888), Project Gutenberg 1497",
+   "source": "https://www.gutenberg.org/ebooks/1497",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      4
+     ],
+     "text": "And now, I said, let me show in a figure how far our nature is enlightened or unenlightened:—Behold! human beings living in a underground den, which has a mouth open towards the light and reaching all along the den; here they have been from their childhood, and have their legs and necks chained so that they cannot move, and can only see before them, being prevented by the chains from turning round their heads. Above and behind them a fire is blazing at a distance, and between the fire and the prisoners there is a raised way; and you will see, if you look, a low wall built along the way, like the screen which marionette players have in front of them, over which they show the puppets."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "I see."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "And do you see, I said, men passing along the wall carrying all sorts of vessels, and statues and figures of animals made of wood and stone and various materials, which appear over the wall? Some of them are talking, others silent."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "You have shown me a strange image, and they are strange prisoners."
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "Like ourselves, I replied; and they see only their own shadows, or the shadows of one another, which the fire throws on the opposite wall of the cave?"
+    },
+    {
+     "rows": [
+      9,
+      9
+     ],
+     "text": "True, he said; how could they see anything but the shadows if they were never allowed to move their heads?"
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "And of the objects which are being carried in like manner they would only see the shadows?"
+    },
+    {
+     "rows": [
+      11,
+      11
+     ],
+     "text": "Yes, he said."
+    },
+    {
+     "rows": [
+      12,
+      12
+     ],
+     "text": "And if they were able to converse with one another, would they not suppose that they were naming what was actually before them?"
+    },
+    {
+     "rows": [
+      13,
+      13
+     ],
+     "text": "Very true."
+    },
+    {
+     "rows": [
+      14,
+      14
+     ],
+     "text": "And suppose further that the prison had an echo which came from the other side, would they not be sure to fancy when one of the passers-by spoke that the voice which they heard came from the passing shadow?"
+    },
+    {
+     "rows": [
+      15,
+      15
+     ],
+     "text": "No question, he replied."
+    },
+    {
+     "rows": [
+      16,
+      16
+     ],
+     "text": "To them, I said, the truth would be literally nothing but the shadows of the images."
+    },
+    {
+     "rows": [
+      17,
+      17
+     ],
+     "text": "That is certain."
+    }
+   ]
+  }
+ },
+ "pkg-epicurus-death": {
+  "en": {
+   "translator": "C. D. Yonge",
+   "translator_life": "1812–1891",
+   "year": "1853",
+   "edition": "The Lives and Opinions of Eminent Philosophers by Diogenes Laërtius, translated by C. D. Yonge (London, Bohn, 1853), book X, Project Gutenberg 57342",
+   "source": "https://www.gutenberg.org/ebooks/57342",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Accustom yourself also to think death a matter with which we are not at all concerned, since all good and all evil is in sensation, and since death is only the privation of sensation."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "On which account, the correct knowledge of the fact that death is no concern of ours, makes the mortality of life pleasant to us, inasmuch as it sets forth no illimitable time, but relieves us for the longing for immortality."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "For there is nothing terrible in living to a man who rightly comprehends that there is nothing terrible in ceasing to live;"
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "so that he was a silly man who said that he feared death, not because it would grieve him when it was present, but because it did grieve him while it was future."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "For it is very absurd that that which does not distress a man when it is present, should afflict him when only expected."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "Therefore, the most formidable of all evils, death, is nothing to us, since, when we exist, death is not present to us; and when death is present, then we have no existence."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "It is no concern then either of the living or of the dead; since to the one it has no existence, and the other class has no existence itself."
+    }
+   ]
+  }
+ },
  "pkg-sophocles-ode": {
   "en": {
    "translator": "Francis Storr",
@@ -2581,6 +3962,154 @@
       30
      ],
      "text": "Passing the wildest flight thought are the cunning and skill,\nThat guide man now to the light, but now to counsels of ill.\nIf he honors the laws of the land, and reveres the Gods of the State\nProudly his city shall stand; but a cityless outcast I rate\nWhoso bold in his pride from the path of right doth depart;\nNe’er may I sit by his side, or share the thoughts of his heart."
+    }
+   ]
+  }
+ },
+ "pkg-andersen-matches": {
+  "en": {
+   "translator": "H. B. Paull",
+   "translator_life": "1812–1888",
+   "year": "1872",
+   "edition": "“The Little Match-Seller”, in Hans Andersen’s Fairy Tales, translated by Mrs. H. B. Paull (London, Warne, 1872; reprinted 1888), Project Gutenberg 27200",
+   "source": "https://www.gutenberg.org/ebooks/27200",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "It was terribly cold and nearly dark on the last evening of the old year, and the snow was falling fast."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "In the cold and the darkness, a poor little girl, with bare head and naked feet, roamed through the streets. It is true she had on a pair of slippers when she left home, but they were not of much use. They were very large, so large, indeed, that they had belonged to her mother, and the poor little creature had lost them in running across the street to avoid two carriages that were rolling along at a terrible rate. One of the slippers she could not find, and a boy seized upon the other and ran away with it, saying that he could use it as a cradle, when he had children of his own."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "So the little girl went on with her little naked feet, which were quite red and blue with the cold. In an old apron she carried a number of matches, and had a bundle of them in her hands. No one had bought anything of her the whole day, nor had any one given her even a penny. Shivering with cold and hunger, she crept along; poor little child, she looked the picture of misery. The snowflakes fell on her long, fair hair, which hung in curls on her shoulders, but she regarded them not."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Lights were shining from every window, and there was a savory smell of roast goose, for it was New-year's eve—yes, she remembered that."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "In a corner, between two houses, one of which projected beyond the other, she sank down and huddled herself together. She had drawn her little feet under her, but she could not keep off the cold; and she dared not go home, for she had sold no matches, and could not take home even a penny of money. Her father would certainly beat her; besides, it was almost as cold at home as here, for they had only the roof to cover them, through which the wind howled, although the largest holes had been stopped up with straw and rags."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "Her little hands were almost frozen with the cold. Ah! perhaps a burning match might be some good, if she could draw it from the bundle and strike it against the wall, just to warm her fingers."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "She drew one out—\"scratch!\" how it sputtered as it burnt! It gave a warm, bright light, like a little candle, as she held her hand over it. It was really a wonderful light. It seemed to the little girl that she was sitting by a large iron stove, with polished brass feet and a brass ornament. How the fire burned! and seemed so beautifully warm that the child stretched out her feet as if to warm them, when, lo! the flame of the match went out, the stove vanished, and she had only the remains of the half-burnt match in her hand."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "She rubbed another match on the wall. It burst into a flame, and where its light fell upon the wall it became as transparent as a veil, and she could see into the room. The table was covered with a snowy white table-cloth, on which stood a splendid dinner service, and a steaming roast goose, stuffed with apples and dried plums. And what was still more wonderful, the goose jumped down from the dish and waddled across the floor, with a knife and fork in its breast, to the little girl. Then the match went out, and there remained nothing but the thick, damp, cold wall before her."
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "She lighted another match, and then she found herself sitting under a beautiful Christmas-tree. It was larger and more beautifully decorated than the one which she had seen through the glass door at the rich merchant's. Thousands of tapers were burning upon the green branches, and colored pictures, like those she had seen in the show-windows, looked down upon it all. The little one stretched out her hand towards them, and the match went out. The Christmas lights rose higher and higher, till they looked to her like the stars in the sky. Then she saw a star fall, leaving behind it a bright streak of fire."
+    },
+    {
+     "rows": [
+      9,
+      9
+     ],
+     "text": "\"Some one is dying,\" thought the little girl, for her old grandmother, the only one who had ever loved her, and who was now dead, had told her that when a star falls, a soul was going up to God."
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "She again rubbed a match on the wall, and the light shone round her; in the brightness stood her old grandmother, clear and shining, yet mild and loving in her appearance."
+    },
+    {
+     "rows": [
+      11,
+      11
+     ],
+     "text": "\"Grandmother,\" cried the little one, \"O take me with you; I know you will go away when the match burns out; you will vanish like the warm stove, the roast goose, and the large, glorious Christmas-tree.\" And she made haste to light the whole bundle of matches, for she wished to keep her grandmother there. And the matches glowed with a light that was brighter than the noon-day,"
+    },
+    {
+     "rows": [
+      12,
+      12
+     ],
+     "text": "and her grandmother had never appeared so large or so beautiful. She took the little girl in her arms, and they both flew upwards in brightness and joy far above the earth, where there was neither cold nor hunger nor pain, for they were with God."
+    },
+    {
+     "rows": [
+      13,
+      13
+     ],
+     "text": "In the dawn of morning there lay the poor little one, with pale cheeks and smiling mouth, leaning against the wall; she had been frozen to death on the last evening of the year; and the New-year's sun rose and shone upon a little corpse! The child still sat, in the stiffness of death, holding the matches in her hand, one bundle of which was burnt. \"She tried to warm herself,\" said some. No one imagined what beautiful things she had seen, nor into what glory she had entered with her grandmother, on New-year's day."
+    }
+   ]
+  }
+ },
+ "pkg-garcilaso": {
+  "en": {
+   "translator": "Jeremiah Holmes Wiffen",
+   "translator_life": "1792–1836",
+   "year": "1823",
+   "edition": "The Works of Garcilasso de la Vega, Surnamed the Prince of Castilian Poets, translated into English verse by J. H. Wiffen (London, 1823), sonnet XXII, Project Gutenberg 49410",
+   "source": "https://www.gutenberg.org/ebooks/49410",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      4
+     ],
+     "text": "As, love, the lily and purpureal rose\nShow their sweet colours on thy chaste warm cheek,\nThy radiant looks, angelically meek,\nSerene the tempest to divine repose,"
+    },
+    {
+     "rows": [
+      5,
+      9
+     ],
+     "text": "And as thy hair, which for its birthright chose\nThe opal's dye, upon the whitest neck\nWaved by the winds of heaven without a check,\nIn exquisite disorder falls and flows;"
+    },
+    {
+     "rows": [
+      10,
+      13
+     ],
+     "text": "Gather the rich fruit of thy mirthful spring,\nEre angry Time around thy temples shed\nThe snows of hasting age; his icy wing"
+    },
+    {
+     "rows": [
+      14,
+      16
+     ],
+     "text": "Will wither the fresh rose, however red;\nAnd changing not his custom, quickly change\nThe glory of all objects in his range."
     }
    ]
   }
@@ -2673,6 +4202,45 @@
    ]
   }
  },
+ "pkg-calderon": {
+  "en": {
+   "translator": "Denis Florence MacCarthy",
+   "translator_life": "1817–1882",
+   "year": "1873",
+   "edition": "Calderon’s Dramas: Life Is a Dream, translated by Denis Florence MacCarthy (London, King, 1873), act II, scene XVIII, Project Gutenberg 6363",
+   "source": "https://www.gutenberg.org/ebooks/6363",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      10
+     ],
+     "text": "That is true: then let's restrain\nThis wild rage, this fierce condition\nOf the mind, this proud ambition,\nShould we ever dream again:\nAnd we'll do so, since 'tis plain,\nIn this world's uncertain gleam,\nThat to live is but to dream:\nMan dreams what he is, and wakes\nOnly when upon him breaks\nDeath's mysterious morning beam."
+    },
+    {
+     "rows": [
+      11,
+      21
+     ],
+     "text": "The king dreams he is a king,\nAnd in this delusive way\nLives and rules with sovereign sway;\nAll the cheers that round him ring,\nBorn of air, on air take wing.\nAnd in ashes (mournful fate!)\nDeath dissolves his pride and state:\nWho would wish a crown to take,\nSeeing that he must awake\nIn the dream beyond death's gate?"
+    },
+    {
+     "rows": [
+      22,
+      32
+     ],
+     "text": "And the rich man dreams of gold,\nGilding cares it scarce conceals,\nAnd the poor man dreams he feels\nWant and misery and cold.\nDreams he too who rank would hold,\nDreams who bears toil's rough-ribbed hands,\nDreams who wrong for wrong demands,\nAnd in fine, throughout the earth,\nAll men dream, whate'er their birth,\nAnd yet no one understands."
+    },
+    {
+     "rows": [
+      33,
+      42
+     ],
+     "text": "'Tis a dream that I in sadness\nHere am bound, the scorn of fate;\n'Twas a dream that once a state\nI enjoyed of light and gladness.\nWhat is life? 'Tis but a madness.\nWhat is life? A thing that seems,\nA mirage that falsely gleams,\nPhantom joy, delusive rest,\nSince is life a dream at best,\nAnd even dreams themselves are dreams."
+    }
+   ]
+  }
+ },
  "pkg-dante": {
   "en": {
    "translator": "Dante Gabriel Rossetti",
@@ -2751,6 +4319,327 @@
    ]
   }
  },
+ "pkg-cavalcanti": {
+  "en": {
+   "translator": "Dante Gabriel Rossetti",
+   "translator_life": "1828–1882",
+   "year": "1861",
+   "edition": "“A Rapture concerning his Lady”, in Dante and his Circle, with the Italian Poets preceding him, translated by Dante Gabriel Rossetti (London, Ellis and White, 1874; first published as The Early Italian Poets, 1861), Internet Archive",
+   "source": "https://archive.org/details/dantehiscirclew00rossuoft",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      4
+     ],
+     "text": "Who is she coming, whom all gaze upon,\nWho makes the air all tremulous with light,\nAnd at whose side is Love himself? that none\nDare speak, but each man's sighs are infinite."
+    },
+    {
+     "rows": [
+      5,
+      9
+     ],
+     "text": "Ah me! how she looks round from left to right,\nLet Love discourse: I may not speak thereon.\nLady she seems of such high benison\nAs makes all others graceless in men's sight."
+    },
+    {
+     "rows": [
+      10,
+      13
+     ],
+     "text": "The honour which is hers cannot be said;\nTo whom are subject all things virtuous,\nWhile all things beauteous own her deity."
+    },
+    {
+     "rows": [
+      14,
+      16
+     ],
+     "text": "Ne'er was the mind of man so nobly led.\nNor yet was such redemption granted us\nThat we should ever know her perfectly."
+    }
+   ]
+  }
+ },
+ "pkg-boccaccio": {
+  "en": {
+   "translator": "John Payne",
+   "translator_life": "1842–1916",
+   "year": "1886",
+   "edition": "The Decameron of Giovanni Boccaccio, translated by John Payne (London, Villon Society, 1886), day VI, story 9, Project Gutenberg 23700",
+   "source": "https://www.gutenberg.org/ebooks/23700",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Guido Cavalcanti with a pithy speech courteously flouteth certain Florentine gentlemen who had taken him by surprise."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "The queen, seeing Emilia delivered of her story and that it rested with none other than herself to tell, saving him who was privileged to speak last, began thus,"
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "\"Although, sprightly ladies, you have this day taken out of my mouth at the least two stories, whereof I had purposed to relate one, I have yet one left to tell, the end whereof compriseth a saying of such a fashion that none, peradventure, of such pertinence, hath yet been cited to us."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "You must know, then, that there were in our city, of times past, many goodly and commendable usances, whereof none is left there nowadays, thanks to the avarice that hath waxed therein with wealth and hath banished them all. Among these there was a custom to the effect that the gentlemen of the various quarters of Florence assembled together in divers places about the town and formed themselves into companies of a certain number, having a care to admit thereinto such only as might aptly bear the expense, whereof to-day the one and to-morrow the other, and so all in turn, hold open house, each his day, for the whole company. At these banquets they often entertained both stranger gentlemen, whenas there came any thither, and those of the city; and on like wise, once at the least in the year, they clad themselves alike and rode in procession through the city on the most notable days and whiles they held passes of arms, especially on the chief holidays or whenas some glad news of victory or the like came to the city."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Amongst these companies was one of Messer Betto Brunelleschi, whereinto the latter and his companions had studied amain to draw Guido, son of Messer Cavalcante de' Cavalcanti, and not without cause; for that, besides being one of the best logicians in the world and an excellent natural philosopher (of which things, indeed, they recked little), he was very sprightly and well-bred and a mighty well-spoken man and knew better than any other to do everything that he would and that pertained unto a gentleman, more by token that he was very rich and knew wonder-well how to entertain whomsoever he deemed deserving of honour."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "But Messer Betto had never been able to win and to have him, and he and his companions believed that this betided for that Guido, being whiles engaged in abstract speculations, became much distraught from mankind; and for that he inclined somewhat to the opinion of the Epicureans, it was reported among the common folk that these his speculations consisted only in seeking if it might be discovered that God was not."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "It chanced one day that Guido set out from Orto San Michele and came by way of the Corso degli Ademari, the which was oftentimes his road, to San Giovanni, round about which there were at that present divers great marble tombs (which are nowadays at Santa Reparata) and many others. As he was between the columns of porphyry there and the tombs in question and the door of the church, which was shut, Messer Betto and his company, coming a-horseback along the Piazza di Santa Reparata, espied him among the tombs and said, 'Let us go plague him.'"
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "Accordingly, spurring their horses, they charged all down upon him in sport and coming upon him ere he was aware of them, said to him, 'Guido, thou refusest to be of our company; but, harkye, whenas thou shalt have found that God is not, what wilt thou have accomplished?' Guido, seeing himself hemmed in by them, answered promptly, 'Gentlemen, you may say what you will to me in your own house';"
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "then, laying his hand on one of the great tombs aforesaid and being very nimble of body, he took a spring and alighting on the other side, made off, having thus rid himself of them. The gentlemen abode looking one upon another and fell a-saying that he was a crack-brain and that this that he had answered them amounted to nought seeing that there where they were they had no more to do than all the other citizens, nor Guido himself less than any of themselves."
+    },
+    {
+     "rows": [
+      9,
+      9
+     ],
+     "text": "But Messer Betto turned to them and said, 'It is you who are the crackbrains, if you have not apprehended him. He hath courteously and in a few words given us the sharpest rebuke in the world; for that, an you consider aright, these tombs are the houses of the dead, seeing they are laid and abide therein, and these, saith he, are our house, meaning thus to show us that we and other foolish and unlettered men are, compared with him and other men of learning, worse than dead folk; wherefore, being here, we are in our own house.'"
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "Thereupon each understood what Guido had meant to say and was abashed nor ever plagued him more, but held Messer Betto thenceforward a gentleman of a subtle wit and an understanding.\""
+    }
+   ]
+  }
+ },
+ "pkg-suspicion-nietzsche-night-song": {
+  "en": {
+   "translator": "Thomas Common",
+   "translator_life": "1850–1919",
+   "year": "1909",
+   "edition": "Thus Spake Zarathustra, translated by Thomas Common (The Complete Works of Friedrich Nietzsche, ed. Oscar Levy, vol. 11, Edinburgh and London, 1909), part II, “The Night-Song”, Project Gutenberg 1998",
+   "source": "https://www.gutenberg.org/ebooks/1998",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "’Tis night: now do all gushing fountains speak louder. And my soul also is a gushing fountain."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "’Tis night: now only do all songs of the loving ones awake. And my soul also is the song of a loving one."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Something unappeased, unappeasable, is within me; it longeth to find expression. A craving for love is within me, which speaketh itself the language of love."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Light am I: ah, that I were night! But it is my lonesomeness to be begirt with light!"
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Ah, that I were dark and nightly! How would I suck at the breasts of light!"
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "And you yourselves would I bless, ye twinkling starlets and glow-worms aloft!—and would rejoice in the gifts of your light."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "But I live in mine own light, I drink again into myself the flames that break forth from me."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "I know not the happiness of the receiver; and oft have I dreamt that stealing must be more blessed than receiving."
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "It is my poverty that my hand never ceaseth bestowing; it is mine envy that I see waiting eyes and the brightened nights of longing."
+    },
+    {
+     "rows": [
+      9,
+      9
+     ],
+     "text": "Oh, the misery of all bestowers! Oh, the darkening of my sun! Oh, the craving to crave! Oh, the violent hunger in satiety!"
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "A hunger ariseth out of my beauty: I should like to injure those I illumine; I should like to rob those I have gifted:—thus do I hunger for wickedness."
+    },
+    {
+     "rows": [
+      11,
+      11
+     ],
+     "text": "Many suns circle in desert space: to all that is dark do they speak with their light—but to me they are silent."
+    },
+    {
+     "rows": [
+      12,
+      12
+     ],
+     "text": "Ah, there is ice around me; my hand burneth with the iciness! Ah, there is thirst in me; it panteth after your thirst!"
+    },
+    {
+     "rows": [
+      13,
+      13
+     ],
+     "text": "’Tis night: alas, that I have to be light! And thirst for the nightly! And lonesomeness!"
+    },
+    {
+     "rows": [
+      14,
+      14
+     ],
+     "text": "’Tis night: now doth my longing break forth in me as a fountain,—for speech do I long."
+    },
+    {
+     "rows": [
+      15,
+      15
+     ],
+     "text": "’Tis night: now do all gushing fountains speak louder. And my soul also is a gushing fountain. ’Tis night: now do all songs of loving ones awake. And my soul also is the song of a loving one.—"
+    }
+   ]
+  }
+ },
+ "pkg-suspicion-marx-tragedy-farce": {
+  "en": {
+   "translator": "Daniel De Leon",
+   "translator_life": "1852–1914",
+   "year": "1897",
+   "edition": "The Eighteenth Brumaire of Louis Bonaparte, translated by Daniel De Leon (New York, International Publishing Co., 1897), chapter I, Project Gutenberg 1346",
+   "source": "https://www.gutenberg.org/ebooks/1346",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Hegel says somewhere that great historic facts and personages recur twice."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "He forgot to add: “Once as tragedy, and again as farce.”"
+    }
+   ]
+  }
+ },
+ "pkg-suspicion-marx-masks": {
+  "en": {
+   "translator": "Daniel De Leon",
+   "translator_life": "1852–1914",
+   "year": "1897",
+   "edition": "The Eighteenth Brumaire of Louis Bonaparte, translated by Daniel De Leon (New York, International Publishing Co., 1897), chapter I, Project Gutenberg 1346",
+   "source": "https://www.gutenberg.org/ebooks/1346",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Man makes his own history, but he does not make it out of the whole cloth; he does not make it out of conditions chosen by himself, but out of such as he finds close at hand."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "The tradition of all past generations weighs like an alp upon the brain of the living."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "At the very time when men appear engaged in revolutionizing things and themselves, in bringing about what never was before, at such very epochs of revolutionary crisis do they anxiously conjure up into their service the spirits of the past, assume their names, their battle cries, their costumes to enact a new historic scene in such time-honored disguise and with such borrowed language."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Thus did Luther masquerade as the Apostle Paul; thus did the revolution of 1789-1814 drape itself alternately as Roman Republic and as Roman Empire; nor did the revolution of 1848 know what better to do than to parody at one time the year 1789, at another the revolutionary traditions of 1793-95."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Thus does the beginner, who has acquired a new language, keep on translating it back into his own mother tongue; only then has he grasped the spirit of the new language and is able freely to express himself therewith when he moves in it without recollections of the old, and has forgotten in its use his own hereditary tongue."
+    }
+   ]
+  }
+ },
  "pkg-renaissance-tasso-opening": {
   "en": {
    "translator": "Edward Fairfax",
@@ -2765,6 +4654,88 @@
       0
      ],
      "text": "The sacred armies, and the godly knight,\nThat the great sepulchre of Christ did free,\nI sing; much wrought his valor and foresight,\nAnd in that glorious war much suffered he;\nIn vain ’gainst him did Hell oppose her might,\nIn vain the Turks and Morians armed be:\nHis soldiers wild, to brawls and mutinies prest,\nReduced he to peace, so Heaven him blest."
+    }
+   ]
+  }
+ },
+ "pkg-renaissance-erasmus-folly": {
+  "en": {
+   "translator": "John Wilson",
+   "translator_life": "fl. 1668",
+   "year": "1668",
+   "edition": "The Praise of Folly, translated by John Wilson (London, 1668), Project Gutenberg 9371",
+   "source": "https://www.gutenberg.org/ebooks/9371",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "At what rate soever the world talks of me (for I am not ignorant what an ill report Folly has got, even among the most foolish), yet that I am that she, that only she, whose deity recreates both gods and men…"
+    }
+   ]
+  }
+ },
+ "pkg-renaissance-castiglione-courtier": {
+  "en": {
+   "translator": "Leonard Eckstein Opdycke",
+   "translator_life": "1858–1914",
+   "year": "1901",
+   "edition": "The Book of the Courtier, translated by Leonard Eckstein Opdycke (New York, Scribner, 1901), book I, § 14, Project Gutenberg 67799",
+   "source": "https://www.gutenberg.org/ebooks/67799",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "I wish, then, that this Courtier of ours should be nobly born and of gentle race; because it is far less unseemly for one of ignoble birth to fail in worthy deeds, than for one of noble birth."
+    }
+   ]
+  }
+ },
+ "ren-machiavelli-fox-lion": {
+  "en": {
+   "translator": "W. K. Marriott",
+   "translator_life": "1847–1927",
+   "year": "1908",
+   "edition": "The Prince, translated by W. K. Marriott (London, Dent, Everyman’s Library, 1908), chapter XVIII, Project Gutenberg 1232",
+   "source": "https://www.gutenberg.org/ebooks/1232",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Every one admits how praiseworthy it is in a prince to keep faith, and to live with integrity and not with craft. Nevertheless our experience has been that those princes who have done great things have held good faith of little account, and have known how to circumvent the intellect of men by craft, and in the end have overcome those who have relied on their word. You must know there are two ways of contesting, the one by the law, the other by force;"
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "the first method is proper to men, the second to beasts; but because the first is frequently not sufficient, it is necessary to have recourse to the second. Therefore it is necessary for a prince to understand how to avail himself of the beast and the man."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "This has been figuratively taught to princes by ancient writers, who describe how Achilles and many other princes of old were given to the Centaur Chiron to nurse, who brought them up in his discipline; which means solely that, as they had for a teacher one who was half beast and half man, so it is necessary for a prince to know how to make use of both natures, and that one without the other is not durable."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "A prince, therefore, being compelled knowingly to adopt the beast, ought to choose the fox and the lion; because the lion cannot defend himself against snares and the fox cannot defend himself against wolves. Therefore, it is necessary to be a fox to discover the snares and a lion to terrify the wolves. Those who rely simply on the lion do not understand what they are about. Therefore a wise lord cannot, nor ought he to, keep faith when such observance may be turned against him, and when the reasons that caused him to pledge it exist no longer."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "If men were entirely good this precept would not hold, but because they are bad, and will not keep faith with you, you too are not bound to observe it with them. Nor will there ever be wanting to a prince legitimate reasons to excuse this non-observance."
     }
    ]
   }
@@ -2852,6 +4823,109 @@
       13
      ],
      "text": "Since in thy heart thou carriest death and grace\nEnclosed together, and my worthless brain\nCan draw forth only death to feed on me."
+    }
+   ]
+  }
+ },
+ "ren-ronsard-rose": {
+  "en": {
+   "translator": "Andrew Lang",
+   "translator_life": "1844–1912",
+   "year": "1872",
+   "edition": "“The Rose”, in Ballads and Lyrics of Old France, with Other Poems, translated by Andrew Lang (London, Longmans, 1872), Project Gutenberg 795",
+   "source": "https://www.gutenberg.org/ebooks/795",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      5
+     ],
+     "text": "See, Mignonne, hath not the Rose,\nThat this morning did unclose\nHer purple mantle to the light,\nLost, before the day be dead,\nThe glory of her raiment red,\nHer colour, bright as yours is bright?"
+    },
+    {
+     "rows": [
+      6,
+      11
+     ],
+     "text": "Ah, Mignonne, in how few hours,\nThe petals of her purple flowers\nAll have faded, fallen, died;\nSad Nature, mother ruinous,\nThat seest thy fair child perish thus\n’Twixt matin song and even tide."
+    },
+    {
+     "rows": [
+      12,
+      17
+     ],
+     "text": "Hear me, my darling, speaking sooth,\nGather the fleet flower of your youth,\nTake ye your pleasure at the best;\nBe merry ere your beauty flit,\nFor length of days will tarnish it\nLike roses that were loveliest."
+    }
+   ]
+  }
+ },
+ "ren-camoes-fire": {
+  "en": {
+   "translator": "Richard Francis Burton",
+   "translator_life": "1821–1890",
+   "year": "1884",
+   "edition": "Camoens: The Lyricks, Part I (Sonnets, Canzons, Odes, and Sextines), Englished by Richard F. Burton (London, Quaritch, 1884), Internet Archive, sonnet LXXXI",
+   "source": "https://archive.org/details/lyrickssonnetsca01camuoft",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "Love is a living Lowe that lurking burneth;\n'Tis wound that paineth yet ne'er taketh tent;\nIt is one long contented Discontent;\n'Tis Dule which driving mad no Dule discerneth:"
+    },
+    {
+     "rows": [
+      4,
+      7
+     ],
+     "text": "Love's Will for nothing save well-willing yearneth;\n'Tis faring hermit-like in city pent;\nIt is a Malcontent when gained Consent;\n'Tis holding greatest loss most lucre earneth:"
+    },
+    {
+     "rows": [
+      8,
+      10
+     ],
+     "text": "It is the being tane with gladdest gree;\n'Tis Winner serving fain the thing he won;\nIt is to entreat the slayer loyally."
+    },
+    {
+     "rows": [
+      11,
+      13
+     ],
+     "text": "But how can Love, with all his favour shown,\nCause in our mortal hearts conformity\nWhen Love is love's own foe, most fere of fone?"
+    }
+   ]
+  }
+ },
+ "ren-montaigne-cannibals": {
+  "en": {
+   "translator": "Charles Cotton",
+   "translator_life": "1630–1687",
+   "year": "1685",
+   "edition": "Essays of Michel de Montaigne, translated by Charles Cotton (London, 1685–86), revised by William Carew Hazlitt (1877), book I, chapter 30, Project Gutenberg 3600",
+   "source": "https://www.gutenberg.org/ebooks/3600",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Now, to return to my subject, I find that there is nothing barbarous and savage in this nation, by anything that I can gather, excepting, that every one gives the title of barbarism to everything that is not in use in his own country. As, indeed, we have no other level of truth and reason than the example and idea of the opinions and customs of the place wherein we live:"
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "there is always the perfect religion, there the perfect government, there the most exact and accomplished usage of all things. They are savages at the same rate that we say fruits are wild, which nature produces of herself and by her own ordinary progress; whereas, in truth, we ought rather to call those wild whose natures we have changed by our artifice and diverted from the common order."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "In those, the genuine, most useful, and natural virtues and properties are vigorous and sprightly, which we have helped to degenerate in these, by accommodating them to the pleasure of our own corrupted palate. And yet for all this, our taste confesses a flavour and delicacy excellent even to emulation of the best of ours, in several fruits wherein those countries abound without art or culture. Neither is it reasonable that art should gain the pre-eminence of our great and powerful mother nature."
     }
    ]
   }
@@ -3187,6 +5261,322 @@
       2
      ],
      "text": "Such was the end of the Ingenious Gentleman of La Mancha, whose village Cide Hamete would not indicate precisely, in order to leave all the towns and villages of La Mancha to contend among themselves for the right to adopt him and claim him as a son, as the seven cities of Greece contended for Homer."
+    }
+   ]
+  }
+ },
+ "cerv-preciosa-freedom": {
+  "en": {
+   "translator": "Walter K. Kelly",
+   "translator_life": "?–1867",
+   "year": "1846",
+   "edition": "The Exemplary Novels of Cervantes, translated by Walter K. Kelly (London, Bohn’s Standard Library, 1846; reprinted 1881), Project Gutenberg 14420",
+   "source": "https://www.gutenberg.org/ebooks/14420",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "\"Whereas these señores, our lawgivers,\" she said, \"have determined, according to their laws that I should be yours, and as such have given me up to you, I have decreed, in accordance with the law of my own will, which is the strongest of all, that I will not be so except upon the conditions heretofore concerted between us two. You must live two years in our company before you enjoy mine, so that you may neither repent through fickleness, nor I be deceived through precipitation. Conditions supersede laws; those which I have prescribed you know; if you choose to keep them, I may be yours, and you mine; if not, the mule is not dead, your clothes are whole, and not a doit of your money is spent. Your absence from home has not yet extended to the length of a day; what remains you may employ in considering what best suits you. These señores may give up my body to you, but not my soul, which is free, was born free, and shall remain free. If you remain, I shall esteem you much; if you depart, I shall do so no less; for I hold that amorous impulses run with a loose rein, until they are brought to a halt by reason or disenchantment. I would not have you be towards me like the sportsman, who when he has bagged a hare thinks no more of it, but runs after another. The eyes are sometimes deceived; at first sight tinsel looks like gold; but they soon recognise the difference between the genuine and the false metal. This beauty of mine, which you say I possess, and which you exalt above the sun, and declare more precious than gold, how do I know but that at a nearer view it will appear to you a shadow, and when tested will seem but base metal? I give you two years to weigh and ponder well what will be right to choose or reject. Before you buy a jewel, which you can only get rid of by death, you ought to take much time to examine it, and ascertain its faults or its merits. I do not assent to the barbarous licence which these kinsmen of mine have assumed, to forsake their wives or chastise them when the humour takes them; and as I do not intend to do anything which calls for punishment, I will not take for my mate one who will abandon me at his own caprice.\""
+    }
+   ]
+  }
+ },
+ "cerv-glass-scholar": {
+  "en": {
+   "translator": "Walter K. Kelly",
+   "translator_life": "?–1867",
+   "year": "1846",
+   "edition": "The Exemplary Novels of Cervantes, translated by Walter K. Kelly (London, Bohn’s Standard Library, 1846; reprinted 1881), Project Gutenberg 14420",
+   "source": "https://www.gutenberg.org/ebooks/14420",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Six months did Thomas remain confined to his bed; and during that time he not only became reduced to a skeleton, but seemed also to have lost the use of his faculties. Every remedy that could be thought of was tried in his behalf; but although the physicians succeeded in curing the physical malady, they could not remove that of the mind; so that when he was at last pronounced cured, he was still afflicted with the strangest madness that was ever heard of among the many kinds by which humanity has been assailed. The unhappy man imagined that he was entirely made of glass; and, possessed with this idea, when any one approached him he would utter the most terrible outcries, begging and beseeching them not to come near him, or they would assuredly break him to pieces, as he was not like other men but entirely of glass from head to foot."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "In the hope of rousing him from this strange hallucination, many persons, without regard to his prayers and cries, threw themselves upon him and embraced him, bidding him observe that he was not broken for all that. But all they gained by this was to see the poor creature sink to the earth, uttering lamentable moans, and instantly fall into a fainting fit, from which he could not be recovered for several hours; nay, when he did recover, it was but to renew his complaints, from which he never desisted but to implore that such a misfortune might not be suffered to happen again. He exhorted every one to speak to him from a great distance; declaring that on this condition they might ask him what they pleased, and that he could reply with all the more effect, now he was a man of glass and not of flesh and bones, since glass, being a substance of more delicate subtlety, permits the soul to act with more promptitude and efficacy than it can be expected to do in the heavier body formed of mere earth."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Certain persons then desiring to ascertain if what he had said were true, asked him many questions of great difficulty respecting various circumstances; to all these he replied with the utmost acuteness, insomuch that his answers awakened astonishment in the most learned professors of medicine and philosophy whom that university could boast. And well they might be amazed at seeing a man who was subject to so strange an hallucination as that of believing himself to be made of glass, still retain such extraordinary judgment on other points as to be capable of answering difficult questions with the marvellous propriety and truth which distinguished the replies of Rodaja."
+    }
+   ]
+  }
+ },
+ "cerv-rinconete-conscience": {
+  "en": {
+   "translator": "Walter K. Kelly",
+   "translator_life": "?–1867",
+   "year": "1846",
+   "edition": "The Exemplary Novels of Cervantes, translated by Walter K. Kelly (London, Bohn’s Standard Library, 1846; reprinted 1881), Project Gutenberg 14420",
+   "source": "https://www.gutenberg.org/ebooks/14420",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Now Rinconete, although very young, had a good understanding, and much intelligence. Having often accompanied his father in the sale of his bulls, he had acquired the knowledge of a more refined language than that they had just been hearing, and laughed with all his heart as he recalled the expressions used by Monipodio, and the other members of the respectable community they had entered. He was especially entertained by the solecising sanctimonies; and by Cariharta calling Repolido a Tarpeian Mariner, and a Tiger of Ocaña. He was also mightily edified by the expectation of Cariharta that the pains she had taken to earn the twenty-four reals would be accepted in heaven as a set-off against her sins, and was amazed to see with what security they all counted on going to heaven by means of the devotions they performed, notwithstanding the many thefts, homicides, and other offences against God and their neighbour which they were daily committing. The boy laughed too with all his heart, as he thought of the good old woman Pipota, who suffered the basket of stolen linen to be concealed in her house, and then went to place her little wax candles before the images of the saints, expecting thereby to enter heaven full dressed in her mantle and clogs. But he was most surprised at the respect and deference which all these people paid to Monipodio, whom he saw to be nothing better than a coarse and brutal barbarian. He recalled the various entries which he had read in the singular memorandum-book of the burly thief, and thought over all the various occupations in which that goodly company was hourly engaged. Pondering all these things, he could not but marvel at the carelessness with which justice was administered in that renowned city of Seville, since such pernicious hordes and inhuman ruffians were permitted to live there almost openly. He determined to dissuade his companion from continuing long in such a reprobate course of life. Nevertheless, led away by his extreme youth, and want of experience, he remained with these people for some months, during which there happened to him adventures which would require much writing to detail them; wherefore I propose to remit the description of his life and adventures to some other occasion, when I will also relate those of his master, Monipodio, with other circumstances connected with the members of that infamous academy, which may serve as warnings to those who read them."
+    }
+   ]
+  }
+ },
+ "cerv-dogs-voices": {
+  "en": {
+   "translator": "Walter K. Kelly",
+   "translator_life": "?–1867",
+   "year": "1846",
+   "edition": "The Exemplary Novels of Cervantes, translated by Walter K. Kelly (London, Bohn’s Standard Library, 1846; reprinted 1881), Project Gutenberg 14420",
+   "source": "https://www.gutenberg.org/ebooks/14420",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "SCIPIO. Berganza, my friend, let us leave our watch over the hospital to-night, and retire to this lonely place and these mats, where, without being noticed, we may enjoy that unexampled favour which heaven has bestowed on us both at the same moment."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "BERGANZA. Brother Scipio, I hear you speak, and know that I am speaking to you; yet cannot I believe, so much does it seem to me to pass the bounds of nature."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "SCIPIO. That is true, Berganza; and what makes the miracle greater is, that we not only speak but hold intelligent discourse, as though we had souls capable of reason; whereas we are so far from having it, that the difference between brutes and man consists in this, that man is a rational animal and the brute is irrational."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "BERGANZA. I hear all you say, Scipio; and that you say it, and that I hear it, causes me fresh admiration and wonder. It is very true that in the course of my life I have many a time heard tell of our great endowments, insomuch that some, it appears, have been disposed to think that we possess a natural instinct, so vivid and acute in many things that it gives signs and tokens little short of demonstrating that we have a certain sort of understanding capable of reason."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "SCIPIO. What I have heard highly extolled is our strong memory, our gratitude, and great fidelity; so that it is usual to depict us as symbols of friendship. Thus you will have seen (if it has ever come under your notice) that, on the alabaster tombs, on which are represented the figures of those interred in them, when they are husband and wife, a figure of a dog is placed between the pair at their feet, in token that in life their affection and fidelity to each other was inviolable."
+    }
+   ]
+  }
+ },
+ "wp-austerlitz-sky": {
+  "en": {
+   "translator": "Louise and Aylmer Maude",
+   "translator_life": "1855–1939 · 1858–1938",
+   "year": "1922–1923",
+   "edition": "War and Peace, translated by Louise and Aylmer Maude (Oxford University Press, World’s Classics, 1922–1923), Project Gutenberg 2600",
+   "source": "https://www.gutenberg.org/ebooks/2600",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "And really another French soldier, trailing his musket, ran up to the struggling men, and the fate of the red-haired gunner, who had triumphantly secured the mop and still did not realize what awaited him, was about to be decided. But Prince Andrew did not see how it ended. It seemed to him as though one of the soldiers near him hit him on the head with the full swing of a bludgeon. It hurt a little, but the worst of it was that the pain distracted him and prevented his seeing what he had been looking at."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "“What’s this? Am I falling? My legs are giving way,” thought he, and fell on his back. He opened his eyes, hoping to see how the struggle of the Frenchmen with the gunners ended, whether the red-haired gunner had been killed or not and whether the cannon had been captured or saved. But he saw nothing. Above him there was now nothing but the sky—the lofty sky, not clear yet still immeasurably lofty, with gray clouds gliding slowly across it. “How quiet, peaceful, and solemn; not at all as I ran,” thought Prince Andrew—“not as we ran, shouting and fighting, not at all as the gunner and the Frenchman with frightened and angry faces struggled for the mop: how differently do those clouds glide across that lofty infinite sky! How was it I did not see that lofty sky before? And how happy I am to have found it at last! Yes! All is vanity, all falsehood, except that infinite sky. There is nothing, nothing, but that. But even it does not exist, there is nothing but quiet and peace. Thank God!...”"
+    }
+   ]
+  }
+ },
+ "wp-natasha-dance": {
+  "en": {
+   "translator": "Louise and Aylmer Maude",
+   "translator_life": "1855–1939 · 1858–1938",
+   "year": "1922–1923",
+   "edition": "War and Peace, translated by Louise and Aylmer Maude (Oxford University Press, World’s Classics, 1922–1923), Project Gutenberg 2600",
+   "source": "https://www.gutenberg.org/ebooks/2600",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Natásha threw off the shawl from her shoulders, ran forward to face “Uncle,” and setting her arms akimbo also made a motion with her shoulders and struck an attitude."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Where, how, and when had this young countess, educated by an émigrée French governess, imbibed from the Russian air she breathed that spirit and obtained that manner which the pas de châle would, one would have supposed, long ago have effaced? But the spirit and the movements were those inimitable and unteachable Russian ones that “Uncle” had expected of her. As soon as she had struck her pose, and smiled triumphantly, proudly, and with sly merriment, the fear that had at first seized Nicholas and the others that she might not do the right thing was at an end, and they were already admiring her."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "She did the right thing with such precision, such complete precision, that Anísya Fëdorovna, who had at once handed her the handkerchief she needed for the dance, had tears in her eyes, though she laughed as she watched this slim, graceful countess, reared in silks and velvets and so different from herself, who yet was able to understand all that was in Anísya and in Anísya’s father and mother and aunt, and in every Russian man and woman."
+    }
+   ]
+  }
+ },
+ "wp-forgiving-anatole": {
+  "en": {
+   "translator": "Louise and Aylmer Maude",
+   "translator_life": "1855–1939 · 1858–1938",
+   "year": "1922–1923",
+   "edition": "War and Peace, translated by Louise and Aylmer Maude (Oxford University Press, World’s Classics, 1922–1923), Project Gutenberg 2600",
+   "source": "https://www.gutenberg.org/ebooks/2600",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "In the miserable, sobbing, enfeebled man whose leg had just been amputated, he recognized Anatole Kurágin. Men were supporting him in their arms and offering him a glass of water, but his trembling, swollen lips could not grasp its rim. Anatole was sobbing painfully. “Yes, it is he! Yes, that man is somehow closely and painfully connected with me,” thought Prince Andrew, not yet clearly grasping what he saw before him. “What is the connection of that man with my childhood and life?” he asked himself without finding an answer. And suddenly a new unexpected memory from that realm of pure and loving childhood presented itself to him. He remembered Natásha as he had seen her for the first time at the ball in 1810, with her slender neck and arms and with a frightened happy face ready for rapture, and love and tenderness for her, stronger and more vivid than ever, awoke in his soul. He now remembered the connection that existed between himself and this man who was dimly gazing at him through tears that filled his swollen eyes. He remembered everything, and ecstatic pity and love for that man overflowed his happy heart."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Prince Andrew could no longer restrain himself and wept tender loving tears for his fellow men, for himself, and for his own and their errors."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "“Compassion, love of our brothers, for those who love us and for those who hate us, love of our enemies; yes, that love which God preached on earth and which Princess Mary taught me and I did not understand—that is what made me sorry to part with life, that is what remained for me had I lived. But now it is too late. I know it!”"
+    }
+   ]
+  }
+ },
+ "wp-karataev-meal": {
+  "en": {
+   "translator": "Louise and Aylmer Maude",
+   "translator_life": "1855–1939 · 1858–1938",
+   "year": "1922–1923",
+   "edition": "War and Peace, translated by Louise and Aylmer Maude (Oxford University Press, World’s Classics, 1922–1923), Project Gutenberg 2600",
+   "source": "https://www.gutenberg.org/ebooks/2600",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "“Eh, lad, don’t fret!” said he, in the tender singsong caressing voice old Russian peasant women employ. “Don’t fret, friend—‘suffer an hour, live for an age!’ that’s how it is, my dear fellow."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "And here we live, thank heaven, without offense. Among these folk, too, there are good men as well as bad,” said he, and still speaking, he turned on his knees with a supple movement, got up, coughed, and went off to another part of the shed."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "“Eh, you rascal!” Pierre heard the same kind voice saying at the other end of the shed. “So you’ve come, you rascal? She remembers... Now, now, that’ll do!” And the soldier, pushing away a little dog that was jumping up at him, returned to his place and sat down. In his hands he had something wrapped in a rag."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "“Here, eat a bit, sir,” said he, resuming his former respectful tone as he unwrapped and offered Pierre some baked potatoes. “We had soup for dinner and the potatoes are grand!”"
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Pierre had not eaten all day and the smell of the potatoes seemed extremely pleasant to him. He thanked the soldier and began to eat."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "“Well, are they all right?” said the soldier with a smile. “You should do like this.” He took a potato, drew out his clasp knife, cut the potato into two equal halves on the palm of his hand, sprinkled some salt on it from the rag, and handed it to Pierre."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "“The potatoes are grand!” he said once more. “Eat some like that!”"
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "Pierre thought he had never eaten anything that tasted better."
+    }
+   ]
+  }
+ },
+ "wp-nikolenka-dream": {
+  "en": {
+   "translator": "Louise and Aylmer Maude",
+   "translator_life": "1855–1939 · 1858–1938",
+   "year": "1922–1923",
+   "edition": "War and Peace, translated by Louise and Aylmer Maude (Oxford University Press, World’s Classics, 1922–1923), Project Gutenberg 2600",
+   "source": "https://www.gutenberg.org/ebooks/2600",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Meanwhile downstairs in young Nicholas Bolkónski’s bedroom a little lamp was burning as usual. (The boy was afraid of the dark and they could not cure him of it.) Dessalles slept propped up on four pillows and his Roman nose emitted sounds of rhythmic snoring. Little Nicholas, who had just waked up in a cold perspiration, sat up in bed and gazed before him with wide-open eyes. He had awaked from a terrible dream. He had dreamed that he and Uncle Pierre, wearing helmets such as were depicted in his Plutarch, were leading a huge army. The army was made up of white slanting lines that filled the air like the cobwebs that float about in autumn and which Dessalles called les fils de la Vièrge. In front was Glory, which was similar to those threads but rather thicker. He and Pierre were borne along lightly and joyously, nearer and nearer to their goal. Suddenly the threads that moved them began to slacken and become entangled and it grew difficult to move. And Uncle Nicholas stood before them in a stern and threatening attitude."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "“Have you done this?” he said, pointing to some broken sealing wax and pens. “I loved you, but I have orders from Arakchéev and will kill the first of you who moves forward.” Little Nicholas turned to look at Pierre but Pierre was no longer there. In his place was his father—Prince Andrew—and his father had neither shape nor form, but he existed, and when little Nicholas perceived him he grew faint with love: he felt himself powerless, limp, and formless. His father caressed and pitied him. But Uncle Nicholas came nearer and nearer to them. Terror seized young Nicholas and he awoke."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "“My father!” he thought. (Though there were two good portraits of Prince Andrew in the house, Nicholas never imagined him in human form.) “My father has been with me and caressed me. He approved of me and of Uncle Pierre. Whatever he may tell me, I will do it. Mucius Scaevola burned his hand. Why should not the same sort of thing happen to me? I know they want me to learn. And I will learn. But someday I shall have finished learning, and then I will do something. I only pray God that something may happen to me such as happened to Plutarch’s men, and I will act as they did. I will do better. Everyone shall know me, love me, and be delighted with me!” And suddenly his bosom heaved with sobs and he began to cry."
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "“Are you ill?” he heard Dessalles’ voice asking."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "“No,” answered Nicholas, and lay back on his pillow. “He is good and kind and I am fond of him!” he thought of Dessalles. “But Uncle Pierre! Oh, what a wonderful man he is! And my father? Oh, Father, Father! Yes, I will do something with which even he would be satisfied....”"
     }
    ]
   }
@@ -3606,6 +5996,290 @@
    ]
   }
  },
+ "vond-rey-engelen": {
+  "en": {
+   "translator": "Leonard Charles van Noppen",
+   "translator_life": "1868–1935",
+   "year": "1898",
+   "edition": "Vondel’s Lucifer, translated from the Dutch by Leonard Charles van Noppen (Greensboro, 1898), act I, chorus of angels, Project Gutenberg 37659",
+   "source": "https://www.gutenberg.org/ebooks/37659",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      27
+     ],
+     "text": "Who is it on His Throne, high-seated,\nSo deep in boundless realms of light,\nWhose measure, space nor time hath meted,\nNor e'en eternity; whose might,\nSupportless, yet itself maintaineth,\nFloating on pinions of repose;\nWho, in His mightiness ordaineth\nWhat round and in Him changeless flows\nAnd what revolves and what is driven\nAround Him, centre of His plan;\nThe sun of suns, the spirit-leaven\nOf space; the soul of all we can\nConceive, and of the unconceivèd,\nThe heart, the life, the fount, the sea,\nAnd source of all things here perceivèd,\nThat from Him spring, that His decree\nOmnipotent and Mercy flowing\nAnd Wisdom from naught did evoke,\nEre this full-crownèd palace glowing,\nThe Heaven of Heavens, the darkness broke?\nWhere o'er our eyes our wings extending\nTo veil His dazzling Majesty,\n'Mid harmonies to Him ascending,\nWe fall before Him tremblingly\nAnd kneel, confused, in awe together.\nWho is it? Name, or picture then\nHis Being with a Seraph's feather.\nOr is't beyond your tongue and ken?"
+    },
+    {
+     "rows": [
+      28,
+      55
+     ],
+     "text": "'Tis God: Being infinite, eternal,\nOf everything that being has.\nForgive us, O! Thou Power supernal,\nBy all that is and ever was\nNe'er fully praised, ne'er to be spoken;\nForgive us, nor incensed depart,\nSince no imagining, tongue nor token\nCan Thee proclaim. Thou wert. Thou art\nFore'er the same. All Angel praising\nAnd knowledge is but faint and tame.\n'Tis but foul sacrilege, their phrasing;\nFor each bears his peculiar name\nSave Thee. And who can by declaring\nReveal Thy name? And who make known\nThine oracles? Who is so daring?\nHe who Thou art Thou art alone.\nSave Thee none knows Thy power transcendent.\nWho grasps Thy full divinity?\nWho dares to face Thy Throne resplendent,\nThe fierce glow of eternity?\nTo whom the light of light revealèd?\nWhat's hid behind Thy sacred veil,\nFrom us Thy Mercy hath concealèd.\nSuch bliss transcends the narrow pale\nOf our weak might. Our life is waning;\nBut Thine, Lord, shall know endless days.\nOur being in Thine finds its sustaining!\nExalt the Godhead! Sing His praise!"
+    },
+    {
+     "rows": [
+      56,
+      66
+     ],
+     "text": "Holy! holy! once more holy!\nThree times holy! Honor God!\nWithout Him is nothing holy!\nHoly is His mighty nod!\nStrong in mystery He reigneth!\nHis commands our tongues compel\nTo proclaim what He ordaineth,\nWhat the faithful Gabriel\nWith his trumpet came expounding.\nPraise of man to God redounding!\nAll that pleaseth God is well."
+    }
+   ]
+  }
+ },
+ "lus-velho-restelo": {
+  "en": {
+   "translator": "Richard Francis Burton",
+   "translator_life": "1821–1890",
+   "year": "1880",
+   "edition": "Os Lusiadas (The Lusiads), Englished by Richard Francis Burton (London, Quaritch, 1880), canto IV, stanzas 94–104, Project Gutenberg 77660",
+   "source": "https://www.gutenberg.org/ebooks/77660",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      7
+     ],
+     "text": "“But now an agèd Sire of reverend mien,\nupon the foreshore throngèd by the crowd,\nwith eyne fast fixt upon our forms was seen,\nand discontented thrice his brow he bow’d:\nHis deep-toned accents raising somewhat keen,\nthat we from shipboard hear him speak aloud,\nwith lore by long experience only grown,\nthus from his time-taught breast he made his moan:—"
+    },
+    {
+     "rows": [
+      8,
+      15
+     ],
+     "text": "“‘Oh craving of Command! Oh vain Desire!\nof vainest van’ity man miscalleth Fame!\nOh fraud’ulent gust, so easy fanned to fire\nby breath of vulgar, aping Honour’s name!\nWhat just and dreadful judgment deals thine ire,\nto seely souls who overlove thy claim!\nWhat deaths, what direful risks, what agonies\nwherewith thou guerd’onest them, thy fitting prize!"
+    },
+    {
+     "rows": [
+      16,
+      23
+     ],
+     "text": "“‘Thou dour disturber of man’s sprite and life,\nfount of backsliding and adultery,\nsagacious waster, and consummate thief\nof subjects, kingdoms, treasure, empery:\nThey hail thee noble, and they hail thee chief,\nthough digne of all indignities thou be;\nthey call thee Fame and Glory sovereign,\nwords, words, the heart of silly herd to gain!"
+    },
+    {
+     "rows": [
+      24,
+      31
+     ],
+     "text": "“‘What new disaster dost thou here design?\nWhat horror for our realm and race invent?\nWhat unheard dangers or what deaths condign,\nveiled by some name that soundeth excellent?\nWhat bribe of gorgeous reign, and golden mine,\nwhose ready offer is so rarely meant?\nWhat Fame hast promised them? what pride of story?\nWhat palms? what triumphs? what victorious glory?"
+    },
+    {
+     "rows": [
+      32,
+      39
+     ],
+     "text": "“‘But oh! race ’gendered by his sin insane,\nwhom disobedience of the high command,\nnot only chasèd from the heav’enly reign,\nand doomed to distant and exilèd land;\nbut, eke, from other state too blest for men\nwhere Peace with Innocence fared hand in hand,\nthat olden golden Age, his victims hurl’d\ninto an iron and an armèd world:"
+    },
+    {
+     "rows": [
+      40,
+      47
+     ],
+     "text": "“‘Since by this gustful Van’ity led astray,\nlighter thou makest man’s light phantasy;\nsince his brute fierceness and his lust of prey\nbear honoured names of Strength and Valiancy;\nsince thou wilt price and prize, in wildest way,\ndespisal of man’s life, which aye should be\nesteemed of mortals, nay, held doubly dear,\nwhen He who gave it, gave it up with fear:"
+    },
+    {
+     "rows": [
+      48,
+      55
+     ],
+     "text": "“‘Neighbours thee not the hateful Ishmaelite,\nwith whom abundant strife shalt ever hold?\nFollows he not th’ Arabian’s law unright,\nan thou wouldst fight to fill of CHRIST the fold?\nA thousand cities, regions infinite,\nare they not his, an cov’etest earth and gold?\nIs he not strong in warfare, high in name,\nif Honour be, not greed of gain, thine aim?"
+    },
+    {
+     "rows": [
+      56,
+      63
+     ],
+     "text": "“‘Dost leave the foeman breeding at thy gate\nwho wendest foreign far-off fone to seek;\nwhereby this antique realm lies desolate;\nwhose strength, o’erstretchèd, waxeth ruinous weak?\nSeekest thou dark and dubious chance of fate,\nwho hearest Fame with honey’d accents speak,\nlauding thy lot, and hailing thee seignior\nof Inde, Perse, Arab and Æthiopia-shore?"
+    },
+    {
+     "rows": [
+      64,
+      71
+     ],
+     "text": "“‘Oh, curst the Mortal, who the first was found\nteaching the tree to wear the flowing sheet!\nworthy th’ eternal pains of the Profound,\nif just that justest law I hold and greet.\nNe’er may man’s judgment lofty and renown’d,\nnor genius rare, nor harp sonorous sweet,\nrequite such gift with mem’ory, honour, fame;\nperish thy glory, perish e’en thy name!"
+    },
+    {
+     "rows": [
+      72,
+      79
+     ],
+     "text": "“‘Iápetus’ daring Son from Heaven brought\nthe fire he added human breast to bless;\nfire, that inflamed to wars a world distraught,\nwith death and eke disgrace: (ah, sad distress!)\nHow better far for us and ours hadst wrought\nPrometheus! and with loss of life the less;\nhad thy famed Statue never felt the fire\nof great designs that ’gender great desire!"
+    },
+    {
+     "rows": [
+      80,
+      87
+     ],
+     "text": "“‘Ne’er had the Stripling, miserably brave,\n’tempted his Sire’s high car, nor empty Air\nthe mighty Mason and his boy, who gave\nnames which the Sea-gulf and the River bear.\nNo fierce emprize and fell, by land and wave,\nthrough fire, steel, water, wind, frost, heat, to fare,\nwherein the human race loves not to range.\nSorrowful sort! condition strangest strange!’"
+    }
+   ]
+  },
+  "es": {
+   "translator": "Luis Gómez de Tapia",
+   "translator_life": "fl. 1580",
+   "year": "1580",
+   "edition": "Los Lusíadas, traducido en verso castellano del portugués por Luis Gómez de Tapia (Salamanca, 1580; Barcelona, Montaner y Simón, 1913), canto IV, estrofas 94–104, Project Gutenberg 64775",
+   "source": "https://www.gutenberg.org/ebooks/64775",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      7
+     ],
+     "text": "»Mas un viejo de aspecto venerando\nque en la playa se queda entre la gente,\nvolviéndose a nosotros, meneando\ntres veces la cabeza blanca y frente,\nla voz cansada un poco levantando\nporque en la mar se oyese claramente,\ncon saber de experiencias solas hecho,\nestas palabras saca de su pecho:"
+    },
+    {
+     "rows": [
+      8,
+      15
+     ],
+     "text": "«¡Oh gloria de mandar, vana codicia\n»de aquesta liviandad que llaman fama!\n»¡Oh fraudulento gusto, oh gran malicia,\n»atizada del ser que honra se llama!\n»¿Qué castigo tan grande, qué justicia\n»en el pecho ejecutas que te ama?\n»¿Qué muertes, qué peligros, qué tormentas\n»le pones con trabajos, con afrentas?"
+    },
+    {
+     "rows": [
+      16,
+      23
+     ],
+     "text": "»Dura perturbación del alma y vida,\n»fuente de desamparos y adulterios,\n»sagaz consumidora conocida\n»de haciendas, de reinos y de imperios:\n»llámante ilustre, llámante subida,\n»siendo digna de infames vituperios;\n»llámante fama, gloria soberana,\n»nombres para engañar la gente humana."
+    },
+    {
+     "rows": [
+      24,
+      31
+     ],
+     "text": "»¿A qué nuevos destinos determinas\n»de llevar estos reinos, esta gente?\n»¿Qué peligros, qué muertes le destinas\n»debajo de algún nombre preeminente?\n»¿Qué promesas de tierras, y aun de minas\n»de oro, que le darás tan fácilmente?\n»Qué famas les dirás tener, qué historias,\n»qué triunfos, qué palmas, qué victorias?"
+    },
+    {
+     "rows": [
+      32,
+      39
+     ],
+     "text": "»¡Oh tú, generación de aquel insano\n»cuyo pecado triste e inobediencia\n»no sólo de aquel Reino soberano\n»te puso en tal destierro y dura ausencia,\n»mas aun del otro estado más que humano,\n»que fué de la primer simple inocencia\n»de aquella edad de oro, te ha privado\n»y en la de hierro y armas te ha dejado!"
+    },
+    {
+     "rows": [
+      40,
+      47
+     ],
+     "text": "»Ya que en aquesta vanidad gustosa\n»tanto enfrascas la loca fantasía;\n»ya que a la fiera fuerza rigurosa\n»le das nombre de esfuerzo y valentía;\n»ya que tienes por cosa tan honrosa\n»el despreciar la vida que debía\n»de ser tenida en mucho, pues temiera\n»perderla el Redentor que nos la diera:"
+    },
+    {
+     "rows": [
+      48,
+      55
+     ],
+     "text": "»¿No tienes a la puerta el ismaelita,\n»con quien armado campo y guerras veas?\n»¿No sigue éste la ley falsa, maldita,\n»si por la ley de Dios sólo peleas?\n»¿No tiene pueblos mil tierra infinita,\n»si tierras y riquezas más deseas?\n»¿No es el moro por armas esforzado,\n»si quieres en victorias ser loado?"
+    },
+    {
+     "rows": [
+      56,
+      63
+     ],
+     "text": "»En tu tierra te dejas al contrario\n»por ir a buscar otro a nueva tierra;\n»dejas tu reino solo al adversario\n»por mover al ausente cruda guerra;\n»vas buscando el peligro extraordinario\n»por la gloria que en sí la fama encierra,\n»llamándote señor, con grande copia,\n»de la India, Arabia, Persia, de Etiopia."
+    },
+    {
+     "rows": [
+      64,
+      71
+     ],
+     "text": "»¡Oh, maldito el primero que en el mundo\n»al agua le entregó vela y madero,\n»digno de estar en penas del profundo,\n»si es justa ley la ley que seguir quiero!\n»Nunca juício alguno alto y profundo,\n»ni cítara sonora de otro Homero,\n»te dé por ello fama ni memoria,\n»mas contigo se acabe nombre y gloria."
+    },
+    {
+     "rows": [
+      72,
+      79
+     ],
+     "text": "»Bajó el hijo de Jápeto del cielo\n»el fuego que inspiró en el pecho extraño,\n»encendiendo con él muertes, recelo,\n»armas, deshonras, guerras, grave engaño:\n»¡cuánto mejor Prometeo fuera al suelo,\n»y cuánto a los vivientes menos daño,\n»que tu estatua aquel fuego no tuviera\n»con que locas empresas emprendiera!"
+    },
+    {
+     "rows": [
+      80,
+      87
+     ],
+     "text": "»No acometiera el mozo miserando\n»del padre el carro, ni el aire vacío\n»del grande arquitector el hijo, dando\n»uno al mar nombre y otro fama al río:\n»ningún prez de valor justo o nefando,\n»por hierro, fuego, Marte, calma o frío,\n»dejará de intentar la humana gente.\n»¡Mísera condición, triste accidente!»"
+    }
+   ]
+  }
+ },
+ "lus-alma-gentil": {
+  "en": {
+   "translator": "Richard Francis Burton",
+   "translator_life": "1821–1890",
+   "year": "1884",
+   "edition": "Camoens: The Lyricks, Part I (Sonnets, Canzons, Odes, and Sextines), Englished by Richard F. Burton (London, Quaritch, 1884), Internet Archive, sonnet XIX",
+   "source": "https://archive.org/details/lyrickssonnetsca01camuoft",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "My gentle Spirit! thou who didst depart\nThis life of Miscontent so sudden tane;\nRest there eternal in the heavenly Reign,\nLive I pent here to play sad mortal part."
+    },
+    {
+     "rows": [
+      4,
+      7
+     ],
+     "text": "If in that happy Home, where throned thou art,\nConsent to memories of the Past they deign,\nForget not thou my love, whose ardent strain\nThou sawst in purest glance that spake my heart."
+    },
+    {
+     "rows": [
+      8,
+      10
+     ],
+     "text": "And if such love gain aught of grace fro' thee,\nIf aught avail this woe wherewith I pine,\nThis pining woe that knows no remedy;"
+    },
+    {
+     "rows": [
+      11,
+      13
+     ],
+     "text": "Pray Him who shorted those few years of thine,\nSo soon He bear me hence thy sight to see\nAs soon He bore thee fro' my sorrowing eyne."
+    }
+   ]
+  }
+ },
+ "lus-sete-annos": {
+  "en": {
+   "translator": "Richard Francis Burton",
+   "translator_life": "1821–1890",
+   "year": "1884",
+   "edition": "Camoens: The Lyricks, Part I (Sonnets, Canzons, Odes, and Sextines), Englished by Richard F. Burton (London, Quaritch, 1884), Internet Archive, sonnet XXIX",
+   "source": "https://archive.org/details/lyrickssonnetsca01camuoft",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "Seven years a Shepherd, Jacob did obey\nLaban, the lovely sheep-maid Rachel's sire,\nHim served he not, he served her for hire\nWith one and only wish to win the May."
+    },
+    {
+     "rows": [
+      4,
+      7
+     ],
+     "text": "The days in esperance of a single day\nHe passed, contented only her to admire,\nBut Laban, cautious of a youth's desire,\nIn lieu of Rachel gave him Leah for pay."
+    },
+    {
+     "rows": [
+      8,
+      10
+     ],
+     "text": "When the sad Shepherd saw the snare and sleight\nThat stole the Shepherd-maiden from his lot\nAs though deserved nought his long Desert;"
+    },
+    {
+     "rows": [
+      11,
+      13
+     ],
+     "text": "To other seven-years' service self he dight,\nSaying:—\"More had I served and slaved were not\nFor so long loving Life-tide all too curt.\""
+    }
+   ]
+  }
+ },
  "contra-vn-heart": {
   "en": {
    "translator": "Dante Gabriel Rossetti",
@@ -3756,6 +6430,820 @@
       6
      ],
      "text": "Look ye, countrymen and Thebans, this is Oedipus the great,\nHe who knew the Sphinx’s riddle and was mightiest in our state.\nWho of all our townsmen gazed not on his fame with envious eyes?\nNow, in what a sea of troubles sunk and overwhelmed he lies!\nTherefore wait to see life’s ending ere thou count one mortal blest;\nWait till free from pain and sorrow he has gained his final rest."
+    }
+   ]
+  }
+ },
+ "trag-medea-children": {
+  "en": {
+   "translator": "Edward P. Coleridge",
+   "translator_life": "1863–1936",
+   "year": "1891",
+   "edition": "The Plays of Euripides, translated by Edward P. Coleridge (London, Bell, 1891; 1906 ed.), vol. 1, Medea, Perseus Digital Library",
+   "source": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0114",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      6
+     ],
+     "text": "O my babes, my babes, ye have still a city and a home, where far from me and my sad lot you will live your lives, reft of your mother for ever; while I must to another land in banishment, or ever I have had my joy of you, or lived to see you happy, or ever I have graced your marriage couch, your bride, your bridal bower, or lifted high the wedding torch."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "Ah me! a victim of my own self-will."
+    },
+    {
+     "rows": [
+      8,
+      10
+     ],
+     "text": "So it was all in vain I reared you, O my sons; in vain did suffer, racked with anguish, enduring the cruel pangs of childbirth."
+    },
+    {
+     "rows": [
+      11,
+      16
+     ],
+     "text": "’Fore Heaven I once had hope, poor me! high hope of ye that you would nurse me in my age and deck my corpse with loving hands, a boon we mortals covet; but now is my sweet fancy dead and gone; for I must lose you both and in bitterness and sorrow drag through life."
+    },
+    {
+     "rows": [
+      17,
+      18
+     ],
+     "text": "And ye shall never with fond eyes see your mother more, for o’er your life there comes a change."
+    },
+    {
+     "rows": [
+      19,
+      20
+     ],
+     "text": "Ah me! ah me! why do ye look at me so, my children? why smile that last sweet smile?"
+    },
+    {
+     "rows": [
+      21,
+      22
+     ],
+     "text": "Ah me! what am I to do? My heart gives way when I behold my children’s laughing eyes."
+    },
+    {
+     "rows": [
+      23,
+      27
+     ],
+     "text": "O, I cannot; farewell to all my former schemes; I will take the children from the land, the babes I bore. Why should I wound their sire by wounding them, and get me a twofold measure of sorrow? No, no, I will not do it. Farewell my scheming!"
+    },
+    {
+     "rows": [
+      28,
+      31
+     ],
+     "text": "And yet what am I coming to? Can I consent to let those foes of mine escape from punishment, and incur their mockery? I must face this deed. Out upon my craven heart! to think that I should even have let the soft words escape my soul."
+    },
+    {
+     "rows": [
+      32,
+      34
+     ],
+     "text": "Into the house, children! and whoso feels he must not be present at my sacrifice, must see to it himself; I will not spoil my handiwork."
+    },
+    {
+     "rows": [
+      35,
+      38
+     ],
+     "text": "Ah! ah! do not, my heart, O do not do this deed! Let the children go, unhappy one, spare the babes! For if they live, they will cheer thee in our exile there."
+    },
+    {
+     "rows": [
+      39,
+      44
+     ],
+     "text": "Nay, by the fiends of hell’s abyss, never, never will I hand my children over to their foes to mock and flout. Die they must in any case, and since ’tis so, why I, the mother who bore them, will give the fatal blow. In any case their doom is fixed and there is no escape."
+    },
+    {
+     "rows": [
+      45,
+      46
+     ],
+     "text": "Already the crown is on her head, the robe is round her, and she is dying, the royal bride; that do I know full well."
+    },
+    {
+     "rows": [
+      47,
+      50
+     ],
+     "text": "But now since I have a piteous path to tread, and yet more piteous still the path I send my children on, fain would I say farewell to them. O my babes, my babes, let your mother kiss your hands."
+    },
+    {
+     "rows": [
+      51,
+      55
+     ],
+     "text": "Ah! hands I love so well, O lips most dear to me! O noble form and features of my children, I wish ye joy, but in that other land, for here your father robs you of your home. O the sweet embrace, the soft young cheek, the fragrant breath! my children!"
+    },
+    {
+     "rows": [
+      56,
+      57
+     ],
+     "text": "Go, leave me; I cannot bear to longer look upon ye; my sorrow wins the day."
+    },
+    {
+     "rows": [
+      58,
+      60
+     ],
+     "text": "At last I understand the awful deed I am to do; but passion, that cause of direst woes to mortal man, hath triumphed o’er my sober thoughts."
+    }
+   ]
+  },
+  "es": {
+   "translator": "Eduardo de Mier y Barbery",
+   "translator_life": "1829–1914",
+   "year": "1909",
+   "edition": "Obras dramáticas de Eurípides, traducidas por Eduardo de Mier (Madrid, Sucesores de Hernando, 1909), tomo I, Medea, Project Gutenberg 73500",
+   "source": "https://www.gutenberg.org/ebooks/73500",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      6
+     ],
+     "text": "¡Oh hijos, hijos!; ya tenéis ciudad y casa, en la cual viviréis siempre sin vuestra mísera madre; yo iré desterrada a otro país, antes de recoger los frutos que habéis de dar y de veros felices; antes de casaros y de engalanar yo misma a vuestra esposa, y el tálamo nupcial, y de llevar las antorchas."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "¡Oh, cuán desdichada me hace mi feroz orgullo!"
+    },
+    {
+     "rows": [
+      8,
+      10
+     ],
+     "text": "En vano os eduqué, ¡oh hijos!, en vano trabajé, y graves molestias me consumieron, y sufrí los intolerables dolores del parto."
+    },
+    {
+     "rows": [
+      11,
+      16
+     ],
+     "text": "Sin duda, infeliz, puse en vosotros en otro tiempo mi esperanza, y pensé que me sostendríais en la vejez, y que con vuestras manos cerraríais mis ojos, deseo tan natural en los mortales: ya se desvaneció ese dulce consuelo. Sin vosotros pasaré mi vida llena de tristeza y de amargura."
+    },
+    {
+     "rows": [
+      17,
+      18
+     ],
+     "text": "Ya no veréis con vuestros ojos amados a vuestra madre, y viviréis en adelante de otra manera."
+    },
+    {
+     "rows": [
+      19,
+      20
+     ],
+     "text": "¡Ay, ay de mí! ¿Por qué me miráis, ¡oh hijos!? ¿Por qué me miráis y os sonreís así, con sonrisa peor para mí que la muerte?"
+    },
+    {
+     "rows": [
+      21,
+      22
+     ],
+     "text": "¡Ah, ah! ¿Qué haré? Desfallece mi ánimo, ¡oh mujeres!, cuando tropiezo con las alegres miradas de mis hijos."
+    },
+    {
+     "rows": [
+      23,
+      27
+     ],
+     "text": "No podré... Pero valgan los proyectos anteriores; de la tierra arrancaré a mis hijos... ¿Qué necesidad tengo de afligir a su padre con estos males, de sufrirlos yo duplicados? No seré yo... Constancia en mis propósitos..."
+    },
+    {
+     "rows": [
+      28,
+      31
+     ],
+     "text": "Pero ¿qué sufro? ¿Serviré yo de risa, quedando impunes mis enemigos? ¡Audacia! ¡Cuánta es mi flaqueza, cuánta debilidad revelan estas frases afeminadas!"
+    },
+    {
+     "rows": [
+      32,
+      34
+     ],
+     "text": "Entrad en el palacio, ¡oh hijos!; de perpetuo tormento serviréis a ese hombre, que no debe asistir a mis sacrificios. ¡No se enervará mi mano!"
+    },
+    {
+     "rows": [
+      35,
+      38
+     ],
+     "text": "¡Ah, ah! ¡No cometerás este crimen, ¡oh mujer!; déjalos, desventurada, perdona ya a tus hijos: viviendo, allá contigo serán tu encanto!..."
+    },
+    {
+     "rows": [
+      39,
+      44
+     ],
+     "text": "No, por los dioses, que moren en el Orco con los ministros de la venganza; jamás los abandonaré a los ultrajes de los que me odian. No hay más remedio; que mueran, y ya que es preciso, yo que les di la vida, yo se la quitaré. Resuelto está y se cumplirá."
+    },
+    {
+     "rows": [
+      45,
+      46
+     ],
+     "text": "Y la corona orna ya las sienes de la regia esposa, y ya perece con su peplo."
+    },
+    {
+     "rows": [
+      47,
+      50
+     ],
+     "text": "Ya, ya emprenderé mi funesta fuga, y les dejaré un legado aún más funesto... Quiero hablar a mis hijos. Dadme, dadme, ¡oh hijos míos!, vuestra diestra para que la bese."
+    },
+    {
+     "rows": [
+      51,
+      55
+     ],
+     "text": "¡Oh mano muy amada!, ¡oh labios queridos!, ¡oh noble rostro!, ¡oh talle gentil!; sed felices, pero allá; vuestro padre os arrebata la ventura que podríais disfrutar aquí. ¡Oh dulce abrazo!, ¡oh tez delicada!, ¡oh suavísimo hálito de mis hijos!;"
+    },
+    {
+     "rows": [
+      56,
+      57
+     ],
+     "text": "salid, salid; no puedo miraros más, que mis desdichas me agobian."
+    },
+    {
+     "rows": [
+      58,
+      60
+     ],
+     "text": "Ya comprendo, ya conozco en toda su extensión la horrible maldad que voy a cometer; pero la ira es mi más poderosa consejera, causa entre los hombres de las mayores desventuras."
+    }
+   ]
+  }
+ },
+ "trag-phedre-aveu": {
+  "en": {
+   "translator": "Robert Bruce Boswell",
+   "translator_life": "1846–1933",
+   "year": "1889",
+   "edition": "The Dramatic Works of Jean Racine, translated by Robert Bruce Boswell (London, Bell, 1889–1890), Phaedra, act I, scene III, Project Gutenberg 1977",
+   "source": "https://www.gutenberg.org/ebooks/1977",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      7
+     ],
+     "text": "My wound is not so recent. Scarcely had I\nBeen bound to Theseus by the marriage yoke,\nAnd happiness and peace seem'd well secured,\nWhen Athens show'd me my proud enemy.\nI look'd, alternately turn'd pale and blush'd\nTo see him, and my soul grew all distraught;\nA mist obscured my vision, and my voice\nFalter'd, my blood ran cold, then burn'd like fire;"
+    },
+    {
+     "rows": [
+      8,
+      9
+     ],
+     "text": "Venus I felt in all my fever'd frame,\nWhose fury had so many of my race\nPursued."
+    },
+    {
+     "rows": [
+      10,
+      15
+     ],
+     "text": "With fervent vows I sought to shun\nHer torments, built and deck'd for her a shrine,\nAnd there, 'mid countless victims did I seek\nThe reason I had lost; but all for naught,\nNo remedy could cure the wounds of love!\nIn vain I offer'd incense on her altars;"
+    },
+    {
+     "rows": [
+      16,
+      19
+     ],
+     "text": "When I invoked her name my heart adored\nHippolytus, before me constantly;\nAnd when I made her altars smoke with victims,\n'Twas for a god whose name I dared not utter."
+    },
+    {
+     "rows": [
+      20,
+      21
+     ],
+     "text": "I fled his presence everywhere, but found him—\nO crowning horror!—in his father's features."
+    },
+    {
+     "rows": [
+      22,
+      27
+     ],
+     "text": "Against myself, at last, I raised revolt,\nAnd stirr'd my courage up to persecute\nThe enemy I loved. To banish him\nI wore a step-dame's harsh and jealous carriage,\nWith ceaseless cries I clamour'd for his exile,\nTill I had torn him from his father's arms."
+    },
+    {
+     "rows": [
+      28,
+      31
+     ],
+     "text": "I breathed once more, Oenone; in his absence\nMy days flow'd on less troubled than before,\nAnd innocent. Submissive to my husband,\nI hid my grief, and of our fatal marriage\nCherish'd the fruits."
+    },
+    {
+     "rows": [
+      32,
+      35
+     ],
+     "text": "Vain caution! Cruel Fate!\nBrought hither by my spouse himself, I saw\nAgain the enemy whom I had banish'd,\nAnd the old wound too quickly bled afresh."
+    },
+    {
+     "rows": [
+      36,
+      37
+     ],
+     "text": "No longer is it love hid in my heart,\nBut Venus in her might seizing her prey."
+    },
+    {
+     "rows": [
+      38,
+      41
+     ],
+     "text": "I have conceived just terror for my crime;\nI hate my life, and hold my love in horror.\nDying I wish'd to keep my fame unsullied,\nAnd bury in the grave a guilty passion;"
+    },
+    {
+     "rows": [
+      42,
+      47
+     ],
+     "text": "But I have been unable to withstand\nTears and entreaties, I have told you all;\nContent, if only, as my end draws near,\nYou do not vex me with unjust reproaches,\nNor with vain efforts seek to snatch from death\nThe last faint lingering sparks of vital breath."
+    }
+   ]
+  }
+ },
+ "com-clouds-socrates": {
+  "en": {
+   "translator": "William James Hickie",
+   "translator_life": "fl. 1853",
+   "year": "1853",
+   "edition": "The Comedies of Aristophanes, literally translated by William James Hickie (London, Bohn, 1853), The Clouds, Project Gutenberg 2562. Stage directions omitted.",
+   "source": "https://www.gutenberg.org/ebooks/2562",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Strep. Come, who is this man who is in the basket?"
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Dis. Himself."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Strep. Who's \"Himself\"?"
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Dis. Socrates."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "Strep. O Socrates! Come, you sir, call upon him loudly for me."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "Dis. Nay, rather, call him yourself; for I have no leisure."
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "Strep. Socrates! My little Socrates!"
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "Socrates. Why callest thou me, thou creature of a day?"
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "Strep. First tell me, I beseech you, what are you doing."
+    },
+    {
+     "rows": [
+      9,
+      9
+     ],
+     "text": "Soc. I am walking in the air, and speculating about the sun."
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "Strep. And so you look down upon the gods from your basket, and not from the earth?"
+    },
+    {
+     "rows": [
+      11,
+      11
+     ],
+     "text": "Soc. For I should not have rightly discovered things celestial if I had not suspended the intellect, and mixed the thought in a subtle form with its kindred air. But if, being on the ground, I speculated from below on things above, I should never have discovered them. For the earth forcibly attracts to itself the meditative moisture. Water-cresses also suffer the very same thing."
+    },
+    {
+     "rows": [
+      12,
+      12
+     ],
+     "text": "Strep. What do you say? Does meditation attract the moisture to the water-cresses? Come then, my little Socrates, descend to me, that you may teach me those things, for the sake of which I have come."
+    }
+   ]
+  }
+ },
+ "com-aulularia-euclio": {
+  "en": {
+   "translator": "Henry Thomas Riley",
+   "translator_life": "1816–1878",
+   "year": "1852",
+   "edition": "The Comedies of Plautus, literally translated by Henry Thomas Riley (London, Bohn, 1852; Bell, 1912), vol. 1, Aulularia, act IV, scene IX, Perseus Digital Library",
+   "source": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0091",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      3
+     ],
+     "text": "I’m ruined! I’m done for! I’m murdered! Whither shall I run? Whither not run? Stop him—stop him. Whom? who? I don’t know. I see nothing! I’m going blindfold; and, in fact, whither I am going, or where I am, or who I am, I can’t in my mind find out for certain. (To the AUDIENCE.) I beseech you, give me your aid (I beg and entreat of you), and point me out the person that has taken it away."
+    },
+    {
+     "rows": [
+      4,
+      5
+     ],
+     "text": "What’s the matter? Why do you laugh? I’m acquainted with you all; I know that there are many thieves here, who conceal themselves with white clothes and chalk, and sit as though they were honest!"
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "(To one of the SPECTATORS.) What say you? You I’m resolved to believe; for I perceive, even by your looks, that you are honest."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "Well then, none of these has got it? You’ve been the death of me! Tell me, then, who has got it? You don’t know?"
+    },
+    {
+     "rows": [
+      8,
+      9
+     ],
+     "text": "Oh, wretched, wretched me! I’m done for! wofully undone! In most sorry plight I go; so much groaning, and misfortune, and sorrow, has this day brought upon me, hunger and poverty, too."
+    },
+    {
+     "rows": [
+      10,
+      13
+     ],
+     "text": "I’m the most utterly ruined of all men upon the earth! For what need of life have I, who have lost so much gold that I so carefully watched? I pinched myself, and my inclinations, and my very heart! Now others are rejoicing at this, my loss and my misfortune! I cannot endure it."
+    }
+   ]
+  }
+ },
+ "com-avare-voleur": {
+  "en": {
+   "translator": "Charles Heron Wall",
+   "translator_life": "1836–1905",
+   "year": "1876",
+   "edition": "The Dramatic Works of Molière, translated by Charles Heron Wall (London, Bell, 1876–1877), The Miser, act IV, scene VII, Project Gutenberg 6923",
+   "source": "https://www.gutenberg.org/ebooks/6923",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "Harpagon, from the garden, rushing in without his hat, and crying."
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "Thieves! thieves! assassins! murder! Justice, just heavens! I am undone; I am murdered; they have cut my throat; they have stolen my money!"
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Who can it be? What has become of him? Where is he? Where is he hiding himself? What shall I do to find him? Where shall I run? Where shall I not run? Is he not here? Who is this? Stop!"
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "(To himself, taking hold of his own arm) Give me back my money, wretch.... Ah...! it is myself...."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "My mind is wandering, and I know not where I am, who I am, and what I am doing."
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "Alas! my poor money! my poor money! my dearest friend, they have bereaved me of thee; and since thou art gone, I have lost my support, my consolation, and my joy. All is ended for me, and I have nothing more to do in the world!"
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "Without thee it is impossible for me to live. It is all over with me; I can bear it no longer. I am dying; I am dead; I am buried."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "Is there nobody who will call me from the dead, by restoring my dear money to me, or by telling me who has taken it? Ah! what is it you say? It is no one."
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "Whoever has committed the deed must have watched carefully for his opportunity, and must have chosen the very moment when I was talking with my miscreant of a son."
+    },
+    {
+     "rows": [
+      9,
+      9
+     ],
+     "text": "I must go. I will demand justice, and have the whole of my house put to the torture—my maids and my valets, my son, my daughter, and myself too."
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "What a crowd of people are assembled here! Everyone seems to be my thief. I see no one who does not rouse suspicion in me."
+    },
+    {
+     "rows": [
+      11,
+      11
+     ],
+     "text": "Ha! what are they speaking of there? Of him who stole my money? What noise is that up yonder? Is it my thief who is there?"
+    },
+    {
+     "rows": [
+      12,
+      12
+     ],
+     "text": "For pity's sake, if you know anything of my thief, I beseech you to tell me. Is he hiding there among you?"
+    },
+    {
+     "rows": [
+      13,
+      13
+     ],
+     "text": "They all look at me and laugh. We shall see that they all have a share in the robbery."
+    },
+    {
+     "rows": [
+      14,
+      14
+     ],
+     "text": "Quick! magistrates, police, provosts, judges, racks, gibbets, and executioners. I will hang everybody, and if I do not find my money, I will hang myself afterwards."
+    }
+   ]
+  }
+ },
+ "com-gogol-laugh": {
+  "en": {
+   "translator": "Thomas Seltzer",
+   "translator_life": "1875–1943",
+   "year": "1916",
+   "edition": "The Inspector-General, translated by Thomas Seltzer (New York, Knopf, 1916), Act V, scene VIII, Project Gutenberg 3735",
+   "source": "https://www.gutenberg.org/ebooks/3735",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      0
+     ],
+     "text": "GOVERNOR [in a rage]. Engaged! Rats! Fiddlesticks! So much for your engagement! Thrusts her engagement at me now!"
+    },
+    {
+     "rows": [
+      1,
+      1
+     ],
+     "text": "[In a frenzy.] Here, look at me! Look at me, the whole world, the whole of Christendom. See what a fool the governor was made of."
+    },
+    {
+     "rows": [
+      2,
+      2
+     ],
+     "text": "Out upon him, the fool, the old scoundrel! [Shakes his fist at himself.] Oh, you fat-nose! To take an icicle, a rag for a personage of rank!"
+    },
+    {
+     "rows": [
+      3,
+      3
+     ],
+     "text": "Now his coach bells are jingling all along the road. He is publishing the story to the whole world. Not only will you be made a laughing-stock of, but some scribbler, some ink-splasher will put you into a comedy."
+    },
+    {
+     "rows": [
+      4,
+      4
+     ],
+     "text": "There's the horrid sting. He won't spare either rank or station. And everybody will grin and clap his hands. What are you laughing at? You are laughing at yourself, oh you!"
+    },
+    {
+     "rows": [
+      5,
+      5
+     ],
+     "text": "[Stamps his feet.] I would give it to all those ink-splashers! You scribblers, damned liberals, devil's brood!"
+    },
+    {
+     "rows": [
+      6,
+      6
+     ],
+     "text": "I would tie you all up in a bundle, I would grind you into meal, and give it to the devil."
+    },
+    {
+     "rows": [
+      7,
+      7
+     ],
+     "text": "[Shakes his fist and stamps his heel on the floor. After a brief silence.] I can't come to myself."
+    },
+    {
+     "rows": [
+      8,
+      8
+     ],
+     "text": "It's really true, whom the gods want to punish they first make mad."
+    },
+    {
+     "rows": [
+      9,
+      9
+     ],
+     "text": "In what did that nincompoop resemble an inspector-general? In nothing, not even half the little finger of an inspector-general. And all of a sudden everybody is going about saying, \"Inspector-general, inspector-general.\""
+    },
+    {
+     "rows": [
+      10,
+      10
+     ],
+     "text": "Who was the first to say it? Tell me."
+    }
+   ]
+  }
+ },
+ "push-tatiana": {
+  "en": {
+   "translator": "Henry Spalding",
+   "translator_life": "1840–1907",
+   "year": "1881",
+   "edition": "Eugene Oneguine: A Romance of Russian Life in Verse, translated by Lieut.-Col. Henry Spalding (London, Macmillan, 1881), chapter III, Project Gutenberg 23997",
+   "source": "https://www.gutenberg.org/ebooks/23997",
+   "blocks": [
+    {
+     "rows": [
+      0,
+      6
+     ],
+     "text": "I write to you! Is more required?\nCan lower depths beyond remain?\n’Tis in your power now, if desired,\nTo crush me with a just disdain.\nBut if my lot unfortunate\nYou in the least commiserate\nYou will not all abandon me."
+    },
+    {
+     "rows": [
+      7,
+      16
+     ],
+     "text": "At first, I clung to secrecy:\nBelieve me, of my present shame\nYou never would have heard the name,\nIf the fond hope I could have fanned\nAt times, if only once a week,\nTo see you by our fireside stand,\nTo listen to the words you speak,\nAddress to you one single phrase\nAnd then to meditate for days\nOf one thing till again we met."
+    },
+    {
+     "rows": [
+      17,
+      20
+     ],
+     "text": "’Tis said you are a misanthrope,\nIn country solitude you mope,\nAnd we—an unattractive set—\nCan hearty welcome give alone."
+    },
+    {
+     "rows": [
+      21,
+      29
+     ],
+     "text": "Why did you visit our poor place?\nForgotten in the village lone,\nI never should have seen your face\nAnd bitter torment never known.\nThe untutored spirit’s pangs calmed down\nBy time (who can anticipate?)\nI had found my predestinate,\nBecome a faithful wife and e’en\nA fond and careful mother been."
+    },
+    {
+     "rows": [
+      30,
+      37
+     ],
+     "text": "Another! to none other I\nMy heart’s allegiance can resign,\nMy doom has been pronounced on high,\n’Tis Heaven’s will and I am thine.\nThe sum of my existence gone\nBut promise of our meeting gave,\nI feel thou wast by God sent down\nMy guardian angel to the grave."
+    },
+    {
+     "rows": [
+      38,
+      45
+     ],
+     "text": "Thou didst to me in dreams appear,\nUnseen thou wast already dear.\nThine eye subdued me with strange glance,\nI heard thy voice’s resonance\nLong ago. Dream it cannot be!\nScarce hadst thou entered thee I knew,\nI flushed up, stupefied I grew,\nAnd cried within myself: ’tis he!"
+    },
+    {
+     "rows": [
+      46,
+      50
+     ],
+     "text": "Is it not truth? in tones suppressed\nWith thee I conversed when I bore\nComfort and succour to the poor,\nAnd when I prayer to Heaven addressed\nTo ease the anguish of my breast."
+    },
+    {
+     "rows": [
+      51,
+      56
+     ],
+     "text": "Nay! even as this instant fled,\nWas it not thou, O vision bright,\nThat glimmered through the radiant night\nAnd gently hovered o’er my head?\nWas it not thou who thus didst stoop\nTo whisper comfort, love and hope?"
+    },
+    {
+     "rows": [
+      57,
+      59
+     ],
+     "text": "Who art thou? Guardian angel sent\nOr torturer malevolent?\nDoubt and uncertainty decide:"
+    },
+    {
+     "rows": [
+      60,
+      62
+     ],
+     "text": "All this may be an empty dream,\nDelusions of a mind untried,\nProvidence otherwise may deem—"
+    },
+    {
+     "rows": [
+      63,
+      66
+     ],
+     "text": "Then be it so! My destiny\nFrom henceforth I confide to thee!\nLo! at thy feet my tears I pour\nAnd thy protection I implore."
+    },
+    {
+     "rows": [
+      67,
+      70
+     ],
+     "text": "Imagine! Here alone am I!\nNo one my anguish comprehends,\nAt times my reason almost bends,\nAnd silently I here must die—"
+    },
+    {
+     "rows": [
+      71,
+      74
+     ],
+     "text": "But I await thee: scarce alive\nMy heart with but one look revive;\nOr to disturb my dreams approach\nAlas! with merited reproach."
+    },
+    {
+     "rows": [
+      75,
+      78
+     ],
+     "text": "’Tis finished. Horrible to read!\nWith shame I shudder and with dread—\nBut boldly I myself resign:\nThine honour is my countersign!"
     }
    ]
   }
