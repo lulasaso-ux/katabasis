@@ -261,6 +261,35 @@ Ninguna de las seis lecturas pasa de **4 minutos estimados** y cinco de ellas
 se leen en 3 o menos. Las cinco obras visuales enlazan su ficha en Commons y la
 ficha del museo que las conserva.
 
+## Himnos de Occidente
+
+| Paquete | Lecturas | Obras visuales |
+| --- | ---: | ---: |
+| Himnos de Occidente | 17 | 5 |
+
+**Himnos de Occidente** reúne diecisiete himnos nacionales en su lengua
+original: la *Marsellesa* (estrofas primera y sexta, «Amour sacré de la
+Patrie», con el estribillo), el *Canto de los italianos* de Mameli, la tercera
+estrofa del *Lied der Deutschen*, las cuatro estrofas oficiales de la *Mazurca
+de Dąbrowski*, el *Himnusz* de Kölcsey, las dos primeras estrofas del *Himno a
+la Libertad* de Solomós, *Hen Wlad Fy Nhadau* de Gales, el *Wilhelmus*
+(estrofas primera y sexta), *A Portuguesa*, *The Star-Spangled Banner*
+(estrofas primera y cuarta), *Ô Canada* en francés, y los himnos de Colombia,
+México, Argentina, Chile, Cuba y Brasil. Se da la parte que se canta hoy y, en
+varios, una estrofa más que ya no se canta. Los textos proceden de Wikisource
+en cada lengua (el polaco, de la ley de 1980 que fija el himno) y se
+comprobaron contra sus páginas; solo se moderniza la ortografía donde la
+fuente usa la antigua (*enfans*, *calló* por *cayó* en la Bayamesa) y se
+corrige «loza» en «losa» en el himno de Colombia, como en el texto oficial.
+
+Las cinco reproducciones, todas de dominio público en Commons, son *La
+Libertad guiando al pueblo* y *Grecia sobre las ruinas de Missolonghi* de
+Delacroix, la *Entrada del general Dąbrowski en Roma* de January Suchodolski
+(Museo Nacional de Varsovia, MP 3815), *By Dawn’s Early Light* de Edward Percy
+Moran y *¡Independencia o muerte!* de Pedro Américo (Museu Paulista).
+
+Ninguno de los diecisiete himnos pasa de **1 minuto estimado** de lectura.
+
 ## Las vidas detrás de las obras
 
 Obras y autores continúa debajo del mapa con una cronología de nacimientos y
