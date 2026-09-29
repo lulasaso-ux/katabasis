@@ -307,7 +307,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 <nav class="nav">
 <button class="active" id="home"><svg class="icon" viewBox="0 0 24 24"><path d="M4 4h6a3 3 0 0 1 3 3v14a4 4 0 0 0-4-2H4zM13 7a3 3 0 0 1 3-3h5v15h-5a4 4 0 0 0-3 2"/></svg><span>The anthology</span></button>
 <button id="catalog-open" aria-label="Obras y autores"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m3 5 6-2 6 2 6-2v16l-6 2-6-2-6 2zM9 3v16m6-14v16"/></svg><span>Obras y autores</span></button>
-<button id="favorites-open" aria-label="Guardados"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4z"/></svg><span>Guardados</span><b id="favorites-count" class="saved-count" hidden>0</b></button>
+<button id="favorites-open" aria-label="Cuaderno"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4z"/></svg><span>Cuaderno</span><b id="favorites-count" class="saved-count" hidden>0</b></button>
 <button id="packages-open" aria-label="Paquetes"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m3 7 9-4 9 4-9 4zM3 7v10l9 4 9-4V7M12 11v10M7.5 5l9 4"/></svg><span>Paquetes</span></button>
 <button id="workshop-open" aria-label="Aprender"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20h4L19 9l-4-4L4 16zM13.5 6.5l4 4M4 20l1-4 3 3zM3 21h18"/></svg><span>Aprender</span></button>
 <button id="compass-open" aria-label="Brújula literaria"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="m15.5 8.5-2.2 4.8-4.8 2.2 2.2-4.8z"/></svg><span>Brújula</span></button>

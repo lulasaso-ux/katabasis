@@ -3,12 +3,12 @@ Sala de lectura Katabasis.
 
 Katabasis es una sala de lectura bilingüe para descubrir literatura de dominio
 público. Muestra una lectura por vez, permite abrir original y traducción en
-paralelo, guardar favoritos, activar paquetes opcionales y explorar obras y
-autores en un mapa.
+paralelo, guardar versos y pasajes con notas privadas en un cuaderno de
+lectura, activar paquetes opcionales y explorar obras y autores en un mapa.
 
 La restauración inicial contenía **143 lecturas**, **71 obras de arte** y
-**21 paquetes opcionales**; la colección se ha ampliado desde entonces. Las preferencias y los
-favoritos se guardan localmente en el navegador.
+**21 paquetes opcionales**; la colección se ha ampliado desde entonces. Las preferencias y el
+cuaderno de lectura se guardan localmente en el navegador.
 
 ## Abrir Katabasis
 
@@ -478,3 +478,23 @@ cantares, XXIX* (Machado), *El guardador de rebaños, II* (Pessoa), *Odas, I, 11
 título se nombran por sus primeras palabras, como *¿Qué es poesía?* (Bécquer).
 `scripts/validate-reading-titles.cjs` comprueba que ninguna lectura quede sin
 registro y que poemas y fragmentos sigan esa regla.
+
+## Cuaderno de lectura
+
+«Guardados» es ahora el **cuaderno de lectura**. Al seleccionar un verso o un
+pasaje, en la lectura sencilla o en el libro abierto, aparece «Guardar pasaje»
+junto a «Compartir»: el pasaje se guarda con una nota privada opcional. «Guardar»
+sigue conservando lecturas y pinturas enteras, y a cada una también se le puede
+escribir una nota.
+
+El cuaderno se ve de dos maneras: *Recientes*, por fecha, y *Mi antología*,
+agrupado por autor en orden alfabético, con las obras en el orden del catálogo
+y las pinturas al final. Cada pasaje puede abrirse en el libro (se señala el
+lugar), compartirse como imagen, anotarse de nuevo o quitarse.
+
+Todo se guarda solo en el navegador (`katabasis-notebook-v1` y
+`katabasis-favorites-v1` en `localStorage`); nadie más lo ve. «Descargar mi
+antología» produce un texto (.txt) con los pasajes, sus obras y las notas, y
+«Copia de seguridad» un JSON que «Restaurar una copia» vuelve a cargar en este u
+otro dispositivo sin borrar lo que ya hay. `app/notebook.js` y
+`app/notebook.css` contienen el cuaderno.

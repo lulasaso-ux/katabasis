@@ -339,8 +339,8 @@
     const tr = state.selection ? translatorCredit(w, 'translation') : translatorCredit(w, style.source);
     state.attribution = `— ${w.author.split(' · ')[0]}\n${title}${tr ? ' · ' + tr : ''}`;
   }
-  function open(selection) {
-    const w = typeof works !== 'undefined' && typeof active !== 'undefined' && active !== null ? works[active] : null;
+  function open(selection, work) {
+    const w = work || (typeof works !== 'undefined' && typeof active !== 'undefined' && active !== null ? works[active] : null);
     if (!w) return;
     const list = availablePaintings(w);
     state = { work: w, selection: selection || '', all: list, filter: '', paintings: list.slice(), paintingId: (list[0] || {}).id };
@@ -420,12 +420,14 @@
   let kept = null;
   const currentId = () => typeof works !== 'undefined' && typeof active === 'number' && works[active] ? works[active].id : null;
   const keptText = () => kept && kept.id === currentId() ? kept.text : '';
+  // While there is a selection, a bar near the text offers to keep it in the notebook or share it.
+  const noteIcon = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4z"/></svg>';
   function floatButton() {
     const book = document.getElementById('book');
     if (!book) return null;
     let f = book.querySelector('.share-float');
     if (!f) {
-      book.insertAdjacentHTML('beforeend', `<button type="button" class="share-float" data-share-open hidden>${shareIcon}<span></span></button>`);
+      book.insertAdjacentHTML('beforeend', `<div class="share-float" role="group" hidden>${typeof KatabasisNotebook !== 'undefined' ? `<button type="button" data-note-passage>${noteIcon}<span></span></button>` : ''}<button type="button" data-share-open>${shareIcon}<span></span></button></div>`);
       f = book.querySelector('.share-float');
       book.addEventListener('close', () => { kept = null; f.hidden = true; });
     }
@@ -438,11 +440,16 @@
     const b = document.querySelector('#book-content [data-share-open]');
     if (b) { b.classList.toggle('has-selection', has); b.querySelector('span').textContent = label; }
     const f = floatButton(), book = document.getElementById('book');
-    if (f) { f.hidden = !has || !book.open; f.querySelector('span').textContent = L('Compartir selección', 'Share selection'); }
+    if (f) {
+      f.hidden = !has || !book.open;
+      const note = f.querySelector('[data-note-passage] span');
+      if (note) note.textContent = L('Guardar pasaje', 'Save passage');
+      f.querySelector('[data-share-open] span').textContent = note ? L('Compartir', 'Share') : L('Compartir selección', 'Share selection');
+    }
   }
   const soon = () => { clearTimeout(syncButton.t); syncButton.t = setTimeout(syncButton, 120); };
   document.addEventListener('pointerdown', e => {
-    if (e.target.closest('[data-share-open]')) {
+    if (e.target.closest('[data-share-open], [data-note-passage]')) {
       const t = selectedText();
       if (t) kept = { id: currentId(), text: t };
       e.preventDefault();
@@ -456,5 +463,8 @@
   });
   document.addEventListener('selectionchange', soon);
 
-  window.KatabasisShare = { button, open, readingText, selectedText, draw, style: () => style, state: () => state };
+  // The current selection, or the one kept after a tap collapsed it; taking it clears what was kept.
+  function takeSelection() { const t = selectedText() || keptText(); kept = null; soon(); return t; }
+
+  window.KatabasisShare = { button, open, readingText, selectedText, takeSelection, draw, style: () => style, state: () => state };
 })();
