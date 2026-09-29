@@ -265,10 +265,10 @@ ficha del museo que las conserva.
 
 | Paquete | Lecturas | Versos | Obras visuales |
 | --- | ---: | ---: | ---: |
-| Himnos de Occidente | 17 | 1103 | 5 |
+| Himnos de Occidente | 17 | 1103 | 7 |
 
-**Himnos de Occidente** es un *superpaquete*: diecisiete himnos nacionales,
-enteros y en su lengua original.
+**Himnos de Occidente** reúne diecisiete himnos nacionales, enteros y en su
+lengua original.
 
 | Himno | Texto |
 | --- | --- |
@@ -299,14 +299,25 @@ antigua (*enfans*, *Yguala*, *calló* por *cayó*, acentos como *dió* o *á*) y
 corrigen «loza» en «losa» (Colombia) y las erratas «inflama la muerte» (México,
 «la mente», como pide la rima), «Tremble, tyrans» y «forme ;» (Marsellesa).
 
-Las cinco reproducciones, todas de dominio público en Commons, son *La
+Las siete reproducciones, todas de dominio público en Commons, son *La
 Libertad guiando al pueblo* y *Grecia sobre las ruinas de Missolonghi* de
-Delacroix, la *Entrada del general Dąbrowski en Roma* de January Suchodolski
-(Museo Nacional de Varsovia, MP 3815), *By Dawn’s Early Light* de Edward Percy
-Moran y *¡Independencia o muerte!* de Pedro Américo (Museu Paulista).
+Delacroix, *Rouget de Lisle canta la Marsellesa* de Isidore Pils (Musée
+historique de Strasbourg), la *Entrada del general Dąbrowski en Roma* de January
+Suchodolski (Museo Nacional de Varsovia, MP 3815), *By Dawn’s Early Light* de
+Edward Percy Moran, *La batalla de Boyacá* de Martín Tovar y Tovar (Palacio
+Federal Legislativo, Caracas) y *¡Independencia o muerte!* de Pedro Américo
+(Museu Paulista).
 
 El himno más largo, el mexicano, se lee en **5 minutos estimados**; el alemán,
 en uno.
+
+## Superpaquetes
+
+Un paquete con diez lecturas o más es un *superpaquete*: hoy lo son Himnos de
+Occidente (17), Ruinas (14), Poetas malditos (12) y Renacimiento (12). La
+distinción no se asigna a mano: se calcula con el número de lecturas del
+paquete (`SUPER_PACKAGE_MIN` en `app/katabasis-37.txt`), de modo que un paquete
+que crezca hasta diez lecturas pasa a serlo.
 
 ## Las vidas detrás de las obras
 
@@ -369,6 +380,7 @@ node scripts/validate-curated-packages.cjs
 node scripts/validate-author-timeline.cjs
 node scripts/validate-glosses.cjs
 node scripts/validate-compass.cjs
+node scripts/validate-reading-titles.cjs
 ```
 
 ## Brújula
@@ -430,3 +442,33 @@ espacio; los versos se mantienen enteros cuando caben y, si un texto largo no
 cabe con letra legible, se corta y el editor lo avisa. `app/share.js` y
 `app/share.css` contienen el editor; las letras se cargan de Google Fonts al
 abrirlo y el estilo elegido se recuerda en el navegador.
+
+## Lectura sencilla y libro abierto
+
+«Seguir leyendo» abre la lectura en su traducción, en una sola columna y con
+letra grande. «Abrir el libro» pasa a la edición completa: el original junto a
+la traducción, palabra por palabra, las traducciones oficiales, «Guardar» y
+«Compartir». Cada vez que se abre una lectura desde la antología empieza en la
+lectura sencilla. `app/reader.js` y `app/reader.css` contienen esta vista.
+
+## Nombre y título de cada lectura
+
+`app/reading-titles.json` registra, para cada una de las 278 lecturas, su tipo,
+el nombre del texto en la app y su título, en español y en inglés:
+
+| Tipo | Lecturas | Nombre del texto | Título |
+| --- | ---: | --- | --- |
+| Poema | 110 | el título del poema | el título del poema |
+| Texto completo | 17 | su título (cuento, fábula, salmo, poema en prosa) | su título |
+| Fragmento | 139 | el título de la app | el libro, la obra o el relato de donde viene |
+| Carta | 12 | el título de la app | la carta o el epistolario |
+
+Así, «Ser o no ser» es un fragmento de *Hamlet*, «Dante encuentra a Virgilio»
+de *La Divina Comedia* y «Entro en las antiguas cortes» de la *Carta a Francesco
+Vettori*. Las imágenes que se comparten firman con el título. Los poemas que
+aparecían con un título que no era el suyo lo recuperan: *Proverbios y
+cantares, XXIX* (Machado), *El guardador de rebaños, II* (Pessoa), *Odas, I, 11*
+(Horacio), *Salmo 117* y, en inglés, *I grow a white rose* (Martí). Los poemas sin
+título se nombran por sus primeras palabras, como *¿Qué es poesía?* (Bécquer).
+`scripts/validate-reading-titles.cjs` comprueba que ninguna lectura quede sin
+registro y que poemas y fragmentos sigan esa regla.

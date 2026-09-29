@@ -316,7 +316,7 @@
   function setText() {
     const w = state.work;
     state.text = state.selection || readingText(w, style.source);
-    const title = typeof titleOf === 'function' ? titleOf(w) : w.title;
+    const title = typeof bookTitleOf === 'function' ? bookTitleOf(w) : typeof titleOf === 'function' ? titleOf(w) : w.title;
     const tr = state.selection ? translatorCredit(w, 'translation') : translatorCredit(w, style.source);
     state.attribution = `— ${w.author.split(' · ')[0]}\n${title}${tr ? ' · ' + tr : ''}`;
   }
