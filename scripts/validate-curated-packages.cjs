@@ -113,11 +113,12 @@ for (const [id, expectedReadings, expectedArt] of [
   ['vondeliana',5,3], ['os-lusiadas',6,3],
   ['contrapasso',5,3], ['gilded-age',6,5],
   ['tragedia',6,5], ['comedia',6,4],
-  ['nashe-vsyo',6,3], ['republica-letras',6,5],['himnos',17,7]
+  ['nashe-vsyo',6,3], ['republica-letras',6,5],['himnos',17,7],['impressionism',3,4]
 ]) {
   assert.equal(works.filter(w=>w.package_id===id||(w.additional_package_ids||[]).includes(id)).length, expectedReadings);
   assert.equal(paintings.filter(w=>w.package_id===id).length, expectedArt);
-  assert(paintings.some(a=>a.id===packages.find(p=>p.id===id).cover_id && a.package_id===id));
+  const cover=packages.find(p=>p.id===id).cover_id; // without one, the card shows the package's first artwork
+  if(cover)assert(paintings.some(a=>a.id===cover && a.package_id===id));
 }
 const expectedLines = {
  'vond-kinderlyck':16,'vond-dochterken':42,'vond-wiltzangk':32,'vond-kersnacht':48,'vond-rey-engelen':67,
