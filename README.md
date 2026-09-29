@@ -363,3 +363,20 @@ bloques cubran todas las filas sin huecos.
 ```sh
 node scripts/validate-official.cjs
 ```
+
+## Compartir como imagen
+
+En el libro, junto a «Guardar», hay un botón discreto «Compartir». Abre un
+editor que pone la lectura entera sobre una de las pinturas del museo; si antes
+se selecciona un pasaje del libro, el botón pasa a «Compartir selección» y solo
+se usa ese pasaje (de la columna donde empezó la selección, sin las glosas). En
+el editor se elige la pintura (primero las relacionadas con la lectura), el
+formato (cuadrado, vertical, historia u horizontal), la letra, el tamaño, la
+alineación, la cursiva y el color, el marco (filete, doble, esquinas,
+paspartú o banda), el velo, el desenfoque y el encuadre del fondo, y si se
+muestran el autor, el crédito de la pintura y la marca. La imagen se guarda en
+PNG o se comparte o copia donde el navegador lo permite. El texto se ajusta al
+espacio; los versos se mantienen enteros cuando caben y, si un texto largo no
+cabe con letra legible, se corta y el editor lo avisa. `app/share.js` y
+`app/share.css` contienen el editor; las letras se cargan de Google Fonts al
+abrirlo y el estilo elegido se recuerda en el navegador.
