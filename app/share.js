@@ -82,10 +82,17 @@
   }
 
   // ---- paintings ------------------------------------------------------------------------
+  // A reading from a package opens on that package's artworks (the ones tied to the reading first);
+  // readings of the base collection, which belong to no package, start from any painting.
   function availablePaintings(w) {
     if (typeof paintings === 'undefined') return [];
     const list = paintings.filter(p => p.image && !broken.has(p.id) && (typeof isEnabled === 'undefined' || isEnabled(p)));
-    const rank = p => (p.related_reading_ids || []).includes(w.id) ? 0 : p.package_id === w.package_id ? 1 : 2;
+    const own = [w.package_id, ...(w.additional_package_ids || [])].filter(id => id && id !== 'mvp');
+    if (!own.length) {
+      for (let i = list.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [list[i], list[j]] = [list[j], list[i]]; }
+      return list;
+    }
+    const rank = p => (p.related_reading_ids || []).includes(w.id) ? 0 : own.includes(p.package_id) ? 1 : 2;
     return list.map((p, i) => [p, i]).sort((a, b) => rank(a[0]) - rank(b[0]) || a[1] - b[1]).map(x => x[0]);
   }
   const paintTitle = p => (lang === 'es' ? p.title_es : p.title_en) || p.title_en || p.title_es || '';
@@ -340,7 +347,14 @@
     if (!t || !state) return;
     if (t.matches('[data-share-close]')) return e.currentTarget.close();
     if (t.dataset.painting) return pickPainting(t.dataset.painting);
-    if (t.matches('[data-share-random]')) { const others = state.paintings.filter(p => p.id !== state.paintingId); if (others.length) pickPainting(others[Math.floor(Math.random() * others.length)].id); return; }
+    if (t.matches('[data-share-random]')) {
+      const list = state.paintings.filter(p => p.id !== state.paintingId);
+      for (let i = list.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [list[i], list[j]] = [list[j], list[i]]; }
+      const current = state.paintings.find(p => p.id === state.paintingId);
+      state.paintings = current ? [...list, current] : list;
+      if (list.length) { state.paintingId = list[0].id; refreshThumbs(); draw(); }
+      return;
+    }
     if (t.dataset.font) { style.font = t.dataset.font; t.parentNode.querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String(b === t))); saveStyle(); return draw(); }
     const group = t.closest('[data-style]');
     if (group) {

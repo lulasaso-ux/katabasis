@@ -370,7 +370,10 @@ En el libro, junto a «Guardar», hay un botón discreto «Compartir». Abre un
 editor que pone la lectura entera sobre una de las pinturas del museo; si antes
 se selecciona un pasaje del libro, el botón pasa a «Compartir selección» y solo
 se usa ese pasaje (de la columna donde empezó la selección, sin las glosas). En
-el editor se elige la pintura (primero las relacionadas con la lectura), el
+el editor se elige la pintura: una lectura de un paquete abre con las obras
+de su paquete (antes las ligadas a esa lectura) y solo «Otra al azar» mezcla
+todo el museo; las lecturas de la colección base, sin paquete, abren con
+cualquier pintura. Luego se eligen el
 formato (cuadrado, vertical, historia u horizontal), la letra, el tamaño, la
 alineación, la cursiva y el color, el marco (filete, doble, esquinas,
 paspartú o banda), el velo, el desenfoque y el encuadre del fondo, y si se
