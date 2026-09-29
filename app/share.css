@@ -38,3 +38,9 @@
   .share-stage canvas{max-height:44dvh}
   .share-controls{border-left:0;border-top:1px solid var(--line)}
 }
+.share-float{position:absolute;left:50%;bottom:84px;transform:translateX(-50%);z-index:5;display:inline-flex;align-items:center;gap:8px;padding:11px 18px;border:1px solid #a67532;border-radius:999px;background:#fbf1df;color:#7a4f18;font:600 14px/1 var(--sans);box-shadow:0 6px 22px #2b1b1240;cursor:pointer;min-height:44px;white-space:nowrap}
+.share-float[hidden]{display:none}
+.share-float svg{width:17px;height:17px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+@media (max-width:730px){.share-float{bottom:92px}}
+.share-filter{display:grid;grid-template-columns:auto 1fr;align-items:center;gap:8px;margin:0 0 10px;font:13px var(--sans);color:var(--ink)}
+.share-filter select{width:100%;min-width:0;padding:8px 10px;border:1px solid #d6c7b4;border-radius:4px;background:var(--paper);color:var(--ink);font:14px var(--sans)}

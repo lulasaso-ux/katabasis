@@ -428,11 +428,17 @@ node scripts/validate-official.cjs
 En el libro, junto a «Guardar», hay un botón discreto «Compartir». Abre un
 editor que pone la lectura entera sobre una de las pinturas del museo; si antes
 se selecciona un pasaje del libro, el botón pasa a «Compartir selección» y solo
-se usa ese pasaje (de la columna donde empezó la selección, sin las glosas). En
+se usa ese pasaje (de la columna donde empezó la selección, sin las glosas). Mientras hay
+una selección aparece también, abajo, un botón flotante «Compartir selección»,
+también en la lectura sencilla; la selección se conserva aunque un toque la
+deshaga en el celular, hasta que se vuelve a tocar el texto o se cambia de
+lectura. En
 el editor se elige la pintura: una lectura de un paquete abre con las obras
 de su paquete (antes las ligadas a esa lectura) y solo «Otra al azar» mezcla
 todo el museo; las lecturas de la colección base, sin paquete, abren con
-cualquier pintura. Luego se eligen el
+cualquier pintura. Un menú «Paquete» sobre las miniaturas limita la
+elección a las pinturas de un paquete (o de la antología original); con un
+paquete elegido, «Otra al azar» sortea solo entre ellas. Luego se eligen el
 formato (cuadrado, vertical, historia u horizontal), la letra, el tamaño, la
 alineación, la cursiva y el color, el marco (filete, doble, esquinas,
 paspartú o banda), el velo, el desenfoque y el encuadre del fondo, y si se
