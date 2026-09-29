@@ -2330,6 +2330,236 @@
       },
       "source": "https://www.wikidata.org/wiki/Q9068",
       "checked": "2026-09-24"
+    },
+    {
+      "author": "Rouget de Lisle",
+      "birth": {
+        "min": 1760,
+        "max": 1760,
+        "approximate": false
+      },
+      "death": {
+        "min": 1836,
+        "max": 1836,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q207660",
+      "checked": "2026-09-29"
+    },
+    {
+      "author": "Goffredo Mameli",
+      "birth": {
+        "min": 1827,
+        "max": 1827,
+        "approximate": false
+      },
+      "death": {
+        "min": 1849,
+        "max": 1849,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q721738",
+      "checked": "2026-09-29"
+    },
+    {
+      "author": "August Heinrich Hoffmann von Fallersleben",
+      "birth": {
+        "min": 1798,
+        "max": 1798,
+        "approximate": false
+      },
+      "death": {
+        "min": 1874,
+        "max": 1874,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q76938",
+      "checked": "2026-09-29"
+    },
+    {
+      "author": "Józef Wybicki",
+      "birth": {
+        "min": 1747,
+        "max": 1747,
+        "approximate": false
+      },
+      "death": {
+        "min": 1822,
+        "max": 1822,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q370069",
+      "checked": "2026-09-29"
+    },
+    {
+      "author": "Ferenc Kölcsey",
+      "birth": {
+        "min": 1790,
+        "max": 1790,
+        "approximate": false
+      },
+      "death": {
+        "min": 1838,
+        "max": 1838,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q440057",
+      "checked": "2026-09-29"
+    },
+    {
+      "author": "Evan James",
+      "birth": {
+        "min": 1809,
+        "max": 1809,
+        "approximate": false
+      },
+      "death": {
+        "min": 1878,
+        "max": 1878,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q3061325",
+      "checked": "2026-09-29"
+    },
+    {
+      "author": "Anonymous · the Wilhelmus poet",
+      "note_es": "Autor desconocido de hacia 1570; la atribución tradicional a Philips de Marnix (1540–1598) no está probada.",
+      "note_en": "Unknown author of about 1570; the traditional attribution to Philips of Marnix (1540–1598) is unproven."
+    },
+    {
+      "author": "Henrique Lopes de Mendonça",
+      "birth": {
+        "min": 1856,
+        "max": 1856,
+        "approximate": false
+      },
+      "death": {
+        "min": 1931,
+        "max": 1931,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1390495",
+      "checked": "2026-09-29"
+    },
+    {
+      "author": "Francis Scott Key",
+      "birth": {
+        "min": 1779,
+        "max": 1779,
+        "approximate": false
+      },
+      "death": {
+        "min": 1843,
+        "max": 1843,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q320633",
+      "checked": "2026-09-29"
+    },
+    {
+      "author": "Rafael Núñez",
+      "birth": {
+        "min": 1825,
+        "max": 1825,
+        "approximate": false
+      },
+      "death": {
+        "min": 1894,
+        "max": 1894,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q683532",
+      "checked": "2026-09-29"
+    },
+    {
+      "author": "Francisco González Bocanegra",
+      "birth": {
+        "min": 1824,
+        "max": 1824,
+        "approximate": false
+      },
+      "death": {
+        "min": 1861,
+        "max": 1861,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1051533",
+      "checked": "2026-09-29"
+    },
+    {
+      "author": "Vicente López y Planes",
+      "birth": {
+        "min": 1784,
+        "max": 1785,
+        "approximate": true
+      },
+      "death": {
+        "min": 1856,
+        "max": 1856,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q441072",
+      "checked": "2026-09-29"
+    },
+    {
+      "author": "Eusebio Lillo",
+      "birth": {
+        "min": 1826,
+        "max": 1826,
+        "approximate": false
+      },
+      "death": {
+        "min": 1910,
+        "max": 1910,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q8846555",
+      "checked": "2026-09-29"
+    },
+    {
+      "author": "Perucho Figueredo",
+      "birth": {
+        "min": 1818,
+        "max": 1819,
+        "approximate": true
+      },
+      "death": {
+        "min": 1870,
+        "max": 1870,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1349561",
+      "checked": "2026-09-29"
+    },
+    {
+      "author": "Osório Duque-Estrada",
+      "birth": {
+        "min": 1870,
+        "max": 1870,
+        "approximate": false
+      },
+      "death": {
+        "min": 1927,
+        "max": 1927,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1797260",
+      "checked": "2026-09-29"
+    },
+    {
+      "author": "Adolphe-Basile Routhier",
+      "birth": {
+        "min": 1839,
+        "max": 1839,
+        "approximate": false
+      },
+      "death": {
+        "min": 1920,
+        "max": 1920,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q2824752",
+      "checked": "2026-09-29"
     }
   ]
 }
