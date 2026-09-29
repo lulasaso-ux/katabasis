@@ -1,0 +1,1951 @@
+{
+ "note": "For every reading: its type (poem, complete, fragment, letter), the name the app gives the text, and its title — the poem’s own title, or the book, story or letter a fragment comes from. Shared images show the title.",
+ "readings": {
+  "becquer-21": {
+   "type": "poem",
+   "name_es": "¿Qué es poesía?",
+   "name_en": "What is poetry?",
+   "title_es": "¿Qué es poesía?",
+   "title_en": "What is poetry?"
+  },
+  "dario-fatal": {
+   "type": "poem",
+   "name_es": "Lo fatal",
+   "name_en": "The fatal thing",
+   "title_es": "Lo fatal",
+   "title_en": "The fatal thing"
+  },
+  "petofi": {
+   "type": "poem",
+   "name_es": "¡Libertad, amor!",
+   "name_en": "Freedom, love!",
+   "title_es": "¡Libertad, amor!",
+   "title_en": "Freedom, love!"
+  },
+  "dickinson-hope": {
+   "type": "poem",
+   "name_es": "La esperanza tiene plumas",
+   "name_en": "“Hope” is the thing with feathers",
+   "title_es": "La esperanza tiene plumas",
+   "title_en": "“Hope” is the thing with feathers"
+  },
+  "goethe-night": {
+   "type": "poem",
+   "name_es": "Canción nocturna del caminante",
+   "name_en": "A wanderer’s night song",
+   "title_es": "Canción nocturna del caminante",
+   "title_en": "A wanderer’s night song"
+  },
+  "pushkin-loved": {
+   "type": "poem",
+   "name_es": "Yo te amé",
+   "name_en": "I loved you",
+   "title_es": "Yo te amé",
+   "title_en": "I loved you"
+  },
+  "mccrae": {
+   "type": "poem",
+   "name_es": "En los campos de Flandes",
+   "name_en": "In Flanders Fields",
+   "title_es": "En los campos de Flandes",
+   "title_en": "In Flanders Fields"
+  },
+  "gordon": {
+   "type": "fragment",
+   "name_es": "Dos cosas",
+   "name_en": "Two things",
+   "title_es": "Ye Wearie Wayfarer",
+   "title_en": "Ye Wearie Wayfarer"
+  },
+  "machado": {
+   "type": "poem",
+   "name_es": "Proverbios y cantares, XXIX",
+   "name_en": "Proverbs and Songs, XXIX",
+   "title_es": "Proverbios y cantares, XXIX",
+   "title_en": "Proverbs and Songs, XXIX"
+  },
+  "blake-rose": {
+   "type": "poem",
+   "name_es": "La rosa enferma",
+   "name_en": "The Sick Rose",
+   "title_es": "La rosa enferma",
+   "title_en": "The Sick Rose"
+  },
+  "rossetti": {
+   "type": "poem",
+   "name_es": "Recuérdame",
+   "name_en": "Remember",
+   "title_es": "Recuérdame",
+   "title_en": "Remember"
+  },
+  "pessoa-look": {
+   "type": "poem",
+   "name_es": "El guardador de rebaños, II",
+   "name_en": "The Keeper of Sheep, II",
+   "title_es": "El guardador de rebaños, II",
+   "title_en": "The Keeper of Sheep, II"
+  },
+  "kafka-fable": {
+   "type": "complete",
+   "name_es": "Deseo de ser un indio",
+   "name_en": "Wishing to be an Indian",
+   "title_es": "Deseo de ser un indio",
+   "title_en": "Wishing to be an Indian"
+  },
+  "homer-cyclops": {
+   "type": "fragment",
+   "name_es": "El engaño de «Nadie»",
+   "name_en": "The deception of “Nobody”",
+   "title_es": "Odisea",
+   "title_en": "Odyssey"
+  },
+  "rizal": {
+   "type": "poem",
+   "name_es": "Mi último adiós",
+   "name_en": "My last farewell",
+   "title_es": "Mi último adiós",
+   "title_en": "My last farewell"
+  },
+  "catullus": {
+   "type": "poem",
+   "name_es": "Odio y amo",
+   "name_en": "I hate and I love",
+   "title_es": "Odio y amo",
+   "title_en": "I hate and I love"
+  },
+  "augustine": {
+   "type": "fragment",
+   "name_es": "El corazón inquieto",
+   "name_en": "The restless heart",
+   "title_es": "Confesiones",
+   "title_en": "Confessions"
+  },
+  "horace": {
+   "type": "poem",
+   "name_es": "Odas, I, 11",
+   "name_en": "Odes, I.11",
+   "title_es": "Odas, I, 11",
+   "title_en": "Odes, I.11"
+  },
+  "teresa": {
+   "type": "poem",
+   "name_es": "Nada te turbe",
+   "name_en": "Let nothing disturb you",
+   "title_es": "Nada te turbe",
+   "title_en": "Let nothing disturb you"
+  },
+  "marti": {
+   "type": "poem",
+   "name_es": "Cultivo una rosa blanca",
+   "name_en": "I grow a white rose",
+   "title_es": "Cultivo una rosa blanca",
+   "title_en": "I grow a white rose"
+  },
+  "nervo": {
+   "type": "poem",
+   "name_es": "En paz",
+   "name_en": "At peace",
+   "title_es": "En paz",
+   "title_en": "At peace"
+  },
+  "luke-blind": {
+   "type": "fragment",
+   "name_es": "La astilla y la viga",
+   "name_en": "The splinter and the beam",
+   "title_es": "Evangelio según san Lucas",
+   "title_en": "The Gospel according to Luke"
+  },
+  "psalm117": {
+   "type": "complete",
+   "name_es": "Salmo 117",
+   "name_en": "Psalm 117",
+   "title_es": "Salmo 117",
+   "title_en": "Psalm 117"
+  },
+  "dante": {
+   "type": "fragment",
+   "name_es": "Dante encuentra a Virgilio",
+   "name_en": "Dante meets Virgil",
+   "title_es": "La Divina Comedia",
+   "title_en": "The Divine Comedy"
+  },
+  "leopardi": {
+   "type": "poem",
+   "name_es": "El infinito",
+   "name_en": "The infinite",
+   "title_es": "El infinito",
+   "title_en": "The infinite"
+  },
+  "dutt": {
+   "type": "poem",
+   "name_es": "Nuestra casuarina",
+   "name_en": "Our Casuarina Tree",
+   "title_es": "Nuestra casuarina",
+   "title_en": "Our Casuarina Tree"
+  },
+  "shakespeare18": {
+   "type": "poem",
+   "name_es": "¿He de compararte con un día de verano?",
+   "name_en": "Shall I compare thee?",
+   "title_es": "¿He de compararte con un día de verano?",
+   "title_en": "Shall I compare thee?"
+  },
+  "dostoevsky": {
+   "type": "fragment",
+   "name_es": "Un comienzo rencoroso",
+   "name_en": "A spiteful beginning",
+   "title_es": "Apuntes del subsuelo",
+   "title_en": "Notes from Underground"
+  },
+  "wilde-artist": {
+   "type": "complete",
+   "name_es": "El artista",
+   "name_en": "The Artist",
+   "title_es": "El artista",
+   "title_en": "The Artist"
+  },
+  "wilde-disciple": {
+   "type": "complete",
+   "name_es": "El discípulo",
+   "name_en": "The Disciple",
+   "title_es": "El discípulo",
+   "title_en": "The Disciple"
+  },
+  "eminescu": {
+   "type": "poem",
+   "name_es": "Pajarillos soñolientos",
+   "name_en": "Sleepy little birds",
+   "title_es": "Pajarillos soñolientos",
+   "title_en": "Sleepy little birds"
+  },
+  "mickiewicz": {
+   "type": "poem",
+   "name_es": "Incertidumbre",
+   "name_en": "Uncertainty",
+   "title_es": "Incertidumbre",
+   "title_en": "Uncertainty"
+  },
+  "balagtas": {
+   "type": "fragment",
+   "name_es": "Dentro y fuera de mi patria",
+   "name_en": "Within and beyond my country",
+   "title_es": "Florante at Laura",
+   "title_en": "Florante at Laura"
+  },
+  "hernandez": {
+   "type": "fragment",
+   "name_es": "Aquí me pongo a cantar",
+   "name_en": "Here I begin to sing",
+   "title_es": "Martín Fierro",
+   "title_en": "Martín Fierro"
+  },
+  "dias": {
+   "type": "poem",
+   "name_es": "Canción del exilio",
+   "name_en": "Song of exile",
+   "title_es": "Canción del exilio",
+   "title_en": "Song of exile"
+  },
+  "justinian": {
+   "type": "fragment",
+   "name_es": "No abrumar al principiante",
+   "name_en": "Do not overwhelm the beginner",
+   "title_es": "Instituciones de Justiniano",
+   "title_en": "Justinian’s Institutes"
+  },
+  "epictetus": {
+   "type": "fragment",
+   "name_es": "Lo que sucede",
+   "name_en": "What happens",
+   "title_es": "Manual (Enquiridión)",
+   "title_en": "Enchiridion"
+  },
+  "sorjuana": {
+   "type": "poem",
+   "name_es": "Hombres necios",
+   "name_en": "You foolish men",
+   "title_es": "Hombres necios",
+   "title_en": "You foolish men"
+  },
+  "pombo": {
+   "type": "poem",
+   "name_es": "El renacuajo paseador",
+   "name_en": "The little wandering tadpole",
+   "title_es": "El renacuajo paseador",
+   "title_en": "The little wandering tadpole"
+  },
+  "lafontaine": {
+   "type": "complete",
+   "name_es": "El cuervo y el zorro",
+   "name_en": "The Crow and the Fox",
+   "title_es": "El cuervo y el zorro",
+   "title_en": "The Crow and the Fox"
+  },
+  "rimbaud": {
+   "type": "poem",
+   "name_es": "Sensación",
+   "name_en": "Sensation",
+   "title_es": "Sensación",
+   "title_en": "Sensation"
+  },
+  "verlaine": {
+   "type": "poem",
+   "name_es": "Canción de otoño",
+   "name_en": "Autumn song",
+   "title_es": "Canción de otoño",
+   "title_en": "Autumn song"
+  },
+  "long-heart": {
+   "type": "fragment",
+   "name_es": "El corazón delator · la confesión",
+   "name_en": "The Tell-Tale Heart · the confession",
+   "title_es": "El corazón delator",
+   "title_en": "The Tell-Tale Heart"
+  },
+  "long-portrait": {
+   "type": "complete",
+   "name_es": "El retrato oval",
+   "name_en": "The Oval Portrait",
+   "title_es": "El retrato oval",
+   "title_en": "The Oval Portrait"
+  },
+  "long-hour": {
+   "type": "complete",
+   "name_es": "La historia de una hora",
+   "name_en": "The Story of an Hour",
+   "title_es": "La historia de una hora",
+   "title_en": "The Story of an Hour"
+  },
+  "long-pillow": {
+   "type": "complete",
+   "name_es": "El almohadón de pluma",
+   "name_en": "The Feather Pillow",
+   "title_es": "El almohadón de pluma",
+   "title_en": "The Feather Pillow"
+  },
+  "long-adrift": {
+   "type": "complete",
+   "name_es": "A la deriva",
+   "name_en": "Adrift",
+   "title_es": "A la deriva",
+   "title_en": "Adrift"
+  },
+  "long-lace": {
+   "type": "complete",
+   "name_es": "El encaje roto",
+   "name_en": "The Torn Lace",
+   "title_es": "El encaje roto",
+   "title_en": "The Torn Lace"
+  },
+  "long-owl": {
+   "type": "fragment",
+   "name_es": "El puente de Owl Creek · el regreso a casa",
+   "name_en": "Owl Creek Bridge · the way home",
+   "title_es": "Un suceso en el puente de Owl Creek",
+   "title_en": "An Occurrence at Owl Creek Bridge"
+  },
+  "long-bohemia": {
+   "type": "fragment",
+   "name_es": "Escándalo en Bohemia · el visitante enmascarado",
+   "name_en": "A Scandal in Bohemia · the masked visitor",
+   "title_es": "Escándalo en Bohemia",
+   "title_en": "A Scandal in Bohemia"
+  },
+  "long-happened": {
+   "type": "complete",
+   "name_es": "Cómo ocurrió",
+   "name_en": "How It Happened",
+   "title_es": "Cómo ocurrió",
+   "title_en": "How It Happened"
+  },
+  "pkg-caribbean-marti": {
+   "type": "poem",
+   "name_es": "Yo soy un hombre sincero",
+   "name_en": "I am a sincere man",
+   "title_es": "Yo soy un hombre sincero",
+   "title_en": "I am a sincere man"
+  },
+  "pkg-caribbean-lola": {
+   "type": "poem",
+   "name_es": "A Cuba",
+   "name_en": "To Cuba",
+   "title_es": "A Cuba",
+   "title_en": "To Cuba"
+  },
+  "pkg-caribbean-salome": {
+   "type": "poem",
+   "name_es": "Ruinas",
+   "name_en": "Ruins",
+   "title_es": "Ruinas",
+   "title_en": "Ruins"
+  },
+  "pkg-caribbean-durand": {
+   "type": "poem",
+   "name_es": "Choucoune",
+   "name_en": "Choucoune",
+   "title_es": "Choucoune",
+   "title_en": "Choucoune"
+  },
+  "pkg-figaro-barber": {
+   "type": "fragment",
+   "name_es": "Fígaro se reencuentra con el conde",
+   "name_en": "Figaro meets the Count again",
+   "title_es": "El barbero de Sevilla",
+   "title_en": "The Barber of Seville"
+  },
+  "pkg-figaro-marriage": {
+   "type": "fragment",
+   "name_es": "Fígaro desafía los privilegios",
+   "name_en": "Figaro challenges privilege",
+   "title_es": "Las bodas de Fígaro",
+   "title_en": "The Marriage of Figaro"
+  },
+  "pkg-figaro-mother": {
+   "type": "fragment",
+   "name_es": "La familia perdona y se reúne",
+   "name_en": "The family forgives and reunites",
+   "title_es": "La madre culpable",
+   "title_en": "The Guilty Mother"
+  },
+  "pkg-marcus-dawn": {
+   "type": "fragment",
+   "name_es": "Al comenzar el día",
+   "name_en": "At the start of the day",
+   "title_es": "Meditaciones",
+   "title_en": "Meditations"
+  },
+  "pkg-marcus-retreat": {
+   "type": "fragment",
+   "name_es": "El retiro interior",
+   "name_en": "The inward retreat",
+   "title_es": "Meditaciones",
+   "title_en": "Meditations"
+  },
+  "pkg-epictetus-control": {
+   "type": "fragment",
+   "name_es": "Lo que depende de nosotros",
+   "name_en": "What depends on us",
+   "title_es": "Manual (Enquiridión)",
+   "title_en": "Enchiridion"
+  },
+  "pkg-seneca-time": {
+   "type": "fragment",
+   "name_es": "Recuperar el tiempo",
+   "name_en": "Reclaiming time",
+   "title_es": "Cartas a Lucilio",
+   "title_en": "Letters to Lucilius"
+  },
+  "pkg-solomos-xanthoula": {
+   "type": "poem",
+   "name_es": "La muchacha rubia",
+   "name_en": "Xanthoula",
+   "title_es": "La muchacha rubia",
+   "title_en": "Xanthoula"
+  },
+  "pkg-palamas-olympic": {
+   "type": "poem",
+   "name_es": "Himno olímpico",
+   "name_en": "Olympic Hymn",
+   "title_es": "Himno olímpico",
+   "title_en": "Olympic Hymn"
+  },
+  "pkg-karyotakis-preveza": {
+   "type": "poem",
+   "name_es": "Préveza",
+   "name_en": "Preveza",
+   "title_es": "Préveza",
+   "title_en": "Preveza"
+  },
+  "pkg-papadiamantis-seal": {
+   "type": "complete",
+   "name_es": "El lamento de la foca",
+   "name_en": "The seal’s lament",
+   "title_es": "El lamento de la foca",
+   "title_en": "The seal’s lament"
+  },
+  "pkg-kebra-wisdom": {
+   "type": "fragment",
+   "name_es": "La sed de sabiduría",
+   "name_en": "The thirst for wisdom",
+   "title_es": "Kebra Nagast",
+   "title_en": "Kebra Nagast"
+  },
+  "pkg-kebra-worker": {
+   "type": "fragment",
+   "name_es": "El rey y el trabajador",
+   "name_en": "The king and the worker",
+   "title_es": "Kebra Nagast",
+   "title_en": "Kebra Nagast"
+  },
+  "pkg-dutt-baugmaree": {
+   "type": "poem",
+   "name_es": "Baugmaree",
+   "name_en": "Baugmaree",
+   "title_es": "Baugmaree",
+   "title_en": "Baugmaree"
+  },
+  "pkg-uchimura-preface": {
+   "type": "fragment",
+   "name_es": "No me convertí en un día",
+   "name_en": "I was not converted in a day",
+   "title_es": "Diario de un converso japonés",
+   "title_en": "The Diary of a Japanese Convert"
+  },
+  "pkg-xu-peanuts": {
+   "type": "complete",
+   "name_es": "Los cacahuetes",
+   "name_en": "Peanuts",
+   "title_es": "Los cacahuetes",
+   "title_en": "Peanuts"
+  },
+  "pkg-ramabai-self-reliance": {
+   "type": "fragment",
+   "name_es": "Aprender a valerse por una misma",
+   "name_en": "Learning to stand on one’s own",
+   "title_es": "La mujer hindú de alta casta",
+   "title_en": "The High-Caste Hindu Woman"
+  },
+  "pkg-romantic-eichendorff": {
+   "type": "poem",
+   "name_es": "Noche de luna",
+   "name_en": "Moonlit night",
+   "title_es": "Noche de luna",
+   "title_en": "Moonlit night"
+  },
+  "pkg-romantic-novalis": {
+   "type": "poem",
+   "name_es": "Himnos a la noche · III",
+   "name_en": "Hymns to the Night · III",
+   "title_es": "Himnos a la noche · III",
+   "title_en": "Hymns to the Night · III"
+  },
+  "pkg-romantic-brentano": {
+   "type": "poem",
+   "name_es": "Lore Lay",
+   "name_en": "Lore Lay",
+   "title_es": "Lore Lay",
+   "title_en": "Lore Lay"
+  },
+  "pkg-romantic-hoffmann": {
+   "type": "fragment",
+   "name_es": "Nathanael descubre qué es Olimpia",
+   "name_en": "Nathanael discovers what Olimpia is",
+   "title_es": "El hombre de arena",
+   "title_en": "The Sandman"
+  },
+  "pkg-beowulf-grendel": {
+   "type": "fragment",
+   "name_es": "La derrota de Grendel",
+   "name_en": "The defeat of Grendel",
+   "title_es": "Beowulf",
+   "title_en": "Beowulf"
+  },
+  "pkg-beowulf-depths": {
+   "type": "fragment",
+   "name_es": "La lucha con la madre de Grendel",
+   "name_en": "The fight with Grendel’s mother",
+   "title_es": "Beowulf",
+   "title_en": "Beowulf"
+  },
+  "pkg-beowulf-last": {
+   "type": "fragment",
+   "name_es": "La muerte de Beowulf",
+   "name_en": "The death of Beowulf",
+   "title_es": "Beowulf",
+   "title_en": "Beowulf"
+  },
+  "pkg-beowulf-funeral": {
+   "type": "fragment",
+   "name_es": "El funeral de Beowulf",
+   "name_en": "The funeral of Beowulf",
+   "title_es": "Beowulf",
+   "title_en": "Beowulf"
+  },
+  "pkg-arthur-sword": {
+   "type": "fragment",
+   "name_es": "Arturo saca la espada de la piedra",
+   "name_en": "Arthur draws the sword from the stone",
+   "title_es": "La muerte de Arturo",
+   "title_en": "Le Morte d’Arthur"
+  },
+  "pkg-arthur-battle": {
+   "type": "fragment",
+   "name_es": "La última batalla de Arturo",
+   "name_en": "Arthur’s last battle",
+   "title_es": "La muerte de Arturo",
+   "title_en": "Le Morte d’Arthur"
+  },
+  "pkg-odyssey-proem": {
+   "type": "fragment",
+   "name_es": "El cautiverio de Odiseo",
+   "name_en": "The captivity of Odysseus",
+   "title_es": "Odisea",
+   "title_en": "Odyssey"
+  },
+  "pkg-odyssey-sirens": {
+   "type": "fragment",
+   "name_es": "Odiseo escucha a las sirenas",
+   "name_en": "Odysseus hears the Sirens",
+   "title_es": "Odisea",
+   "title_en": "Odyssey"
+  },
+  "pkg-odyssey-bow": {
+   "type": "fragment",
+   "name_es": "Odiseo tensa el arco",
+   "name_en": "Odysseus strings the bow",
+   "title_es": "Odisea",
+   "title_en": "Odyssey"
+  },
+  "pkg-odyssey-bed": {
+   "type": "fragment",
+   "name_es": "Penélope reconoce a Odiseo",
+   "name_en": "Penelope recognises Odysseus",
+   "title_es": "Odisea",
+   "title_en": "Odyssey"
+  },
+  "pkg-love-becquer": {
+   "type": "poem",
+   "name_es": "Volverán las oscuras golondrinas",
+   "name_en": "The swallows will return",
+   "title_es": "Volverán las oscuras golondrinas",
+   "title_en": "The swallows will return"
+  },
+  "pkg-love-browning43": {
+   "type": "poem",
+   "name_es": "¿Cómo te amo?",
+   "name_en": "How do I love thee?",
+   "title_es": "¿Cómo te amo?",
+   "title_en": "How do I love thee?"
+  },
+  "pkg-love-donne": {
+   "type": "poem",
+   "name_es": "El buen despertar",
+   "name_en": "The Good-Morrow",
+   "title_es": "El buen despertar",
+   "title_en": "The Good-Morrow"
+  },
+  "pkg-love-labe": {
+   "type": "poem",
+   "name_es": "Vivo, muero",
+   "name_en": "I live, I die",
+   "title_es": "Vivo, muero",
+   "title_en": "I live, I die"
+  },
+  "pkg-beowulf": {
+   "type": "fragment",
+   "name_es": "El funeral de Scyld",
+   "name_en": "The funeral of Scyld",
+   "title_es": "Beowulf",
+   "title_en": "Beowulf"
+  },
+  "pkg-arthur": {
+   "type": "fragment",
+   "name_es": "La devolución de Excalibur",
+   "name_en": "The return of Excalibur",
+   "title_es": "La muerte de Arturo",
+   "title_en": "Le Morte d’Arthur"
+  },
+  "pkg-tain": {
+   "type": "fragment",
+   "name_es": "Cómo Sétanta se convirtió en Cú Chulainn",
+   "name_en": "How Sétanta became Cú Chulainn",
+   "title_es": "Táin Bó Cúailnge",
+   "title_en": "Táin Bó Cúailnge"
+  },
+  "pkg-amleth": {
+   "type": "fragment",
+   "name_es": "La locura fingida de Amleth",
+   "name_en": "Amleth’s feigned madness",
+   "title_es": "Gesta Danorum",
+   "title_en": "Gesta Danorum"
+  },
+  "pkg-mex": {
+   "type": "fragment",
+   "name_es": "Huitzilopochtli y la migración",
+   "name_en": "Huitzilopochtli and the migration",
+   "title_es": "Crónica mexicáyotl",
+   "title_en": "Crónica mexicáyotl"
+  },
+  "pkg-fenrir": {
+   "type": "fragment",
+   "name_es": "La atadura de Fenrir",
+   "name_en": "The binding of Fenrir",
+   "title_es": "Edda prosaica",
+   "title_en": "The Prose Edda"
+  },
+  "pkg-baldr": {
+   "type": "fragment",
+   "name_es": "El camino que baja a Hel",
+   "name_en": "The road down to Hel",
+   "title_es": "Edda prosaica",
+   "title_en": "The Prose Edda"
+  },
+  "pkg-kalevala": {
+   "type": "fragment",
+   "name_es": "El mundo de un huevo roto",
+   "name_en": "The world from a broken egg",
+   "title_es": "Kalevala",
+   "title_en": "Kalevala"
+  },
+  "pkg-moby-ishmael": {
+   "type": "fragment",
+   "name_es": "Ismael busca el mar",
+   "name_en": "Ishmael seeks the sea",
+   "title_es": "Moby Dick",
+   "title_en": "Moby-Dick"
+  },
+  "pkg-moby-oath": {
+   "type": "fragment",
+   "name_es": "El juramento contra la ballena",
+   "name_en": "The oath against the whale",
+   "title_es": "Moby Dick",
+   "title_en": "Moby-Dick"
+  },
+  "pkg-moby-wreck": {
+   "type": "fragment",
+   "name_es": "La muerte de Ahab y el hundimiento del Pequod",
+   "name_en": "The death of Ahab and the sinking of the Pequod",
+   "title_es": "Moby Dick",
+   "title_en": "Moby-Dick"
+  },
+  "pkg-moby-survivor": {
+   "type": "fragment",
+   "name_es": "Ismael sobrevive para contarlo",
+   "name_en": "Ishmael survives to tell the story",
+   "title_es": "Moby Dick",
+   "title_en": "Moby-Dick"
+  },
+  "pkg-comedy-francesca": {
+   "type": "fragment",
+   "name_es": "Dante escucha a Paolo y Francesca",
+   "name_en": "Dante hears Paolo and Francesca",
+   "title_es": "La Divina Comedia",
+   "title_en": "The Divine Comedy"
+  },
+  "pkg-comedy-stars": {
+   "type": "fragment",
+   "name_es": "Dante vuelve a la luz",
+   "name_en": "Dante returns to the light",
+   "title_es": "La Divina Comedia",
+   "title_en": "The Divine Comedy"
+  },
+  "pkg-comedy-beatrice": {
+   "type": "fragment",
+   "name_es": "Beatriz aparece y Virgilio se retira",
+   "name_en": "Beatrice appears and Virgil departs",
+   "title_es": "La Divina Comedia",
+   "title_en": "The Divine Comedy"
+  },
+  "pkg-comedy-vision": {
+   "type": "fragment",
+   "name_es": "Dante contempla la luz divina",
+   "name_en": "Dante beholds the divine light",
+   "title_es": "La Divina Comedia",
+   "title_en": "The Divine Comedy"
+  },
+  "pkg-lum-baptism": {
+   "type": "fragment",
+   "name_es": "El bautismo de Jesús en el Jordán",
+   "name_en": "The Baptism of Jesus in the Jordan",
+   "title_es": "Evangelio según san Mateo",
+   "title_en": "The Gospel according to Matthew"
+  },
+  "pkg-lum-cana": {
+   "type": "fragment",
+   "name_es": "Las bodas de Caná",
+   "name_en": "The wedding at Cana",
+   "title_es": "Evangelio según san Juan",
+   "title_en": "The Gospel according to John"
+  },
+  "pkg-lum-kingdom": {
+   "type": "fragment",
+   "name_es": "El anuncio del Reino y la llamada a la conversión",
+   "name_en": "The proclamation of the Kingdom and the call to conversion",
+   "title_es": "Evangelio según san Marcos",
+   "title_en": "The Gospel according to Mark"
+  },
+  "pkg-lum-transfiguration": {
+   "type": "fragment",
+   "name_es": "La transfiguración",
+   "name_en": "The Transfiguration",
+   "title_es": "Evangelio según san Mateo",
+   "title_en": "The Gospel according to Matthew"
+  },
+  "pkg-lum-eucharist": {
+   "type": "fragment",
+   "name_es": "La institución de la Eucaristía",
+   "name_en": "The institution of the Eucharist",
+   "title_es": "Evangelio según san Mateo",
+   "title_en": "The Gospel according to Matthew"
+  },
+  "pkg-dss-peace": {
+   "type": "fragment",
+   "name_es": "El lobo habita con el cordero",
+   "name_en": "The wolf dwells with the lamb",
+   "title_es": "Libro de Isaías",
+   "title_en": "The Book of Isaiah"
+  },
+  "pkg-dss-desert": {
+   "type": "fragment",
+   "name_es": "El agua brota en el desierto",
+   "name_en": "Water springs in the desert",
+   "title_es": "Libro de Isaías",
+   "title_en": "The Book of Isaiah"
+  },
+  "pkg-dss-council": {
+   "type": "fragment",
+   "name_es": "El consejo de la comunidad",
+   "name_en": "The council of the community",
+   "title_es": "Regla de la Comunidad",
+   "title_en": "The Community Rule"
+  },
+  "pkg-dss-study": {
+   "type": "fragment",
+   "name_es": "La lectura compartida durante la noche",
+   "name_en": "Reading together through the night",
+   "title_es": "Regla de la Comunidad",
+   "title_en": "The Community Rule"
+  },
+  "pkg-nobel-prudhomme": {
+   "type": "poem",
+   "name_es": "El jarrón roto",
+   "name_en": "The broken vase",
+   "title_es": "El jarrón roto",
+   "title_en": "The broken vase"
+  },
+  "pkg-nobel-mommsen": {
+   "type": "fragment",
+   "name_es": "Pirro vence en Heraclea",
+   "name_en": "Pyrrhus wins at Heraclea",
+   "title_es": "Historia de Roma",
+   "title_en": "History of Rome"
+  },
+  "pkg-nobel-bjornson": {
+   "type": "complete",
+   "name_es": "El padre",
+   "name_en": "The father",
+   "title_es": "El padre",
+   "title_en": "The father"
+  },
+  "pkg-nobel-mistral": {
+   "type": "poem",
+   "name_es": "La copa santa",
+   "name_en": "The holy cup",
+   "title_es": "La copa santa",
+   "title_en": "The holy cup"
+  },
+  "pkg-nobel-echegaray": {
+   "type": "fragment",
+   "name_es": "Ernesto ante la página en blanco",
+   "name_en": "Ernesto faces the blank page",
+   "title_es": "El gran Galeoto",
+   "title_en": "The Great Galeoto"
+  },
+  "pkg-hesiod-virtue": {
+   "type": "fragment",
+   "name_es": "El camino escarpado",
+   "name_en": "The steep road",
+   "title_es": "Los trabajos y los días",
+   "title_en": "Works and Days"
+  },
+  "pkg-plato-cave": {
+   "type": "fragment",
+   "name_es": "Los prisioneros de la caverna",
+   "name_en": "Prisoners in the cave",
+   "title_es": "República",
+   "title_en": "Republic"
+  },
+  "pkg-epicurus-death": {
+   "type": "fragment",
+   "name_es": "Cuando la muerte está presente",
+   "name_en": "When death is present",
+   "title_es": "Carta a Meneceo",
+   "title_en": "Letter to Menoeceus"
+  },
+  "pkg-sophocles-ode": {
+   "type": "fragment",
+   "name_es": "Lo asombroso del ser humano",
+   "name_en": "The wonder of humanity",
+   "title_es": "Antígona",
+   "title_en": "Antigone"
+  },
+  "pkg-monet-instant": {
+   "type": "letter",
+   "name_es": "Intentar pintar un instante",
+   "name_en": "Trying to paint an instant",
+   "title_es": "Carta a Gustave Geffroy",
+   "title_en": "Letter to Gustave Geffroy"
+  },
+  "pkg-cezanne-form": {
+   "type": "letter",
+   "name_es": "Cilindro, esfera, cono",
+   "name_en": "Cylinder, sphere, cone",
+   "title_es": "Carta a Émile Bernard",
+   "title_en": "Letter to Émile Bernard"
+  },
+  "pkg-vangogh-bedroom": {
+   "type": "letter",
+   "name_es": "El color como descanso",
+   "name_en": "Colour as rest",
+   "title_es": "Carta a Theo, 705",
+   "title_en": "Letter to Theo, 705"
+  },
+  "pkg-andersen-matches": {
+   "type": "complete",
+   "name_es": "La niña de los fósforos",
+   "name_en": "The little match girl",
+   "title_es": "La niña de los fósforos",
+   "title_en": "The little match girl"
+  },
+  "pkg-strindberg-paper": {
+   "type": "complete",
+   "name_es": "Media hoja de papel",
+   "name_en": "Half a sheet of paper",
+   "title_es": "Media hoja de papel",
+   "title_en": "Half a sheet of paper"
+  },
+  "pkg-ibsen-miner": {
+   "type": "poem",
+   "name_es": "El minero",
+   "name_en": "The miner",
+   "title_es": "El minero",
+   "title_en": "The miner"
+  },
+  "pkg-sodergran-evening": {
+   "type": "poem",
+   "name_es": "El día se enfría…",
+   "name_en": "The day grows cool…",
+   "title_es": "El día se enfría…",
+   "title_en": "The day grows cool…"
+  },
+  "pkg-garcilaso": {
+   "type": "poem",
+   "name_es": "En tanto que de rosa y azucena",
+   "name_en": "While rose and lily bloom",
+   "title_es": "En tanto que de rosa y azucena",
+   "title_en": "While rose and lily bloom"
+  },
+  "pkg-fray": {
+   "type": "poem",
+   "name_es": "Vida retirada",
+   "name_en": "The retired life",
+   "title_es": "Vida retirada",
+   "title_en": "The retired life"
+  },
+  "pkg-cervantes": {
+   "type": "fragment",
+   "name_es": "Los molinos de viento",
+   "name_en": "The windmills",
+   "title_es": "Don Quijote de la Mancha",
+   "title_en": "Don Quixote"
+  },
+  "pkg-calderon": {
+   "type": "fragment",
+   "name_es": "¿Qué es la vida?",
+   "name_en": "What is life?",
+   "title_es": "La vida es sueño",
+   "title_en": "Life Is a Dream"
+  },
+  "pkg-dante": {
+   "type": "poem",
+   "name_es": "Tan noble y tan digna",
+   "name_en": "So noble and so dignified",
+   "title_es": "Tan noble y tan digna",
+   "title_en": "So noble and so dignified"
+  },
+  "pkg-petrarch": {
+   "type": "poem",
+   "name_es": "Los cabellos de oro al viento",
+   "name_en": "Her golden hair upon the breeze",
+   "title_es": "Los cabellos de oro al viento",
+   "title_en": "Her golden hair upon the breeze"
+  },
+  "pkg-cavalcanti": {
+   "type": "poem",
+   "name_es": "¿Quién es esta que viene?",
+   "name_en": "Who is she who comes?",
+   "title_es": "¿Quién es esta que viene?",
+   "title_en": "Who is she who comes?"
+  },
+  "pkg-boccaccio": {
+   "type": "fragment",
+   "name_es": "Un salto entre las tumbas",
+   "name_en": "A leap among the tombs",
+   "title_es": "Decamerón",
+   "title_en": "The Decameron"
+  },
+  "pkg-charles": {
+   "type": "fragment",
+   "name_es": "Nunca ejecutar nada con furia",
+   "name_en": "Never act in anger",
+   "title_es": "Instrucciones de Carlos V a Felipe II",
+   "title_en": "Charles V’s Instructions to Philip II"
+  },
+  "pkg-philip": {
+   "type": "letter",
+   "name_es": "Rosas, dientes y una lima misteriosa",
+   "name_en": "Roses, teeth and a mysterious lime",
+   "title_es": "Carta a sus hijas",
+   "title_en": "Letter to his daughters"
+  },
+  "pkg-theresa": {
+   "type": "letter",
+   "name_es": "Consejos de una madre en la despedida",
+   "name_en": "A mother’s advice at parting",
+   "title_es": "Carta a María Antonieta",
+   "title_en": "Letter to Marie Antoinette"
+  },
+  "pkg-antoinette": {
+   "type": "letter",
+   "name_es": "Un día sin un momento a solas",
+   "name_en": "A day that leaves no time alone",
+   "title_es": "Carta a su madre",
+   "title_en": "Letter to her mother"
+  },
+  "pkg-welsh-watcyn-wyn-englyn": {
+   "type": "poem",
+   "name_es": "Englyn sobre la musa galesa",
+   "name_en": "Englyn on the Welsh muse",
+   "title_es": "Englyn sobre la musa galesa",
+   "title_en": "Englyn on the Welsh muse"
+  },
+  "pkg-welsh-alun-ofyddes": {
+   "type": "poem",
+   "name_es": "A una poetisa",
+   "name_en": "To a poetess",
+   "title_es": "A una poetisa",
+   "title_en": "To a poetess"
+  },
+  "pkg-welsh-goronwy-new-year": {
+   "type": "poem",
+   "name_es": "En Año Nuevo, 1746",
+   "name_en": "On New Year’s Day, 1746",
+   "title_es": "En Año Nuevo, 1746",
+   "title_en": "On New Year’s Day, 1746"
+  },
+  "pkg-welsh-robert-hearing": {
+   "type": "poem",
+   "name_es": "Dos englynion al sentir que el oído se apaga",
+   "name_en": "Two englynion as his hearing grows heavy",
+   "title_es": "Dos englynion al sentir que el oído se apaga",
+   "title_en": "Two englynion as his hearing grows heavy"
+  },
+  "pkg-suspicion-nietzsche-wanderer": {
+   "type": "poem",
+   "name_es": "El caminante",
+   "name_en": "The Wanderer",
+   "title_es": "El caminante",
+   "title_en": "The Wanderer"
+  },
+  "pkg-suspicion-nietzsche-night-song": {
+   "type": "fragment",
+   "name_es": "La canción de la noche",
+   "name_en": "The Night Song",
+   "title_es": "Así habló Zaratustra",
+   "title_en": "Thus Spoke Zarathustra"
+  },
+  "pkg-suspicion-marx-tragedy-farce": {
+   "type": "fragment",
+   "name_es": "Tragedia, luego farsa",
+   "name_en": "Tragedy, then farce",
+   "title_es": "El dieciocho brumario de Luis Bonaparte",
+   "title_en": "The Eighteenth Brumaire of Louis Bonaparte"
+  },
+  "pkg-suspicion-marx-masks": {
+   "type": "fragment",
+   "name_es": "La pesadilla de las generaciones muertas",
+   "name_en": "The nightmare of dead generations",
+   "title_es": "El dieciocho brumario de Luis Bonaparte",
+   "title_en": "The Eighteenth Brumaire of Louis Bonaparte"
+  },
+  "pkg-suspicion-freud-burning-child": {
+   "type": "fragment",
+   "name_es": "Padre, ¿no ves que estoy ardiendo?",
+   "name_en": "Father, don’t you see that I am burning?",
+   "title_es": "La interpretación de los sueños",
+   "title_en": "The Interpretation of Dreams"
+  },
+  "pkg-suspicion-freud-irma": {
+   "type": "fragment",
+   "name_es": "El sueño de la inyección de Irma",
+   "name_en": "The dream of Irma’s injection",
+   "title_es": "La interpretación de los sueños",
+   "title_en": "The Interpretation of Dreams"
+  },
+  "pkg-maudits-corbiere-crapaud": {
+   "type": "poem",
+   "name_es": "El sapo",
+   "name_en": "The Toad",
+   "title_es": "El sapo",
+   "title_en": "The Toad"
+  },
+  "pkg-maudits-corbiere-paysage": {
+   "type": "poem",
+   "name_es": "Paisaje malo",
+   "name_en": "Bad Landscape",
+   "title_es": "Paisaje malo",
+   "title_en": "Bad Landscape"
+  },
+  "pkg-maudits-rimbaud-sensation": {
+   "type": "poem",
+   "name_es": "Sensación",
+   "name_en": "Sensation",
+   "title_es": "Sensación",
+   "title_en": "Sensation"
+  },
+  "pkg-maudits-rimbaud-aube": {
+   "type": "complete",
+   "name_es": "Amanecer",
+   "name_en": "Dawn",
+   "title_es": "Amanecer",
+   "title_en": "Dawn"
+  },
+  "pkg-maudits-mallarme-apparition": {
+   "type": "poem",
+   "name_es": "Aparición",
+   "name_en": "Apparition",
+   "title_es": "Aparición",
+   "title_en": "Apparition"
+  },
+  "pkg-maudits-mallarme-brise": {
+   "type": "poem",
+   "name_es": "Brisa marina",
+   "name_en": "Sea Breeze",
+   "title_es": "Brisa marina",
+   "title_en": "Sea Breeze"
+  },
+  "pkg-maudits-marceline-roses": {
+   "type": "poem",
+   "name_es": "Las rosas de Saadi",
+   "name_en": "The Roses of Saadi",
+   "title_es": "Las rosas de Saadi",
+   "title_en": "The Roses of Saadi"
+  },
+  "pkg-maudits-marceline-winter": {
+   "type": "fragment",
+   "name_es": "Noche de invierno",
+   "name_en": "Winter Night",
+   "title_es": "La noche de invierno",
+   "title_en": "Winter Night"
+  },
+  "pkg-maudits-villiers-antonie": {
+   "type": "fragment",
+   "name_es": "Antonie enciende un cigarrillo",
+   "name_en": "Antonie lights a cigarette",
+   "title_es": "Antonie",
+   "title_en": "Antonie"
+  },
+  "pkg-maudits-villiers-vera": {
+   "type": "fragment",
+   "name_es": "Véra: regreso a la casa del duelo",
+   "name_en": "Véra: return to the house of mourning",
+   "title_es": "Véra",
+   "title_en": "Véra"
+  },
+  "pkg-maudits-verlaine-reve": {
+   "type": "poem",
+   "name_es": "Mi sueño familiar",
+   "name_en": "My Familiar Dream",
+   "title_es": "Mi sueño familiar",
+   "title_en": "My Familiar Dream"
+  },
+  "pkg-maudits-verlaine-colloque": {
+   "type": "poem",
+   "name_es": "Coloquio sentimental",
+   "name_en": "Sentimental Conversation",
+   "title_es": "Coloquio sentimental",
+   "title_en": "Sentimental Conversation"
+  },
+  "pkg-renaissance-tasso-opening": {
+   "type": "fragment",
+   "name_es": "Jerusalén liberada: las armas piadosas",
+   "name_en": "Jerusalem Delivered: the pious arms",
+   "title_es": "Jerusalén liberada",
+   "title_en": "Jerusalem Delivered"
+  },
+  "pkg-renaissance-marlowe-shepherd": {
+   "type": "fragment",
+   "name_es": "El pastor apasionado a su amada",
+   "name_en": "The Passionate Shepherd to His Love",
+   "title_es": "El pastor apasionado a su amada",
+   "title_en": "The Passionate Shepherd to His Love"
+  },
+  "pkg-renaissance-sidney-moon": {
+   "type": "fragment",
+   "name_es": "Con qué tristes pasos, oh Luna",
+   "name_en": "With how sad steps, O Moon",
+   "title_es": "Con qué tristes pasos, oh Luna",
+   "title_en": "With how sad steps, O Moon"
+  },
+  "pkg-renaissance-erasmus-folly": {
+   "type": "fragment",
+   "name_es": "Elogio de la locura: habla la Locura",
+   "name_en": "In Praise of Folly: Folly speaks",
+   "title_es": "Elogio de la locura",
+   "title_en": "The Praise of Folly"
+  },
+  "pkg-renaissance-more-utopia": {
+   "type": "fragment",
+   "name_es": "Utopía: donde domina la propiedad privada",
+   "name_en": "Utopia: where private property rules",
+   "title_es": "Utopía",
+   "title_en": "Utopia"
+  },
+  "pkg-renaissance-castiglione-courtier": {
+   "type": "fragment",
+   "name_es": "El cortesano: el cortesano ideal",
+   "name_en": "The Book of the Courtier: the ideal courtier",
+   "title_es": "El cortesano",
+   "title_en": "The Book of the Courtier"
+  },
+  "pkg-latam-romantic-heredia-teocalli": {
+   "type": "fragment",
+   "name_es": "En el Teocalli de Cholula",
+   "name_en": "At the Teocalli of Cholula",
+   "title_es": "En el Teocalli de Cholula",
+   "title_en": "At the Teocalli of Cholula"
+  },
+  "pkg-latam-romantic-acuna-nocturno": {
+   "type": "fragment",
+   "name_es": "Nocturno a Rosario",
+   "name_en": "Nocturne to Rosario",
+   "title_es": "Nocturno a Rosario",
+   "title_en": "Nocturne to Rosario"
+  },
+  "ren-pico-dignity": {
+   "type": "fragment",
+   "name_es": "La dignidad del hombre",
+   "name_en": "The dignity of man",
+   "title_es": "Discurso sobre la dignidad del hombre",
+   "title_en": "Oration on the Dignity of Man"
+  },
+  "ren-machiavelli-fox-lion": {
+   "type": "fragment",
+   "name_es": "El zorro y el león",
+   "name_en": "The fox and the lion",
+   "title_es": "El príncipe",
+   "title_en": "The Prince"
+  },
+  "ren-ariosto-opening": {
+   "type": "fragment",
+   "name_es": "De damas y caballeros",
+   "name_en": "Of ladies and knights",
+   "title_es": "Orlando furioso",
+   "title_en": "Orlando furioso"
+  },
+  "ren-michelangelo-sonnet": {
+   "type": "poem",
+   "name_es": "El mejor artista",
+   "name_en": "The best artist",
+   "title_es": "El mejor artista",
+   "title_en": "The best artist"
+  },
+  "ren-ronsard-rose": {
+   "type": "poem",
+   "name_es": "Vayamos a ver si la rosa",
+   "name_en": "Let us see if the rose",
+   "title_es": "Vayamos a ver si la rosa",
+   "title_en": "Let us see if the rose"
+  },
+  "ren-dubellay-ulysse": {
+   "type": "poem",
+   "name_es": "Dichoso quien, como Ulises",
+   "name_en": "Happy he who, like Ulysses",
+   "title_es": "Dichoso quien, como Ulises",
+   "title_en": "Happy he who, like Ulysses"
+  },
+  "ren-camoes-fire": {
+   "type": "poem",
+   "name_es": "Amor es fuego",
+   "name_en": "Love is a fire",
+   "title_es": "Amor es fuego",
+   "title_en": "Love is a fire"
+  },
+  "ren-shakespeare-73": {
+   "type": "poem",
+   "name_es": "Esa estación del año",
+   "name_en": "That time of year",
+   "title_es": "Esa estación del año",
+   "title_en": "That time of year"
+  },
+  "ren-wyatt-hunt": {
+   "type": "poem",
+   "name_es": "Quien quiera cazar",
+   "name_en": "Whoso list to hunt",
+   "title_es": "Quien quiera cazar",
+   "title_en": "Whoso list to hunt"
+  },
+  "ren-spenser-name": {
+   "type": "poem",
+   "name_es": "Un día escribí su nombre",
+   "name_en": "One day I wrote her name",
+   "title_es": "Un día escribí su nombre",
+   "title_en": "One day I wrote her name"
+  },
+  "ren-montaigne-cannibals": {
+   "type": "fragment",
+   "name_es": "De los caníbales",
+   "name_en": "On the cannibals",
+   "title_es": "De los caníbales",
+   "title_en": "Of Cannibals"
+  },
+  "ren-san-juan-night": {
+   "type": "poem",
+   "name_es": "Noche oscura",
+   "name_en": "Dark night",
+   "title_es": "Noche oscura",
+   "title_en": "Dark night"
+  },
+  "latrom-isaacs-maria": {
+   "type": "fragment",
+   "name_es": "La primera despedida",
+   "name_en": "The first farewell",
+   "title_es": "María",
+   "title_en": "María"
+  },
+  "latrom-avellaneda-partir": {
+   "type": "poem",
+   "name_es": "Al partir",
+   "name_en": "On leaving",
+   "title_es": "Al partir",
+   "title_en": "On leaving"
+  },
+  "latrom-echeverria-matadero": {
+   "type": "fragment",
+   "name_es": "El matadero",
+   "name_en": "The slaughter yard",
+   "title_es": "El matadero",
+   "title_en": "The Slaughter Yard"
+  },
+  "latrom-mera-cumanda": {
+   "type": "fragment",
+   "name_es": "Las selvas del Oriente",
+   "name_en": "The forests of the East",
+   "title_es": "Cumandá",
+   "title_en": "Cumandá"
+  },
+  "goethezeit-erlkonig": {
+   "type": "poem",
+   "name_es": "El rey de los elfos",
+   "name_en": "The Erl-King",
+   "title_es": "El rey de los elfos",
+   "title_en": "The Erl-King"
+  },
+  "goethezeit-mignon": {
+   "type": "poem",
+   "name_es": "Mignon: ¿Conoces el país?",
+   "name_en": "Mignon: Do you know the land?",
+   "title_es": "Mignon: ¿Conoces el país?",
+   "title_en": "Mignon: Do you know the land?"
+  },
+  "goethezeit-gretchen": {
+   "type": "fragment",
+   "name_es": "Margarita en la rueca",
+   "name_en": "Gretchen at the spinning wheel",
+   "title_es": "Fausto",
+   "title_en": "Faust"
+  },
+  "goethezeit-werther-may": {
+   "type": "fragment",
+   "name_es": "Una serenidad maravillosa",
+   "name_en": "A wonderful serenity",
+   "title_es": "Las penas del joven Werther",
+   "title_en": "The Sorrows of Young Werther"
+  },
+  "quixote-calling": {
+   "type": "fragment",
+   "name_es": "I. Hacerse caballero",
+   "name_en": "I. Becoming a knight",
+   "title_es": "Don Quijote de la Mancha",
+   "title_en": "Don Quixote"
+  },
+  "quixote-galley-slaves": {
+   "type": "fragment",
+   "name_es": "III. La libertad y la fuerza",
+   "name_en": "III. Freedom and force",
+   "title_es": "Don Quijote de la Mancha",
+   "title_en": "Don Quixote"
+  },
+  "quixote-white-moon": {
+   "type": "fragment",
+   "name_es": "IV. La derrota y la fidelidad",
+   "name_en": "IV. Defeat and fidelity",
+   "title_es": "Don Quijote de la Mancha",
+   "title_en": "Don Quixote"
+  },
+  "quixote-death": {
+   "type": "fragment",
+   "name_es": "V. El nombre y la muerte",
+   "name_en": "V. The name and death",
+   "title_es": "Don Quijote de la Mancha",
+   "title_en": "Don Quixote"
+  },
+  "bard-sonnet-116": {
+   "type": "poem",
+   "name_es": "La unión de las almas fieles",
+   "name_en": "The marriage of true minds",
+   "title_es": "La unión de las almas fieles",
+   "title_en": "The marriage of true minds"
+  },
+  "bard-hamlet-being": {
+   "type": "fragment",
+   "name_es": "Ser o no ser",
+   "name_en": "To be, or not to be",
+   "title_es": "Hamlet",
+   "title_en": "Hamlet"
+  },
+  "bard-macbeth-tomorrow": {
+   "type": "fragment",
+   "name_es": "Mañana, y mañana",
+   "name_en": "Tomorrow, and tomorrow",
+   "title_es": "Macbeth",
+   "title_en": "Macbeth"
+  },
+  "bard-tempest-revels": {
+   "type": "fragment",
+   "name_es": "Nuestra fiesta ha terminado",
+   "name_en": "Our revels now are ended",
+   "title_es": "La tempestad",
+   "title_en": "The Tempest"
+  },
+  "cerv-preciosa-freedom": {
+   "type": "fragment",
+   "name_es": "La ley de mi voluntad",
+   "name_en": "A will of her own",
+   "title_es": "La gitanilla",
+   "title_en": "The Little Gypsy Girl"
+  },
+  "cerv-glass-scholar": {
+   "type": "fragment",
+   "name_es": "El hombre de vidrio",
+   "name_en": "The man made of glass",
+   "title_es": "El licenciado Vidriera",
+   "title_en": "The Glass Graduate"
+  },
+  "cerv-rinconete-conscience": {
+   "type": "fragment",
+   "name_es": "La lucidez de Rinconete",
+   "name_en": "Seeing through Monipodio",
+   "title_es": "Rinconete y Cortadillo",
+   "title_en": "Rinconete and Cortadillo"
+  },
+  "cerv-dogs-voices": {
+   "type": "fragment",
+   "name_es": "El don de la palabra",
+   "name_en": "The gift of speech",
+   "title_es": "El coloquio de los perros",
+   "title_en": "The Dialogue of the Dogs"
+  },
+  "wp-austerlitz-sky": {
+   "type": "fragment",
+   "name_es": "I. El cielo de Austerlitz",
+   "name_en": "I. The sky at Austerlitz",
+   "title_es": "Guerra y paz",
+   "title_en": "War and Peace"
+  },
+  "wp-natasha-dance": {
+   "type": "fragment",
+   "name_es": "II. El baile que no se aprende",
+   "name_en": "II. The dance that cannot be taught",
+   "title_es": "Guerra y paz",
+   "title_en": "War and Peace"
+  },
+  "wp-forgiving-anatole": {
+   "type": "fragment",
+   "name_es": "III. Reconocer al enemigo",
+   "name_en": "III. Recognising the enemy",
+   "title_es": "Guerra y paz",
+   "title_en": "War and Peace"
+  },
+  "wp-karataev-meal": {
+   "type": "fragment",
+   "name_es": "IV. El alimento compartido",
+   "name_en": "IV. The shared meal",
+   "title_es": "Guerra y paz",
+   "title_en": "War and Peace"
+  },
+  "wp-nikolenka-dream": {
+   "type": "fragment",
+   "name_es": "V. La gloria heredada",
+   "name_en": "V. Inherited glory",
+   "title_es": "Guerra y paz",
+   "title_en": "War and Peace"
+  },
+  "aen-troy-burden": {
+   "type": "fragment",
+   "name_es": "I. Cargar con los suyos",
+   "name_en": "I. Carrying his own",
+   "title_es": "Eneida",
+   "title_en": "Aeneid"
+  },
+  "aen-dido-farewell": {
+   "type": "fragment",
+   "name_es": "II. La ciudad y la herida",
+   "name_en": "II. The city and the wound",
+   "title_es": "Eneida",
+   "title_en": "Aeneid"
+  },
+  "aen-anchises-embrace": {
+   "type": "fragment",
+   "name_es": "III. El abrazo imposible",
+   "name_en": "III. The impossible embrace",
+   "title_es": "Eneida",
+   "title_en": "Aeneid"
+  },
+  "aen-pallas-return": {
+   "type": "fragment",
+   "name_es": "IV. El hijo que vuelve",
+   "name_en": "IV. The returning son",
+   "title_es": "Eneida",
+   "title_en": "Aeneid"
+  },
+  "aen-turnus-last": {
+   "type": "fragment",
+   "name_es": "V. La victoria y su sombra",
+   "name_en": "V. Victory and its shadow",
+   "title_es": "Eneida",
+   "title_en": "Aeneid"
+  },
+  "vond-kinderlyck": {
+   "type": "poem",
+   "name_es": "Endecha de un niño",
+   "name_en": "Child's dirge",
+   "title_es": "Endecha de un niño",
+   "title_en": "Child's dirge"
+  },
+  "vond-dochterken": {
+   "type": "poem",
+   "name_es": "El entierro de mi hijita",
+   "name_en": "The funeral of my little daughter",
+   "title_es": "El entierro de mi hijita",
+   "title_en": "The funeral of my little daughter"
+  },
+  "vond-wiltzangk": {
+   "type": "poem",
+   "name_es": "Canto silvestre",
+   "name_en": "Wild song",
+   "title_es": "Canto silvestre",
+   "title_en": "Wild song"
+  },
+  "vond-kersnacht": {
+   "type": "fragment",
+   "name_es": "Oh Nochebuena",
+   "name_en": "O Christmas night",
+   "title_es": "Gysbreght van Aemstel",
+   "title_en": "Gysbreght van Aemstel"
+  },
+  "vond-rey-engelen": {
+   "type": "fragment",
+   "name_es": "Quién es el que está sentado tan alto",
+   "name_en": "Who is he, seated so high",
+   "title_es": "Lucifer",
+   "title_en": "Lucifer"
+  },
+  "lus-velho-restelo": {
+   "type": "fragment",
+   "name_es": "El Viejo del Restelo",
+   "name_en": "The Old Man of Restelo",
+   "title_es": "Os Lusíadas",
+   "title_en": "The Lusiads"
+  },
+  "lus-alma-gentil": {
+   "type": "poem",
+   "name_es": "Alma mía gentil",
+   "name_en": "My gentle soul",
+   "title_es": "Alma mía gentil",
+   "title_en": "My gentle soul"
+  },
+  "lus-sete-annos": {
+   "type": "poem",
+   "name_es": "Siete años sirvió Jacob",
+   "name_en": "Seven years Jacob served",
+   "title_es": "Siete años sirvió Jacob",
+   "title_en": "Seven years Jacob served"
+  },
+  "lus-miranda-desavim": {
+   "type": "poem",
+   "name_es": "Conmigo me desavine",
+   "name_en": "I have fallen out with myself",
+   "title_es": "Conmigo me desavine",
+   "title_en": "I have fallen out with myself"
+  },
+  "lus-garrett-inferno": {
+   "type": "poem",
+   "name_es": "Este infierno de amar",
+   "name_en": "This hell of loving",
+   "title_es": "Este infierno de amar",
+   "title_en": "This hell of loving"
+  },
+  "lus-antero-maodeus": {
+   "type": "poem",
+   "name_es": "En la mano de Dios",
+   "name_en": "In the hand of God",
+   "title_es": "En la mano de Dios",
+   "title_en": "In the hand of God"
+  },
+  "contra-vn-heart": {
+   "type": "fragment",
+   "name_es": "El sueño del corazón ardiente",
+   "name_en": "The dream of the burning heart",
+   "title_es": "Vita nuova",
+   "title_en": "Vita nuova"
+  },
+  "contra-petra": {
+   "type": "poem",
+   "name_es": "Así en mi hablar quiero ser áspero",
+   "name_en": "So in my speech I want to be harsh",
+   "title_es": "Así en mi hablar quiero ser áspero",
+   "title_en": "So in my speech I want to be harsh"
+  },
+  "contra-dve-bertran": {
+   "type": "fragment",
+   "name_es": "Los poetas de las armas, del amor y de la rectitud",
+   "name_en": "The poets of arms, love and rectitude",
+   "title_es": "De vulgari eloquentia",
+   "title_en": "De vulgari eloquentia"
+  },
+  "contra-convivio-bertran": {
+   "type": "fragment",
+   "name_es": "Las riquezas y la generosidad de Bertran de Born",
+   "name_en": "Riches and the generosity of Bertran de Born",
+   "title_es": "Convivio",
+   "title_en": "Convivio"
+  },
+  "contra-epistola-exile": {
+   "type": "letter",
+   "name_es": "Carta a un amigo florentino",
+   "name_en": "Letter to a Florentine friend",
+   "title_es": "Epístola XII",
+   "title_en": "Epistle XII"
+  },
+  "gilded-huck-hell": {
+   "type": "fragment",
+   "name_es": "Muy bien, entonces iré al infierno",
+   "name_en": "All right, then, I’ll go to hell",
+   "title_es": "Las aventuras de Huckleberry Finn",
+   "title_en": "Adventures of Huckleberry Finn"
+  },
+  "gilded-steamboat": {
+   "type": "fragment",
+   "name_es": "La ambición de los muchachos",
+   "name_en": "The boys’ ambition",
+   "title_es": "La vida en el Misisipi",
+   "title_en": "Life on the Mississippi"
+  },
+  "gilded-colossus": {
+   "type": "poem",
+   "name_es": "El nuevo coloso",
+   "name_en": "The New Colossus",
+   "title_es": "El nuevo coloso",
+   "title_en": "The New Colossus"
+  },
+  "gilded-mask": {
+   "type": "poem",
+   "name_es": "Llevamos la máscara",
+   "name_en": "We Wear the Mask",
+   "title_es": "Llevamos la máscara",
+   "title_en": "We Wear the Mask"
+  },
+  "gilded-universe": {
+   "type": "poem",
+   "name_es": "Un hombre le dijo al universo",
+   "name_en": "A man said to the universe",
+   "title_es": "Un hombre le dijo al universo",
+   "title_en": "A man said to the universe"
+  },
+  "gilded-hoe": {
+   "type": "poem",
+   "name_es": "El hombre de la azada",
+   "name_en": "The Man with the Hoe",
+   "title_es": "El hombre de la azada",
+   "title_en": "The Man with the Hoe"
+  },
+  "trag-agamemnon-zeus": {
+   "type": "fragment",
+   "name_es": "Aprender sufriendo",
+   "name_en": "Learning through suffering",
+   "title_es": "Agamenón",
+   "title_en": "Agamemnon"
+  },
+  "trag-oedipus-end": {
+   "type": "fragment",
+   "name_es": "No llames feliz a nadie",
+   "name_en": "Call no one happy",
+   "title_es": "Edipo rey",
+   "title_en": "Oedipus the King"
+  },
+  "trag-medea-children": {
+   "type": "fragment",
+   "name_es": "Medea ante sus hijos",
+   "name_en": "Medea before her children",
+   "title_es": "Medea",
+   "title_en": "Medea"
+  },
+  "trag-othello-soft": {
+   "type": "fragment",
+   "name_es": "Hablad de mí tal como soy",
+   "name_en": "Speak of me as I am",
+   "title_es": "Otelo",
+   "title_en": "Othello"
+  },
+  "trag-phedre-aveu": {
+   "type": "fragment",
+   "name_es": "Venus entera aferrada a su presa",
+   "name_en": "Venus wholly fastened on her prey",
+   "title_es": "Fedra",
+   "title_en": "Phèdre"
+  },
+  "trag-faustus-hour": {
+   "type": "fragment",
+   "name_es": "Una sola hora de vida",
+   "name_en": "One bare hour to live",
+   "title_es": "Doctor Fausto",
+   "title_en": "Doctor Faustus"
+  },
+  "com-clouds-socrates": {
+   "type": "fragment",
+   "name_es": "Sócrates en el cesto",
+   "name_en": "Socrates in the basket",
+   "title_es": "Las nubes",
+   "title_en": "The Clouds"
+  },
+  "com-aulularia-euclio": {
+   "type": "fragment",
+   "name_es": "Euclión ha perdido su olla de oro",
+   "name_en": "Euclio has lost his pot of gold",
+   "title_es": "Aulularia",
+   "title_en": "Aulularia"
+  },
+  "com-avare-voleur": {
+   "type": "fragment",
+   "name_es": "¡Al ladrón!",
+   "name_en": "Stop thief!",
+   "title_es": "El avaro",
+   "title_en": "The Miser"
+  },
+  "com-ayli-stage": {
+   "type": "fragment",
+   "name_es": "El mundo entero es un escenario",
+   "name_en": "All the world’s a stage",
+   "title_es": "Como gustéis",
+   "title_en": "As You Like It"
+  },
+  "com-lope-arte": {
+   "type": "fragment",
+   "name_es": "Hablarle en necio para darle gusto",
+   "name_en": "To talk foolishly to please them",
+   "title_es": "Arte nuevo de hacer comedias en este tiempo",
+   "title_en": "The New Art of Writing Plays"
+  },
+  "com-gogol-laugh": {
+   "type": "fragment",
+   "name_es": "¿De qué os reís?",
+   "name_en": "What are you laughing at?",
+   "title_es": "El inspector",
+   "title_en": "The Government Inspector"
+  },
+  "push-kern": {
+   "type": "poem",
+   "name_es": "Un instante maravilloso",
+   "name_en": "A wondrous moment",
+   "title_es": "Un instante maravilloso",
+   "title_en": "A wondrous moment"
+  },
+  "push-prorok": {
+   "type": "poem",
+   "name_es": "El profeta",
+   "name_en": "The Prophet",
+   "title_es": "El profeta",
+   "title_en": "The Prophet"
+  },
+  "push-tatiana": {
+   "type": "fragment",
+   "name_es": "La carta de Tatiana",
+   "name_en": "Tatiana’s letter",
+   "title_es": "Eugenio Oneguin",
+   "title_en": "Eugene Onegin"
+  },
+  "push-vsadnik": {
+   "type": "fragment",
+   "name_es": "A la orilla de olas desiertas",
+   "name_en": "On the shore of desolate waves",
+   "title_es": "El jinete de bronce",
+   "title_en": "The Bronze Horseman"
+  },
+  "push-zima": {
+   "type": "poem",
+   "name_es": "Mañana de invierno",
+   "name_en": "Winter morning",
+   "title_es": "Mañana de invierno",
+   "title_en": "Winter morning"
+  },
+  "push-pamyatnik": {
+   "type": "poem",
+   "name_es": "Me he erigido un monumento",
+   "name_en": "I have raised myself a monument",
+   "title_es": "Me he erigido un monumento",
+   "title_en": "I have raised myself a monument"
+  },
+  "rep-petrarca-cicero": {
+   "type": "fragment",
+   "name_es": "Adiós para siempre, Cicerón mío",
+   "name_en": "Farewell for ever, my Cicero",
+   "title_es": "Cartas familiares",
+   "title_en": "Letters on Familiar Matters"
+  },
+  "rep-erasmus-more": {
+   "type": "letter",
+   "name_es": "El parentesco callado de los ingenios",
+   "name_en": "The silent kinship of minds",
+   "title_es": "Carta a Ulrich von Hutten",
+   "title_en": "Letter to Ulrich von Hutten"
+  },
+  "rep-machiavelli-scrittoio": {
+   "type": "letter",
+   "name_es": "Entro en las antiguas cortes",
+   "name_en": "I enter the ancient courts",
+   "title_es": "Carta a Francesco Vettori",
+   "title_en": "Letter to Francesco Vettori"
+  },
+  "rep-descartes-amsterdam": {
+   "type": "letter",
+   "name_es": "En esta gran ciudad",
+   "name_en": "In this great city",
+   "title_es": "Carta a Guez de Balzac",
+   "title_en": "Letter to Guez de Balzac"
+  },
+  "rep-sevigne-lauzun": {
+   "type": "letter",
+   "name_es": "La cosa más asombrosa",
+   "name_en": "The most astonishing thing",
+   "title_es": "Carta a Coulanges",
+   "title_en": "Letter to Coulanges"
+  },
+  "rep-voltaire-rousseau": {
+   "type": "letter",
+   "name_es": "Andar a cuatro patas",
+   "name_en": "Walking on all fours",
+   "title_es": "Carta a Jean-Jacques Rousseau",
+   "title_en": "Letter to Jean-Jacques Rousseau"
+  },
+  "himno-francia": {
+   "type": "poem",
+   "name_es": "La Marsellesa",
+   "name_en": "La Marseillaise",
+   "title_es": "La Marsellesa",
+   "title_en": "La Marseillaise"
+  },
+  "himno-italia": {
+   "type": "poem",
+   "name_es": "El canto de los italianos",
+   "name_en": "The Song of the Italians",
+   "title_es": "El canto de los italianos",
+   "title_en": "The Song of the Italians"
+  },
+  "himno-alemania": {
+   "type": "poem",
+   "name_es": "La canción de los alemanes",
+   "name_en": "The Song of the Germans",
+   "title_es": "La canción de los alemanes",
+   "title_en": "The Song of the Germans"
+  },
+  "himno-polonia": {
+   "type": "poem",
+   "name_es": "La mazurca de Dąbrowski",
+   "name_en": "Dąbrowski’s Mazurka",
+   "title_es": "La mazurca de Dąbrowski",
+   "title_en": "Dąbrowski’s Mazurka"
+  },
+  "himno-hungria": {
+   "type": "poem",
+   "name_es": "Himno",
+   "name_en": "Hymn",
+   "title_es": "Himno",
+   "title_en": "Hymn"
+  },
+  "himno-grecia": {
+   "type": "poem",
+   "name_es": "Himno a la Libertad",
+   "name_en": "Hymn to Liberty",
+   "title_es": "Himno a la Libertad",
+   "title_en": "Hymn to Liberty"
+  },
+  "himno-gales": {
+   "type": "poem",
+   "name_es": "Vieja tierra de mis padres",
+   "name_en": "Land of My Fathers",
+   "title_es": "Vieja tierra de mis padres",
+   "title_en": "Land of My Fathers"
+  },
+  "himno-paises-bajos": {
+   "type": "poem",
+   "name_es": "El Wilhelmus",
+   "name_en": "The Wilhelmus",
+   "title_es": "El Wilhelmus",
+   "title_en": "The Wilhelmus"
+  },
+  "himno-portugal": {
+   "type": "poem",
+   "name_es": "La Portuguesa",
+   "name_en": "A Portuguesa",
+   "title_es": "La Portuguesa",
+   "title_en": "A Portuguesa"
+  },
+  "himno-estados-unidos": {
+   "type": "poem",
+   "name_es": "La bandera tachonada de estrellas",
+   "name_en": "The Star-Spangled Banner",
+   "title_es": "La bandera tachonada de estrellas",
+   "title_en": "The Star-Spangled Banner"
+  },
+  "himno-colombia": {
+   "type": "poem",
+   "name_es": "¡Oh gloria inmarcesible!",
+   "name_en": "O unfading glory!",
+   "title_es": "¡Oh gloria inmarcesible!",
+   "title_en": "O unfading glory!"
+  },
+  "himno-mexico": {
+   "type": "poem",
+   "name_es": "Mexicanos, al grito de guerra",
+   "name_en": "Mexicans, at the cry of war",
+   "title_es": "Mexicanos, al grito de guerra",
+   "title_en": "Mexicans, at the cry of war"
+  },
+  "himno-argentina": {
+   "type": "poem",
+   "name_es": "Oíd, mortales",
+   "name_en": "Hear, mortals",
+   "title_es": "Oíd, mortales",
+   "title_en": "Hear, mortals"
+  },
+  "himno-chile": {
+   "type": "poem",
+   "name_es": "Dulce Patria",
+   "name_en": "Sweet Homeland",
+   "title_es": "Dulce Patria",
+   "title_en": "Sweet Homeland"
+  },
+  "himno-cuba": {
+   "type": "poem",
+   "name_es": "La Bayamesa",
+   "name_en": "La Bayamesa",
+   "title_es": "La Bayamesa",
+   "title_en": "La Bayamesa"
+  },
+  "himno-brasil": {
+   "type": "poem",
+   "name_es": "Oyeron del Ipiranga",
+   "name_en": "They heard, from the Ipiranga",
+   "title_es": "Oyeron del Ipiranga",
+   "title_en": "They heard, from the Ipiranga"
+  },
+  "himno-canada": {
+   "type": "poem",
+   "name_es": "Oh Canadá",
+   "name_en": "O Canada",
+   "title_es": "Oh Canadá",
+   "title_en": "O Canada"
+  }
+ }
+}
