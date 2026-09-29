@@ -22,7 +22,7 @@
   const L = (es, en) => (typeof lang !== 'undefined' && lang === 'es') ? es : en;
   let style = { ...DEFAULTS };
   try { Object.assign(style, JSON.parse(localStorage.getItem(STYLE_KEY) || '{}')); } catch (e) {}
-  let state = null, fontsReady = null, drawToken = 0, pendingSelection = '';
+  let state = null, fontsReady = null, drawToken = 0;
   const images = new Map(), broken = new Set();
 
   // ---- text of the reading -------------------------------------------------------------
@@ -271,7 +271,7 @@
   function controls() {
     const w = state.work, same = w.lang === lang;
     return `
-      <section><h3>${L('Pintura', 'Painting')}</h3><div class="share-thumbs" id="share-thumbs"></div>
+      <section><h3>${L('Pintura', 'Painting')}</h3>${filterMenu()}<div class="share-thumbs" id="share-thumbs"></div>
         <button type="button" class="share-link" data-share-random>${L('Otra al azar', 'Another at random')}</button></section>
       <section><h3>${L('Formato', 'Format')}</h3>${seg('format', [['square', L('Cuadrado', 'Square')], ['portrait', L('Vertical', 'Portrait')], ['story', L('Historia', 'Story')], ['landscape', L('Horizontal', 'Landscape')]], style.format)}</section>
       ${state.selection || same ? '' : `<section><h3>${L('Texto', 'Text')}</h3>${seg('source', [['translation', L('Traducción', 'Translation')], ['original', L('Original', 'Original')]], style.source)}</section>`}
@@ -289,6 +289,25 @@
         <label><input type="checkbox" data-check="showAuthor" ${style.showAuthor ? 'checked' : ''}> ${L('Autor y obra', 'Author and work')}</label>
         <label><input type="checkbox" data-check="showCredit" ${style.showCredit ? 'checked' : ''}> ${L('Crédito de la pintura', 'Painting credit')}</label>
         <label><input type="checkbox" data-check="showBrand" ${style.showBrand ? 'checked' : ''}> Katabasis</label></section>`;
+  }
+  // Paintings can be narrowed to one package; the reading's own package comes first in the menu.
+  const inPackage = (p, id) => p.package_id === id || (p.additional_package_ids || []).includes(id);
+  function filterMenu() {
+    const w = state.work, own = [w.package_id, ...(w.additional_package_ids || [])];
+    const pk = typeof packages !== 'undefined' ? packages : [];
+    const name = x => typeof packageName === 'function' ? packageName(x) : (lang === 'es' ? x.title_es : x.title_en);
+    const groups = [{ id: 'mvp', label: L('La antología original', 'The original anthology') }, ...pk.map(x => ({ id: x.id, label: name(x) }))]
+      .map(g => ({ ...g, n: state.all.filter(p => inPackage(p, g.id)).length })).filter(g => g.n)
+      .sort((a, b) => (own.includes(b.id) - own.includes(a.id)) || a.label.localeCompare(b.label, lang));
+    return `<label class="share-filter"><span>${L('Paquete', 'Package')}</span><select data-share-filter>
+      <option value="">${L('Todas las pinturas', 'All paintings')} (${state.all.length})</option>
+      ${groups.map(g => `<option value="${esc(g.id)}"${g.id === state.filter ? ' selected' : ''}>${esc(g.label)} (${g.n})</option>`).join('')}</select></label>`;
+  }
+  function applyFilter(id) {
+    state.filter = id;
+    state.paintings = state.all.filter(p => !broken.has(p.id) && (!id || inPackage(p, id)));
+    if (!state.paintings.some(p => p.id === state.paintingId)) state.paintingId = (state.paintings[0] || {}).id;
+    refreshThumbs(); draw();
   }
   function refreshThumbs() {
     const box = document.getElementById('share-thumbs');
@@ -324,7 +343,7 @@
     const w = typeof works !== 'undefined' && typeof active !== 'undefined' && active !== null ? works[active] : null;
     if (!w) return;
     const list = availablePaintings(w);
-    state = { work: w, selection: selection || '', paintings: list, paintingId: (list[0] || {}).id };
+    state = { work: w, selection: selection || '', all: list, filter: '', paintings: list.slice(), paintingId: (list[0] || {}).id };
     setText();
     const d = ensureDialog();
     d.innerHTML = `<div class="share-bar"><h2 id="share-title">${state.selection ? L('Compartir selección', 'Share selection') : L('Compartir lectura', 'Share reading')}</h2>
@@ -383,6 +402,7 @@
     }
   }
   function onDialogInput(e) {
+    if (e.target.matches('[data-share-filter]')) return applyFilter(e.target.value);
     const r = e.target.dataset.range, c = e.target.dataset.check;
     if (r) style[r] = parseFloat(e.target.value);
     else if (c) style[c] = e.target.checked;
@@ -391,24 +411,50 @@
   }
 
   // ---- the button in the book ---------------------------------------------------------------
+  const shareIcon = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>';
   function button() {
-    return `<button type="button" class="share-open" data-share-open aria-label="${L('Compartir como imagen', 'Share as image')}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg><span>${L('Compartir', 'Share')}</span></button>`;
+    return `<button type="button" class="share-open" data-share-open aria-label="${L('Compartir como imagen', 'Share as image')}">${shareIcon}<span>${L('Compartir', 'Share')}</span></button>`;
+  }
+  // The last selection is kept for its reading even after a tap collapses it: on phones the tap
+  // that reaches a button often only dismisses the selection. A new tap on the text starts over.
+  let kept = null;
+  const currentId = () => typeof works !== 'undefined' && typeof active === 'number' && works[active] ? works[active].id : null;
+  const keptText = () => kept && kept.id === currentId() ? kept.text : '';
+  function floatButton() {
+    const book = document.getElementById('book');
+    if (!book) return null;
+    let f = book.querySelector('.share-float');
+    if (!f) {
+      book.insertAdjacentHTML('beforeend', `<button type="button" class="share-float" data-share-open hidden>${shareIcon}<span></span></button>`);
+      f = book.querySelector('.share-float');
+      book.addEventListener('close', () => { kept = null; f.hidden = true; });
+    }
+    return f;
   }
   function syncButton() {
+    const t = selectedText();
+    if (t) kept = { id: currentId(), text: t };
+    const has = !!(t || keptText()), label = has ? L('Compartir selección', 'Share selection') : L('Compartir', 'Share');
     const b = document.querySelector('#book-content [data-share-open]');
-    if (!b) return;
-    const has = !!selectedText();
-    b.classList.toggle('has-selection', has);
-    b.querySelector('span').textContent = has ? L('Compartir selección', 'Share selection') : L('Compartir', 'Share');
+    if (b) { b.classList.toggle('has-selection', has); b.querySelector('span').textContent = label; }
+    const f = floatButton(), book = document.getElementById('book');
+    if (f) { f.hidden = !has || !book.open; f.querySelector('span').textContent = L('Compartir selección', 'Share selection'); }
   }
-  // Remember the selection before a tap on the button collapses it.
-  document.addEventListener('pointerdown', e => { if (e.target.closest('[data-share-open]')) { pendingSelection = selectedText(); e.preventDefault(); } }, true);
+  const soon = () => { clearTimeout(syncButton.t); syncButton.t = setTimeout(syncButton, 120); };
+  document.addEventListener('pointerdown', e => {
+    if (e.target.closest('[data-share-open]')) {
+      const t = selectedText();
+      if (t) kept = { id: currentId(), text: t };
+      e.preventDefault();
+    } else if (e.target.closest('#book-content')) { kept = null; soon(); }
+  }, true);
   document.addEventListener('click', e => {
     if (!e.target.closest('[data-share-open]')) return;
-    const text = pendingSelection || selectedText(); pendingSelection = '';
+    const text = selectedText() || keptText();
+    kept = null; soon();
     open(text);
   });
-  document.addEventListener('selectionchange', () => { clearTimeout(syncButton.t); syncButton.t = setTimeout(syncButton, 120); });
+  document.addEventListener('selectionchange', soon);
 
   window.KatabasisShare = { button, open, readingText, selectedText, draw, style: () => style, state: () => state };
 })();
