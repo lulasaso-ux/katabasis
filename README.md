@@ -261,26 +261,43 @@ Ninguna de las seis lecturas pasa de **4 minutos estimados** y cinco de ellas
 se leen en 3 o menos. Las cinco obras visuales enlazan su ficha en Commons y la
 ficha del museo que las conserva.
 
-## Himnos de Occidente
+## Himnos de Occidente (superpaquete)
 
-| Paquete | Lecturas | Obras visuales |
-| --- | ---: | ---: |
-| Himnos de Occidente | 17 | 5 |
+| Paquete | Lecturas | Versos | Obras visuales |
+| --- | ---: | ---: | ---: |
+| Himnos de Occidente | 17 | 1103 | 5 |
 
-**Himnos de Occidente** reúne diecisiete himnos nacionales en su lengua
-original: la *Marsellesa* (estrofas primera y sexta, «Amour sacré de la
-Patrie», con el estribillo), el *Canto de los italianos* de Mameli, la tercera
-estrofa del *Lied der Deutschen*, las cuatro estrofas oficiales de la *Mazurca
-de Dąbrowski*, el *Himnusz* de Kölcsey, las dos primeras estrofas del *Himno a
-la Libertad* de Solomós, *Hen Wlad Fy Nhadau* de Gales, el *Wilhelmus*
-(estrofas primera y sexta), *A Portuguesa*, *The Star-Spangled Banner*
-(estrofas primera y cuarta), *Ô Canada* en francés, y los himnos de Colombia,
-México, Argentina, Chile, Cuba y Brasil. Se da la parte que se canta hoy y, en
-varios, una estrofa más que ya no se canta. Los textos proceden de Wikisource
-en cada lengua (el polaco, de la ley de 1980 que fija el himno) y se
-comprobaron contra sus páginas; solo se moderniza la ortografía donde la
-fuente usa la antigua (*enfans*, *calló* por *cayó* en la Bayamesa) y se
-corrige «loza» en «losa» en el himno de Colombia, como en el texto oficial.
+**Himnos de Occidente** es un *superpaquete*: diecisiete himnos nacionales,
+enteros y en su lengua original.
+
+| Himno | Texto |
+| --- | --- |
+| *La Marsellesa* (Francia) | las seis estrofas de Rouget de Lisle, con el estribillo |
+| *Canto de los italianos* (Italia) | las cinco estrofas de Mameli, con el coro |
+| *Lied der Deutschen* (Alemania) | las tres estrofas; solo la tercera es el himno |
+| *Mazurca de Dąbrowski* (Polonia) | las cuatro estrofas oficiales y las dos del manuscrito de Wybicki que quedaron fuera |
+| *Himnusz* (Hungría) | las ocho estrofas de Kölcsey |
+| *Himno a la Libertad* (Grecia) | las 24 primeras de las 158 estrofas de Solomós, el himno oficial |
+| *Hen Wlad Fy Nhadau* (Gales) | las tres estrofas, con el coro |
+| *Wilhelmus* (Países Bajos) | las quince estrofas, en el texto moderno |
+| *A Portuguesa* (Portugal) | las tres estrofas, con el estribillo |
+| *The Star-Spangled Banner* (Estados Unidos) | las cuatro estrofas |
+| *Ô Canada* (Canadá) | las cuatro estrofas francesas de Routhier |
+| *¡Oh gloria inmarcesible!* (Colombia) | el coro y las once estrofas de Núñez |
+| *Mexicanos, al grito de guerra* (México) | el coro y las diez estrofas de 1853 |
+| *Oíd, mortales* (Argentina) | las nueve estrofas de 1813, con el coro |
+| *Dulce Patria* (Chile) | el coro y las seis estrofas de Lillo |
+| *La Bayamesa* (Cuba) | las tres estrofas de Figueredo |
+| *Hino Nacional* (Brasil) | las dos partes, con el coro |
+
+Los estribillos y coros se escriben completos tras cada estrofa, como se
+cantan. Los textos proceden de Wikisource en cada lengua y se comprobaron verso
+a verso contra sus páginas: para México, las cuatro estrofas del texto oficial
+y las otras seis del texto completo de 1899; para Polonia, la ley de 1980 y el
+manuscrito de 1797. Solo se moderniza la ortografía donde la fuente usa la
+antigua (*enfans*, *Yguala*, *calló* por *cayó*, acentos como *dió* o *á*) y se
+corrigen «loza» en «losa» (Colombia) y las erratas «inflama la muerte» (México,
+«la mente», como pide la rima), «Tremble, tyrans» y «forme ;» (Marsellesa).
 
 Las cinco reproducciones, todas de dominio público en Commons, son *La
 Libertad guiando al pueblo* y *Grecia sobre las ruinas de Missolonghi* de
@@ -288,7 +305,8 @@ Delacroix, la *Entrada del general Dąbrowski en Roma* de January Suchodolski
 (Museo Nacional de Varsovia, MP 3815), *By Dawn’s Early Light* de Edward Percy
 Moran y *¡Independencia o muerte!* de Pedro Américo (Museu Paulista).
 
-Ninguno de los diecisiete himnos pasa de **1 minuto estimado** de lectura.
+El himno más largo, el mexicano, se lee en **5 minutos estimados**; el alemán,
+en uno.
 
 ## Las vidas detrás de las obras
 
