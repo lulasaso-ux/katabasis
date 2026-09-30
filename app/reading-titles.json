@@ -1946,6 +1946,76 @@
    "name_en": "O Canada",
    "title_es": "Oh Canadá",
    "title_en": "O Canada"
+  },
+  "pkg-joy-annunciation": {
+   "type": "fragment",
+   "name_es": "La anunciación",
+   "name_en": "The Annunciation",
+   "title_es": "Evangelio según san Lucas",
+   "title_en": "The Gospel according to Luke"
+  },
+  "pkg-joy-visitation": {
+   "type": "fragment",
+   "name_es": "La visitación",
+   "name_en": "The Visitation",
+   "title_es": "Evangelio según san Lucas",
+   "title_en": "The Gospel according to Luke"
+  },
+  "pkg-joy-nativity": {
+   "type": "fragment",
+   "name_es": "El nacimiento de Jesús",
+   "name_en": "The Nativity",
+   "title_es": "Evangelio según san Lucas",
+   "title_en": "The Gospel according to Luke"
+  },
+  "pkg-joy-presentation": {
+   "type": "fragment",
+   "name_es": "La presentación en el templo",
+   "name_en": "The Presentation in the Temple",
+   "title_es": "Evangelio según san Lucas",
+   "title_en": "The Gospel according to Luke"
+  },
+  "pkg-joy-finding": {
+   "type": "fragment",
+   "name_es": "El niño perdido y hallado en el templo",
+   "name_en": "The Finding in the Temple",
+   "title_es": "Evangelio según san Lucas",
+   "title_en": "The Gospel according to Luke"
+  },
+  "il-wrath": {
+   "type": "fragment",
+   "name_es": "I. La cólera",
+   "name_en": "I. The wrath",
+   "title_es": "Ilíada",
+   "title_en": "Iliad"
+  },
+  "il-hector-helmet": {
+   "type": "fragment",
+   "name_es": "II. El casco de Héctor",
+   "name_en": "II. Hector’s helmet",
+   "title_es": "Ilíada",
+   "title_en": "Iliad"
+  },
+  "il-black-cloud": {
+   "type": "fragment",
+   "name_es": "III. La nube negra",
+   "name_en": "III. The black cloud",
+   "title_es": "Ilíada",
+   "title_en": "Iliad"
+  },
+  "il-iron-heart": {
+   "type": "fragment",
+   "name_es": "IV. El corazón de hierro",
+   "name_en": "IV. The heart of iron",
+   "title_es": "Ilíada",
+   "title_en": "Iliad"
+  },
+  "il-priam-hands": {
+   "type": "fragment",
+   "name_es": "V. Las manos de Aquiles",
+   "name_en": "V. The hands of Achilles",
+   "title_es": "Ilíada",
+   "title_en": "Iliad"
   }
  }
 }

@@ -88,6 +88,11 @@ inicializar la sala. La duración de los misterios cuenta también los puentes,
 las meditaciones y el desenlace. La validación comprueba ambos idiomas,
 la navegación de los cinco episodios y la activación compartida de los molinos.
 
+El recorrido de un misterio a otro (puente, meditación y paso al siguiente
+episodio) solo aparece cuando el libro se abre desde Paquetes. Abierto desde la
+antología, un misterio se lee como cualquier otra lectura y «Anterior» y
+«Siguiente» siguen el orden de la antología.
+
 ## Bardolatry, Cervantismo y dos recorridos épicos
 
 | Paquete | Lecturas nuevas | Obras visuales |
@@ -261,33 +266,42 @@ Ninguna de las seis lecturas pasa de **4 minutos estimados** y cinco de ellas
 se leen en 3 o menos. Las cinco obras visuales enlazan su ficha en Commons y la
 ficha del museo que las conserva.
 
-## Himnos de Occidente (superpaquete)
+## Himnos nacionales 1 y 2
 
 | Paquete | Lecturas | Versos | Obras visuales |
 | --- | ---: | ---: | ---: |
-| Himnos de Occidente | 17 | 1103 | 7 |
+| Himnos nacionales 1 | 9 | 608 | 4 |
+| Himnos nacionales 2 | 8 | 457 | 3 |
 
-**Himnos de Occidente** reúne diecisiete himnos nacionales, enteros y en su
-lengua original.
+Los diecisiete himnos, enteros y en su lengua original, se reparten en dos
+paquetes que se activan por separado. Quien tenía activado el antiguo paquete
+de himnos conserva los dos.
+
+**Himnos nacionales 1**
 
 | Himno | Texto |
 | --- | --- |
 | *La Marsellesa* (Francia) | las seis estrofas de Rouget de Lisle, con el estribillo |
 | *Canto de los italianos* (Italia) | las cinco estrofas de Mameli, con el coro |
-| *Lied der Deutschen* (Alemania) | las tres estrofas; solo la tercera es el himno |
-| *Mazurca de Dąbrowski* (Polonia) | las cuatro estrofas oficiales y las dos del manuscrito de Wybicki que quedaron fuera |
-| *Himnusz* (Hungría) | las ocho estrofas de Kölcsey |
-| *Himno a la Libertad* (Grecia) | las 24 primeras de las 158 estrofas de Solomós, el himno oficial |
-| *Hen Wlad Fy Nhadau* (Gales) | las tres estrofas, con el coro |
 | *Wilhelmus* (Países Bajos) | las quince estrofas, en el texto moderno |
 | *A Portuguesa* (Portugal) | las tres estrofas, con el estribillo |
+| *Mazurca de Dąbrowski* (Polonia) | las cuatro estrofas oficiales y las dos del manuscrito de Wybicki que quedaron fuera |
+| *Himnusz* (Hungría) | las ocho estrofas de Kölcsey |
+| *¡Oh gloria inmarcesible!* (Colombia) | el coro y las once estrofas de Núñez |
+| *Oíd, mortales* (Argentina) | las nueve estrofas de 1813, con el coro |
+| *La Bayamesa* (Cuba) | las tres estrofas de Figueredo |
+
+**Himnos nacionales 2**
+
+| Himno | Texto |
+| --- | --- |
+| *Lied der Deutschen* (Alemania) | las tres estrofas; solo la tercera es el himno |
 | *The Star-Spangled Banner* (Estados Unidos) | las cuatro estrofas |
 | *Ô Canada* (Canadá) | las cuatro estrofas francesas de Routhier |
-| *¡Oh gloria inmarcesible!* (Colombia) | el coro y las once estrofas de Núñez |
+| *Hen Wlad Fy Nhadau* (Gales) | las tres estrofas, con el coro |
+| *Himno a la Libertad* (Grecia) | las 24 primeras de las 158 estrofas de Solomós, el himno oficial |
 | *Mexicanos, al grito de guerra* (México) | el coro y las diez estrofas de 1853 |
-| *Oíd, mortales* (Argentina) | las nueve estrofas de 1813, con el coro |
 | *Dulce Patria* (Chile) | el coro y las seis estrofas de Lillo |
-| *La Bayamesa* (Cuba) | las tres estrofas de Figueredo |
 | *Hino Nacional* (Brasil) | las dos partes, con el coro |
 
 Los estribillos y coros se escriben completos tras cada estrofa, como se
@@ -299,22 +313,54 @@ antigua (*enfans*, *Yguala*, *calló* por *cayó*, acentos como *dió* o *á*) y
 corrigen «loza» en «losa» (Colombia) y las erratas «inflama la muerte» (México,
 «la mente», como pide la rima), «Tremble, tyrans» y «forme ;» (Marsellesa).
 
-Las siete reproducciones, todas de dominio público en Commons, son *La
-Libertad guiando al pueblo* y *Grecia sobre las ruinas de Missolonghi* de
-Delacroix, *Rouget de Lisle canta la Marsellesa* de Isidore Pils (Musée
-historique de Strasbourg), la *Entrada del general Dąbrowski en Roma* de January
-Suchodolski (Museo Nacional de Varsovia, MP 3815), *By Dawn’s Early Light* de
-Edward Percy Moran, *La batalla de Boyacá* de Martín Tovar y Tovar (Palacio
-Federal Legislativo, Caracas) y *¡Independencia o muerte!* de Pedro Américo
-(Museu Paulista).
+Las siete reproducciones son de dominio público en Commons. En Himnos nacionales
+1: *La Libertad guiando al pueblo* de Delacroix, *Rouget de Lisle canta la
+Marsellesa* de Isidore Pils (Musée historique de Strasbourg), la *Entrada del
+general Dąbrowski en Roma* de January Suchodolski (Museo Nacional de Varsovia,
+MP 3815) y *La batalla de Boyacá* de Martín Tovar y Tovar (Palacio Federal
+Legislativo, Caracas). En Himnos nacionales 2: *Grecia sobre las ruinas de
+Missolonghi* de Delacroix, *By Dawn’s Early Light* de Edward Percy Moran e
+*¡Independencia o muerte!* de Pedro Américo (Museu Paulista).
 
 El himno más largo, el mexicano, se lee en **5 minutos estimados**; el alemán,
 en uno.
 
+## Misterios gozosos del Rosario y Misterios de la Ilíada
+
+| Paquete | Lecturas | Versos | Obras visuales |
+| --- | ---: | ---: | ---: |
+| Misterios gozosos del Rosario | 5 | 82 | 5 |
+| Misterios de la Ilíada | 5 | 132 | 4 |
+
+**Misterios gozosos del Rosario** acompaña a los luminosos con los cinco
+misterios de la infancia de Jesús, todos del Evangelio de Lucas, en pasajes
+continuos: la anunciación (1, 26–38), la visitación con el Magníficat entero
+(1, 39–56), el nacimiento y los pastores (2, 1–20), la presentación en el
+templo con Simeón y Ana (2, 22–40) y el niño hallado en el templo (2, 41–52).
+El griego es el de Westcott–Hort (1881) en la transcripción de dominio público
+de byztxt, convertida a Unicode, sin acentos ni puntuación, como en los
+luminosos. Las pinturas: *La anunciación* de Leonardo (Uffizi), *La
+visitación* de Ghirlandaio (Louvre), *La natividad mística* de Botticelli
+(National Gallery), *El canto de alabanza de Simeón* de Rembrandt (Mauritshuis)
+y *El hallazgo del Salvador en el templo* de William Holman Hunt (Birmingham).
+
+**Misterios de la Ilíada** sigue la cólera de Aquiles en cinco escenas: el
+proemio y la súplica de Crises (1, 1–21), Héctor, Andrómaca y el casco que
+asusta a Astianacte (6, 466–493), el duelo de Aquiles por Patroclo (18, 22–38),
+la muerte de Héctor (22, 337–366) y Príamo besando las manos de Aquiles
+(24, 477–512). Los puentes cuentan los cantos intermedios, cada escena lleva una
+meditación y el desenlace llega hasta el funeral de Héctor. El griego es el de
+Monro y Allen (Oxford, 1908–1920) en Perseus. Cuatro pinturas: Angelica
+Kauffman, Gavin Hamilton, Jacques-Louis David y Alexander Ivanov.
+
+Como los demás misterios, el recorrido de uno a otro solo aparece cuando el
+libro se abre desde Paquetes. Las traducciones de lectura son nuevas y verso a
+verso.
+
 ## Superpaquetes
 
-Un paquete con diez lecturas o más es un *superpaquete*: hoy lo son Himnos de
-Occidente (17), Ruinas (14), Poetas malditos (12) y Renacimiento (12). La
+Un paquete con diez lecturas o más es un *superpaquete*: hoy lo son Ruinas (14),
+Poetas malditos (12) y Renacimiento (12). La
 distinción no se asigna a mano: se calcula con el número de lecturas del
 paquete (`SUPER_PACKAGE_MIN` en `app/katabasis-37.txt`), de modo que un paquete
 que crezca hasta diez lecturas pasa a serlo.
@@ -498,3 +544,22 @@ antología» produce un texto (.txt) con los pasajes, sus obras y las notas, y
 «Copia de seguridad» un JSON que «Restaurar una copia» vuelve a cargar en este u
 otro dispositivo sin borrar lo que ya hay. `app/notebook.js` y
 `app/notebook.css` contienen el cuaderno.
+
+## Primeras líneas
+
+En Aprender, **Primeras líneas** entrega una sola línea de un texto de la
+antología. Se escribe antes o después de ella; la línea queda fija en la página,
+recuadrada y en negrita, y no se puede borrar ni escribir encima. Al terminar
+aparece lo que hizo el autor con esa línea: el comienzo del texto hasta unas
+ocho líneas después, con la obra y un enlace para leerla completa.
+
+Se eligen de una a cinco rondas. La ronda *k* usa la línea *k* de un texto
+distinto: primera línea, segunda, y así hasta la quinta. Cualquier ronda se
+puede saltar para pasar a la siguiente, y al final se puede volver a empezar.
+El juego marca las palabras que el jugador comparte con el autor, sin contar
+puntos ni las palabras de la línea dada.
+
+Los textos salen de los paquetes activos, en el idioma de la interfaz. Se
+descartan las líneas demasiado cortas o largas y los estribillos repetidos, y
+se evitan los textos vistos en las últimas rondas. Lo escrito no se guarda.
+`app/firstlines.js` y `app/firstlines.css` contienen el ejercicio.
