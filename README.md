@@ -498,3 +498,26 @@ antología» produce un texto (.txt) con los pasajes, sus obras y las notas, y
 «Copia de seguridad» un JSON que «Restaurar una copia» vuelve a cargar en este u
 otro dispositivo sin borrar lo que ya hay. `app/notebook.js` y
 `app/notebook.css` contienen el cuaderno.
+
+## Pinturas en relieve (prueba)
+
+Una primera prueba, por ahora solo con *La noche estrellada* de Van Gogh: en su
+ficha, «Ver en relieve 3D» (o un toque sobre la pintura) la abre como un lienzo
+sobre su bastidor que se puede girar, acercar y volver a iluminar, con «Luz
+rasante» para que se vea el relieve de las pinceladas y un control de cuánto
+relieve mostrar.
+
+La idea viene de Luo, Lu y otros, *Synthesizing Oil Painting Surface Geometry
+from a Single Photograph* (CVPR 2012), que reconstruyen el relieve 2.5D de un
+óleo a partir de una sola fotografía. Su método aprende la relación entre
+textura y normales de un conjunto de pinturas medidas con estéreo fotométrico;
+aquí no hay ese conjunto, así que el relieve se estima de la propia imagen: la
+banda fina de la luminancia (las crestas y valles de la pintura), suavizada a lo
+largo de la dirección local de las pinceladas mediante el tensor de estructura,
+y una componente amplia más débil. Es una aproximación, no una medición. El
+navegador lo calcula al abrir la pintura (1024 px de lado mayor) y lo dibuja con
+WebGL, sin bibliotecas externas: una malla de 320 divisiones desplazada por la
+altura, normales calculadas en el sombreador y un barniz con brillo especular.
+`app/relief.js` y `app/relief.css` contienen el visor; la lista `AVAILABLE`
+decide qué pinturas lo ofrecen.
+
