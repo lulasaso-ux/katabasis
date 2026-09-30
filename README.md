@@ -325,6 +325,38 @@ Missolonghi* de Delacroix, *By Dawn’s Early Light* de Edward Percy Moran e
 El himno más largo, el mexicano, se lee en **5 minutos estimados**; el alemán,
 en uno.
 
+## Misterios gozosos del Rosario y Misterios de la Ilíada
+
+| Paquete | Lecturas | Versos | Obras visuales |
+| --- | ---: | ---: | ---: |
+| Misterios gozosos del Rosario | 5 | 82 | 5 |
+| Misterios de la Ilíada | 5 | 132 | 4 |
+
+**Misterios gozosos del Rosario** acompaña a los luminosos con los cinco
+misterios de la infancia de Jesús, todos del Evangelio de Lucas, en pasajes
+continuos: la anunciación (1, 26–38), la visitación con el Magníficat entero
+(1, 39–56), el nacimiento y los pastores (2, 1–20), la presentación en el
+templo con Simeón y Ana (2, 22–40) y el niño hallado en el templo (2, 41–52).
+El griego es el de Westcott–Hort (1881) en la transcripción de dominio público
+de byztxt, convertida a Unicode, sin acentos ni puntuación, como en los
+luminosos. Las pinturas: *La anunciación* de Leonardo (Uffizi), *La
+visitación* de Ghirlandaio (Louvre), *La natividad mística* de Botticelli
+(National Gallery), *El canto de alabanza de Simeón* de Rembrandt (Mauritshuis)
+y *El hallazgo del Salvador en el templo* de William Holman Hunt (Birmingham).
+
+**Misterios de la Ilíada** sigue la cólera de Aquiles en cinco escenas: el
+proemio y la súplica de Crises (1, 1–21), Héctor, Andrómaca y el casco que
+asusta a Astianacte (6, 466–493), el duelo de Aquiles por Patroclo (18, 22–38),
+la muerte de Héctor (22, 337–366) y Príamo besando las manos de Aquiles
+(24, 477–512). Los puentes cuentan los cantos intermedios, cada escena lleva una
+meditación y el desenlace llega hasta el funeral de Héctor. El griego es el de
+Monro y Allen (Oxford, 1908–1920) en Perseus. Cuatro pinturas: Angelica
+Kauffman, Gavin Hamilton, Jacques-Louis David y Alexander Ivanov.
+
+Como los demás misterios, el recorrido de uno a otro solo aparece cuando el
+libro se abre desde Paquetes. Las traducciones de lectura son nuevas y verso a
+verso.
+
 ## Superpaquetes
 
 Un paquete con diez lecturas o más es un *superpaquete*: hoy lo son Ruinas (14),
