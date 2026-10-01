@@ -484,11 +484,32 @@ de su paquete (antes las ligadas a esa lectura) y solo «Otra al azar» mezcla
 todo el museo; las lecturas de la colección base, sin paquete, abren con
 cualquier pintura. Un menú «Paquete» sobre las miniaturas limita la
 elección a las pinturas de un paquete (o de la antología original); con un
-paquete elegido, «Otra al azar» sortea solo entre ellas. Luego se eligen el
-formato (cuadrado, vertical, historia u horizontal), la letra, el tamaño, la
-alineación, la cursiva y el color, el marco (filete, doble, esquinas,
-paspartú o banda), el velo, el desenfoque y el encuadre del fondo, y si se
-muestran el autor, el crédito de la pintura y la marca. La imagen se guarda en
+paquete elegido, «Otra al azar» sortea solo entre ellas.
+
+El encuadre mueve la pintura en tres ejes: horizontal, vertical y acercar (de
+1× a 4×). Se ajusta con tres deslizadores o directamente sobre la imagen:
+arrastrando, con la rueda del ratón o pellizcando con dos dedos, que acercan
+hacia el punto señalado. Con el teclado, las flechas la mueven, + y − acercan
+y alejan, y 0 (o un doble clic) la vuelve a centrar. Cada pintura recuerda su
+propio encuadre (`katabasis-share-crops-v1`), y como se guarda en proporciones
+se conserva al cambiar de formato.
+
+Las demás opciones:
+
+- Formato: cuadrado, vertical, 2:3, historia, horizontal y cabecera (3:1).
+- Letra: ocho tipos, tamaño, interlineado, espaciado entre letras, cursiva,
+  mayúsculas y comillas.
+- Color de la letra: marfil, blanco, oro, rosa, tinta o cualquier otro con el
+  selector de color.
+- Composición: texto arriba, al centro o abajo; alineado a la izquierda,
+  centrado o a la derecha; ancho de la columna; recuadro translúcido detrás
+  del texto.
+- Marco: filete, doble, esquinas, arco, paspartú o banda.
+- Pintura de fondo: tono natural, blanco y negro, sepia, cálido, frío o
+  desvaído; velo, viñeta y desenfoque.
+- Autor y obra, crédito de la pintura y marca, cada uno opcional.
+
+«Volver al estilo inicial» deshace todas las opciones de estilo. La imagen se guarda en
 PNG o se comparte o copia donde el navegador lo permite. El texto se ajusta al
 espacio; los versos se mantienen enteros cuando caben y, si un texto largo no
 cabe con letra legible, se corta y el editor lo avisa. `app/share.js` y

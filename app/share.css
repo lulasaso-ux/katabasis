@@ -9,6 +9,12 @@
 .share-body{flex:1;min-height:0;display:grid;grid-template-columns:minmax(0,1fr) 340px}
 .share-stage{min-height:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;padding:20px;background:#d9d4c8}
 .share-stage canvas{max-width:100%;max-height:calc(94dvh - 170px);width:auto;height:auto;box-shadow:0 10px 36px #2b1b1240;background:#2b1d14}
+.share-stage canvas{cursor:grab;touch-action:none;user-select:none;-webkit-user-select:none}
+.share-stage canvas.dragging{cursor:grabbing}
+.share-stage canvas:focus-visible{outline:3px solid #a67532;outline-offset:3px}
+.share-hint{margin:4px 0 2px;font:12px/1.4 var(--sans);color:var(--muted)}
+.share-color{display:flex;align-items:center;gap:10px;margin-top:10px;font:13px var(--sans);color:var(--ink)}
+.share-color input{width:44px;height:30px;padding:0 2px;border:1px solid #d6c7b4;border-radius:4px;background:var(--paper);cursor:pointer}
 .share-note{min-height:18px;margin:0;font:13px/1.4 var(--sans);color:#6b4a2a;text-align:center}
 .share-actions{display:flex;gap:10px;flex-wrap:wrap;justify-content:center}
 .share-actions button{padding:10px 16px;border:1px solid #a28972;border-radius:4px;background:var(--paper);color:var(--ink);font:14px var(--sans);cursor:pointer}
