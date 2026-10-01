@@ -2569,6 +2569,66 @@
       },
       "source": "https://www.wikidata.org/wiki/Q2824752",
       "checked": "2026-09-29"
+    },
+    {
+      "author": "Marco Polo",
+      "birth": {
+        "min": 1254,
+        "max": 1254,
+        "approximate": false
+      },
+      "death": {
+        "min": 1324,
+        "max": 1324,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q6101",
+      "checked": "2026-10-01"
+    },
+    {
+      "author": "Benjamin of Tudela",
+      "birth": {
+        "min": 1130,
+        "max": 1130,
+        "approximate": true
+      },
+      "death": {
+        "min": 1173,
+        "max": 1174,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q318820",
+      "checked": "2026-10-01"
+    },
+    {
+      "author": "William of Rubruck",
+      "birth": {
+        "min": 1210,
+        "max": 1220,
+        "approximate": true
+      },
+      "death": {
+        "min": 1270,
+        "max": 1293,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q316083",
+      "checked": "2026-10-01"
+    },
+    {
+      "author": "Giovanni da Pian del Carpine",
+      "birth": {
+        "min": 1182,
+        "max": 1182,
+        "approximate": true
+      },
+      "death": {
+        "min": 1252,
+        "max": 1252,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q315149",
+      "checked": "2026-10-01"
     }
   ]
 }

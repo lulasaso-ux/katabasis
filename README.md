@@ -357,6 +357,34 @@ Como los demás misterios, el recorrido de uno a otro solo aparece cuando el
 libro se abre desde Paquetes. Las traducciones de lectura son nuevas y verso a
 verso.
 
+## Crónicas
+
+| Paquete | Lecturas | Obras visuales |
+| --- | ---: | ---: |
+| Crónicas | 6 | 5 |
+
+Seis pasajes de viajeros medievales hacia Oriente, cada uno en su lengua:
+
+| Lectura | Obra | Original |
+| --- | --- | --- |
+| Para saber la pura verdad | Marco Polo, *Libro de las maravillas*, prólogo | francés antiguo |
+| Los espíritus del desierto de Lop | ídem, cap. LVI | francés antiguo |
+| Ciandu, el palacio de verano del Gran Kan | ídem, cap. LXXIV | francés antiguo |
+| El sepulcro de David | Benjamín de Tudela, *Itinerario* (Jerusalén) | hebreo |
+| El árbol de plata de Karakórum | Guillermo de Rubruck, *Itinerarium ad partes orientales*, cap. XXX | latín |
+| El aire desordenado | Juan de Plano Carpini, *Historia Mongalorum*, cap. I | latín |
+
+Marco Polo se lee en la redacción francesa revisada en 1307 para Thiébault de
+Cépoy, la del manuscrito del *Livre des merveilles* (BnF fr. 2810), según la
+edición de Pauthier (1865). Benjamín de Tudela, en el hebreo de Adler (1907).
+Rubruck y Carpini, en la edición crítica de Van den Wyngaert (*Sinica
+Franciscana* I, 1929). Se quitaron las llamadas de nota y el aparato crítico;
+las demás intervenciones constan en cada ficha.
+
+Las imágenes son cuatro miniaturas del propio *Livre des merveilles* (el
+frontispicio, Qubilai y la tablilla de oro, los Polo ante el Gran Kan y unos
+peregrinos en Jerusalén) y la caravana del Atlas catalán (1375).
+
 ## Superpaquetes
 
 Un paquete con diez lecturas o más es un *superpaquete*: hoy lo son Ruinas (14),

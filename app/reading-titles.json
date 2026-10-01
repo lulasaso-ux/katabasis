@@ -2016,6 +2016,48 @@
    "name_en": "V. The hands of Achilles",
    "title_es": "Ilíada",
    "title_en": "Iliad"
+  },
+  "pkg-cron-polo-prologue": {
+   "type": "fragment",
+   "name_es": "Para saber la pura verdad",
+   "name_en": "To know the pure truth",
+   "title_es": "El libro de las maravillas",
+   "title_en": "The Book of Marvels"
+  },
+  "pkg-cron-polo-lop": {
+   "type": "fragment",
+   "name_es": "Los espíritus del desierto de Lop",
+   "name_en": "The spirits of the desert of Lop",
+   "title_es": "El libro de las maravillas",
+   "title_en": "The Book of Marvels"
+  },
+  "pkg-cron-polo-ciandu": {
+   "type": "fragment",
+   "name_es": "Ciandu, el palacio de verano del Gran Kan",
+   "name_en": "Ciandu, the Great Khan’s summer palace",
+   "title_es": "El libro de las maravillas",
+   "title_en": "The Book of Marvels"
+  },
+  "pkg-cron-tudela-david": {
+   "type": "fragment",
+   "name_es": "El sepulcro de David",
+   "name_en": "The tomb of David",
+   "title_es": "Itinerario",
+   "title_en": "Itinerary"
+  },
+  "pkg-cron-rubruck-tree": {
+   "type": "fragment",
+   "name_es": "El árbol de plata de Karakórum",
+   "name_en": "The silver tree of Karakorum",
+   "title_es": "Itinerarium ad partes orientales",
+   "title_en": "Itinerarium ad partes orientales"
+  },
+  "pkg-cron-carpini-air": {
+   "type": "fragment",
+   "name_es": "El aire desordenado",
+   "name_en": "The disordered air",
+   "title_es": "Historia Mongalorum",
+   "title_en": "Historia Mongalorum"
   }
  }
 }
