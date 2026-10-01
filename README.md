@@ -395,6 +395,31 @@ Con todos los paquetes activos hay **255 lecturas, 160 autores o autorías y
 y 13 sin límites biográficos seguros. Al añadir autores, hay que incorporar
 también su registro biográfico o una nota que explique la incertidumbre.
 
+## El mapa como un atlas antiguo
+
+El mapa de Obras y autores se dibuja como un mapamundi de doble hemisferio del
+siglo XVII. Tiene dos hemisferios en proyección estereográfica, partidos por los
+meridianos 20° O y 160° E, como en los atlas holandeses, y dos discos polares
+pequeños entre ellos. Los países siguen siendo los mismos y se pueden pulsar
+igual; cada uno se colorea según su número de lecturas u obras. Los que entran
+en un disco polar también se pueden tocar ahí.
+
+El grabado incluye:
+
+- papel envejecido y doble filete en el marco;
+- bordes graduados en tramos de 10°, meridianos y paralelos cada 10°;
+- trópicos y círculos polares discontinuos, y la eclíptica punteada;
+- el sombreado de las costas;
+- dos rosas de los vientos con sus rumbos, tres barcos y una cartela «ORBIS
+  LECTORVM»;
+- los nombres latinos de los hemisferios, los polos, los océanos y la «Terra
+  Australis Incognita».
+
+Mundo, Europa y Américas encuadran la misma lámina. La geometría se calcula a
+partir de los trazados equirectangulares del mapa (x = (lon+180)·2,5;
+y = (85−lat)·2,5) y está en `app/atlas-hemispheres.json`; `app/atlas.js` y
+`app/atlas.css` dibujan los adornos. Todo funciona sin conexión.
+
 ## Pinturas en el atlas
 
 El atlas alterna entre Escritos y Pinturas. En Pinturas, cada país cuenta y
