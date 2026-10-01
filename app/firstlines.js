@@ -7,7 +7,7 @@
   const ORD_ES = ['primera', 'segunda', 'tercera', 'cuarta', 'quinta'], ORD_EN = ['first', 'second', 'third', 'fourth', 'fifth'];
   const ord = k => L(ORD_ES[k - 1], ORD_EN[k - 1]);
   const RECENT_KEY = 'katabasis-first-lines-recent-v1';
-  let st = { phase: 'setup', rounds: 1, round: 1, w: null, before: '', after: '', log: [], used: new Set() };
+  let st = { phase: 'setup', rounds: 1, round: 1, w: null, before: '', after: '', log: [], used: new Set(), saved: false };
 
   // ---- texts ------------------------------------------------------------------------------------
   const side = w => (w.lang === lang ? 'original' : lang);
@@ -45,7 +45,7 @@
   // ---- flow ------------------------------------------------------------------------------------------
   function startRound() {
     st.w = pick(st.round);
-    st.before = ''; st.after = '';
+    st.before = ''; st.after = ''; st.saved = false;
     if (!st.w) { st.phase = 'done'; return; }
     st.used.add(st.w.id);
     st.phase = 'write';
@@ -55,7 +55,7 @@
     st.round++; startRound();
   }
   function begin(n) {
-    st = { phase: 'write', rounds: n, round: 1, w: null, before: '', after: '', log: [], used: new Set() };
+    st = { phase: 'write', rounds: n, round: 1, w: null, before: '', after: '', log: [], used: new Set(), saved: false };
     startRound();
   }
 
@@ -78,7 +78,7 @@
         <textarea class="lines-text" data-lines-part="after" rows="6" aria-label="${L('Texto después de la línea', 'Text after the line')}" placeholder="${L('…o sigue desde aquí.', '…or carry on from here.')}">${escH(st.after)}</textarea>
       </div>
       <div class="lines-actions"><button type="button" class="book-btn" data-lines-done>${L('Terminé · ver qué hizo el autor', 'Done · see what the author did')}</button><button type="button" class="secondary" data-lines-skip>${st.round < st.rounds ? L(`Saltar a la ${ORD_ES[st.round]} línea`, `Skip to the ${ORD_EN[st.round]} line`) : L('Saltar', 'Skip')}</button></div>
-      <p class="lines-private">${L('Lo que escribes no se guarda ni se envía: se queda en esta pantalla.', 'What you write is not saved or sent anywhere: it stays on this screen.')}</p></div>`;
+      <p class="lines-private">${L('Lo que escribes no se envía a ningún sitio. Al final podrás guardarlo en tu cuaderno, si quieres.', 'What you write is not sent anywhere. At the end you can keep it in your notebook, if you like.')}</p></div>`;
   }
   function reveal() {
     const w = st.w, rows = rowsOf(w), k = st.round, line = rows[k - 1], upto = Math.min(rows.length, k + 8);
@@ -94,6 +94,7 @@
         <section><h3>${escH(w.author.split(' · ')[0])} · <em>${escH(title)}</em></h3><div class="lines-sheet lines-read" lang="${lang}">${author}</div>
         <p class="lines-source">${escH(titleOf(w))} · ${escH(w.year || '')} · <button type="button" class="text-button" data-lines-open="${escH(w.id)}">${L('Leer el texto completo ↗', 'Read the whole text ↗')}</button></p></section></div>
       <p class="lines-shared">${common.length ? `${L('Palabras que también usó el autor', 'Words the author also used')}: ${common.map(x => `<mark class="lines-match">${escH(x)}</mark>`).join(' ')}` : L('No usaste ninguna palabra que el autor usara aquí.', 'You used none of the words the author used here.')}</p>
+      ${typeof KatabasisNotebook !== 'undefined' ? `<p class="lines-keep">${st.saved ? `<span>${L('Guardado en tu cuaderno ✓', 'Saved to your notebook ✓')}</span>` : `<button type="button" class="text-button" data-lines-note>${L('Guardar lo que escribiste en el cuaderno, como nota de este texto', 'Save what you wrote to the notebook, as a note on this text')}</button>`}</p>` : ''}
       <div class="lines-actions">${more ? `<button type="button" class="book-btn" data-lines-next>${L(`Siguiente: ${ORD_ES[k]} línea →`, `Next: ${ORD_EN[k]} line →`)}</button>` : st.rounds === 1 ? `<button type="button" class="book-btn" data-lines-again>${L('Otra primera línea', 'Another first line')}</button>` : `<button type="button" class="book-btn" data-lines-next>${L('Terminar', 'Finish')}</button>`}
         <button type="button" class="secondary" data-lines-setup>${L('Cambiar el número de rondas', 'Change the number of rounds')}</button></div></div>`;
   }
@@ -127,6 +128,12 @@
     if (b.matches('[data-lines-skip]')) { st.log.push({ k: st.round, w: st.w, skipped: true }); next(); return refresh('[data-lines-part="after"]'); }
     if (b.matches('[data-lines-next]')) { next(); return refresh('[data-lines-part="after"]'); }
     if (b.matches('[data-lines-again]')) { begin(1); return refresh('[data-lines-part="after"]'); }
+    if (b.matches('[data-lines-note]')) {
+      const w = st.w, rows = rowsOf(w), k = st.round, upto = Math.min(rows.length, k + 8);
+      const mine = [st.before.trim(), rows[k - 1], st.after.trim()].filter(Boolean).join('\n');
+      KatabasisNotebook.open({ kind: 'new', reading: w.id, text: rows.slice(0, upto).join('\n'), note: mine, onSave: () => { st.saved = true; if (st.phase === 'reveal') refresh(); } });
+      return;
+    }
     if (b.dataset.linesOpen) { const w = works.find(x => x.id === b.dataset.linesOpen); if (w) openBook(w.id); }
   });
 

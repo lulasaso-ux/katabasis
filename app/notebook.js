@@ -48,13 +48,13 @@
     d.addEventListener('close', () => { editing = null; });
     return d;
   }
-  // mode: {kind:'new', reading, text} | {kind:'passage', id} | {kind:'item', type, id}
+  // mode: {kind:'new', reading, text, note?, onSave?} | {kind:'passage', id} | {kind:'item', type, id}
   function openEditor(mode) {
     const d = editor(), passage = mode.kind === 'passage' ? data.passages.find(p => p.id === mode.id) : null;
     const w = mode.kind === 'new' ? reading(mode.reading) : passage ? reading(passage.reading) : mode.type === 'reading' ? reading(mode.id) : null;
     const art = mode.kind === 'item' && mode.type === 'painting' ? paintings.find(p => p.id === mode.id) : null;
     const text = mode.kind === 'new' ? mode.text : passage ? passage.text : '';
-    const note = passage ? passage.note || '' : mode.kind === 'item' ? noteOf(itemKey(mode.type, mode.id)) : '';
+    const note = mode.kind === 'new' ? (mode.note || '').slice(0, 4000) : passage ? passage.note || '' : mode.kind === 'item' ? noteOf(itemKey(mode.type, mode.id)) : '';
     editing = mode;
     d.querySelector('#note-title').textContent = mode.kind === 'new' ? L('Guardar en el cuaderno', 'Save to the notebook') : note ? L('Editar la nota', 'Edit the note') : L('Escribir una nota', 'Write a note');
     const q = d.querySelector('#note-passage');
@@ -76,6 +76,7 @@
     if (mode.kind === 'new') {
       data.passages.push({ id: 'p' + now.toString(36) + Math.random().toString(36).slice(2, 6), reading: mode.reading, text: mode.text, note, lang, at: now });
       ok = persist(); refreshCount();
+      if (typeof mode.onSave === 'function') mode.onSave();
       announce(L('Pasaje guardado en tu cuaderno.', 'Passage saved to your notebook.') + (ok ? '' : L(' El navegador no permite conservarlo al cerrar.', ' This browser cannot keep it after closing.')));
     } else if (mode.kind === 'passage') {
       const p = data.passages.find(x => x.id === mode.id);

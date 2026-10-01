@@ -635,5 +635,9 @@ puntos ni las palabras de la línea dada.
 
 Los textos salen de los paquetes activos, en el idioma de la interfaz. Se
 descartan las líneas demasiado cortas o largas y los estribillos repetidos, y
-se evitan los textos vistos en las últimas rondas. Lo escrito no se guarda.
+se evitan los textos vistos en las últimas rondas. Lo escrito no se envía a
+ningún sitio. Tras revelar el texto, un botón permite guardarlo en el cuaderno:
+el fragmento del autor queda como pasaje, y lo que escribió el jugador, con la
+línea dada en su sitio, como su nota, que aún se puede editar antes de
+guardar.
 `app/firstlines.js` y `app/firstlines.css` contienen el ejercicio.
