@@ -357,11 +357,11 @@ Como los demás misterios, el recorrido de uno a otro solo aparece cuando el
 libro se abre desde Paquetes. Las traducciones de lectura son nuevas y verso a
 verso.
 
-## Crónicas
+## La ruta de la seda
 
 | Paquete | Lecturas | Obras visuales |
 | --- | ---: | ---: |
-| Crónicas | 6 | 5 |
+| La ruta de la seda | 6 | 5 |
 
 Seis pasajes de viajeros medievales hacia Oriente, cada uno en su lengua:
 
