@@ -24,6 +24,9 @@
 .lines-more{color:var(--muted)}
 .lines-mine{white-space:pre-line}
 .lines-match{background:#f6dca8;color:inherit;border-radius:2px;padding:0 2px}
+.lines-keep{margin:14px 0 0;font:14px var(--sans)}
+.lines-keep span{color:#5c7a3a;font-weight:600}
+.lines-keep .text-button{margin:0;font-size:14px;text-align:left}
 .lines-shared{margin:18px 0 0;font:15px/1.6 var(--sans);color:var(--ink)}
 .lines-source{margin:10px 0 0;font:14px var(--sans);color:var(--muted)}
 .lines-source .text-button{margin-left:0;font-size:14px}
