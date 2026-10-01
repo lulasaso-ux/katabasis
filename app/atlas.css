@@ -1,0 +1,39 @@
+.world-map.antique{aspect-ratio:900/560;max-height:620px;background:#efe2c4}
+.world-map.antique .country{fill:#e9dab7;stroke:#8a6a47;stroke-width:.55}
+.world-map.antique .country.available{fill:var(--country-color);fill-opacity:.9}
+.world-map.antique .country.available:hover{fill-opacity:1;stroke:#4a2f1d;stroke-width:1}
+.world-map.antique .country.available:focus{fill:#b8773f;fill-opacity:1;stroke:#3f271c;stroke-width:1.5}
+.world-map.antique .country.selected{fill:#b8773f;fill-opacity:1;stroke:#3f271c;stroke-width:1.6}
+.world-map.antique .country.polar{stroke-width:.35}
+.world-map.antique .ancient-marker circle{fill:#f7ecd6;stroke:#5d3d25}
+.atlas-under .paper-bg{fill:#efe2c4}
+.atlas-under .frame-outer{fill:none;stroke:#5b3f27;stroke-width:1.6}
+.atlas-under .frame-inner{fill:none;stroke:#5b3f27;stroke-width:.6}
+.atlas-under .frame-corner{fill:#efe2c4;stroke:#5b3f27;stroke-width:.8}
+.atlas-under .coast{fill:none;stroke:#7a5a38;stroke-linejoin:round}
+.atlas-under .coast.c3{stroke-width:7;stroke-opacity:.07}
+.atlas-under .coast.c2{stroke-width:4;stroke-opacity:.1}
+.atlas-under .coast.c1{stroke-width:1.8;stroke-opacity:.16}
+.atlas-over{pointer-events:none}
+.atlas-over .grat{fill:none;stroke:#6e4f31;stroke-width:.35;stroke-opacity:.38}
+.atlas-over .tropic{fill:none;stroke:#6e4f31;stroke-width:.6;stroke-opacity:.55;stroke-dasharray:3 2}
+.atlas-over .ecliptic{fill:none;stroke:#9a5b2c;stroke-width:.9;stroke-opacity:.55;stroke-dasharray:.6 2.2;stroke-linecap:round}
+.atlas-over .rim{fill:none;stroke:#4f3522;stroke-width:.9}
+.atlas-over .rim-ticks{fill:none;stroke:#4f3522;stroke-opacity:.85}
+.atlas-over .arc-title{font:italic 600 10.5px var(--serif);letter-spacing:.22em;fill:#4f3522}
+.atlas-over .arc-title.pole{font-size:7px;letter-spacing:.18em}
+.atlas-over .sea.terra{font-size:6px;letter-spacing:.32em;fill-opacity:.6}
+.atlas-over .sea{font:italic 7.5px var(--serif);letter-spacing:.28em;fill:#6b4c30;fill-opacity:.7;text-anchor:middle}
+.atlas-over .ink{fill:#4f3522}
+.atlas-over .paper{fill:#f4ead3;stroke:#4f3522;stroke-width:.4}
+.atlas-over .rhumb{fill:none;stroke:#7a5a38;stroke-width:.3;stroke-opacity:.28}
+.atlas-over .rose-ring{fill:#f4ead3;stroke:#4f3522;stroke-width:.5}
+.atlas-over .rose-n{font:italic 600 6px var(--serif);fill:#4f3522}
+.atlas-over .ship .mast{fill:none;stroke:#4f3522;stroke-width:.7}
+.atlas-over .ship .wave{fill:none;stroke:#6b4c30;stroke-width:.6;stroke-opacity:.7}
+.atlas-over .cartouche .scroll{fill:#f6ecd5;stroke:#4f3522;stroke-width:.8}
+.atlas-over .cartouche .scroll-curl{fill:none;stroke:#4f3522;stroke-width:.6}
+.atlas-over .cart-title{font:600 9px var(--serif);letter-spacing:.2em;fill:#4f3522}
+.atlas-over .cart-sub{font:italic 6px var(--serif);letter-spacing:.08em;fill:#6b4c30}
+@media(max-width:730px){.world-map.antique{aspect-ratio:900/560}}
+.atlas-under .coast,.atlas-over .grat,.atlas-over .tropic,.atlas-over .ecliptic,.atlas-over .rhumb{vector-effect:non-scaling-stroke}

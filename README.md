@@ -357,6 +357,34 @@ Como los demás misterios, el recorrido de uno a otro solo aparece cuando el
 libro se abre desde Paquetes. Las traducciones de lectura son nuevas y verso a
 verso.
 
+## Crónicas
+
+| Paquete | Lecturas | Obras visuales |
+| --- | ---: | ---: |
+| Crónicas | 6 | 5 |
+
+Seis pasajes de viajeros medievales hacia Oriente, cada uno en su lengua:
+
+| Lectura | Obra | Original |
+| --- | --- | --- |
+| Para saber la pura verdad | Marco Polo, *Libro de las maravillas*, prólogo | francés antiguo |
+| Los espíritus del desierto de Lop | ídem, cap. LVI | francés antiguo |
+| Ciandu, el palacio de verano del Gran Kan | ídem, cap. LXXIV | francés antiguo |
+| El sepulcro de David | Benjamín de Tudela, *Itinerario* (Jerusalén) | hebreo |
+| El árbol de plata de Karakórum | Guillermo de Rubruck, *Itinerarium ad partes orientales*, cap. XXX | latín |
+| El aire desordenado | Juan de Plano Carpini, *Historia Mongalorum*, cap. I | latín |
+
+Marco Polo se lee en la redacción francesa revisada en 1307 para Thiébault de
+Cépoy, la del manuscrito del *Livre des merveilles* (BnF fr. 2810), según la
+edición de Pauthier (1865). Benjamín de Tudela, en el hebreo de Adler (1907).
+Rubruck y Carpini, en la edición crítica de Van den Wyngaert (*Sinica
+Franciscana* I, 1929). Se quitaron las llamadas de nota y el aparato crítico;
+las demás intervenciones constan en cada ficha.
+
+Las imágenes son cuatro miniaturas del propio *Livre des merveilles* (el
+frontispicio, Qubilai y la tablilla de oro, los Polo ante el Gran Kan y unos
+peregrinos en Jerusalén) y la caravana del Atlas catalán (1375).
+
 ## Superpaquetes
 
 Un paquete con diez lecturas o más es un *superpaquete*: hoy lo son Ruinas (14),
@@ -394,6 +422,31 @@ Con todos los paquetes activos hay **255 lecturas, 160 autores o autorías y
 131 obras visuales**. Las biografías cubren los 160 registros: 147 con fechas
 y 13 sin límites biográficos seguros. Al añadir autores, hay que incorporar
 también su registro biográfico o una nota que explique la incertidumbre.
+
+## El mapa como un atlas antiguo
+
+El mapa de Obras y autores se dibuja como un mapamundi de doble hemisferio del
+siglo XVII. Tiene dos hemisferios en proyección estereográfica, partidos por los
+meridianos 20° O y 160° E, como en los atlas holandeses, y dos discos polares
+pequeños entre ellos. Los países siguen siendo los mismos y se pueden pulsar
+igual; cada uno se colorea según su número de lecturas u obras. Los que entran
+en un disco polar también se pueden tocar ahí.
+
+El grabado incluye:
+
+- papel envejecido y doble filete en el marco;
+- bordes graduados en tramos de 10°, meridianos y paralelos cada 10°;
+- trópicos y círculos polares discontinuos, y la eclíptica punteada;
+- el sombreado de las costas;
+- dos rosas de los vientos con sus rumbos, tres barcos y una cartela «ORBIS
+  LECTORVM»;
+- los nombres latinos de los hemisferios, los polos, los océanos y la «Terra
+  Australis Incognita».
+
+Mundo, Europa y Américas encuadran la misma lámina. La geometría se calcula a
+partir de los trazados equirectangulares del mapa (x = (lon+180)·2,5;
+y = (85−lat)·2,5) y está en `app/atlas-hemispheres.json`; `app/atlas.js` y
+`app/atlas.css` dibujan los adornos. Todo funciona sin conexión.
 
 ## Pinturas en el atlas
 
