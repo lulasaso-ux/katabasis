@@ -2644,6 +2644,21 @@
       },
       "source": "https://www.wikidata.org/wiki/Q535",
       "checked": "2026-10-02"
+    },
+    {
+      "author": "Charles Baudelaire",
+      "birth": {
+        "min": 1821,
+        "max": 1821,
+        "approximate": false
+      },
+      "death": {
+        "min": 1867,
+        "max": 1867,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q501",
+      "checked": "2026-10-02"
     }
   ]
 }
