@@ -2058,6 +2058,48 @@
    "name_en": "The disordered air",
    "title_es": "Historia Mongalorum",
    "title_en": "Historia Mongalorum"
+  },
+  "hugo-demain": {
+   "type": "poem",
+   "name_es": "«Mañana, al alba…»",
+   "name_en": "“Tomorrow, at dawn…”",
+   "title_es": "«Mañana, al alba…»",
+   "title_en": "“Tomorrow, at dawn…”"
+  },
+  "hugo-booz": {
+   "type": "poem",
+   "name_es": "Booz dormido",
+   "name_en": "Boaz Asleep",
+   "title_es": "Booz dormido",
+   "title_en": "Boaz Asleep"
+  },
+  "hugo-djinns": {
+   "type": "poem",
+   "name_es": "Los djinns",
+   "name_en": "The Djinns",
+   "title_es": "Los djinns",
+   "title_en": "The Djinns"
+  },
+  "hugo-ultima": {
+   "type": "fragment",
+   "name_es": "Ultima verba",
+   "name_en": "Ultima verba",
+   "title_es": "Los castigos",
+   "title_en": "Les Châtiments"
+  },
+  "hugo-eveque": {
+   "type": "fragment",
+   "name_es": "El obispo trabaja",
+   "name_en": "The Bishop at Work",
+   "title_es": "Los miserables",
+   "title_en": "Les Misérables"
+  },
+  "hugo-quasimodo": {
+   "type": "fragment",
+   "name_es": "Boda de Quasimodo",
+   "name_en": "Quasimodo’s Marriage",
+   "title_es": "Nuestra Señora de París",
+   "title_en": "Notre-Dame de Paris"
   }
  }
 }

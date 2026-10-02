@@ -2629,6 +2629,21 @@
       },
       "source": "https://www.wikidata.org/wiki/Q315149",
       "checked": "2026-10-01"
+    },
+    {
+      "author": "Victor Hugo",
+      "birth": {
+        "min": 1802,
+        "max": 1802,
+        "approximate": false
+      },
+      "death": {
+        "min": 1885,
+        "max": 1885,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q535",
+      "checked": "2026-10-02"
     }
   ]
 }
