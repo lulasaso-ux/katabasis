@@ -5,25 +5,33 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#493024">
   <title>Katabasis — Cargando</title>
+  <link rel="preload" as="image" href="app/katabasis-portada.webp">
   <style>
-    :root { color-scheme: light; font-family: Georgia, 'Times New Roman', serif; color: #493024; background: #eae1d6; }
-    body { min-height: 100vh; margin: 0; display: grid; place-items: center; }
-    main { width: min(34rem, calc(100% - 3rem)); padding: 2.5rem; background: #fffcf6; border: 1px solid #ded1c3; box-shadow: 0 4px 18px #49302414; }
-    h1 { margin: 0; font-size: 3.2rem; font-style: italic; font-weight: 400; color: #493024; }
-    p { color: #786352; font-size: 1.1rem; }
-    progress { width: 100%; accent-color: #a67532; }
+    :root { color-scheme: light; font-family: Georgia, 'Times New Roman', serif; color: #4a3220; background: #e1d9cc; }
+    body { min-height: 100vh; min-height: 100dvh; margin: 0; display: grid; place-items: center; background: #e1d9cc; }
+    main { width: min(34rem, calc(100% - 2rem)); display: flex; flex-direction: column; align-items: center; gap: .9rem; padding: 1rem 0; text-align: center; }
+    .cover { display: block; width: min(100%, 72vh, 72dvh); height: auto; aspect-ratio: 1;
+      -webkit-mask-image: linear-gradient(to right, transparent, #000 9%, #000 91%, transparent), linear-gradient(to bottom, transparent, #000 9%, #000 91%, transparent);
+      -webkit-mask-composite: source-in; mask-image: linear-gradient(to right, transparent, #000 9%, #000 91%, transparent), linear-gradient(to bottom, transparent, #000 9%, #000 91%, transparent); mask-composite: intersect; }
+    .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+    p { margin: 0; color: #6e5642; font-size: 1rem; letter-spacing: .02em; }
+    progress { width: min(18rem, 70%); height: 3px; border: 0; border-radius: 2px; background: #cfc3b1; accent-color: #6b4a2e; appearance: none; }
+    progress::-webkit-progress-bar { background: #cfc3b1; border-radius: 2px; }
+    progress::-webkit-progress-value { background: #6b4a2e; border-radius: 2px; transition: width .2s; }
+    progress::-moz-progress-bar { background: #6b4a2e; }
     .error { color: #8b2b20; }
   </style>
 </head>
 <body>
   <main aria-live="polite">
-    <h1>Katabasis</h1>
+    <h1 class="sr">Katabasis</h1>
+    <img class="cover" src="app/katabasis-portada.webp" width="1000" height="1000" alt="Katabasis. Descender · leer · renacer. Un cayado con un arco, cintas de colores y un escudo con una corona de laurel." decoding="async" fetchpriority="high">
     <p id="status">Cargando la sala de lectura…</p>
     <progress id="progress" max="41" value="0"></progress>
   </main>
   <script>
     (() => {
-      const version = "20261001-lines-note-1";
+      const version = "20261002-ego-hugo-1";
       const paths = ["app/katabasis-01.txt","app/katabasis-02.txt","app/katabasis-03.txt","app/katabasis-04.txt","app/katabasis-05.txt","app/katabasis-06.txt","app/katabasis-07.txt","app/katabasis-08.txt","app/katabasis-09.txt","app/katabasis-10.txt","app/katabasis-11.txt","app/katabasis-12.txt","app/katabasis-13.txt","app/katabasis-14.txt","app/katabasis-15.txt","app/katabasis-16.txt","app/katabasis-17.txt","app/katabasis-18.txt","app/katabasis-19.txt","app/katabasis-20.txt","app/katabasis-21.txt","app/katabasis-22.txt","app/katabasis-23.txt","app/katabasis-24.txt","app/katabasis-25.txt","app/katabasis-26.txt","app/katabasis-27.txt","app/katabasis-28.txt","app/katabasis-29.txt","app/katabasis-30.txt","app/katabasis-31.txt","app/katabasis-32.txt","app/katabasis-33.txt","app/katabasis-34.txt","app/katabasis-35.txt","app/katabasis-36.txt","app/katabasis-37.txt"];
       const status = document.getElementById('status');
       const progress = document.getElementById('progress');

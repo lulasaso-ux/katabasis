@@ -385,6 +385,42 @@ Las imágenes son cuatro miniaturas del propio *Livre des merveilles* (el
 frontispicio, Qubilai y la tablilla de oro, los Polo ante el Gran Kan y unos
 peregrinos en Jerusalén) y la caravana del Atlas catalán (1375).
 
+## Ego Hugo
+
+| Paquete | Lecturas | Obras visuales |
+| --- | ---: | ---: |
+| Ego Hugo | 6 | 6 |
+
+«Ego Hugo» era la divisa que Victor Hugo hizo grabar en Hauteville House, su
+casa del exilio en Guernesey. El paquete reúne:
+
+| Lectura | Obra | Texto |
+| --- | --- | --- |
+| «Mañana, al alba…» | *Las contemplaciones*, IV, 14 | completo |
+| Booz dormido | *La leyenda de los siglos* | completo |
+| Los djinns | *Las orientales*, XXVIII | completo |
+| Ultima verba | *Los castigos*, VII, 16 | las trece últimas estrofas |
+| El obispo trabaja | *Los miserables*, I, II, 12 | capítulo completo |
+| Boda de Quasimodo | *Nuestra Señora de París*, XI, 4 | capítulo completo |
+
+Los textos franceses salen de Wikisource. En *Los djinns* se omite el epígrafe
+de Dante. En el capítulo de Quasimodo se repone la inicial que falta en el
+facsímil y un punto antes de «Voilà Montfaucon»; cada ficha lo indica.
+
+Las obras visuales son dos tintas del propio Hugo (*Mi destino* y *El burgo
+de Hugo Cabeza de Águila*), el retrato de Léopoldine niña de Auguste de
+Châtillon, *Segadores descansando (Rut y Booz)* de Millet, el Monseñor
+Bienvenu que Gustave Brion dibujó para *Los miserables* en 1862 y *La
+Esmeralda* de Charles de Steuben. Cuatro son CC0 de Paris Musées.
+
+## Pantalla de carga
+
+Mientras se cargan los archivos de la sala, `index.html` muestra la portada
+de Katabasis (`app/katabasis-portada.webp`, 1000 × 1000, 37 KB): un cayado con
+un arco, cintas y un escudo con laurel sobre «Descender · leer · renacer». El
+fondo toma el color del papel de la imagen y debajo quedan el estado y una
+barra de progreso fina.
+
 ## Superpaquetes
 
 Un paquete con diez lecturas o más es un *superpaquete*: hoy lo son Ruinas (14),

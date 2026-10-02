@@ -29,6 +29,7 @@
 
   document.addEventListener('click', e => {
     if (!e.target.closest('[data-open-full]')) return;
+    if (typeof active !== 'number' || !works[active]) return; // the book was closed in the meantime
     full = true;
     renderBook();
     const box = document.getElementById('book-content');
