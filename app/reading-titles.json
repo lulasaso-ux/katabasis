@@ -2100,6 +2100,90 @@
    "name_en": "Quasimodo’s Marriage",
    "title_es": "Nuestra Señora de París",
    "title_en": "Notre-Dame de Paris"
+  },
+  "baud-lecteur": {
+   "type": "poem",
+   "name_es": "Al lector",
+   "name_en": "To the Reader",
+   "title_es": "Al lector",
+   "title_en": "To the Reader"
+  },
+  "baud-albatros": {
+   "type": "poem",
+   "name_es": "El albatros",
+   "name_en": "The Albatross",
+   "title_es": "El albatros",
+   "title_en": "The Albatross"
+  },
+  "baud-corresp": {
+   "type": "poem",
+   "name_es": "Correspondencias",
+   "name_en": "Correspondences",
+   "title_es": "Correspondencias",
+   "title_en": "Correspondences"
+  },
+  "baud-invitation": {
+   "type": "poem",
+   "name_es": "La invitación al viaje",
+   "name_en": "Invitation to the Voyage",
+   "title_es": "La invitación al viaje",
+   "title_en": "Invitation to the Voyage"
+  },
+  "baud-harmonie": {
+   "type": "poem",
+   "name_es": "Armonía de la tarde",
+   "name_en": "Evening Harmony",
+   "title_es": "Armonía de la tarde",
+   "title_en": "Evening Harmony"
+  },
+  "baud-charogne": {
+   "type": "poem",
+   "name_es": "Una carroña",
+   "name_en": "A Carcass",
+   "title_es": "Una carroña",
+   "title_en": "A Carcass"
+  },
+  "baud-spleen": {
+   "type": "poem",
+   "name_es": "Spleen",
+   "name_en": "Spleen",
+   "title_es": "Spleen",
+   "title_en": "Spleen"
+  },
+  "baud-passante": {
+   "type": "poem",
+   "name_es": "A una transeúnte",
+   "name_en": "To a Passer-by",
+   "title_es": "A una transeúnte",
+   "title_en": "To a Passer-by"
+  },
+  "baud-recueil": {
+   "type": "poem",
+   "name_es": "Recogimiento",
+   "name_en": "Meditation",
+   "title_es": "Recogimiento",
+   "title_en": "Meditation"
+  },
+  "baud-voyage": {
+   "type": "fragment",
+   "name_es": "El viaje (VII–VIII)",
+   "name_en": "The Voyage (VII–VIII)",
+   "title_es": "El viaje",
+   "title_en": "The Voyage"
+  },
+  "baud-enivrez": {
+   "type": "poem",
+   "name_es": "Embriagaos",
+   "name_en": "Get Drunk",
+   "title_es": "Embriagaos",
+   "title_en": "Get Drunk"
+  },
+  "baud-etranger": {
+   "type": "poem",
+   "name_es": "El extranjero",
+   "name_en": "The Stranger",
+   "title_es": "El extranjero",
+   "title_en": "The Stranger"
   }
  }
 }
