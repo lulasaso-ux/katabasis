@@ -127,9 +127,13 @@
     },
     {
       "id": "cerv-murillo-ninos",
-      "file": "Bartolomé_Esteban_Murillo_-_Boys_Eating_Grapes_and_Melon.jpg",
-      "search": "Murillo Boys Eating Grapes and Melon Traubenesser",
-      "width": 1000
+      "file": "Bartolomé_Esteban_Perez_Murillo_-_Trauben-_und_Melonenesser_-_WGA16369.jpg",
+      "search": "Murillo niños comiendo uvas y melón Alte Pinakothek",
+      "width": 1000,
+      "alt": [
+        "Murillo_-_Trauben-_und_Melonenesser.jpg",
+        "Bartolomé_Esteban_Murillo_-_Boys_Eating_Grapes_and_Melon_-_WGA16369.jpg"
+      ]
     },
     {
       "id": "cerv-lepanto",
@@ -139,9 +143,12 @@
     },
     {
       "id": "cerv-velazquez-menipo",
-      "file": "Diego_Rodríguez_de_Silva_y_Velázquez_-_Menippus_-_Google_Art_Project.jpg",
-      "search": "Velázquez Menipo Prado",
-      "width": 1000
+      "file": "Velázquez_-_Menipo,_Hacia_1638.jpg",
+      "search": "Menipo Velázquez Museo del Prado",
+      "width": 1000,
+      "alt": [
+        "Menipo_(Museo_del_Prado).jpg"
+      ]
     },
     {
       "id": "cerv-velazquez-esopo",
@@ -181,15 +188,22 @@
     },
     {
       "id": "vond-rembrandt-christus",
-      "file": "Rembrandt_-_Head_of_Christ_-_Google_Art_Project.jpg",
-      "search": "Rembrandt Head of Christ",
-      "width": 1000
+      "file": "Head_of_Christ_by_Rembrandt_(Philadelphia_panel).jpg",
+      "search": "Rembrandt Head of Christ Philadelphia",
+      "width": 1000,
+      "alt": [
+        "Rembrandt_Harmensz._van_Rijn,_Dutch_(active_Leiden_and_Amsterdam)_-_Head_of_Christ_-_Google_Art_Project.jpg"
+      ]
     },
     {
       "id": "vond-goyen-rijn",
-      "file": "Jan_van_Goyen_-_View_of_the_Rhine_near_Hoog-Elten.jpg",
-      "search": "Jan van Goyen Rijn river landscape Rhine",
-      "width": 1000
+      "file": "Jan_van_Goyen_-_River_Landscape_-_WGA09955.jpg",
+      "search": "Jan van Goyen river landscape",
+      "width": 1000,
+      "alt": [
+        "Jan_van_Goyen_-_River_landscape.jpg",
+        "Jan_van_Goyen_-_Rivierlandschap.jpg"
+      ]
     },
     {
       "id": "vond-terborch-munster",
@@ -241,15 +255,21 @@
     },
     {
       "id": "push-brullov-natalia",
-      "file": "Natalia_Pushkina_by_A.Brullov_(1831,_Pushkin_museum).jpg",
-      "search": "Natalia Pushkina Alexander Brullov watercolour 1831",
-      "width": 1000
+      "file": "Наталья_Николаевна_Пушкина.jpg",
+      "search": "Наталья Николаевна Пушкина Брюллов",
+      "width": 1000,
+      "alt": [
+        "Natalia_Pushkina_by_Alexander_Brullov.jpg"
+      ]
     },
     {
       "id": "push-kern",
-      "file": "Anna_Kern.jpg",
-      "search": "Anna Kern portrait",
-      "width": 1000
+      "file": "Анна_Петровна_Керн.jpg",
+      "search": "Анна Петровна Керн портрет",
+      "width": 1000,
+      "alt": [
+        "Annakern.jpg"
+      ]
     }
   ]
 }
