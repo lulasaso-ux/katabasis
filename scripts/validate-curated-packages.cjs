@@ -109,7 +109,7 @@ for (const list of [works, paintings, packages]) {
   assert.equal(new Set(list.map(x=>x.id)).size, list.length, 'Duplicate ID');
 }
 for (const [id, expectedReadings, expectedArt] of [
-  ['renaissance-superpack', 12, 6], ['latin-american-romanticism', 6, 3], ['goethezeit',4,2], ['quixote-mysteries',5,1], ['bardolatry',4,2], ['cervantismo',4,1], ['war-peace-mysteries',5,1], ['aeneid-mysteries',5,2],
+  ['renaissance-superpack', 12, 6], ['latin-american-romanticism', 6, 3], ['goethezeit',8,2], ['quixote-mysteries',5,1], ['bardolatry',4,2], ['cervantismo',4,1], ['war-peace-mysteries',5,1], ['aeneid-mysteries',5,2],
   ['vondeliana',5,3], ['os-lusiadas',6,3],
   ['contrapasso',5,3], ['gilded-age',6,5],
   ['tragedia',6,5], ['comedia',6,4],
