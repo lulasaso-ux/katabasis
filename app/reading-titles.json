@@ -2212,6 +2212,230 @@
    "name_en": "You Who Are from Heaven",
    "title_es": "Tú que vienes del cielo",
    "title_en": "You Who Are from Heaven"
+  },
+  "goethezeit-ganymed": {
+   "type": "poem",
+   "name_es": "Ganimedes",
+   "name_en": "Ganymede",
+   "title_es": "Ganimedes",
+   "title_en": "Ganymede"
+  },
+  "goethezeit-an-den-mond": {
+   "type": "poem",
+   "name_es": "A la luna",
+   "name_en": "To the Moon",
+   "title_es": "A la luna",
+   "title_en": "To the Moon"
+  },
+  "push-ekho": {
+   "type": "poem",
+   "name_es": "Eco",
+   "name_en": "Echo",
+   "title_es": "Eco",
+   "title_en": "Echo"
+  },
+  "push-tucha": {
+   "type": "poem",
+   "name_es": "La nube",
+   "name_en": "The Cloud",
+   "title_es": "La nube",
+   "title_en": "The Cloud"
+  },
+  "push-chto-v-imeni": {
+   "type": "poem",
+   "name_es": "¿Qué es para ti mi nombre?",
+   "name_en": "What Is My Name to You?",
+   "title_es": "¿Qué es para ti mi nombre?",
+   "title_en": "What Is My Name to You?"
+  },
+  "push-anchar": {
+   "type": "poem",
+   "name_es": "El anchar",
+   "name_en": "The Anchar",
+   "title_es": "El anchar",
+   "title_en": "The Anchar"
+  },
+  "hugo-juin": {
+   "type": "poem",
+   "name_es": "Noches de junio",
+   "name_en": "June Nights",
+   "title_es": "Noches de junio",
+   "title_en": "June Nights"
+  },
+  "hugo-semailles": {
+   "type": "poem",
+   "name_es": "Tiempo de siembra. El atardecer",
+   "name_en": "Sowing Season. Evening",
+   "title_es": "Tiempo de siembra. El atardecer",
+   "title_en": "Sowing Season. Evening"
+  },
+  "hugo-dechaussee": {
+   "type": "poem",
+   "name_es": "Iba descalza, iba despeinada",
+   "name_en": "She Was Barefoot, She Was Bareheaded",
+   "title_es": "Iba descalza, iba despeinada",
+   "title_en": "She Was Barefoot, She Was Bareheaded"
+  },
+  "hugo-oceano": {
+   "type": "poem",
+   "name_es": "Oceano nox",
+   "name_en": "Oceano Nox",
+   "title_es": "Oceano nox",
+   "title_en": "Oceano Nox"
+  },
+  "bard-sonnet-29": {
+   "type": "poem",
+   "name_es": "Cuando, caído del favor",
+   "name_en": "Sonnet 29",
+   "title_es": "Cuando, caído del favor",
+   "title_en": "Sonnet 29"
+  },
+  "bard-sonnet-30": {
+   "type": "poem",
+   "name_es": "Cuando a la sesión del pensamiento",
+   "name_en": "Sonnet 30",
+   "title_es": "Cuando a la sesión del pensamiento",
+   "title_en": "Sonnet 30"
+  },
+  "bard-sonnet-60": {
+   "type": "poem",
+   "name_es": "Como las olas hacia la orilla",
+   "name_en": "Sonnet 60",
+   "title_es": "Como las olas hacia la orilla",
+   "title_en": "Sonnet 60"
+  },
+  "bard-sonnet-94": {
+   "type": "poem",
+   "name_es": "Los que tienen poder de herir",
+   "name_en": "Sonnet 94",
+   "title_es": "Los que tienen poder de herir",
+   "title_en": "Sonnet 94"
+  },
+  "bard-sonnet-129": {
+   "type": "poem",
+   "name_es": "El gasto del espíritu",
+   "name_en": "Sonnet 129",
+   "title_es": "El gasto del espíritu",
+   "title_en": "Sonnet 129"
+  },
+  "bard-sonnet-130": {
+   "type": "poem",
+   "name_es": "Los ojos de mi amada",
+   "name_en": "Sonnet 130",
+   "title_es": "Los ojos de mi amada",
+   "title_en": "Sonnet 130"
+  },
+  "cerv-retrato": {
+   "type": "fragment",
+   "name_es": "El retrato que Cervantes se escribió",
+   "name_en": "The Portrait Cervantes Wrote Himself",
+   "title_es": "Novelas ejemplares",
+   "title_en": "Exemplary Novels"
+  },
+  "cerv-nicosia": {
+   "type": "fragment",
+   "name_es": "Un cautivo le habla a las ruinas",
+   "name_en": "A Captive Speaks to the Ruins",
+   "title_es": "El amante liberal",
+   "title_en": "The Generous Lover"
+  },
+  "cerv-fuerza-sangre": {
+   "type": "fragment",
+   "name_es": "Una noche de verano en Toledo",
+   "name_en": "A Summer Night in Toledo",
+   "title_es": "La fuerza de la sangre",
+   "title_en": "The Power of Blood"
+  },
+  "cerv-carrizales": {
+   "type": "fragment",
+   "name_es": "Un pródigo vuelve rico",
+   "name_en": "A Prodigal Comes Back Rich",
+   "title_es": "El celoso extremeño",
+   "title_en": "The Jealous Man from Extremadura"
+  },
+  "cerv-fregona": {
+   "type": "fragment",
+   "name_es": "Dos muchachos de Burgos",
+   "name_en": "Two Boys of Burgos",
+   "title_es": "La ilustre fregona",
+   "title_en": "The Illustrious Kitchen-Maid"
+  },
+  "cerv-espanola": {
+   "type": "fragment",
+   "name_es": "Una niña entre el botín",
+   "name_en": "A Child Among the Spoils",
+   "title_es": "La española inglesa",
+   "title_en": "The English Spanish Girl"
+  },
+  "contra-piangete": {
+   "type": "poem",
+   "name_es": "Llorad, amantes",
+   "name_en": "Weep, Lovers",
+   "title_es": "Llorad, amantes",
+   "title_en": "Weep, Lovers"
+  },
+  "contra-morte-villana": {
+   "type": "poem",
+   "name_es": "Muerte villana",
+   "name_en": "Villainous Death",
+   "title_es": "Muerte villana",
+   "title_en": "Villainous Death"
+  },
+  "contra-ne-li-occhi": {
+   "type": "poem",
+   "name_es": "Mi señora lleva a Amor en los ojos",
+   "name_en": "My Lady Carries Love in Her Eyes",
+   "title_es": "Mi señora lleva a Amor en los ojos",
+   "title_en": "My Lady Carries Love in Her Eyes"
+  },
+  "contra-svegliar": {
+   "type": "poem",
+   "name_es": "Sentí despertar un espíritu",
+   "name_en": "I Felt a Spirit Wake",
+   "title_es": "Sentí despertar un espíritu",
+   "title_en": "I Felt a Spirit Wake"
+  },
+  "contra-sospiri": {
+   "type": "poem",
+   "name_es": "Venid a oír mis suspiros",
+   "name_en": "Come and Hear My Sighs",
+   "title_es": "Venid a oír mis suspiros",
+   "title_en": "Come and Hear My Sighs"
+  },
+  "vond-vossius": {
+   "type": "poem",
+   "name_es": "Consolación a Gerardus Vossius",
+   "name_en": "Consolation to Gerardus Vossius",
+   "title_es": "Consolación a Gerardus Vossius",
+   "title_en": "Consolation to Gerardus Vossius"
+  },
+  "vond-isabelle": {
+   "type": "poem",
+   "name_es": "La niña consuela a sus padres",
+   "name_en": "The Child Consoles Her Parents",
+   "title_es": "La niña consuela a sus padres",
+   "title_en": "The Child Consoles Her Parents"
+  },
+  "vond-rynstroom": {
+   "type": "fragment",
+   "name_es": "El Rin",
+   "name_en": "The Rhine",
+   "title_es": "De Rynstroom",
+   "title_en": "De Rynstroom"
+  },
+  "vond-vredewensch": {
+   "type": "poem",
+   "name_es": "Deseo de paz, a Constantijn Huygens",
+   "name_en": "A Wish for Peace, to Constantijn Huygens",
+   "title_es": "Deseo de paz, a Constantijn Huygens",
+   "title_en": "A Wish for Peace, to Constantijn Huygens"
+  },
+  "vond-gebedt": {
+   "type": "poem",
+   "name_es": "El Padrenuestro",
+   "name_en": "The Lord’s Prayer",
+   "title_es": "El Padrenuestro",
+   "title_en": "The Lord’s Prayer"
   }
  }
 }

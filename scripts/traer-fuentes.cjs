@@ -34,6 +34,31 @@ async function wikitext(site, title) {
   return raw;
 }
 
+// El wikitexto no basta en todos los Wikisource: el alemán guarda el poema en
+// una plantilla <poem>, el francés lo transcluye desde el escaneo con <pages>
+// y el ruso lo pone tras una ficha. El texto ya renderizado sirve para los dos
+// últimos, así que se traen ambos y se elige al componer.
+async function textoPlano(site, title) {
+  // action=parse resuelve la transclusión <pages> del Wikisource francés, que
+  // prop=extracts devuelve vacía. Se conserva el salto de verso de los <br>.
+  const url = `https://${site}/w/api.php?action=parse&prop=text&formatversion=2`
+    + `&format=json&redirects=1&page=${encodeURIComponent(title)}`;
+  const data = JSON.parse(await get(url, false));
+  const html = data?.parse?.text || '';
+  return html
+    .replace(/<style[\s\S]*?<\/style>/g, '')
+    .replace(/<script[\s\S]*?<\/script>/g, '')
+    .replace(/<sup class="reference"[\s\S]*?<\/sup>/g, '')
+    .replace(/<br\s*\/?>/g, '\n')
+    .replace(/<\/(p|div|dd|li|h\d)>/g, '\n')
+    .replace(/<[^>]+>/g, '')
+    .replace(/&#160;|&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"').replace(/&#39;/g, "'")
+    .split('\n').map(l => l.trim()).join('\n')
+    .replace(/\n{3,}/g, '\n\n').trim();
+}
+
 // Cuando el título exacto no existe, proponer candidatos en vez de rendirse.
 async function buscar(site, term) {
   try {
@@ -44,10 +69,21 @@ async function buscar(site, term) {
   } catch { return []; }
 }
 
+// Commons, espacio de nombres Archivo: los nombres sin el prefijo «File:».
+async function buscarArchivos(term) {
+  try {
+    const url = 'https://commons.wikimedia.org/w/api.php?action=query&list=search&format=json&formatversion=2'
+      + '&srnamespace=6&srlimit=8&srsearch=' + encodeURIComponent(term);
+    const data = JSON.parse(await get(url, false));
+    return (data?.query?.search || []).map(r => r.title.replace(/^File:/, ''))
+      .filter(n => /\.(jpe?g|png)$/i.test(n));
+  } catch { return []; }
+}
+
 // Commons: la ficha del archivo y una versión de 1200 px de ancho como máximo.
-async function commonsImage(file) {
+async function commonsImage(file, ancho) {
   const url = 'https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo'
-    + '&iiprop=url|extmetadata|mime|size&iiurlwidth=1200&format=json&formatversion=2'
+    + '&iiprop=url|extmetadata|mime|size&iiurlwidth=' + (ancho || 1200) + '&format=json&formatversion=2'
     + '&titles=' + encodeURIComponent('File:' + file);
   const data = JSON.parse(await get(url, false));
   const page = data?.query?.pages?.[0];
@@ -74,14 +110,44 @@ async function commonsImage(file) {
   };
 }
 
+// No todo vive en un Wikisource: Vondel viene de dbnl.org y Cervantes de un
+// libro de Gutenberg. Una entrada con `url` se trae tal cual y se le quita el
+// marcado, conservando los saltos de línea.
+async function paginaSuelta(url) {
+  const html = await get(url, false);
+  // Un índice sirve de poco sin sus enlaces: se conservan como «texto → ruta».
+  const conEnlaces = html.replace(/<a\s[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/g,
+    (m, href, texto) => texto.replace(/<[^>]+>/g, '').trim() + ' \u2192 ' + href);
+  return conEnlaces
+    .replace(/<style[\s\S]*?<\/style>/g, '')
+    .replace(/<script[\s\S]*?<\/script>/g, '')
+    .replace(/<br\s*\/?>/g, '\n')
+    .replace(/<\/(p|div|dd|li|tr|h\d)>/g, '\n')
+    .replace(/<[^>]+>/g, '')
+    .replace(/&#160;|&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&eacute;/g, 'é')
+    .split('\n').map(l => l.trim()).join('\n')
+    .replace(/\n{3,}/g, '\n\n').trim();
+}
+
 (async () => {
   const textos = {};
   for (const t of manifest.textos || []) {
     process.stdout.write('texto  ' + t.id.padEnd(34));
     try {
+      if (t.url) {
+        // `raw` guarda el HTML sin tocar, para cuando hay que controlar la
+        // extracción verso a verso en vez de fiarse del desmarcado general.
+        const plain = t.raw ? await get(t.url, false) : await paginaSuelta(t.url);
+        textos[t.id] = { ...t, body: '', plain };
+        console.log('OK  página suelta' + (t.raw ? ' en crudo' : '') + ', ' + plain.length + ' car');
+        continue;
+      }
       const body = await wikitext(t.site, t.title);
-      textos[t.id] = { ...t, url: `https://${t.site}/wiki/${encodeURIComponent(t.title)}`, body };
-      console.log('OK  ' + body.split('\n').length + ' líneas, ' + body.length + ' caracteres');
+      const plain = await textoPlano(t.site, t.title).catch(() => '');
+      textos[t.id] = { ...t, url: `https://${t.site}/wiki/${encodeURIComponent(t.title)}`, body, plain };
+      console.log('OK  wikitexto ' + body.length + ' car · renderizado ' + plain.length + ' car');
     } catch (e) { textos[t.id] = { ...t, error: String(e.message) }; console.log('FALLA  ' + e.message); }
   }
   fs.writeFileSync(path.join(out, 'textos.json'), JSON.stringify(textos, null, 1));
@@ -89,10 +155,29 @@ async function commonsImage(file) {
   const imagenes = {};
   for (const a of manifest.imagenes || []) {
     process.stdout.write('imagen ' + a.id.padEnd(34));
-    try {
-      imagenes[a.id] = { ...a, ...(await commonsImage(a.file)) };
-      console.log('OK  ' + imagenes[a.id].width + 'x' + imagenes[a.id].height + ', ' + Math.round(imagenes[a.id].bytes / 1024) + ' KB');
-    } catch (e) { imagenes[a.id] = { ...a, error: String(e.message) }; console.log('FALLA  ' + e.message); }
+    // Un nombre de archivo escrito de memoria falla a menudo por un guion o un
+    // acento, de modo que se prueban los alternativos y, si ninguno existe, se
+    // busca en Commons: la corrida deja resuelto lo que pueda y, para el resto,
+    // los candidatos con que corregir el manifiesto.
+    const intentos = [a.file, ...(a.alt || [])].filter(Boolean);
+    let hecho = null, errores = [];
+    for (const nombre of intentos) {
+      try { hecho = await commonsImage(nombre, a.width); break; }
+      catch (e) { errores.push(nombre + ': ' + e.message); }
+    }
+    if (!hecho && (a.search || intentos.length)) {
+      const candidatos = await buscarArchivos(a.search || intentos[0].replace(/[_-]/g, ' ').replace(/\.(jpg|jpeg|png|tif|tiff)$/i, ''));
+      for (const nombre of candidatos) {
+        try { hecho = await commonsImage(nombre, a.width); hecho.resuelto_por_busqueda = true; break; }
+        catch (e) { errores.push(nombre + ': ' + e.message); }
+      }
+      if (!hecho) { imagenes[a.id] = { ...a, error: errores.join(' | ') || 'sin candidatos', candidatos }; console.log('FALLA  ' + (candidatos.length ? candidatos.length + ' candidatos, ninguno servible' : 'sin candidatos')); continue; }
+      hecho.candidatos = candidatos;
+    }
+    if (!hecho) { imagenes[a.id] = { ...a, error: errores.join(' | ') }; console.log('FALLA  ' + errores.join(' | ')); continue; }
+    imagenes[a.id] = { ...a, ...hecho };
+    console.log('OK  ' + hecho.width + 'x' + hecho.height + ', ' + Math.round(hecho.bytes / 1024) + ' KB'
+      + (hecho.resuelto_por_busqueda ? '  (por busqueda: ' + hecho.file + ')' : ''));
   }
   fs.writeFileSync(path.join(out, 'imagenes.json'), JSON.stringify(imagenes, null, 1));
 
