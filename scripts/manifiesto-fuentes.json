@@ -36,12 +36,13 @@
       "width": 1000
     },
     {
-      "id": "goethezeit-friedrich-mond",
-      "file": "Caspar_David_Friedrich_-_Two_Men_Contemplating_the_Moon_-_Google_Art_Project.jpg",
-      "search": "Friedrich Two Men Contemplating the Moon",
+      "id": "goethezeit-friedrich-mondaufgang",
+      "file": "Caspar_David_Friedrich_-_Mondaufgang_am_Meer_-_Google_Art_Project.jpg",
+      "search": "Friedrich Mondaufgang am Meer moonrise over the sea",
       "width": 1000,
       "alt": [
-        "Caspar_David_Friedrich_-_Zwei_Männer_in_Betrachtung_des_Mondes_-_Google_Art_Project.jpg"
+        "Caspar_David_Friedrich_-_Moonrise_over_the_Sea_-_Google_Art_Project.jpg",
+        "Caspar_David_Friedrich_-_Mondaufgang_am_Meer_(1822).jpg"
       ]
     },
     {
@@ -254,14 +255,13 @@
     },
     {
       "id": "push-brullov-natalia",
-      "file": "Natalya_Pushkina_by_A.Brullov_(1831).jpg",
-      "search": "Natalya Nikolayevna Pushkina portrait",
+      "file": "Наталья_Гончарова.jpg",
+      "search": "Natalia Goncharova wife of Pushkin",
       "width": 1000,
       "alt": [
-        "Natalia_Nikolaevna_Pushkina.jpg",
-        "Naталья_Пушкина.jpg",
-        "Alexander_Brullov_-_Portrait_of_Natalya_Pushkina.jpg",
-        "Pushkina_Natalia_Nikolaevna.jpg"
+        "Natalia_Goncharova_Pushkina.jpg",
+        "Н.Н.Пушкина.jpg",
+        "Pushkina_Natalya_Nikolaevna_(Brullov).jpg"
       ]
     },
     {
