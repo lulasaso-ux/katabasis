@@ -5122,6 +5122,10 @@
    "que todo lo ama",
    "all-loving"
   ],
+  "alliebender": [
+   "que todo lo ama",
+   "all-loving"
+  ],
   "allmächtigen": [
    "todopoderoso",
    "Almighty"
@@ -5193,6 +5197,10 @@
   "angestammte": [
    "heredada",
    "ancestral"
+  ],
+  "anglühst": [
+   "abrasas",
+   "glow upon"
   ],
   "angst": [
    "angustia",
@@ -5306,9 +5314,17 @@
    "revuelo",
    "sensation"
   ],
+  "aufwärts": [
+   "hacia arriba",
+   "upward"
+  ],
   "aufzuführen": [
    "representar",
    "to present"
+  ],
+  "auge": [
+   "ojo",
+   "eye"
   ],
   "augen": [
    "ojos",
@@ -5422,6 +5438,10 @@
    "tiembla",
    "trembles"
   ],
+  "bedacht": [
+   "pensado",
+   "considered"
+  ],
   "bedeckten": [
    "cubrían",
    "covered"
@@ -5529,6 +5549,10 @@
   "besatzung": [
    "guarnición",
    "garrison"
+  ],
+  "besaß": [
+   "tuve",
+   "possessed"
   ],
   "beschenkten": [
    "agraciados",
@@ -5670,6 +5694,10 @@
    "pálida",
    "pale"
   ],
+  "blick": [
+   "mirada",
+   "gaze"
+  ],
   "blicke": [
    "mirar",
    "look"
@@ -5770,8 +5798,16 @@
    "romped",
    "break"
   ],
+  "breitest": [
+   "extiendes",
+   "spread"
+  ],
   "brennend": [
    "ardiendo",
+   "burning"
+  ],
+  "brennenden": [
+   "ardiente",
    "burning"
   ],
   "brennendes": [
@@ -5830,9 +5866,17 @@
    "coloridas",
    "bright"
   ],
+  "busch": [
+   "matorral",
+   "bush"
+  ],
   "busen": [
    "seno",
    "bosom"
+  ],
+  "busens": [
+   "del pecho",
+   "of the breast"
   ],
   "bändigen": [
    "domar",
@@ -6154,6 +6198,10 @@
    "tres",
    "three"
   ],
+  "drein": [
+   "en ello",
+   "into it"
+  ],
   "drinn": [
    "dentro",
    "within"
@@ -6169,6 +6217,10 @@
   "drum": [
    "por eso",
    "therefore"
+  ],
+  "drängen": [
+   "se aprietan",
+   "press"
   ],
   "drängt": [
    "me empuja",
@@ -6450,6 +6502,10 @@
    "escapar",
    "escape"
   ],
+  "entlang": [
+   "a lo largo de",
+   "along"
+  ],
   "entlehnen": [
    "toman prestados",
    "borrow"
@@ -6650,6 +6706,10 @@
    "os",
    "you"
   ],
+  "euerm": [
+   "vuestro",
+   "your"
+  ],
   "eurem": [
    "vuestra",
    "your"
@@ -6822,6 +6882,10 @@
    "que huye",
    "fleeing"
   ],
+  "fließe": [
+   "corre",
+   "flow"
+  ],
   "flimmer": [
    "titilar",
    "glimmer"
@@ -6854,6 +6918,10 @@
    "torrente",
    "flood"
   ],
+  "fluß": [
+   "río",
+   "river"
+  ],
   "flöge": [
    "volara",
    "as if flying"
@@ -6865,6 +6933,10 @@
   "flügel": [
    "alas",
    "wings"
+  ],
+  "flüstre": [
+   "susurra",
+   "whisper"
   ],
   "folgenden": [
    "siguiente",
@@ -6914,6 +6986,10 @@
    "extraño",
    "foreign"
   ],
+  "freud": [
+   "alegría",
+   "joy"
+  ],
   "freuden": [
    "alegrías",
    "joys"
@@ -6926,13 +7002,29 @@
    "amigo",
    "friend"
   ],
+  "freundes": [
+   "del amigo",
+   "of the friend"
+  ],
   "friede": [
    "paz",
    "peace"
   ],
+  "froh": [
+   "alegre",
+   "glad"
+  ],
+  "frühling": [
+   "primavera",
+   "spring"
+  ],
   "frühlingsmorgen": [
    "mañanas de primavera",
    "spring mornings"
+  ],
+  "frühlingspracht": [
+   "esplendor primaveral",
+   "spring splendour"
   ],
   "fuehrers": [
    "jefe",
@@ -6973,6 +7065,10 @@
   "fühle": [
    "siento",
    "feel"
+  ],
+  "fühlt": [
+   "siente",
+   "feels"
   ],
   "fühlte": [
    "se sentía",
@@ -7126,9 +7222,17 @@
    "echado",
    "taken"
   ],
+  "gefild": [
+   "campo",
+   "field"
+  ],
   "gefunden": [
    "hallados",
    "found"
+  ],
+  "gefühl": [
+   "sentimiento",
+   "feeling"
   ],
   "gefühle": [
    "sentimiento",
@@ -7282,6 +7386,10 @@
    "disfruto",
    "enjoy"
   ],
+  "genießt": [
+   "disfruta",
+   "enjoys"
+  ],
   "gepackt": [
    "agarrado",
    "grabbed"
@@ -7325,6 +7433,10 @@
   "geschichte": [
    "historia",
    "story"
+  ],
+  "geschick": [
+   "destino",
+   "fate"
   ],
   "geschickten": [
    "hábil",
@@ -7429,6 +7541,10 @@
   "gewinn": [
    "ganancia",
    "gain"
+  ],
+  "gewußt": [
+   "sabido",
+   "known"
   ],
   "gezogen": [
    "marchado",
@@ -7549,6 +7665,10 @@
   "grab": [
    "tumba",
    "grave"
+  ],
+  "gras": [
+   "hierba",
+   "grass"
   ],
   "grase": [
    "hierba",
@@ -7742,6 +7862,10 @@
    "zona de piel",
    "patch of skin"
   ],
+  "haß": [
+   "odio",
+   "hatred"
+  ],
   "hebt": [
    "se levanta",
    "rises"
@@ -7761,6 +7885,10 @@
   "heiden": [
    "brezal",
    "heath"
+  ],
+  "heilig": [
+   "sagrado",
+   "holy"
   ],
   "heiligtum": [
    "santuario",
@@ -7861,6 +7989,10 @@
   "hinan": [
    "arriba",
    "up"
+  ],
+  "hinauf": [
+   "arriba",
+   "upward"
   ],
   "hinaus": [
    "afuera",
@@ -8210,6 +8342,10 @@
    "todo",
    "every"
   ],
+  "jeden": [
+   "cada",
+   "every"
+  ],
   "jeder": [
    "cada uno",
    "everyone"
@@ -8232,6 +8368,10 @@
   ],
   "jung": [
    "joven",
+   "young"
+  ],
+  "junger": [
+   "jóvenes",
    "young"
   ],
   "jungfrau": [
@@ -8382,6 +8522,10 @@
    "niño",
    "boy"
   ],
+  "knospen": [
+   "brotes",
+   "buds"
+  ],
   "koenig": [
    "rey",
    "king"
@@ -8392,6 +8536,10 @@
   ],
   "komm": [
    "ven",
+   "come"
+  ],
+  "komme": [
+   "voy",
    "come"
   ],
   "kommt": [
@@ -8478,6 +8626,14 @@
    "pudieras",
    "could"
   ],
+  "köstlich": [
+   "precioso",
+   "precious"
+  ],
+  "kühlst": [
+   "refrescas",
+   "cool"
+  ],
   "künstliches": [
    "artificial",
    "artificial"
@@ -8485,6 +8641,10 @@
   "küssen": [
    "besar",
    "kiss"
+  ],
+  "labyrinth": [
+   "laberinto",
+   "labyrinth"
   ],
   "laden": [
    "citar",
@@ -8698,9 +8858,17 @@
    "querido",
    "dear"
   ],
+  "liebend": [
+   "con amor",
+   "lovingly"
+  ],
   "liebenden": [
    "amantes",
    "lovers"
+  ],
+  "lieber": [
+   "querido",
+   "dear"
   ],
   "liebes": [
    "querido",
@@ -8718,9 +8886,17 @@
    "alianza amorosa",
    "bond of love"
   ],
+  "liebeswonne": [
+   "delicia de amor",
+   "bliss of love"
+  ],
   "liebhabern": [
    "amantes",
    "lovers"
+  ],
+  "lieblicher": [
+   "dulce",
+   "lovely"
   ],
   "liebster": [
    "amado",
@@ -8742,6 +8918,10 @@
    "entregó",
    "handed over"
   ],
+  "lieg": [
+   "yazgo",
+   "lie"
+  ],
   "liege": [
    "yazgo",
    "lie"
@@ -8761,6 +8941,10 @@
   "ließ": [
    "soltaba",
    "let go"
+  ],
+  "lindernd": [
+   "que alivia",
+   "soothing"
   ],
   "linken": [
    "izquierdo",
@@ -8837,6 +9021,10 @@
   "läßt": [
    "hace",
    "has"
+  ],
+  "lösest": [
+   "sueltas",
+   "loosen"
   ],
   "lösung": [
    "solución",
@@ -8966,6 +9154,10 @@
    "dijo",
    "said"
   ],
+  "melodien": [
+   "melodías",
+   "melodies"
+  ],
   "memel": [
    "Niemen",
    "Memel"
@@ -9018,6 +9210,10 @@
    "me",
    "me"
   ],
+  "mild": [
+   "manso",
+   "mild"
+  ],
   "milde": [
    "suaves",
    "mild"
@@ -9050,9 +9246,17 @@
    "de la luna",
    "of the moon"
   ],
+  "morgenglanze": [
+   "resplandor de la mañana",
+   "morning radiance"
+  ],
   "morgenschön": [
    "bella como la mañana",
    "morning-fair"
+  ],
+  "morgenwind": [
+   "viento de la mañana",
+   "morning wind"
   ],
   "mund": [
    "boca",
@@ -9174,6 +9378,10 @@
    "luego",
    "afterwards"
   ],
+  "nachklang": [
+   "eco",
+   "echo"
+  ],
   "nachsetzenden": [
    "perseguidores",
    "pursuing"
@@ -9185,6 +9393,10 @@
   "nachtbegeisterung": [
    "entusiasmo nocturno",
    "night-rapture"
+  ],
+  "nachtigall": [
+   "ruiseñor",
+   "nightingale"
   ],
   "nah": [
    "cerca",
@@ -9222,9 +9434,17 @@
    "niebla",
    "mist"
   ],
+  "nebelglanz": [
+   "brillo de niebla",
+   "misty gleam"
+  ],
   "nebelstreif": [
    "jirón de niebla",
    "streak of mist"
+  ],
+  "nebelthal": [
+   "valle de niebla",
+   "misty valley"
   ],
   "neben": [
    "junto a",
@@ -9249,6 +9469,10 @@
   "neid": [
    "envidia",
    "envy"
+  ],
+  "neigen": [
+   "se inclinan",
+   "bow"
   ],
   "neue": [
    "nueva",
@@ -9542,9 +9766,17 @@
    "Pirro",
    "Pyrrhus"
   ],
+  "qual": [
+   "tormento",
+   "torment"
+  ],
   "quellen": [
    "fuentes",
    "springs"
+  ],
+  "quillst": [
+   "manas",
+   "well up"
   ],
   "raeumten": [
    "abandonaron",
@@ -9570,6 +9802,10 @@
    "furia",
    "frenzy"
   ],
+  "rast": [
+   "descanso",
+   "rest"
+  ],
   "raum": [
    "espacio",
    "space"
@@ -9577,6 +9813,10 @@
   "raume": [
    "espacio",
    "space"
+  ],
+  "rausche": [
+   "suena",
+   "rush"
   ],
   "rauschen": [
    "rumor",
@@ -9766,6 +10006,10 @@
    "llamo",
    "call"
   ],
+  "ruft": [
+   "llama",
+   "calls"
+  ],
   "ruh": [
    "calma",
    "rest"
@@ -9950,6 +10194,10 @@
    "añicos",
    "shards"
   ],
+  "scherz": [
+   "broma",
+   "jest"
+  ],
   "scheuten": [
    "se espantaron",
    "shied"
@@ -10026,6 +10274,10 @@
    "sopor",
    "slumber"
   ],
+  "schmachte": [
+   "desfallezco",
+   "languish"
+  ],
   "schmachtet": [
    "languidece",
    "languishes"
@@ -10057,6 +10309,10 @@
   "schon": [
    "ya",
    "already"
+  ],
+  "schooße": [
+   "regazo",
+   "lap"
   ],
   "schorfe": [
    "costras",
@@ -10101,6 +10357,10 @@
   "schwarze": [
    "negras",
    "black"
+  ],
+  "schweben": [
+   "flotan",
+   "float"
   ],
   "schwebend": [
    "flotando",
@@ -10181,6 +10441,10 @@
   "sehne": [
    "anhelo",
    "long"
+  ],
+  "sehnenden": [
+   "que anhela",
+   "longing"
   ],
   "sehnsucht": [
    "anhelo",
@@ -10662,6 +10926,10 @@
    "aspirar",
    "strive"
   ],
+  "strebt's": [
+   "tira",
+   "it strains"
+  ],
   "streitend": [
    "disputando",
    "quarrelling"
@@ -10798,6 +11066,10 @@
    "mil",
    "thousand"
   ],
+  "tausendfacher": [
+   "mil veces",
+   "thousandfold"
+  ],
   "teeisten": [
    "asiduo al té",
    "tea-goer"
@@ -10821,6 +11093,10 @@
   "teuren": [
    "querido",
    "beloved"
+  ],
+  "thal": [
+   "valle",
+   "valley"
   ],
   "that": [
    "hazaña",
@@ -11010,6 +11286,10 @@
    "soñé",
    "dreamed"
   ],
+  "trüber": [
+   "sombrío",
+   "gloomy"
+  ],
   "tuechtigsten": [
    "más capaces",
    "ablest"
@@ -11050,6 +11330,14 @@
    "por",
    "for"
   ],
+  "umfangen": [
+   "abrazado",
+   "embraced"
+  ],
+  "umfangend": [
+   "abrazando",
+   "embracing"
+  ],
   "umgürtet": [
    "ceñido",
    "girded"
@@ -11081,6 +11369,10 @@
   "undurchdringlichen": [
    "impenetrable",
    "impenetrable"
+  ],
+  "unendliche": [
+   "infinita",
+   "infinite"
   ],
   "unendlichen": [
    "infinita",
@@ -11378,6 +11670,10 @@
    "sensatas",
    "sensible"
   ],
+  "verrauschte": [
+   "se fue en rumor",
+   "rushed away"
+  ],
   "verruchter": [
    "malvado",
    "villainous"
@@ -11385,6 +11681,10 @@
   "verrückt": [
    "trastornado",
    "deranged"
+  ],
+  "verschließt": [
+   "se cierra",
+   "shuts himself"
   ],
   "verschwinden": [
    "desaparecer",
@@ -11561,6 +11861,14 @@
   "wand": [
    "pared",
    "face"
+  ],
+  "wandelt": [
+   "cruza",
+   "wanders"
+  ],
+  "wandle": [
+   "camino",
+   "walk"
   ],
   "wandrer": [
    "caminante",
@@ -11758,6 +12066,10 @@
    "quién",
    "who"
   ],
+  "werd": [
+   "seré",
+   "shall"
+  ],
   "werde": [
    "dejaría",
    "would"
@@ -11826,6 +12138,10 @@
    "viento",
    "wind"
   ],
+  "winternacht": [
+   "noche de invierno",
+   "winter night"
+  ],
   "wipfeln": [
    "copas",
    "treetops"
@@ -11862,6 +12178,10 @@
    "de dónde",
    "whence"
   ],
+  "wohin": [
+   "adónde",
+   "where to"
+  ],
   "wohl": [
    "bien",
    "well"
@@ -11881,6 +12201,10 @@
   "wolke": [
    "nube",
    "cloud"
+  ],
+  "wolken": [
+   "nubes",
+   "clouds"
   ],
   "wolkensteg": [
    "sendero de nubes",
@@ -11986,6 +12310,10 @@
    "serían",
    "would be"
   ],
+  "wärme": [
+   "calor",
+   "warmth"
+  ],
   "wärst": [
    "estuvieras",
    "were"
@@ -12005,6 +12333,10 @@
   "wütenden": [
    "furiosos",
    "furious"
+  ],
+  "wüthend": [
+   "furioso",
+   "furiously"
   ],
   "wüßtest": [
    "supieras",
@@ -12049,6 +12381,10 @@
   "zeigt": [
    "muestra",
    "shows"
+  ],
+  "zeit": [
+   "tiempo",
+   "time"
   ],
   "zerbrechen": [
    "quebrarse",
@@ -12221,6 +12557,10 @@
   "überlieferung": [
    "tradición",
    "tradition"
+  ],
+  "überschwillst": [
+   "te desbordas",
+   "swell over"
   ],
   "übersehe": [
    "paso por alto",

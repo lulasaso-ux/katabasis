@@ -2212,6 +2212,20 @@
    "name_en": "You Who Are from Heaven",
    "title_es": "Tú que vienes del cielo",
    "title_en": "You Who Are from Heaven"
+  },
+  "goethezeit-ganymed": {
+   "type": "poem",
+   "name_es": "Ganimedes",
+   "name_en": "Ganymede",
+   "title_es": "Ganimedes",
+   "title_en": "Ganymede"
+  },
+  "goethezeit-an-den-mond": {
+   "type": "poem",
+   "name_es": "A la luna",
+   "name_en": "To the Moon",
+   "title_es": "A la luna",
+   "title_en": "To the Moon"
   }
  }
 }
