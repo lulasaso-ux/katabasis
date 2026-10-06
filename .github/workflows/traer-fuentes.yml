@@ -6,6 +6,13 @@ name: Traer fuentes externas
 # publica con el sitio. Se dispara a mano.
 on:
   workflow_dispatch: {}
+  # workflow_dispatch solo se puede lanzar desde la rama por defecto, así que
+  # editar el manifiesto en cualquier rama también dispara la descarga.
+  push:
+    paths:
+      - 'scripts/manifiesto-fuentes.json'
+      - 'scripts/traer-fuentes.cjs'
+      - '.github/workflows/traer-fuentes.yml'
 
 permissions:
   contents: write
