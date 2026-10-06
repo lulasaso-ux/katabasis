@@ -1,23 +1,30 @@
 {
-  "_nota": "Lo que el flujo Traer fuentes externas descarga. Una entrada con `site`+`title` consulta un Wikisource; una con `url` trae esa página tal cual. El resultado queda en scripts/_fuentes/, fuera del sitio publicado.",
+  "_nota": "Lo que el flujo Traer fuentes externas descarga. `site`+`title` consulta un Wikisource; `url` trae esa página; `raw` la guarda sin desmarcar.",
   "textos": [
     {
-      "id": "dante-xxi",
-      "site": "it.wikisource.org",
-      "title": "Rime (Dante)/XXI - Io mi senti' svegliar dentro a lo core"
+      "id": "vraw-rynstroom",
+      "url": "https://www.dbnl.org/tekst/vond001dewe03_01/vond001dewe03_01_0034.php",
+      "raw": true
     },
     {
-      "id": "dante-xxvi",
-      "site": "it.wikisource.org",
-      "title": "Rime (Dante)/XXVI - Venite a intender li sospiri miei"
+      "id": "vraw-vredewensch",
+      "url": "https://www.dbnl.org/tekst/vond001dewe03_01/vond001dewe03_01_0073.php",
+      "raw": true
     },
     {
-      "id": "vondel-texto3",
-      "url": "https://www.dbnl.org/nieuws/text.php?id=vond001dewe03"
+      "id": "vraw-vossius",
+      "url": "https://www.dbnl.org/tekst/vond001dewe03_01/vond001dewe03_01_0078.php",
+      "raw": true
     },
     {
-      "id": "vondel-texto5",
-      "url": "https://www.dbnl.org/nieuws/text.php?id=vond001dewe05"
+      "id": "vraw-isabelle",
+      "url": "https://www.dbnl.org/tekst/vond001dewe03_01/vond001dewe03_01_0107.php",
+      "raw": true
+    },
+    {
+      "id": "vraw-gebedt",
+      "url": "https://www.dbnl.org/tekst/vond001dewe05_01/vond001dewe05_01_0174.php",
+      "raw": true
     }
   ],
   "imagenes": []

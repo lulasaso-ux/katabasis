@@ -126,9 +126,11 @@ async function paginaSuelta(url) {
     process.stdout.write('texto  ' + t.id.padEnd(34));
     try {
       if (t.url) {
-        const plain = await paginaSuelta(t.url);
+        // `raw` guarda el HTML sin tocar, para cuando hay que controlar la
+        // extracción verso a verso en vez de fiarse del desmarcado general.
+        const plain = t.raw ? await get(t.url, false) : await paginaSuelta(t.url);
         textos[t.id] = { ...t, body: '', plain };
-        console.log('OK  página suelta, ' + plain.length + ' car');
+        console.log('OK  página suelta' + (t.raw ? ' en crudo' : '') + ', ' + plain.length + ' car');
         continue;
       }
       const body = await wikitext(t.site, t.title);
