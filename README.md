@@ -413,28 +413,34 @@ Châtillon, *Segadores descansando (Rut y Booz)* de Millet, el Monseñor
 Bienvenu que Gustave Brion dibujó para *Los miserables* en 1862 y *La
 Esmeralda* de Charles de Steuben. Cuatro son CC0 de Paris Musées.
 
-## El poeta maldito (superpaquete)
+## Poète maudit 1 y 2
 
 | Paquete | Lecturas | Obras visuales |
 | --- | ---: | ---: |
-| El poeta maldito | 12 | 8 |
+| Poète maudit | 6 | 5 |
+| Poète maudit 2 | 6 | 3 |
 
-Charles Baudelaire en doce lecturas, en francés y con nuevas traducciones de
-lectura. De *Las flores del mal*: «Al lector», «El albatros»,
-«Correspondencias», «La invitación al viaje», «Armonía de la tarde», «Una
-carroña», «Spleen» («Cuando el cielo bajo y pesado…»), «A una transeúnte»,
-«Recogimiento» y las dos últimas partes de «El viaje». De los *Pequeños
-poemas en prosa*: «El extranjero» y «Embriagaos». Todos están completos salvo
-«El viaje». El texto es el de la edición de 1861, salvo «Recogimiento» (1868)
-y los poemas en prosa (1869), y conserva su ortografía (*Poëte*,
-*rhythmique*).
+Las doce lecturas de Baudelaire, en francés y con nuevas traducciones de
+lectura, se reparten en dos paquetes que se activan por separado. Quien tenía
+activado el antiguo paquete «El poeta maldito» conserva los dos. El texto es
+el de la edición de 1861, salvo «Recogimiento» (1868) y los poemas en prosa
+(1869), y conserva su ortografía (*Poëte*, *rhythmique*).
 
-Las ocho obras visuales: el retrato de Baudelaire de Courbet, *La amante de
-Baudelaire reclinada* (Jeanne Duval) y *Música en las Tullerías* de Manet, el
-*Homenaje a Delacroix* de Fantin-Latour, *El naufragio de Don Juan* de
-Delacroix, el albatros de Doré para Coleridge, *El estrige* de Meryon y el
-frontispicio de Rops para *Les Épaves*. No repiten ninguna de Poetas
-malditos.
+**Poète maudit** reúne el núcleo de *Spleen e Ideal*: «Al lector», «El
+albatros», «Correspondencias», «La invitación al viaje», «Armonía de la
+tarde» y «Una carroña». Sus cinco obras son el retrato de Baudelaire de
+Courbet, el albatros de Doré para Coleridge, el *Homenaje a Delacroix* de
+Fantin-Latour, *La amante de Baudelaire reclinada* (Jeanne Duval) de Manet y
+el frontispicio de Rops para *Les Épaves*.
+
+**Poète maudit 2** recoge al Baudelaire parisino y tardío: «Spleen» («Cuando
+el cielo bajo y pesado…»), «A una transeúnte», «Recogimiento», las dos
+últimas partes de «El viaje» —la única lectura incompleta de los dos
+paquetes— y, de los *Pequeños poemas en prosa*, «El extranjero» y
+«Embriagaos». Sus tres obras son *El estrige* de Meryon, *Música en las
+Tullerías* de Manet y *El naufragio de Don Juan* de Delacroix.
+
+Ninguna de las ocho repite una obra de Poetas malditos.
 
 ## Pantalla de carga
 
@@ -447,7 +453,7 @@ barra de progreso fina.
 ## Superpaquetes
 
 Un paquete con diez lecturas o más es un *superpaquete*: hoy lo son Ruinas (14),
-Poetas malditos (12), Renacimiento (12) y El poeta maldito (12). La
+Poetas malditos (12) y Renacimiento (12). La
 distinción no se asigna a mano: se calcula con el número de lecturas del
 paquete (`SUPER_PACKAGE_MIN` en `app/katabasis-37.txt`), de modo que un paquete
 que crezca hasta diez lecturas pasa a serlo.
