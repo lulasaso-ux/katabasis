@@ -2282,6 +2282,48 @@
    "name_en": "Oceano Nox",
    "title_es": "Oceano nox",
    "title_en": "Oceano Nox"
+  },
+  "bard-sonnet-29": {
+   "type": "poem",
+   "name_es": "Cuando, caído del favor",
+   "name_en": "Sonnet 29",
+   "title_es": "Cuando, caído del favor",
+   "title_en": "Sonnet 29"
+  },
+  "bard-sonnet-30": {
+   "type": "poem",
+   "name_es": "Cuando a la sesión del pensamiento",
+   "name_en": "Sonnet 30",
+   "title_es": "Cuando a la sesión del pensamiento",
+   "title_en": "Sonnet 30"
+  },
+  "bard-sonnet-60": {
+   "type": "poem",
+   "name_es": "Como las olas hacia la orilla",
+   "name_en": "Sonnet 60",
+   "title_es": "Como las olas hacia la orilla",
+   "title_en": "Sonnet 60"
+  },
+  "bard-sonnet-94": {
+   "type": "poem",
+   "name_es": "Los que tienen poder de herir",
+   "name_en": "Sonnet 94",
+   "title_es": "Los que tienen poder de herir",
+   "title_en": "Sonnet 94"
+  },
+  "bard-sonnet-129": {
+   "type": "poem",
+   "name_es": "El gasto del espíritu",
+   "name_en": "Sonnet 129",
+   "title_es": "El gasto del espíritu",
+   "title_en": "Sonnet 129"
+  },
+  "bard-sonnet-130": {
+   "type": "poem",
+   "name_es": "Los ojos de mi amada",
+   "name_en": "Sonnet 130",
+   "title_es": "Los ojos de mi amada",
+   "title_en": "Sonnet 130"
   }
  }
 }
