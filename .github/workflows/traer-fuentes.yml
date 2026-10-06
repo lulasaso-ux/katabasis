@@ -1,0 +1,28 @@
+name: Traer fuentes externas
+
+# Las fuentes de Katabasis viven en Wikisource y Wikimedia Commons, que no son
+# alcanzables desde el entorno de desarrollo. Este flujo las descarga en los
+# servidores de GitHub y deja el resultado en scripts/_fuentes/, que no se
+# publica con el sitio. Se dispara a mano.
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  traer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Descargar textos e imágenes del manifiesto
+        run: node scripts/traer-fuentes.cjs
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Traer fuentes externas del manifiesto'
+          file_pattern: 'scripts/_fuentes/*'
+          commit_user_name: katabasis-bot
+          commit_user_email: actions@github.com

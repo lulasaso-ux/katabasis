@@ -1,0 +1,14 @@
+{
+  "_nota": "Lo que el flujo Traer fuentes externas descarga. Se edita a mano antes de cada corrida; el resultado queda en scripts/_fuentes/, fuera del sitio publicado.",
+  "textos": [
+    {"id": "goethe-heidenroslein",  "site": "de.wikisource.org", "title": "Heidenröslein"},
+    {"id": "goethe-prometheus",     "site": "de.wikisource.org", "title": "Prometheus (Goethe)"},
+    {"id": "goethe-ganymed",        "site": "de.wikisource.org", "title": "Ganymed (Goethe)"},
+    {"id": "goethe-willkommen",     "site": "de.wikisource.org", "title": "Willkommen und Abschied"},
+    {"id": "goethe-an-den-mond",    "site": "de.wikisource.org", "title": "An den Mond (Goethe)"},
+    {"id": "goethe-fischer",        "site": "de.wikisource.org", "title": "Der Fischer (Goethe)"},
+    {"id": "goethe-selige",         "site": "de.wikisource.org", "title": "Selige Sehnsucht"},
+    {"id": "goethe-gefunden",       "site": "de.wikisource.org", "title": "Gefunden"}
+  ],
+  "imagenes": []
+}
