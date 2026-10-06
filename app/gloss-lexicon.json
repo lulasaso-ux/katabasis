@@ -107126,3229 +107126,3857 @@
   ]
  },
  "nl": {
-  "constantijntje": [
-   "Constantinito",
-   "little Constantine"
-  ],
-  "t": [
-   "el",
-   "the"
-  ],
-  "zaligh": [
-   "bienaventurado",
-   "blessed"
-  ],
-  "kijntje": [
-   "niñito",
-   "little child"
-  ],
-  "cherubijntje": [
-   "querubincito",
-   "little cherub"
-  ],
-  "van": [
-   "de",
-   "from"
-  ],
-  "om": [
-   "en",
-   "up"
-  ],
-  "hoogh": [
-   "alto",
-   "high"
-  ],
-  "d'ydelheden": [
-   "las vanidades",
-   "the vanities"
-  ],
-  "hier": [
-   "aquí",
-   "here"
-  ],
-  "beneden": [
-   "abajo",
-   "below"
-  ],
-  "vitlacht": [
-   "se ríe de",
-   "laughs at"
-  ],
-  "met": [
-   "con",
-   "with"
-  ],
-  "een": [
-   "un",
-   "a"
-  ],
-  "lodderoogh": [
-   "ojo pícaro",
-   "twinkling eye"
-  ],
-  "moeder": [
-   "madre",
-   "mother"
-  ],
-  "zeit": [
-   "dice",
-   "says"
-  ],
-  "hy": [
-   "él",
-   "he"
-  ],
-  "waarom": [
-   "por qué",
-   "why"
-  ],
-  "schreit": [
-   "lloras",
-   "weep"
-  ],
-  "ghy": [
-   "tú; vos",
-   "you"
-  ],
-  "greit": [
-   "gimes",
-   "wail"
-  ],
-  "op": [
-   "sobre",
-   "on"
-  ],
-  "mijn": [
-   "mi",
-   "my"
-  ],
-  "lijck": [
-   "cadáver",
-   "corpse"
-  ],
-  "boven": [
-   "arriba",
-   "above"
-  ],
-  "leef": [
-   "vivo",
-   "live"
-  ],
-  "ick": [
-   "yo",
-   "I"
-  ],
-  "zweef": [
-   "floto",
-   "float"
-  ],
-  "engeltje": [
-   "angelito",
-   "little angel"
-  ],
-  "hemelrijck": [
-   "reino del cielo",
-   "kingdom of heaven"
-  ],
-  "en": [
-   "y",
-   "and"
-  ],
-  "blinck": [
-   "brillo",
-   "shine"
-  ],
-  "er": [
-   "allí",
-   "there"
-  ],
-  "drincker": [
-   "bebo de ello",
-   "drink of it"
-  ],
-  "geen": [
-   "lo que",
-   "what"
-  ],
-  "de": [
-   "el",
-   "the"
-  ],
-  "schincker": [
-   "escanciador",
-   "cup-bearer"
-  ],
-  "alles": [
-   "todo",
-   "all"
-  ],
-  "goets": [
-   "bien",
-   "good"
-  ],
-  "schenckt": [
-   "escancia",
-   "pours"
-  ],
-  "zielen": [
-   "almas",
-   "souls"
-  ],
-  "die": [
-   "que",
-   "that"
-  ],
-  "daar": [
-   "allí",
-   "there"
-  ],
-  "krielen": [
-   "pululan",
-   "throng"
-  ],
-  "dertel": [
-   "juguetonas",
-   "frolicsome"
-  ],
-  "veel": [
-   "mucho",
-   "much"
-  ],
-  "overvloets": [
-   "abundancia",
-   "abundance"
-  ],
-  "leer": [
-   "aprende",
-   "learn"
-  ],
-  "dan": [
-   "entonces",
-   "then"
-  ],
-  "reizen": [
-   "viajar",
-   "travel"
-  ],
-  "gepeizen": [
-   "pensamientos",
-   "thoughts"
-  ],
-  "naar": [
-   "hacia",
-   "towards"
-  ],
-  "pallaizen": [
-   "palacios",
-   "palaces"
-  ],
-  "uit": [
-   "fuera de",
-   "out of"
-  ],
-  "het": [
-   "el",
-   "the"
-  ],
-  "slick": [
-   "lodo",
-   "mire"
-  ],
-  "dezer": [
-   "de este",
-   "of this"
-  ],
-  "werrelt": [
-   "mundo",
-   "world"
-  ],
-  "zoo": [
-   "así",
-   "so"
-  ],
-  "dwerrelt": [
-   "gira",
-   "whirls"
-  ],
-  "eeuwigh": [
-   "eterno",
-   "eternal"
-  ],
-  "gaat": [
-   "va",
-   "goes"
-  ],
-  "voor": [
-   "antes que",
-   "before"
-  ],
-  "oogenblick": [
-   "instante",
-   "moment"
-  ],
-  "felle": [
-   "feroz",
-   "fierce"
-  ],
-  "doot": [
-   "muerte",
-   "death"
-  ],
-  "nu": [
-   "ahora",
-   "now"
-  ],
-  "wit": [
-   "blanco (diana)",
-   "mark"
-  ],
-  "magh": [
-   "puede",
-   "may"
-  ],
-  "zien": [
-   "ver",
-   "see"
-  ],
-  "verschoont": [
-   "perdona",
-   "spares"
-  ],
-  "grijze": [
-   "canosos",
-   "grey"
-  ],
-  "liên": [
-   "gentes",
-   "folk"
-  ],
-  "zy": [
-   "ella",
-   "she"
-  ],
-  "zit": [
-   "se sienta",
-   "sits"
-  ],
-  "mickt": [
-   "apunta",
-   "aims"
-  ],
-  "haren": [
-   "su",
-   "her"
-  ],
-  "schicht": [
-   "dardo",
-   "dart"
-  ],
-  "onnozel": [
-   "inocente",
-   "innocent"
-  ],
-  "wicht": [
-   "criatura",
-   "little one"
-  ],
-  "lacht": [
-   "ríe",
-   "laughs"
-  ],
-  "wanneer": [
-   "cuando",
-   "when"
-  ],
-  "in": [
-   "en",
-   "in"
-  ],
-  "scheien": [
-   "separarse",
-   "parting"
-  ],
-  "droeve": [
-   "tristes",
-   "sad"
-  ],
-  "moeders": [
-   "madres",
-   "mothers"
-  ],
-  "schreien": [
-   "lloran",
-   "weep"
-  ],
-  "zagh'er": [
-   "vio allí",
-   "saw there"
-  ],
-  "dat": [
-   "que",
-   "that"
-  ],
-  "wuft": [
-   "ligera",
-   "flighty"
-  ],
-  "onbestuurt": [
-   "sin gobierno",
-   "unruly"
-  ],
-  "vreught": [
-   "alegría",
-   "joy"
-  ],
-  "was": [
-   "era",
-   "was"
-  ],
-  "buurt": [
-   "vecindad",
-   "neighbourhood"
-  ],
-  "vlugh": [
-   "ligera",
-   "nimble"
-  ],
-  "te": [
-   "a",
-   "on"
-  ],
-  "voet": [
-   "pie",
-   "foot"
-  ],
-  "slingertouwtje": [
-   "comba",
-   "skipping rope"
-  ],
-  "sprong": [
-   "saltaba",
-   "jumped"
-  ],
-  "of": [
-   "o",
-   "or"
-  ],
-  "zoet": [
-   "dulce",
-   "sweet"
-  ],
-  "fiane": [
-   "Fiane",
-   "Fiane"
-  ],
-  "zong": [
-   "cantaba",
-   "sang"
-  ],
-  "huppelde": [
-   "brincaba",
-   "hopped"
-  ],
-  "reitje": [
-   "corro",
-   "ring dance"
-  ],
-  "lieve": [
-   "querida",
-   "dear"
-  ],
-  "lodderaitje": [
-   "compañerita",
-   "little darling"
-  ],
-  "dreef": [
-   "empujaba",
-   "drove"
-  ],
-  "gevolght": [
-   "seguida",
-   "followed"
-  ],
-  "eenen": [
-   "una",
-   "a"
-  ],
-  "wackren": [
-   "despierta",
-   "lively"
-  ],
-  "troep": [
-   "tropa",
-   "troop"
-  ],
-  "den": [
-   "el",
-   "the"
-  ],
-  "rinckelenden": [
-   "tintineante",
-   "jingling"
-  ],
-  "hoep": [
-   "aro",
-   "hoop"
-  ],
-  "straten": [
-   "calles",
-   "streets"
-  ],
-  "door": [
-   "por",
-   "through"
-  ],
-  "schaterde": [
-   "reía a carcajadas",
-   "roared with laughter"
-  ],
-  "schop": [
-   "columpio",
-   "swing"
-  ],
-  "speelde": [
-   "jugaba",
-   "played"
-  ],
-  "pop": [
-   "muñeca",
-   "doll"
-  ],
-  "voorspel": [
-   "preludio",
-   "prelude"
-  ],
-  "dagen": [
-   "días",
-   "days"
-  ],
-  "d'eerste": [
-   "la primera",
-   "the first"
-  ],
-  "verjagen": [
-   "ahuyentan",
-   "chase away"
-  ],
-  "onderhiel": [
-   "observaba",
-   "kept"
-  ],
-  "bickel": [
-   "taba",
-   "knucklebone"
-  ],
-  "boncket": [
-   "bonete (juego)",
-   "bonnet game"
-  ],
-  "kinderlijcke": [
-   "infantil",
-   "childlike"
-  ],
-  "wet": [
-   "ley",
-   "law"
-  ],
-  "rolde": [
-   "rodaba",
-   "rolled"
-  ],
-  "greep": [
-   "agarraba",
-   "caught"
-  ],
-  "springend": [
-   "saltarín",
-   "bouncing"
-  ],
-  "elpenbeen": [
-   "marfil",
-   "ivory"
-  ],
-  "beentjes": [
-   "huesecillos",
-   "little bones"
-  ],
-  "steen": [
-   "piedra",
-   "stone"
-  ],
-  "had": [
-   "tenía",
-   "had"
-  ],
-  "zoete": [
-   "dulce",
-   "sweet"
-  ],
-  "leven": [
-   "vida",
-   "life"
-  ],
-  "gelt": [
-   "dinero",
-   "money"
-  ],
-  "noch": [
-   "ni",
-   "nor"
-  ],
-  "goet": [
-   "bienes",
-   "goods"
-  ],
-  "gegeven": [
-   "dado",
-   "given"
-  ],
-  "maar": [
-   "pero",
-   "but"
-  ],
-  "wat": [
-   "qué",
-   "what"
-  ],
-  "gebeurt": [
-   "sucede",
-   "happens"
-  ],
-  "terwijl": [
-   "mientras",
-   "while"
-  ],
-  "zich": [
-   "se",
-   "itself"
-  ],
-  "vermaackt": [
-   "divierte",
-   "amuses"
-  ],
-  "wort": [
-   "es",
-   "is"
-  ],
-  "hart": [
-   "corazón",
-   "heart"
-  ],
-  "geraackt": [
-   "alcanzado",
-   "struck"
-  ],
-  "speelzieck": [
-   "juguetón",
-   "play-loving"
-  ],
-  "scharpen": [
-   "afilado",
-   "sharp"
-  ],
-  "flits": [
-   "flecha",
-   "arrow"
-  ],
-  "dootlick": [
-   "mortal",
-   "deadly"
-  ],
-  "bits": [
-   "agudo",
-   "keen"
-  ],
-  "quam": [
-   "vino",
-   "came"
-  ],
-  "lippen": [
-   "labios",
-   "lips"
-  ],
-  "zieltje": [
-   "almita",
-   "little soul"
-  ],
-  "zelf": [
-   "misma",
-   "itself"
-  ],
-  "ging": [
-   "fue",
-   "went"
-  ],
-  "glippen": [
-   "escurrirse",
-   "slipping"
-  ],
-  "toen": [
-   "entonces",
-   "then"
-  ],
-  "stont": [
-   "estaba",
-   "stood"
-  ],
-  "helaas": [
-   "ay",
-   "alas"
-  ],
-  "jammerende": [
-   "lamentosa",
-   "wailing"
-  ],
-  "schaar": [
-   "grupo",
-   "band"
-  ],
-  "tranen": [
-   "lágrimas",
-   "tears"
-  ],
-  "baar": [
-   "féretro",
-   "bier"
-  ],
-  "kermde": [
-   "gemía",
-   "moaned"
-  ],
-  "haar": [
-   "su",
-   "her"
-  ],
-  "gespeel": [
-   "compañera de juego",
-   "playmate"
-  ],
-  "wenschte": [
-   "deseaba",
-   "wished"
-  ],
-  "lot": [
-   "suerte",
-   "lot"
-  ],
-  "deel": [
-   "parte",
-   "share"
-  ],
-  "hebben": [
-   "tener",
-   "have"
-  ],
-  "kaartje": [
-   "cartita",
-   "little card"
-  ],
-  "zijn": [
-   "ser",
-   "be"
-  ],
-  "als": [
-   "como",
-   "like"
-  ],
-  "saertje": [
-   "Sarita",
-   "little Sara"
-  ],
-  "speelnoot": [
-   "compañeras",
-   "playmates"
-  ],
-  "vlocht": [
-   "trenzó",
-   "wove"
-  ],
-  "anders": [
-   "de otro modo",
-   "otherwise"
-  ],
-  "niet": [
-   "no",
-   "not"
-  ],
-  "moght": [
-   "podía",
-   "could"
-  ],
-  "krans": [
-   "corona",
-   "wreath"
-  ],
-  "roosmarijn": [
-   "romero",
-   "rosemary"
-  ],
-  "ter": [
-   "por",
-   "for"
-  ],
-  "liefde": [
-   "amor",
-   "love"
-  ],
-  "heur": [
-   "su",
-   "her"
-  ],
-  "beste": [
-   "mejor",
-   "best"
-  ],
-  "kameraat": [
-   "camarada",
-   "comrade"
-  ],
-  "o": [
-   "oh",
-   "O"
-  ],
-  "krancke": [
-   "enfermo",
-   "sickly"
-  ],
-  "troost": [
-   "consuelo",
-   "comfort"
-  ],
-  "baat": [
-   "sirve",
-   "avails"
-  ],
-  "groene": [
-   "verde",
-   "green"
-  ],
-  "goude": [
-   "dorado",
-   "golden"
-  ],
-  "lover": [
-   "follaje",
-   "foliage"
-  ],
-  "staatsi": [
-   "pompa",
-   "pomp"
-  ],
-  "haast": [
-   "pronto",
-   "soon"
-  ],
-  "over": [
-   "pasado",
-   "over"
-  ],
-  "vrolijck": [
-   "alegre",
-   "merry"
-  ],
-  "vogelkijn": [
-   "pajarillo",
-   "little bird"
-  ],
-  "boomgaert": [
-   "huerto",
-   "orchard"
-  ],
-  "zat": [
-   "estaba",
-   "sat"
-  ],
-  "hoe": [
-   "cómo",
-   "how"
-  ],
-  "heerlijck": [
-   "espléndido",
-   "glorious"
-  ],
-  "blinckt": [
-   "brilla",
-   "shines"
-  ],
-  "zonneschijn": [
-   "luz del sol",
-   "sunshine"
-  ],
-  "rijckdom": [
-   "riqueza",
-   "wealth"
-  ],
-  "schat": [
-   "tesoro",
-   "treasure"
-  ],
-  "ruischt": [
-   "susurra",
-   "rustles"
-  ],
-  "koelte": [
-   "frescor",
-   "cool air"
-  ],
-  "eicken": [
-   "de roble",
-   "oak"
-  ],
-  "hout": [
-   "bosque",
-   "wood"
-  ],
-  "versch": [
-   "fresco",
-   "fresh"
-  ],
-  "gesproten": [
-   "brotado",
-   "sprouted"
-  ],
-  "lof": [
-   "follaje",
-   "leaves"
-  ],
-  "straelt": [
-   "reluce",
-   "beams"
-  ],
-  "boterbloem": [
-   "ranúnculo",
-   "buttercup"
-  ],
-  "gout": [
-   "oro",
-   "gold"
-  ],
-  "heeft": [
-   "tiene",
-   "has"
-  ],
-  "wiltzang": [
-   "canto silvestre",
-   "wild song"
-  ],
-  "stof": [
-   "materia",
-   "matter"
-  ],
-  "is": [
-   "es",
-   "is"
-  ],
-  "dier": [
-   "animal",
-   "creature"
-  ],
-  "vryheit": [
-   "libertad",
-   "freedom"
-  ],
-  "waert": [
-   "vale",
-   "worth"
-  ],
-  "mist": [
-   "falta",
-   "lacks"
-  ],
-  "aen": [
-   "a",
-   "of"
-  ],
-  "wensch": [
-   "deseo",
-   "wish"
-  ],
-  "vreck": [
-   "avaro",
-   "miser"
-  ],
-  "potgelt": [
-   "dinero ahorrado",
-   "hoarded money"
-  ],
-  "spaert": [
-   "guarda",
-   "saves"
-  ],
-  "slaef": [
-   "esclavo",
-   "slave"
-  ],
-  "arme": [
-   "pobre",
-   "poor"
-  ],
-  "mensch": [
-   "hombre",
-   "man"
-  ],
-  "waer": [
-   "dónde",
-   "where"
-  ],
-  "groeien": [
-   "crecen",
-   "grow"
-  ],
-  "t'amsterdam": [
-   "en Ámsterdam",
-   "in Amsterdam"
-  ],
-  "kommerziecke": [
-   "enferma de afanes",
-   "care-sick"
-  ],
-  "beurs": [
-   "Bolsa",
-   "exchange"
-  ],
-  "daer": [
-   "donde",
-   "where"
-  ],
-  "noit": [
-   "nunca",
-   "never"
-  ],
-  "genoegen": [
-   "contento",
-   "contentment"
-  ],
-  "binnen": [
-   "dentro",
-   "within"
-  ],
-  "plaets": [
-   "lugar",
-   "place"
-  ],
-  "al": [
-   "todo",
-   "all"
-  ],
-  "geurs": [
-   "aroma",
-   "fragrance"
-  ],
-  "wy": [
-   "nosotros",
-   "we"
-  ],
-  "vogels": [
-   "pájaros",
-   "birds"
-  ],
-  "vliegen": [
-   "volamos",
-   "fly"
-  ],
-  "warm": [
-   "abrigados",
-   "warm"
-  ],
-  "gedost": [
-   "vestidos",
-   "clad"
-  ],
-  "gerust": [
-   "tranquilos",
-   "at ease"
-  ],
-  "tack": [
-   "rama",
-   "branch"
-  ],
-  "hemel": [
-   "cielo",
-   "heaven"
-  ],
-  "schaft": [
-   "provee",
-   "provides"
-  ],
-  "ons": [
-   "nos",
-   "us"
-  ],
-  "dranck": [
-   "bebida",
-   "drink"
-  ],
-  "kost": [
-   "comida",
-   "food"
-  ],
-  "dack": [
-   "techo",
-   "roof"
-  ],
-  "zaeien": [
-   "sembramos",
-   "sow"
-  ],
-  "maeien": [
-   "segamos",
-   "mow"
-  ],
-  "teeren": [
-   "vivimos de",
-   "live on"
-  ],
-  "boer": [
-   "campesino",
-   "farmer"
-  ],
-  "koren": [
-   "trigo",
-   "corn"
-  ],
-  "airen": [
-   "espigas",
-   "ears"
-  ],
-  "schiet": [
-   "brota",
-   "shoots"
-  ],
-  "bestelt": [
-   "provee",
-   "supplies"
-  ],
-  "lant": [
-   "tierra",
-   "land"
-  ],
-  "voêr": [
-   "alimento",
-   "fodder"
-  ],
-  "minnen": [
-   "amamos",
-   "love"
-  ],
-  "zonder": [
-   "sin",
-   "without"
-  ],
-  "haet": [
-   "odio",
-   "hatred"
-  ],
-  "nijt": [
-   "envidia",
-   "envy"
-  ],
-  "danssen": [
-   "danzamos",
-   "dance"
-  ],
-  "bruit": [
-   "novia",
-   "bride"
-  ],
-  "bruiloft": [
-   "boda",
-   "wedding"
-  ],
-  "bint": [
-   "se ata",
-   "binds"
-  ],
-  "tijt": [
-   "tiempo",
-   "time"
-  ],
-  "duurt": [
-   "dura",
-   "lasts"
-  ],
-  "wie": [
-   "quien",
-   "whoever"
-  ],
-  "vogel": [
-   "pájaro",
-   "bird"
-  ],
-  "worden": [
-   "hacerse",
-   "become"
-  ],
-  "wil": [
-   "quiere",
-   "wants"
-  ],
-  "trecke": [
-   "ponga",
-   "put"
-  ],
-  "pluimen": [
-   "plumas",
-   "feathers"
-  ],
-  "vermy": [
-   "evite",
-   "shun"
-  ],
-  "stadt": [
-   "ciudad",
-   "city"
-  ],
-  "straetgeschil": [
-   "riña callejera",
-   "street quarrel"
-  ],
-  "kieze": [
-   "escoja",
-   "choose"
-  ],
-  "ruimer": [
-   "más ancho",
-   "wider"
-  ],
-  "baen": [
-   "camino",
-   "path"
-  ],
-  "kersnacht": [
-   "Nochebuena",
-   "Christmas night"
-  ],
-  "schooner": [
-   "más hermosa",
-   "fairer"
-  ],
-  "daegen": [
-   "días",
-   "days"
-  ],
-  "kan": [
-   "puede",
-   "can"
-  ],
-  "herodes": [
-   "Herodes",
-   "Herod"
-  ],
-  "licht": [
-   "luz",
-   "light"
-  ],
-  "verdraegen": [
-   "soportar",
-   "bear"
-  ],
-  "uw": [
-   "tu",
-   "your"
-  ],
-  "duisternisse": [
-   "oscuridad",
-   "darkness"
-  ],
-  "word": [
-   "es",
-   "is"
-  ],
-  "geviert": [
-   "celebrada",
-   "celebrated"
-  ],
-  "aengebeden": [
-   "adorada",
-   "worshipped"
-  ],
-  "hooghmoed": [
-   "soberbia",
-   "pride"
-  ],
-  "luistert": [
-   "escucha",
-   "listens"
-  ],
-  "na": [
-   "a",
-   "to"
-  ],
-  "reden": [
-   "razón",
-   "reason"
-  ],
-  "schel": [
-   "agudo",
-   "shrill"
-  ],
-  "ooren": [
-   "oídos",
-   "ears"
-  ],
-  "klinckt": [
-   "suena",
-   "rings"
-  ],
-  "pooght": [
-   "intenta",
-   "strives"
-  ],
-  "d'onnoosle": [
-   "al inocente",
-   "the innocent"
-  ],
-  "vernielen": [
-   "destruir",
-   "destroy"
-  ],
-  "moorden": [
-   "asesinato",
-   "murder"
-  ],
-  "onnoosle": [
-   "inocentes",
-   "innocent"
-  ],
-  "weckt": [
-   "despierta",
-   "wakes"
-  ],
-  "stad": [
-   "ciudad",
-   "town"
-  ],
-  "landgeschrey": [
-   "clamor del campo",
-   "country's outcry"
-  ],
-  "bethlehem": [
-   "Belén",
-   "Bethlehem"
-  ],
-  "acker": [
-   "campo",
-   "field"
-  ],
-  "maeckt": [
-   "hace",
-   "makes"
-  ],
-  "geest": [
-   "espíritu",
-   "spirit"
-  ],
-  "rachel": [
-   "Raquel",
-   "Rachel"
-  ],
-  "wacker": [
-   "despierto",
-   "awake"
-  ],
-  "waeren": [
-   "vagar",
-   "wandering"
-  ],
-  "gaet": [
-   "va",
-   "goes"
-  ],
-  "beemd": [
-   "prado",
-   "meadow"
-  ],
-  "wey": [
-   "pasto",
-   "pasture"
-  ],
-  "westen": [
-   "occidente",
-   "west"
-  ],
-  "na'et": [
-   "hacia el",
-   "to the"
-  ],
-  "oosten": [
-   "oriente",
-   "east"
-  ],
-  "zal": [
-   "va a",
-   "shall"
-  ],
-  "troosten": [
-   "consolar",
-   "comfort"
-  ],
-  "haer": [
-   "sus",
-   "her"
-  ],
-  "kinders": [
-   "hijos",
-   "children"
-  ],
-  "derft": [
-   "pierde",
-   "lacks"
-  ],
-  "ziet": [
-   "ve",
-   "sees"
-  ],
-  "bloed": [
-   "sangre",
-   "blood"
-  ],
-  "versmooren": [
-   "ahogarse",
-   "smother"
-  ],
-  "aleerze": [
-   "antes de que",
-   "before they"
-  ],
-  "naulix": [
-   "apenas",
-   "scarcely"
-  ],
-  "geboren": [
-   "nacidos",
-   "born"
-  ],
-  "zwaerden": [
-   "espadas",
-   "swords"
-  ],
-  "rood": [
-   "rojo",
-   "red"
-  ],
-  "geverft": [
-   "teñidas",
-   "dyed"
-  ],
-  "melleck": [
-   "leche",
-   "milk"
-  ],
-  "tippen": [
-   "puntas",
-   "tips"
-  ],
-  "bestorve": [
-   "muertos",
-   "dead"
-  ],
-  "bleecke": [
-   "pálidos",
-   "pale"
-  ],
-  "geruckt": [
-   "arrancados",
-   "torn"
-  ],
-  "borst": [
-   "pecho",
-   "breast"
-  ],
-  "teere": [
-   "tiernas",
-   "tender"
-  ],
-  "traentjes": [
-   "lagrimitas",
-   "little tears"
-  ],
-  "hangen": [
-   "colgar",
-   "hang"
-  ],
-  "dauw": [
-   "rocío",
-   "dew"
-  ],
-  "druppels": [
-   "gotas",
-   "drops"
-  ],
-  "wangen": [
-   "mejillas",
-   "cheeks"
-  ],
-  "zietze": [
-   "los ve",
-   "sees them"
-  ],
-  "vuil": [
-   "sucios",
-   "foul"
-  ],
-  "bemorst": [
-   "manchados",
-   "smeared"
-  ],
-  "winckbraeuw": [
-   "ceja",
-   "eyebrow"
-  ],
-  "deckt": [
-   "cubre",
-   "covers"
-  ],
-  "booghjes": [
-   "arquitos",
-   "little arches"
-  ],
-  "geloken": [
-   "cerrados",
-   "closed"
-  ],
-  "lachende": [
-   "risueños",
-   "laughing"
-  ],
-  "ooghjes": [
-   "ojitos",
-   "little eyes"
-  ],
-  "straelden": [
-   "irradiaban",
-   "beamed"
-  ],
-  "tot": [
-   "hasta",
-   "into"
-  ],
-  "starren": [
-   "estrellas",
-   "stars"
-  ],
-  "gewemel": [
-   "titileo",
-   "twinkling"
-  ],
-  "aenschijn": [
-   "rostro",
-   "face"
-  ],
-  "schiepen": [
-   "hacían",
-   "made"
-  ],
-  "eer": [
-   "antes",
-   "before"
-  ],
-  "betrocken": [
-   "cubierto",
-   "overcast"
-  ],
-  "werd": [
-   "fue",
-   "was"
-  ],
-  "d'ellende": [
-   "la miseria",
-   "the misery"
-  ],
-  "jammer": [
-   "pena",
-   "grief"
-  ],
-  "noemen": [
-   "nombrar",
-   "name"
-  ],
-  "tellen": [
-   "contar",
-   "count"
-  ],
-  "jonge": [
-   "jóvenes",
-   "young"
-  ],
-  "bloemen": [
-   "flores",
-   "flowers"
-  ],
-  "doen": [
-   "entonces",
-   "then"
-  ],
-  "verwelckten": [
-   "se marchitaron",
-   "withered"
-  ],
-  "eerze": [
-   "antes de que",
-   "before they"
-  ],
-  "frissche": [
-   "frescas",
-   "fresh"
-  ],
-  "bladeren": [
-   "hojas",
-   "leaves"
-  ],
-  "ontloken": [
-   "abiertas",
-   "unfolded"
-  ],
-  "liefelijck": [
-   "dulcemente",
-   "sweetly"
-  ],
-  "yder": [
-   "cada cual",
-   "everyone"
-  ],
-  "roken": [
-   "olían",
-   "smelled"
-  ],
-  "smorgens": [
-   "por la mañana",
-   "in the morning"
-  ],
-  "droncken": [
-   "bebían",
-   "drank"
-  ],
-  "eerste": [
-   "primera",
-   "first"
-  ],
-  "zogh": [
-   "leche",
-   "milk"
-  ],
-  "velt": [
-   "abate",
-   "fells"
-  ],
-  "zein": [
-   "guadaña",
-   "scythe"
-  ],
-  "korenairen": [
-   "espigas",
-   "ears of corn"
-  ],
-  "schud": [
-   "sacude",
-   "shakes"
-  ],
-  "buy": [
-   "chubasco",
-   "squall"
-  ],
-  "blaeren": [
-   "hojas",
-   "leaves"
-  ],
-  "stormt": [
-   "hay tormenta",
-   "storms"
-  ],
-  "wilde": [
-   "salvaje",
-   "wild"
-  ],
-  "woud": [
-   "bosque",
-   "forest"
-  ],
-  "blinde": [
-   "ciega",
-   "blind"
-  ],
-  "staetzucht": [
-   "ambición",
-   "ambition"
-  ],
-  "brouwen": [
-   "tramar",
-   "brew"
-  ],
-  "wanneerze": [
-   "cuando ella",
-   "when it"
-  ],
-  "raest": [
-   "delira",
-   "rages"
-  ],
-  "misvertrouwen": [
-   "desconfianza",
-   "mistrust"
-  ],
-  "luid": [
-   "suena",
-   "sounds"
-  ],
-  "schendigh": [
-   "infame",
-   "shameful"
-  ],
-  "rouwt": [
-   "le pesa",
-   "grieves"
-  ],
-  "bedruckte": [
-   "afligida",
-   "sorrowing"
-  ],
-  "schort": [
-   "cesa",
-   "stop"
-  ],
-  "dit": [
-   "este",
-   "this"
-  ],
-  "vw": [
-   "tus",
-   "your"
-  ],
-  "sterven": [
-   "mueren",
-   "die"
-  ],
-  "martelaeren": [
-   "mártires",
-   "martyrs"
-  ],
-  "eerstelingen": [
-   "primicias",
-   "firstfruits"
-  ],
-  "zaed": [
-   "semilla",
-   "seed"
-  ],
-  "begint": [
-   "empieza",
-   "begins"
-  ],
-  "gods": [
-   "de Dios",
-   "God's"
-  ],
-  "bloeien": [
-   "florecer",
-   "bloom"
-  ],
-  "wreedheid": [
-   "crueldad",
-   "cruelty"
-  ],
-  "vergaet": [
-   "perece",
-   "perishes"
-  ],
-  "gezeten": [
-   "sentado",
-   "seated"
-  ],
-  "diep": [
-   "hondo",
-   "deep"
-  ],
-  "grondelooze": [
-   "sin fondo",
-   "bottomless"
-  ],
-  "tyt": [
-   "tiempo",
-   "time"
-  ],
-  "eeuwigheit": [
-   "eternidad",
-   "eternity"
-  ],
-  "gemeten": [
-   "medido",
-   "measured"
-  ],
-  "ronden": [
-   "esferas",
-   "spheres"
-  ],
-  "tegenwight": [
-   "contrapeso",
-   "counterweight"
-  ],
-  "by": [
-   "por",
-   "by"
-  ],
-  "bestaet": [
-   "subsiste",
-   "exists"
-  ],
-  "steun": [
-   "apoyo",
-   "support"
-  ],
-  "buiten": [
-   "fuera",
-   "outside"
-  ],
-  "ontleent": [
-   "toma prestado",
-   "borrows"
-  ],
-  "maer": [
-   "sino",
-   "but"
-  ],
-  "zelven": [
-   "mismo",
-   "self"
-  ],
-  "rust": [
-   "descansa",
-   "rests"
-  ],
-  "zyn": [
-   "su",
-   "his"
-  ],
-  "wezen": [
-   "ser",
-   "being"
-  ],
-  "besluiten": [
-   "encerrar",
-   "enclose"
-  ],
-  "hem": [
-   "él",
-   "him"
-  ],
-  "onbewust": [
-   "ignorante",
-   "unaware"
-  ],
-  "wancken": [
-   "vacilar",
-   "wavering"
-  ],
-  "draeit": [
-   "gira",
-   "turns"
-  ],
-  "gedreven": [
-   "movido",
-   "driven"
-  ],
-  "eenigh": [
-   "único",
-   "only"
-  ],
-  "middelpunt": [
-   "centro",
-   "centre"
-  ],
-  "der": [
-   "de los",
-   "of the"
-  ],
-  "zonnen": [
-   "soles",
-   "suns"
-  ],
-  "zon": [
-   "sol",
-   "sun"
-  ],
-  "ziel": [
-   "alma",
-   "soul"
-  ],
-  "kunt": [
-   "podéis",
-   "can"
-  ],
-  "bevroên": [
-   "comprender",
-   "grasp"
-  ],
-  "nimmermeer": [
-   "nunca jamás",
-   "nevermore"
-  ],
-  "bevroeden": [
-   "comprender",
-   "comprehend"
-  ],
-  "bronaêr": [
-   "manantial",
-   "wellspring"
-  ],
-  "d'oceaen": [
-   "el océano",
-   "the ocean"
-  ],
-  "oirsprong": [
-   "origen",
-   "origin"
-  ],
-  "vele": [
-   "muchos",
-   "many"
-  ],
-  "goeden": [
-   "bienes",
-   "goods"
-  ],
-  "vloeien": [
-   "manan",
-   "flow"
-  ],
-  "bestaen": [
-   "subsisten",
-   "exist"
-  ],
-  "genade": [
-   "gracia",
-   "grace"
-  ],
-  "alvermogen": [
-   "omnipotencia",
-   "omnipotence"
-  ],
-  "wysheit": [
-   "sabiduría",
-   "wisdom"
-  ],
-  "hun": [
-   "les",
-   "them"
-  ],
-  "schonck": [
-   "dio",
-   "gave"
-  ],
-  "top": [
-   "cima",
-   "top"
-  ],
-  "voltogen": [
-   "acabado",
-   "completed"
-  ],
-  "palais": [
-   "palacio",
-   "palace"
-  ],
-  "heemlen": [
-   "cielos",
-   "heavens"
-  ],
-  "blonck": [
-   "brilló",
-   "shone"
-  ],
-  "vleuglen": [
-   "alas",
-   "wings"
-  ],
-  "d'oogen": [
-   "los ojos",
-   "the eyes"
-  ],
-  "decken": [
-   "cubrimos",
-   "cover"
-  ],
-  "aller": [
-   "de todos",
-   "of all"
-  ],
-  "glansen": [
-   "resplandores",
-   "splendours"
-  ],
-  "majesteit": [
-   "majestad",
-   "majesty"
-  ],
-  "terwijlwe": [
-   "mientras nosotros",
-   "while we"
-  ],
-  "s": [
-   "del",
-   "of the"
-  ],
-  "hemels": [
-   "cielo",
-   "heaven's"
-  ],
-  "lofgalm": [
-   "eco de alabanza",
-   "praise-song"
-  ],
-  "wecken": [
-   "despertamos",
-   "awaken"
-  ],
-  "vallen": [
-   "caemos",
-   "fall"
-  ],
-  "eerbiedigheit": [
-   "reverencia",
-   "reverence"
-  ],
-  "vreeze": [
-   "temor",
-   "fear"
-  ],
-  "zwym": [
-   "desmayo",
-   "swoon"
-  ],
-  "aenzicht": [
-   "rostro",
-   "face"
-  ],
-  "neder": [
-   "abajo",
-   "down"
-  ],
-  "noemt": [
-   "nombrad",
-   "name"
-  ],
-  "beschryft": [
-   "describid",
-   "describe"
-  ],
-  "eene": [
-   "una",
-   "a"
-  ],
-  "serafyne": [
-   "seráfica",
-   "seraphic"
-  ],
-  "veder": [
-   "pluma",
-   "quill"
-  ],
-  "begryp": [
-   "entendimiento",
-   "understanding"
-  ],
-  "stem": [
-   "voz",
-   "voice"
-  ],
-  "godt": [
-   "Dios",
-   "God"
-  ],
-  "oneindigh": [
-   "infinito",
-   "infinite"
-  ],
-  "alle": [
-   "toda",
-   "every"
-  ],
-  "ding": [
-   "cosa",
-   "thing"
-  ],
-  "vergeef": [
-   "perdona",
-   "forgive"
-  ],
-  "volprezen": [
-   "bastante alabado",
-   "fully praised"
-  ],
-  "leeft": [
-   "vive",
-   "lives"
-  ],
-  "uitgesproken": [
-   "pronunciado",
-   "uttered"
-  ],
-  "spreken": [
-   "hablar",
-   "speak"
-  ],
-  "schelt": [
-   "absuelve",
-   "absolve"
-  ],
-  "quyt": [
-   "libres",
-   "free"
-  ],
-  "verbeelding": [
-   "imaginación",
-   "imagination"
-  ],
-  "tong": [
-   "lengua",
-   "tongue"
-  ],
-  "teken": [
-   "signo",
-   "sign"
-  ],
-  "u": [
-   "te",
-   "you"
-  ],
-  "melden": [
-   "declarar",
-   "declare"
-  ],
-  "zyt": [
-   "eres",
-   "are"
-  ],
-  "blyft": [
-   "permaneces",
-   "remain"
-  ],
-  "zelve": [
-   "mismo",
-   "same"
-  ],
-  "englekennis": [
-   "saber angélico",
-   "angel-knowledge"
-  ],
-  "uitspraeck": [
-   "palabra",
-   "utterance"
-  ],
-  "zwack": [
-   "débil",
-   "weak"
-  ],
-  "onbequaem": [
-   "incapaz",
-   "unfit"
-  ],
-  "ontheiliging": [
-   "profanación",
-   "desecration"
-  ],
-  "schennis": [
-   "ultraje",
-   "violation"
-  ],
-  "want": [
-   "pues",
-   "for"
-  ],
-  "ieder": [
-   "cada uno",
-   "each"
-  ],
-  "draeght": [
-   "lleva",
-   "bears"
-  ],
-  "eigen": [
-   "propio",
-   "own"
-  ],
-  "naem": [
-   "nombre",
-   "name"
-  ],
-  "behalve": [
-   "salvo",
-   "except"
-  ],
-  "uwen": [
-   "tu",
-   "your"
-  ],
-  "gewyt": [
-   "consagrado",
-   "consecrated"
-  ],
-  "orakel": [
-   "oráculo",
-   "oracle"
-  ],
-  "durf": [
-   "se atreve",
-   "dares"
-  ],
-  "roemen": [
-   "jactarse",
-   "boast"
-  ],
-  "alleen": [
-   "solo",
-   "only"
-  ],
-  "bekent": [
-   "conocido",
-   "known"
-  ],
-  "niemant": [
-   "nadie",
-   "nobody"
-  ],
-  "nader": [
-   "más cerca",
-   "nearer"
-  ],
-  "zulx": [
-   "así",
-   "thus"
-  ],
-  "kennen": [
-   "conocer",
-   "know"
-  ],
-  "eeuwigheden": [
-   "eternidades",
-   "eternities"
-  ],
-  "glans": [
-   "esplendor",
-   "splendour"
-  ],
-  "ader": [
-   "vena",
-   "vein"
-  ],
-  "wien": [
-   "a quién",
-   "to whom"
-  ],
-  "geopenbaert": [
-   "revelado",
-   "revealed"
-  ],
-  "verschenen": [
-   "aparecido",
-   "appeared"
-  ],
-  "hooger": [
-   "más alta",
-   "higher"
-  ],
-  "heil": [
-   "dicha",
-   "bliss"
-  ],
-  "ontleenen": [
-   "recibimos",
-   "borrow"
-  ],
-  "overschryt": [
-   "excede",
-   "exceeds"
-  ],
-  "perck": [
-   "límite",
-   "bound"
-  ],
-  "peil": [
-   "medida",
-   "measure"
-  ],
-  "vermogen": [
-   "poder",
-   "power"
-  ],
-  "verouden": [
-   "envejecemos",
-   "grow old"
-  ],
-  "onzen": [
-   "nuestra",
-   "our"
-  ],
-  "duur": [
-   "duración",
-   "duration"
-  ],
-  "moet": [
-   "debe",
-   "must"
-  ],
-  "onderhouden": [
-   "sostener",
-   "sustain"
-  ],
-  "verheft": [
-   "exaltad",
-   "exalt"
-  ],
-  "godtheit": [
-   "divinidad",
-   "Godhead"
-  ],
-  "zingt": [
-   "cantad",
-   "sing"
-  ],
-  "heiligh": [
-   "santo",
-   "holy"
-  ],
-  "eens": [
-   "una vez",
-   "once"
-  ],
-  "driemael": [
-   "tres veces",
-   "three times"
-  ],
-  "nergens": [
-   "en ningún sitio",
-   "nowhere"
-  ],
-  "veiligh": [
-   "seguro",
-   "safe"
-  ],
-  "groot": [
-   "gran",
-   "great"
-  ],
-  "gebodt": [
-   "mandamiento",
-   "commandment"
-  ],
-  "geheimenis": [
-   "misterio",
-   "mystery"
-  ],
-  "bondigh": [
-   "firme",
-   "binding"
-  ],
-  "men": [
-   "se",
-   "one"
-  ],
-  "aenbidde": [
-   "adore",
-   "worship"
-  ],
-  "bevel": [
-   "mandato",
-   "command"
-  ],
-  "overal": [
-   "por doquier",
-   "everywhere"
-  ],
-  "verkondigh": [
-   "anuncie",
-   "proclaim"
-  ],
-  "trouwe": [
-   "fiel",
-   "faithful"
-  ],
-  "gabriël": [
-   "Gabriel",
-   "Gabriel"
-  ],
-  "bazuin": [
-   "trompeta",
-   "trumpet"
-  ],
-  "leeren": [
-   "enseñar",
-   "teach"
-  ],
-  "laet": [
-   "dejad",
-   "let"
-  ],
-  "adam": [
-   "Adán",
-   "Adam"
-  ],
-  "eeren": [
-   "honrar",
-   "honour"
-  ],
-  "behaeght": [
-   "agrada",
-   "pleases"
-  ],
-  "wel": [
-   "bien",
-   "well"
-  ],
-  "wilhelmus": [
-   "Guillermo",
-   "William"
-  ],
-  "nassouwe": [
-   "Nassau",
-   "Nassau"
-  ],
-  "ben": [
-   "soy",
-   "am"
-  ],
-  "ik": [
-   "yo",
-   "I"
-  ],
-  "duitsen": [
-   "germánica",
-   "Germanic"
-  ],
-  "vaderland": [
-   "patria",
-   "fatherland"
-  ],
-  "getrouwe": [
-   "fiel",
-   "faithful"
-  ],
-  "blijf": [
-   "permanezco",
-   "remain"
-  ],
-  "dood": [
-   "muerte",
-   "death"
-  ],
-  "prinse": [
-   "príncipe",
-   "prince"
-  ],
-  "oranje": [
-   "Orange",
-   "Orange"
-  ],
-  "vrij": [
-   "libre",
-   "free"
-  ],
-  "onverveerd": [
-   "intrépido",
-   "undaunted"
-  ],
-  "koning": [
-   "rey",
-   "king"
-  ],
-  "hispanje": [
-   "España",
-   "Spain"
-  ],
-  "heb": [
-   "he",
-   "have"
-  ],
-  "altijd": [
-   "siempre",
-   "always"
-  ],
-  "geëerd": [
-   "honrado",
-   "honoured"
-  ],
-  "schild": [
-   "escudo",
-   "shield"
-  ],
-  "ende": [
-   "y",
-   "and"
-  ],
-  "betrouwen": [
-   "confianza",
-   "trust"
-  ],
-  "zijt": [
-   "sois",
-   "are"
-  ],
-  "gij": [
-   "vos",
-   "You"
-  ],
-  "god": [
-   "Dios",
-   "God"
-  ],
-  "heer": [
-   "Señor",
-   "Lord"
-  ],
-  "zo": [
-   "así",
-   "so"
-  ],
-  "bouwen": [
-   "edificar",
-   "build"
-  ],
-  "verlaat": [
-   "abandones",
-   "forsake"
-  ],
-  "mij": [
-   "me",
-   "me"
-  ],
-  "doch": [
-   "aun así",
-   "yet"
-  ],
-  "vroom": [
-   "piadoso",
-   "devout"
-  ],
-  "mag": [
-   "pueda",
-   "may"
-  ],
-  "blijven": [
-   "permanecer",
-   "remain"
-  ],
-  "dienaar": [
-   "servidor",
-   "servant"
-  ],
-  "t'aller": [
-   "a toda",
-   "at every"
-  ],
-  "stond": [
-   "hora",
-   "hour"
-  ],
-  "tirannie": [
-   "tiranía",
-   "tyranny"
-  ],
-  "verdrijven": [
-   "expulsar",
-   "drive out"
-  ],
-  "doorwondt": [
-   "hiere",
-   "wounds"
-  ],
-  "godes": [
-   "de Dios",
-   "God's"
-  ],
-  "vrees": [
-   "temor",
-   "fear"
-  ],
-  "betracht": [
-   "procurado",
-   "striven for"
-  ],
-  "daarom": [
-   "por eso",
-   "therefore"
-  ],
-  "verdreven": [
-   "desterrado",
-   "driven out"
-  ],
-  "land": [
-   "tierra",
-   "land"
-  ],
-  "gebracht": [
-   "privado",
-   "bereft"
-  ],
-  "regeren": [
-   "guiar",
-   "guide"
-  ],
-  "goed": [
-   "bueno",
-   "good"
-  ],
-  "instrument": [
-   "instrumento",
-   "instrument"
-  ],
-  "wederkeren": [
-   "volver",
-   "return"
-  ],
-  "mijnen": [
-   "mi",
-   "my"
-  ],
-  "regiment": [
-   "gobierno",
-   "rule"
-  ],
-  "lijdt": [
-   "sufrid",
-   "endure"
-  ],
-  "onderzaten": [
-   "súbditos",
-   "subjects"
-  ],
-  "oprecht": [
-   "rectos",
-   "upright"
+  "aan": [
+   "acoged",
+   "accept"
   ],
   "aard": [
    "natural",
    "nature"
   ],
-  "verlaten": [
-   "abandonar",
-   "forsake"
+  "aartschen": [
+   "terrenal",
+   "earthly"
   ],
-  "bezwaard": [
-   "oprimidos",
-   "weighed down"
+  "acker": [
+   "campo",
+   "field"
   ],
-  "begeert": [
-   "desea",
-   "desires"
+  "adam": [
+   "Adán",
+   "Adam"
   ],
-  "bidt": [
-   "ruegue",
-   "pray"
-  ],
-  "nacht": [
-   "noche",
-   "night"
-  ],
-  "dag": [
-   "día",
-   "day"
-  ],
-  "hij": [
-   "él",
-   "He"
-  ],
-  "kracht": [
-   "fuerza",
-   "strength"
-  ],
-  "geven": [
-   "dar",
-   "give"
-  ],
-  "helpen": [
-   "ayudar",
-   "help"
-  ],
-  "lijf": [
-   "vida",
-   "life"
-  ],
-  "samen": [
-   "juntos",
-   "together"
-  ],
-  "verschoond": [
-   "escatimado",
-   "spared"
-  ],
-  "broeders": [
-   "hermanos",
-   "brothers"
-  ],
-  "hoog": [
-   "altos",
-   "high"
-  ],
-  "namen": [
-   "nombre",
-   "name"
-  ],
-  "ook": [
-   "también",
-   "also"
-  ],
-  "vertoond": [
-   "mostrado",
-   "shown"
-  ],
-  "graaf": [
-   "conde",
-   "Count"
+  "ader": [
+   "vena",
+   "vein"
   ],
   "adolf": [
    "Adolfo",
    "Adolf"
   ],
-  "gebleven": [
-   "caído",
-   "fallen"
+  "aen": [
+   "a",
+   "of"
   ],
-  "friesland": [
-   "Frisia",
-   "Friesland"
+  "aenbidde": [
+   "adore",
+   "worship"
   ],
-  "slag": [
-   "batalla",
-   "battle"
+  "aengebeden": [
+   "adorada",
+   "worshipped"
   ],
-  "eeuwig": [
-   "eterna",
-   "eternal"
+  "aenschijn": [
+   "rostro",
+   "face"
   ],
-  "verwacht": [
-   "espera",
-   "awaits"
+  "aenzicht": [
+   "rostro",
+   "face"
   ],
-  "jongsten": [
-   "último",
-   "last"
+  "afkeerigh": [
+   "apartado",
+   "estranged"
   ],
-  "edel": [
-   "noble",
-   "noble"
+  "airen": [
+   "espigas",
+   "ears"
   ],
-  "hooggeboren": [
-   "de alta cuna",
-   "highborn"
-  ],
-  "keizerlijken": [
-   "imperial",
-   "imperial"
-  ],
-  "stam": [
-   "estirpe",
-   "stock"
-  ],
-  "vorst": [
-   "príncipe",
-   "prince"
-  ],
-  "des": [
-   "del",
-   "of the"
-  ],
-  "rijks": [
-   "Imperio",
-   "Empire"
-  ],
-  "verkoren": [
-   "elegido",
-   "chosen"
-  ],
-  "christenman": [
-   "cristiano",
-   "Christian man"
-  ],
-  "woord": [
-   "palabra",
-   "word"
-  ],
-  "geprezen": [
-   "alabada",
-   "praised"
-  ],
-  "onversaagd": [
-   "sin miedo",
-   "undismayed"
-  ],
-  "held": [
-   "héroe",
-   "hero"
-  ],
-  "vrezen": [
-   "temor",
-   "fear"
-  ],
-  "gewaagd": [
-   "arriesgado",
-   "risked"
-  ],
-  "bezwaren": [
-   "oprimen",
-   "oppress"
-  ],
-  "vervolgers": [
-   "perseguidores",
-   "persecutors"
-  ],
-  "bewaren": [
-   "guardar",
-   "preserve"
-  ],
-  "trouwen": [
-   "fiel",
-   "faithful"
-  ],
-  "dijn": [
-   "tuyo",
-   "thy"
-  ],
-  "zij": [
-   "ellos",
-   "they"
-  ],
-  "verrassen": [
-   "sorprendan",
-   "surprise"
-  ],
-  "hunnen": [
-   "su",
-   "their"
-  ],
-  "bozen": [
-   "mala",
-   "evil"
-  ],
-  "moed": [
-   "intención",
-   "intent"
-  ],
-  "handen": [
-   "manos",
-   "hands"
-  ],
-  "wassen": [
-   "laven",
-   "wash"
-  ],
-  "onschuldig": [
-   "inocente",
-   "innocent"
-  ],
-  "david": [
-   "David",
-   "David"
-  ],
-  "moeste": [
-   "tuvo que",
-   "had to"
-  ],
-  "vluchten": [
-   "huir",
-   "flee"
-  ],
-  "sauel": [
-   "Saúl",
-   "Saul"
-  ],
-  "tiran": [
-   "tirano",
-   "tyrant"
-  ],
-  "moeten": [
-   "tenido que",
-   "had to"
-  ],
-  "zuchten": [
-   "gemir",
-   "sigh"
-  ],
-  "menig": [
-   "muchos",
-   "many a"
-  ],
-  "edelman": [
-   "noble",
-   "nobleman"
-  ],
-  "verheven": [
-   "enaltecido",
-   "raised up"
-  ],
-  "verlost": [
-   "librado",
-   "delivered"
+  "al": [
+   "todo",
+   "all"
   ],
   "alder": [
    "toda",
    "all"
   ],
-  "nood": [
-   "angustia",
-   "distress"
+  "aleerze": [
+   "antes de que",
+   "before they"
   ],
-  "koninkrijk": [
-   "reino",
-   "kingdom"
+  "alle": [
+   "toda",
+   "every"
   ],
-  "israël": [
-   "Israel",
-   "Israel"
+  "alleen": [
+   "solo",
+   "only"
   ],
-  "zeer": [
-   "muy",
-   "very"
+  "aller": [
+   "de todos",
+   "of all"
   ],
-  "zuur": [
-   "lo amargo",
-   "the sour"
+  "allerbesten": [
+   "el mejor",
+   "the very best"
   ],
-  "ontvangen": [
-   "recibir",
-   "receive"
+  "alles": [
+   "todo",
+   "all"
   ],
-  "daarna": [
-   "eso",
-   "that"
+  "alpes": [
+   "Alpes",
+   "Alps"
   ],
-  "doet": [
-   "hace",
-   "makes"
+  "als": [
+   "como",
+   "like"
   ],
-  "verlangen": [
-   "anhelar",
-   "long"
+  "altijd": [
+   "siempre",
+   "always"
   ],
-  "vorstelijk": [
-   "principesco",
-   "princely"
+  "alvermogen": [
+   "omnipotencia",
+   "omnipotence"
   ],
-  "gemoed": [
-   "ánimo",
-   "heart"
+  "anders": [
+   "de otro modo",
+   "otherwise"
   ],
-  "eren": [
-   "honra",
-   "honour"
+  "arme": [
+   "pobre",
+   "poor"
   ],
-  "veld": [
-   "campo",
-   "field"
+  "ay": [
+   "ay",
+   "ah"
   ],
-  "rijk": [
-   "reino",
-   "kingdom"
+  "baar": [
+   "féretro",
+   "bier"
   ],
-  "verwerven": [
-   "ganar",
-   "win"
+  "baat": [
+   "sirve",
+   "avails"
   ],
-  "getrouwen": [
-   "fiel",
-   "faithful"
+  "baen": [
+   "camino",
+   "path"
   ],
-  "meer": [
-   "más",
-   "more"
+  "baerde": [
+   "dio a luz",
+   "bore"
   ],
-  "erbarmen": [
-   "dar lástima",
-   "move to pity"
+  "balsem": [
+   "bálsamo",
+   "balsam"
   ],
-  "wederspoed": [
-   "adversidad",
-   "adversity"
+  "bazuin": [
+   "trompeta",
+   "trumpet"
   ],
-  "verarmen": [
-   "empobrecerse",
-   "grow poor"
+  "bedruckte": [
+   "afligida",
+   "sorrowing"
   ],
-  "konings": [
-   "del rey",
-   "King's"
+  "beemd": [
+   "prado",
+   "meadow"
   ],
-  "landen": [
-   "tierras",
-   "lands"
+  "beentjes": [
+   "huesecillos",
+   "little bones"
   ],
-  "spanjaards": [
-   "españoles",
-   "Spaniards"
-  ],
-  "krenken": [
-   "ultrajen",
-   "wrong"
-  ],
-  "neerland": [
-   "Neerlandia",
-   "Netherland"
-  ],
-  "daaraan": [
-   "en ello",
-   "of it"
-  ],
-  "gedenke": [
-   "pienso",
-   "think"
-  ],
-  "bloedt": [
-   "sangra",
-   "bleeds"
-  ],
-  "prins": [
-   "príncipe",
-   "prince"
-  ],
-  "opgezeten": [
-   "montado",
-   "mounted"
-  ],
-  "mijner": [
-   "de mi",
-   "of my"
-  ],
-  "heires-kracht": [
-   "fuerza del ejército",
-   "army's strength"
-  ],
-  "vermeten": [
-   "arrogante",
-   "arrogant"
-  ],
-  "bij": [
-   "junto a",
-   "near"
-  ],
-  "maastricht": [
-   "Maastricht",
-   "Maastricht"
-  ],
-  "begraven": [
-   "atrincherado",
-   "dug in"
-  ],
-  "bevreesde": [
-   "temió",
-   "feared"
-  ],
-  "geweld": [
-   "fuerza",
-   "might"
-  ],
-  "ruiters": [
-   "jinetes",
-   "horsemen"
-  ],
-  "zag": [
-   "vio",
-   "saw"
-  ],
-  "draven": [
-   "trotar",
-   "ride"
-  ],
-  "moedig": [
-   "valientemente",
-   "bravely"
-  ],
-  "heren": [
-   "del Señor",
-   "of the Lord"
-  ],
-  "dien": [
-   "aquel",
-   "that"
-  ],
-  "tijd": [
-   "tiempo",
-   "time"
-  ],
-  "geweest": [
-   "sido",
-   "been"
-  ],
-  "geern": [
-   "de buena gana",
-   "gladly"
-  ],
-  "willen": [
-   "querido",
-   "wished"
-  ],
-  "keren": [
-   "apartar",
-   "turn away"
-  ],
-  "zwaar": [
-   "dura",
-   "heavy"
-  ],
-  "tempeest": [
-   "tempestad",
-   "tempest"
-  ],
-  "hierboven": [
-   "lo alto",
-   "on high"
-  ],
-  "regeert": [
-   "gobierna",
-   "rules"
-  ],
-  "loven": [
-   "alabar",
-   "praise"
+  "begaefde": [
+   "bien dotada",
+   "gifted"
   ],
   "begeerd": [
    "querido",
    "desired"
   ],
-  "christlijk": [
-   "cristianamente",
-   "Christian"
-  ],
-  "prinselijk": [
-   "principesco",
-   "princely"
-  ],
-  "standvastig": [
-   "firme",
-   "steadfast"
-  ],
-  "tegenspoed": [
-   "adversidad",
-   "adversity"
-  ],
-  "gebeden": [
-   "rogado",
-   "prayed"
-  ],
-  "mijnes": [
-   "de mi",
-   "of my"
-  ],
-  "harten": [
-   "corazón",
-   "heart"
-  ],
-  "grond": [
-   "fondo",
-   "bottom"
-  ],
-  "zaak": [
-   "causa",
-   "cause"
-  ],
-  "redden": [
-   "salvar",
-   "save"
-  ],
-  "onschuld": [
-   "inocencia",
-   "innocence"
-  ],
-  "maken": [
-   "hacer",
-   "make"
-  ],
-  "kond": [
-   "conocida",
-   "known"
-  ],
-  "oorlof": [
-   "adiós",
-   "farewell"
-  ],
-  "schapen": [
-   "ovejas",
-   "sheep"
-  ],
-  "groten": [
-   "gran",
-   "great"
-  ],
-  "herder": [
-   "pastor",
-   "shepherd"
-  ],
-  "slapen": [
-   "dormir",
-   "sleep"
-  ],
-  "verstrooid": [
-   "dispersas",
-   "scattered"
-  ],
-  "wilt": [
-   "volveos",
-   "turn"
+  "begeert": [
+   "desea",
+   "desires"
   ],
   "begeven": [
    "dirigid",
    "betake"
   ],
-  "heilzaam": [
-   "salvadora",
-   "saving"
+  "begint": [
+   "empieza",
+   "begins"
   ],
-  "neemt": [
-   "tomad",
-   "take"
+  "begort": [
+   "preñada",
+   "big with"
   ],
-  "aan": [
-   "acoged",
-   "accept"
+  "begraven": [
+   "atrincherado",
+   "dug in"
   ],
-  "vrome": [
-   "piadosos",
-   "devout"
+  "begroeit": [
+   "cubierta de maleza",
+   "overgrown"
   ],
-  "christen": [
-   "cristianos",
-   "Christians"
+  "begryp": [
+   "entendimiento",
+   "understanding"
   ],
-  "gedaan": [
-   "acabado",
-   "over"
+  "behaeght": [
+   "agrada",
+   "pleases"
+  ],
+  "behalve": [
+   "salvo",
+   "except"
+  ],
+  "behoeder": [
+   "guardián",
+   "keeper"
+  ],
+  "behoude": [
+   "seguro",
+   "safe"
+  ],
+  "bekent": [
+   "conocido",
+   "known"
+  ],
+  "bekoomt": [
+   "recibe",
+   "takes"
   ],
   "belijden": [
    "confesar",
    "confess"
   ],
-  "zijner": [
-   "de su",
-   "of his"
+  "bemorst": [
+   "manchados",
+   "smeared"
   ],
-  "macht": [
-   "poder",
-   "power"
+  "ben": [
+   "soy",
+   "am"
+  ],
+  "beneden": [
+   "abajo",
+   "below"
+  ],
+  "beny": [
+   "niegues",
+   "begrudge"
+  ],
+  "beschryft": [
+   "describid",
+   "describe"
+  ],
+  "besluiten": [
+   "encerrar",
+   "enclose"
+  ],
+  "besnoeit": [
+   "podada",
+   "pruned"
+  ],
+  "bestaen": [
+   "subsisten",
+   "exist"
+  ],
+  "bestaet": [
+   "subsiste",
+   "exists"
+  ],
+  "beste": [
+   "mejor",
+   "best"
+  ],
+  "bestelt": [
+   "provee",
+   "supplies"
+  ],
+  "bestoken": [
+   "asaltar",
+   "to assail"
+  ],
+  "bestorve": [
+   "muertos",
+   "dead"
+  ],
+  "bethlehem": [
+   "Belén",
+   "Bethlehem"
+  ],
+  "betracht": [
+   "procurado",
+   "striven for"
+  ],
+  "betrocken": [
+   "cubierto",
+   "overcast"
+  ],
+  "betrouwen": [
+   "confianza",
+   "trust"
+  ],
+  "beurs": [
+   "Bolsa",
+   "exchange"
+  ],
+  "bevel": [
+   "mandato",
+   "command"
+  ],
+  "bevreesde": [
+   "temió",
+   "feared"
+  ],
+  "bevroeden": [
+   "comprender",
+   "comprehend"
+  ],
+  "bevroên": [
+   "comprender",
+   "grasp"
+  ],
+  "bewaren": [
+   "guardar",
+   "preserve"
+  ],
+  "beweent": [
+   "llora",
+   "weeps"
+  ],
+  "bezwaard": [
+   "oprimidos",
+   "weighed down"
+  ],
+  "bezwaren": [
+   "oprimen",
+   "oppress"
+  ],
+  "bickel": [
+   "taba",
+   "knucklebone"
+  ],
+  "bidt": [
+   "ruegue",
+   "pray"
+  ],
+  "bij": [
+   "junto a",
+   "near"
+  ],
+  "binnen": [
+   "dentro",
+   "within"
+  ],
+  "bint": [
+   "se ata",
+   "binds"
+  ],
+  "bits": [
+   "agudo",
+   "keen"
+  ],
+  "bladeren": [
+   "hojas",
+   "leaves"
+  ],
+  "blaeren": [
+   "hojas",
+   "leaves"
+  ],
+  "bleecke": [
+   "pálidos",
+   "pale"
+  ],
+  "blijf": [
+   "permanezco",
+   "remain"
+  ],
+  "blijven": [
+   "permanecer",
+   "remain"
+  ],
+  "blinck": [
+   "brillo",
+   "shine"
+  ],
+  "blinckt": [
+   "brilla",
+   "shines"
+  ],
+  "blinde": [
+   "ciega",
+   "blind"
+  ],
+  "bloed": [
+   "sangre",
+   "blood"
+  ],
+  "bloedt": [
+   "sangra",
+   "bleeds"
+  ],
+  "bloeien": [
+   "florecer",
+   "bloom"
+  ],
+  "bloemen": [
+   "flores",
+   "flowers"
+  ],
+  "blonck": [
+   "brilló",
+   "shone"
+  ],
+  "bly": [
+   "alegre",
+   "glad"
+  ],
+  "blyft": [
+   "permaneces",
+   "remain"
+  ],
+  "boer": [
+   "campesino",
+   "farmer"
+  ],
+  "boesem": [
+   "seno",
+   "bosom"
+  ],
+  "boncket": [
+   "bonete (juego)",
+   "bonnet game"
+  ],
+  "bondigh": [
+   "firme",
+   "binding"
+  ],
+  "booghjes": [
+   "arquitos",
+   "little arches"
+  ],
+  "boomgaert": [
+   "huerto",
+   "orchard"
+  ],
+  "borst": [
+   "pecho",
+   "breast"
+  ],
+  "boterbloem": [
+   "ranúnculo",
+   "buttercup"
+  ],
+  "bouwen": [
+   "edificar",
+   "build"
+  ],
+  "boven": [
+   "arriba",
+   "above"
+  ],
+  "bozen": [
+   "mala",
+   "evil"
+  ],
+  "breuck": [
+   "raja",
+   "crack"
+  ],
+  "broeder": [
+   "hermano",
+   "brother"
+  ],
+  "broeders": [
+   "hermanos",
+   "brothers"
+  ],
+  "bronaêr": [
+   "manantial",
+   "wellspring"
+  ],
+  "brouwen": [
+   "tramar",
+   "brew"
+  ],
+  "bruiloft": [
+   "boda",
+   "wedding"
+  ],
+  "bruit": [
+   "novia",
+   "bride"
+  ],
+  "buiten": [
+   "fuera",
+   "outside"
+  ],
+  "buurt": [
+   "vecindad",
+   "neighbourhood"
+  ],
+  "buy": [
+   "chubasco",
+   "squall"
+  ],
+  "by": [
+   "por",
+   "by"
+  ],
+  "bygeloof": [
+   "superstición",
+   "superstition"
+  ],
+  "cherubijntje": [
+   "querubincito",
+   "little cherub"
+  ],
+  "christen": [
+   "cristianos",
+   "Christians"
+  ],
+  "christenman": [
+   "cristiano",
+   "Christian man"
+  ],
+  "christlijk": [
+   "cristianamente",
+   "Christian"
+  ],
+  "constantijn": [
+   "Constantino",
+   "Constantine"
+  ],
+  "constantijntje": [
+   "Constantinito",
+   "little Constantine"
+  ],
+  "d'aerde": [
+   "la tierra",
+   "the earth"
+  ],
+  "d'eerste": [
+   "la primera",
+   "the first"
+  ],
+  "d'ellende": [
+   "la miseria",
+   "the misery"
+  ],
+  "d'engelen": [
+   "los ángeles",
+   "the angels"
+  ],
+  "d'oceaen": [
+   "el océano",
+   "the ocean"
+  ],
+  "d'onnoosle": [
+   "al inocente",
+   "the innocent"
+  ],
+  "d'oogen": [
+   "los ojos",
+   "the eyes"
+  ],
+  "d'ydelheden": [
+   "las vanidades",
+   "the vanities"
+  ],
+  "daar": [
+   "allí",
+   "there"
+  ],
+  "daaraan": [
+   "en ello",
+   "of it"
+  ],
+  "daarna": [
+   "eso",
+   "that"
+  ],
+  "daarom": [
+   "por eso",
+   "therefore"
+  ],
+  "dack": [
+   "techo",
+   "roof"
+  ],
+  "daegen": [
+   "días",
+   "days"
+  ],
+  "daer": [
+   "donde",
+   "where"
+  ],
+  "dag": [
+   "día",
+   "day"
+  ],
+  "dagen": [
+   "días",
+   "days"
+  ],
+  "dan": [
+   "entonces",
+   "then"
+  ],
+  "danssen": [
+   "danzamos",
+   "dance"
+  ],
+  "dat": [
+   "que",
+   "that"
+  ],
+  "dauw": [
+   "rocío",
+   "dew"
+  ],
+  "david": [
+   "David",
+   "David"
+  ],
+  "de": [
+   "el",
+   "the"
+  ],
+  "decken": [
+   "cubrimos",
+   "cover"
+  ],
+  "deckt": [
+   "cubre",
+   "covers"
+  ],
+  "deel": [
+   "parte",
+   "share"
+  ],
+  "dees": [
+   "estas",
+   "these"
+  ],
+  "den": [
+   "el",
+   "the"
+  ],
+  "der": [
+   "de los",
+   "of the"
+  ],
+  "derft": [
+   "pierde",
+   "lacks"
+  ],
+  "dertel": [
+   "juguetonas",
+   "frolicsome"
+  ],
+  "des": [
+   "del",
+   "of the"
+  ],
+  "deur": [
+   "puerta",
+   "door"
+  ],
+  "dezer": [
+   "de este",
+   "of this"
+  ],
+  "die": [
+   "que",
+   "that"
+  ],
+  "dien": [
+   "aquel",
+   "that"
+  ],
+  "dienaar": [
+   "servidor",
+   "servant"
+  ],
+  "diep": [
+   "hondo",
+   "deep"
+  ],
+  "dier": [
+   "animal",
+   "creature"
+  ],
+  "dieren": [
+   "costoso",
+   "costly"
+  ],
+  "dijn": [
+   "tuyo",
+   "thy"
+  ],
+  "ding": [
+   "cosa",
+   "thing"
+  ],
+  "dit": [
+   "este",
+   "this"
+  ],
+  "doch": [
+   "aun así",
+   "yet"
+  ],
+  "doen": [
+   "entonces",
+   "then"
+  ],
+  "doet": [
+   "hace",
+   "makes"
+  ],
+  "donau": [
+   "Danubio",
+   "Danube"
+  ],
+  "dood": [
+   "muerte",
+   "death"
+  ],
+  "doodt": [
+   "muerte",
+   "death"
+  ],
+  "door": [
+   "por",
+   "through"
+  ],
+  "doorluchte": [
+   "ilustre",
+   "illustrious"
+  ],
+  "doorwondt": [
+   "hiere",
+   "wounds"
+  ],
+  "doot": [
+   "muerte",
+   "death"
+  ],
+  "dootlick": [
+   "mortal",
+   "deadly"
+  ],
+  "dorst": [
+   "te atreviste",
+   "you dared"
+  ],
+  "draait": [
+   "gira",
+   "turns"
+  ],
+  "draeght": [
+   "lleva",
+   "bears"
+  ],
+  "draeit": [
+   "gira",
+   "turns"
+  ],
+  "dranck": [
+   "bebida",
+   "drink"
+  ],
+  "draven": [
+   "trotar",
+   "ride"
+  ],
+  "dreef": [
+   "empujaba",
+   "drove"
+  ],
+  "driemael": [
+   "tres veces",
+   "three times"
+  ],
+  "drincker": [
+   "bebo de ello",
+   "drink of it"
+  ],
+  "droeve": [
+   "tristes",
+   "sad"
+  ],
+  "droncken": [
+   "bebían",
+   "drank"
+  ],
+  "droom": [
+   "sueño",
+   "dream"
+  ],
+  "druppels": [
+   "gotas",
+   "drops"
+  ],
+  "duisternisse": [
+   "oscuridad",
+   "darkness"
+  ],
+  "duitsen": [
+   "germánica",
+   "Germanic"
+  ],
+  "durf": [
+   "se atreve",
+   "dares"
+  ],
+  "duur": [
+   "duración",
+   "duration"
+  ],
+  "duurt": [
+   "dura",
+   "lasts"
+  ],
+  "dwerrelt": [
+   "gira",
+   "whirls"
+  ],
+  "edel": [
+   "noble",
+   "noble"
+  ],
+  "edelman": [
+   "noble",
+   "nobleman"
+  ],
+  "een": [
+   "un",
+   "a"
+  ],
+  "eene": [
+   "una",
+   "a"
+  ],
+  "eenen": [
+   "una",
+   "a"
+  ],
+  "eenigh": [
+   "único",
+   "only"
+  ],
+  "eens": [
+   "una vez",
+   "once"
+  ],
+  "eer": [
+   "antes",
+   "before"
+  ],
+  "eerbiedigheit": [
+   "reverencia",
+   "reverence"
+  ],
+  "eeren": [
+   "honrar",
+   "honour"
+  ],
+  "eerste": [
+   "primera",
+   "first"
+  ],
+  "eerstelingen": [
+   "primicias",
+   "firstfruits"
+  ],
+  "eerze": [
+   "antes de que",
+   "before they"
+  ],
+  "eeuw": [
+   "siglo",
+   "age"
+  ],
+  "eeuwig": [
+   "eterna",
+   "eternal"
+  ],
+  "eeuwigh": [
+   "eterno",
+   "eternal"
+  ],
+  "eeuwigheden": [
+   "eternidades",
+   "eternities"
+  ],
+  "eeuwigheit": [
+   "eternidad",
+   "eternity"
+  ],
+  "eicken": [
+   "de roble",
+   "oak"
+  ],
+  "eigen": [
+   "propio",
+   "own"
+  ],
+  "elpenbeen": [
+   "marfil",
+   "ivory"
+  ],
+  "en": [
+   "y",
+   "and"
+  ],
+  "ende": [
+   "y",
+   "and"
+  ],
+  "endelooze": [
+   "sin fin",
+   "endless"
+  ],
+  "engeltje": [
+   "angelito",
+   "little angel"
+  ],
+  "englekennis": [
+   "saber angélico",
+   "angel-knowledge"
+  ],
+  "er": [
+   "allí",
+   "there"
+  ],
+  "erbarmen": [
+   "dar lástima",
+   "move to pity"
+  ],
+  "eren": [
+   "honra",
+   "honour"
+  ],
+  "errefdeel": [
+   "heredad",
+   "inheritance"
+  ],
+  "euroop": [
+   "Europa",
+   "Europe"
+  ],
+  "feest": [
+   "fiesta",
+   "feast"
+  ],
+  "felle": [
+   "feroz",
+   "fierce"
+  ],
+  "fiane": [
+   "Fiane",
+   "Fiane"
+  ],
+  "flits": [
+   "flecha",
+   "arrow"
+  ],
+  "friesland": [
+   "Frisia",
+   "Friesland"
+  ],
+  "frissche": [
+   "frescas",
+   "fresh"
+  ],
+  "fronst": [
+   "frunces",
+   "knit"
+  ],
+  "gaat": [
+   "va",
+   "goes"
+  ],
+  "gabriël": [
+   "Gabriel",
+   "Gabriel"
+  ],
+  "gaen": [
+   "ir",
+   "to go"
+  ],
+  "gaet": [
+   "va",
+   "goes"
+  ],
+  "gebeden": [
+   "rogado",
+   "prayed"
+  ],
+  "gebeurt": [
+   "sucede",
+   "happens"
+  ],
+  "gebleven": [
+   "caído",
+   "fallen"
+  ],
+  "gebodt": [
+   "mandamiento",
+   "commandment"
+  ],
+  "geboortestroom": [
+   "río natal",
+   "native river"
+  ],
+  "geboren": [
+   "nacidos",
+   "born"
+  ],
+  "geborgen": [
+   "a salvo",
+   "saved"
+  ],
+  "gebracht": [
+   "privado",
+   "bereft"
+  ],
+  "gedaan": [
+   "acabado",
+   "over"
+  ],
+  "gedenke": [
+   "pienso",
+   "think"
+  ],
+  "gedost": [
+   "vestidos",
+   "clad"
+  ],
+  "gedreven": [
+   "movido",
+   "driven"
+  ],
+  "geen": [
+   "lo que",
+   "what"
+  ],
+  "geern": [
+   "de buena gana",
+   "gladly"
+  ],
+  "geest": [
+   "espíritu",
+   "spirit"
+  ],
+  "gegeven": [
+   "dado",
+   "given"
+  ],
+  "geheimenis": [
+   "misterio",
+   "mystery"
+  ],
+  "gehouden": [
+   "sujeta",
+   "held"
+  ],
+  "gelaên": [
+   "cargada",
+   "laden"
+  ],
+  "geloken": [
+   "cerrados",
+   "closed"
+  ],
+  "gelt": [
+   "dinero",
+   "money"
+  ],
+  "gemeten": [
+   "medido",
+   "measured"
+  ],
+  "gemoed": [
+   "ánimo",
+   "heart"
+  ],
+  "genade": [
+   "gracia",
+   "grace"
   ],
   "genen": [
    "ningún",
    "no"
   ],
-  "tijden": [
-   "tiempo",
-   "time"
+  "geneught": [
+   "deleite",
+   "delight"
   ],
-  "veracht": [
-   "despreciado",
-   "scorned"
+  "genoegen": [
+   "contento",
+   "contentment"
+  ],
+  "geopenbaert": [
+   "revelado",
+   "revealed"
+  ],
+  "gepeizen": [
+   "pensamientos",
+   "thoughts"
+  ],
+  "geprezen": [
+   "alabada",
+   "praised"
+  ],
+  "geraackt": [
+   "alcanzado",
+   "struck"
+  ],
+  "gerechtigheid": [
+   "justicia",
+   "righteousness"
+  ],
+  "germanjen": [
+   "Germania",
+   "Germany"
+  ],
+  "geruckt": [
+   "arrancados",
+   "torn"
+  ],
+  "gerust": [
+   "tranquilos",
+   "at ease"
+  ],
+  "gescheiden": [
+   "separada",
+   "parted"
+  ],
+  "gespeel": [
+   "compañera de juego",
+   "playmate"
+  ],
+  "gesproten": [
+   "brotado",
+   "sprouted"
+  ],
+  "getrouwe": [
+   "fiel",
+   "faithful"
+  ],
+  "getrouwen": [
+   "fiel",
+   "faithful"
+  ],
+  "geurs": [
+   "aroma",
+   "fragrance"
+  ],
+  "geven": [
+   "dar",
+   "give"
+  ],
+  "geverft": [
+   "teñidas",
+   "dyed"
+  ],
+  "geviert": [
+   "celebrada",
+   "celebrated"
+  ],
+  "gevolght": [
+   "seguida",
+   "followed"
+  ],
+  "gewaagd": [
+   "arriesgado",
+   "risked"
+  ],
+  "geweest": [
+   "sido",
+   "been"
+  ],
+  "geweld": [
+   "fuerza",
+   "might"
+  ],
+  "gewemel": [
+   "titileo",
+   "twinkling"
+  ],
+  "gewyt": [
+   "consagrado",
+   "consecrated"
+  ],
+  "gezeten": [
+   "sentado",
+   "seated"
+  ],
+  "geëerd": [
+   "honrado",
+   "honoured"
+  ],
+  "ghy": [
+   "tú; vos",
+   "you"
+  ],
+  "gij": [
+   "vos",
+   "You"
+  ],
+  "ging": [
+   "fue",
+   "went"
+  ],
+  "glans": [
+   "esplendor",
+   "splendour"
+  ],
+  "glansen": [
+   "resplandores",
+   "splendours"
+  ],
+  "glas": [
+   "vidrio",
+   "glass"
+  ],
+  "glippen": [
+   "escurrirse",
+   "slipping"
+  ],
+  "god": [
+   "Dios",
+   "God"
+  ],
+  "godes": [
+   "de Dios",
+   "God's"
+  ],
+  "gods": [
+   "de Dios",
+   "God's"
+  ],
+  "godt": [
+   "Dios",
+   "God"
+  ],
+  "godtheit": [
+   "divinidad",
+   "Godhead"
+  ],
+  "goed": [
+   "bueno",
+   "good"
+  ],
+  "goeden": [
+   "bienes",
+   "goods"
+  ],
+  "goet": [
+   "bienes",
+   "goods"
+  ],
+  "goets": [
+   "bien",
+   "good"
+  ],
+  "goude": [
+   "dorado",
+   "golden"
+  ],
+  "gout": [
+   "oro",
+   "gold"
+  ],
+  "graaf": [
+   "conde",
+   "Count"
+  ],
+  "greep": [
+   "agarraba",
+   "caught"
+  ],
+  "greit": [
+   "gimes",
+   "wail"
+  ],
+  "grijze": [
+   "canosos",
+   "grey"
+  ],
+  "groeien": [
+   "crecen",
+   "grow"
+  ],
+  "groene": [
+   "verde",
+   "green"
+  ],
+  "grond": [
+   "fondo",
+   "bottom"
+  ],
+  "grondelooze": [
+   "sin fondo",
+   "bottomless"
+  ],
+  "groot": [
+   "gran",
+   "great"
+  ],
+  "grooten": [
+   "gran",
+   "great"
+  ],
+  "groten": [
+   "gran",
+   "great"
+  ],
+  "haar": [
+   "su",
+   "her"
+  ],
+  "haast": [
+   "pronto",
+   "soon"
+  ],
+  "had": [
+   "tenía",
+   "had"
+  ],
+  "haer": [
+   "sus",
+   "her"
+  ],
+  "haet": [
+   "odio",
+   "hatred"
+  ],
+  "handen": [
+   "manos",
+   "hands"
+  ],
+  "hangen": [
+   "colgar",
+   "hang"
+  ],
+  "haren": [
+   "su",
+   "her"
+  ],
+  "hart": [
+   "corazón",
+   "heart"
+  ],
+  "harten": [
+   "corazón",
+   "heart"
+  ],
+  "haven": [
+   "puerto",
+   "harbour"
+  ],
+  "heb": [
+   "he",
+   "have"
+  ],
+  "hebben": [
+   "tener",
+   "have"
+  ],
+  "heeft": [
+   "tiene",
+   "has"
+  ],
+  "heemlen": [
+   "cielos",
+   "heavens"
+  ],
+  "heer": [
+   "Señor",
+   "Lord"
   ],
   "heere": [
    "Señor",
    "Lord"
   ],
+  "heerlijck": [
+   "espléndido",
+   "glorious"
+  ],
+  "heidensch": [
+   "pagana",
+   "heathen"
+  ],
+  "heil": [
+   "dicha",
+   "bliss"
+  ],
+  "heiligh": [
+   "santo",
+   "holy"
+  ],
+  "heilzaam": [
+   "salvadora",
+   "saving"
+  ],
+  "heires-kracht": [
+   "fuerza del ejército",
+   "army's strength"
+  ],
+  "helaas": [
+   "ay",
+   "alas"
+  ],
+  "held": [
+   "héroe",
+   "hero"
+  ],
+  "helpen": [
+   "ayudar",
+   "help"
+  ],
+  "hem": [
+   "él",
+   "him"
+  ],
+  "hemel": [
+   "cielo",
+   "heaven"
+  ],
+  "hemelrijck": [
+   "reino del cielo",
+   "kingdom of heaven"
+  ],
+  "hemels": [
+   "cielo",
+   "heaven's"
+  ],
+  "hemelsche": [
+   "celestial",
+   "heavenly"
+  ],
+  "herder": [
+   "pastor",
+   "shepherd"
+  ],
+  "heren": [
+   "del Señor",
+   "of the Lord"
+  ],
+  "herodes": [
+   "Herodes",
+   "Herod"
+  ],
+  "het": [
+   "el",
+   "the"
+  ],
+  "heur": [
+   "su",
+   "her"
+  ],
+  "hier": [
+   "aquí",
+   "here"
+  ],
+  "hierboven": [
+   "lo alto",
+   "on high"
+  ],
+  "hij": [
+   "él",
+   "He"
+  ],
+  "hispanje": [
+   "España",
+   "Spain"
+  ],
+  "hoe": [
+   "cómo",
+   "how"
+  ],
+  "hoep": [
+   "aro",
+   "hoop"
+  ],
+  "hoofdaêr": [
+   "arteria mayor",
+   "chief artery"
+  ],
+  "hoog": [
+   "altos",
+   "high"
+  ],
+  "hooger": [
+   "más alta",
+   "higher"
+  ],
+  "hooggeboren": [
+   "de alta cuna",
+   "highborn"
+  ],
+  "hoogh": [
+   "alto",
+   "high"
+  ],
+  "hooghgeleerde": [
+   "doctísimo",
+   "most learned"
+  ],
+  "hooghmoed": [
+   "soberbia",
+   "pride"
+  ],
   "hoogsten": [
    "más alta",
    "highest"
+  ],
+  "hoop": [
+   "espero",
+   "hope"
+  ],
+  "hout": [
+   "bosque",
+   "wood"
+  ],
+  "huis": [
+   "casa",
+   "house"
+  ],
+  "hun": [
+   "les",
+   "them"
+  ],
+  "hunnen": [
+   "su",
+   "their"
+  ],
+  "huppelde": [
+   "brincaba",
+   "hopped"
+  ],
+  "hy": [
+   "él",
+   "he"
+  ],
+  "hyrcynsche": [
+   "hircinios",
+   "Hercynian"
+  ],
+  "ick": [
+   "yo",
+   "I"
+  ],
+  "ieder": [
+   "cada uno",
+   "each"
+  ],
+  "ik": [
+   "yo",
+   "I"
+  ],
+  "in": [
+   "en",
+   "in"
+  ],
+  "indien": [
+   "si",
+   "if"
+  ],
+  "instrument": [
+   "instrumento",
+   "instrument"
+  ],
+  "is": [
+   "es",
+   "is"
+  ],
+  "israël": [
+   "Israel",
+   "Israel"
+  ],
+  "jammer": [
+   "pena",
+   "grief"
+  ],
+  "jammerende": [
+   "lamentosa",
+   "wailing"
+  ],
+  "jonge": [
+   "jóvenes",
+   "young"
+  ],
+  "jongsten": [
+   "último",
+   "last"
+  ],
+  "kaartje": [
+   "cartita",
+   "little card"
+  ],
+  "kameraat": [
+   "camarada",
+   "comrade"
+  ],
+  "kan": [
+   "puede",
+   "can"
+  ],
+  "keizerlijken": [
+   "imperial",
+   "imperial"
+  ],
+  "kennen": [
+   "conocer",
+   "know"
+  ],
+  "keren": [
+   "apartar",
+   "turn away"
+  ],
+  "kermde": [
+   "gemía",
+   "moaned"
+  ],
+  "kersnacht": [
+   "Nochebuena",
+   "Christmas night"
+  ],
+  "kiele": [
+   "quilla",
+   "keel"
+  ],
+  "kieze": [
+   "escoja",
+   "choose"
+  ],
+  "kijntje": [
+   "niñito",
+   "little child"
+  ],
+  "kinderlijcke": [
+   "infantil",
+   "childlike"
+  ],
+  "kinders": [
+   "hijos",
+   "children"
+  ],
+  "kindt": [
+   "hijo",
+   "child"
+  ],
+  "klaaght": [
+   "se lamenta",
+   "laments"
+  ],
+  "klinckt": [
+   "suena",
+   "rings"
+  ],
+  "koelte": [
+   "frescor",
+   "cool air"
+  ],
+  "kommerziecke": [
+   "enferma de afanes",
+   "care-sick"
+  ],
+  "kond": [
+   "conocida",
+   "known"
+  ],
+  "koning": [
+   "rey",
+   "king"
+  ],
+  "konings": [
+   "del rey",
+   "King's"
+  ],
+  "koninkrijk": [
+   "reino",
+   "kingdom"
+  ],
+  "koomt": [
+   "vienes",
+   "come"
+  ],
+  "koren": [
+   "trigo",
+   "corn"
+  ],
+  "korenairen": [
+   "espigas",
+   "ears of corn"
+  ],
+  "kost": [
+   "comida",
+   "food"
+  ],
+  "kracht": [
+   "fuerza",
+   "strength"
+  ],
+  "krancke": [
+   "enfermo",
+   "sickly"
+  ],
+  "krans": [
+   "corona",
+   "wreath"
+  ],
+  "krenken": [
+   "ultrajen",
+   "wrong"
+  ],
+  "krielen": [
+   "pululan",
+   "throng"
+  ],
+  "kunt": [
+   "podéis",
+   "can"
+  ],
+  "laat": [
+   "deja",
+   "let"
+  ],
+  "lachende": [
+   "risueños",
+   "laughing"
+  ],
+  "lacht": [
+   "ríe",
+   "laughs"
+  ],
+  "laet": [
+   "dejad",
+   "let"
+  ],
+  "lagh": [
+   "yacía",
+   "lay"
+  ],
+  "land": [
+   "tierra",
+   "land"
+  ],
+  "landen": [
+   "tierras",
+   "lands"
+  ],
+  "landgeschrey": [
+   "clamor del campo",
+   "country's outcry"
+  ],
+  "landt": [
+   "arriba a tierra",
+   "comes to land"
+  ],
+  "lant": [
+   "tierra",
+   "land"
+  ],
+  "leef": [
+   "vivo",
+   "live"
+  ],
+  "leeft": [
+   "vive",
+   "lives"
+  ],
+  "leer": [
+   "aprende",
+   "learn"
+  ],
+  "leeren": [
+   "enseñar",
+   "teach"
+  ],
+  "leste": [
+   "último",
+   "last"
+  ],
+  "leven": [
+   "vida",
+   "life"
+  ],
+  "lichaam": [
+   "cuerpo",
+   "body"
+  ],
+  "licht": [
+   "luz",
+   "light"
+  ],
+  "liefde": [
+   "amor",
+   "love"
+  ],
+  "liefelijck": [
+   "dulcemente",
+   "sweetly"
+  ],
+  "liefste": [
+   "más querido",
+   "dearest"
+  ],
+  "lieve": [
+   "querida",
+   "dear"
+  ],
+  "lijck": [
+   "cadáver",
+   "corpse"
+  ],
+  "lijdt": [
+   "sufrid",
+   "endure"
+  ],
+  "lijf": [
+   "vida",
+   "life"
+  ],
+  "lippen": [
+   "labios",
+   "lips"
+  ],
+  "liên": [
+   "gentes",
+   "folk"
+  ],
+  "lodderaitje": [
+   "compañerita",
+   "little darling"
+  ],
+  "lodderoogh": [
+   "ojo pícaro",
+   "twinkling eye"
+  ],
+  "lof": [
+   "follaje",
+   "leaves"
+  ],
+  "lofgalm": [
+   "eco de alabanza",
+   "praise-song"
+  ],
+  "loop": [
+   "curso",
+   "course"
+  ],
+  "los": [
+   "suelto",
+   "loose"
+  ],
+  "lot": [
+   "suerte",
+   "lot"
+  ],
+  "loven": [
+   "alabar",
+   "praise"
+  ],
+  "lover": [
+   "follaje",
+   "foliage"
+  ],
+  "luid": [
+   "suena",
+   "sounds"
+  ],
+  "luistert": [
+   "escucha",
+   "listens"
+  ],
+  "lust": [
+   "contento",
+   "gladness"
+  ],
+  "maar": [
+   "pero",
+   "but"
+  ],
+  "maastricht": [
+   "Maastricht",
+   "Maastricht"
+  ],
+  "macht": [
+   "poder",
+   "power"
+  ],
+  "maeckt": [
+   "hace",
+   "makes"
+  ],
+  "maeien": [
+   "segamos",
+   "mow"
+  ],
+  "maer": [
+   "sino",
+   "but"
+  ],
+  "mag": [
+   "pueda",
+   "may"
+  ],
+  "magh": [
+   "puede",
+   "may"
+  ],
+  "majesteit": [
+   "majestad",
+   "majesty"
+  ],
+  "maken": [
+   "hacer",
+   "make"
+  ],
+  "martelaeren": [
+   "mártires",
+   "martyrs"
+  ],
+  "meer": [
+   "más",
+   "more"
+  ],
+  "melden": [
+   "declarar",
+   "declare"
+  ],
+  "melleck": [
+   "leche",
+   "milk"
+  ],
+  "men": [
+   "se",
+   "one"
+  ],
+  "menig": [
+   "muchos",
+   "many a"
+  ],
+  "menige": [
+   "tantos",
+   "many"
+  ],
+  "mensch": [
+   "hombre",
+   "man"
+  ],
+  "met": [
+   "con",
+   "with"
+  ],
+  "mickt": [
+   "apunta",
+   "aims"
+  ],
+  "middelpunt": [
+   "centro",
+   "centre"
+  ],
+  "mij": [
+   "me",
+   "me"
+  ],
+  "mijn": [
+   "mi",
+   "my"
+  ],
+  "mijnen": [
+   "mi",
+   "my"
+  ],
+  "mijner": [
+   "de mi",
+   "of my"
+  ],
+  "mijnes": [
+   "de mi",
+   "of my"
+  ],
+  "minnen": [
+   "amamos",
+   "love"
+  ],
+  "mist": [
+   "falta",
+   "lacks"
+  ],
+  "misvertrouwen": [
+   "desconfianza",
+   "mistrust"
+  ],
+  "moe": [
+   "cansado",
+   "weary"
+  ],
+  "moed": [
+   "intención",
+   "intent"
+  ],
+  "moeder": [
+   "madre",
+   "mother"
+  ],
+  "moeders": [
+   "madres",
+   "mothers"
+  ],
+  "moedig": [
+   "valientemente",
+   "bravely"
+  ],
+  "moeste": [
+   "tuvo que",
+   "had to"
+  ],
+  "moet": [
+   "debe",
+   "must"
+  ],
+  "moeten": [
+   "tenido que",
+   "had to"
+  ],
+  "moght": [
+   "podía",
+   "could"
+  ],
+  "moorden": [
+   "asesinato",
+   "murder"
+  ],
+  "myn": [
+   "mis",
+   "my"
+  ],
+  "na": [
+   "a",
+   "to"
+  ],
+  "na'et": [
+   "hacia el",
+   "to the"
+  ],
+  "naar": [
+   "hacia",
+   "towards"
+  ],
+  "nacht": [
+   "noche",
+   "night"
+  ],
+  "nader": [
+   "más cerca",
+   "nearer"
+  ],
+  "naem": [
+   "nombre",
+   "name"
+  ],
+  "nam": [
+   "tomó",
+   "took"
+  ],
+  "namaels": [
+   "más tarde",
+   "later"
+  ],
+  "namen": [
+   "nombre",
+   "name"
+  ],
+  "nassouwe": [
+   "Nassau",
+   "Nassau"
+  ],
+  "nat": [
+   "líquido",
+   "liquid"
+  ],
+  "naulix": [
+   "apenas",
+   "scarcely"
+  ],
+  "neder": [
+   "abajo",
+   "down"
+  ],
+  "neegh": [
+   "se inclinó",
+   "bowed"
+  ],
+  "neemt": [
+   "tomad",
+   "take"
+  ],
+  "neerland": [
+   "Neerlandia",
+   "Netherland"
+  ],
+  "nergens": [
+   "en ningún sitio",
+   "nowhere"
+  ],
+  "niemant": [
+   "nadie",
+   "nobody"
+  ],
+  "niet": [
+   "no",
+   "not"
+  ],
+  "nijt": [
+   "envidia",
+   "envy"
+  ],
+  "nimmermeer": [
+   "nunca jamás",
+   "nevermore"
+  ],
+  "noch": [
+   "ni",
+   "nor"
+  ],
+  "noemen": [
+   "nombrar",
+   "name"
+  ],
+  "noemt": [
+   "nombrad",
+   "name"
+  ],
+  "noit": [
+   "nunca",
+   "never"
+  ],
+  "nood": [
+   "angustia",
+   "distress"
+  ],
+  "noordwaert": [
+   "hacia el norte",
+   "northward"
+  ],
+  "nu": [
+   "ahora",
+   "now"
+  ],
+  "o": [
+   "oh",
+   "O"
   ],
   "obediëren": [
    "obedecer",
    "obey"
   ],
-  "gerechtigheid": [
-   "justicia",
-   "righteousness"
+  "oceaan": [
+   "océano",
+   "ocean"
+  ],
+  "oever": [
+   "orilla",
+   "bank"
+  ],
+  "of": [
+   "o",
+   "or"
+  ],
+  "of't": [
+   "o el",
+   "or the"
+  ],
+  "offer": [
+   "ofrece",
+   "offer"
+  ],
+  "oirsprong": [
+   "origen",
+   "origin"
+  ],
+  "om": [
+   "en",
+   "up"
+  ],
+  "onbequaem": [
+   "incapaz",
+   "unfit"
+  ],
+  "onbestuurt": [
+   "sin gobierno",
+   "unruly"
+  ],
+  "onbewust": [
+   "ignorante",
+   "unaware"
+  ],
+  "onderhiel": [
+   "observaba",
+   "kept"
+  ],
+  "onderhouden": [
+   "sostener",
+   "sustain"
+  ],
+  "onderzaten": [
+   "súbditos",
+   "subjects"
+  ],
+  "oneindigh": [
+   "infinito",
+   "infinite"
+  ],
+  "onnoosle": [
+   "inocentes",
+   "innocent"
+  ],
+  "onnozel": [
+   "inocente",
+   "innocent"
+  ],
+  "ons": [
+   "nos",
+   "us"
+  ],
+  "onschuld": [
+   "inocencia",
+   "innocence"
+  ],
+  "onschuldig": [
+   "inocente",
+   "innocent"
+  ],
+  "ontheiliging": [
+   "profanación",
+   "desecration"
+  ],
+  "ontleenen": [
+   "recibimos",
+   "borrow"
+  ],
+  "ontleent": [
+   "toma prestado",
+   "borrows"
+  ],
+  "ontloken": [
+   "abiertas",
+   "unfolded"
+  ],
+  "ontvangen": [
+   "recibir",
+   "receive"
+  ],
+  "onversaagd": [
+   "sin miedo",
+   "undismayed"
+  ],
+  "onverveerd": [
+   "intrépido",
+   "undaunted"
+  ],
+  "onzen": [
+   "nuestra",
+   "our"
+  ],
+  "oogenblick": [
+   "instante",
+   "moment"
+  ],
+  "ooghjes": [
+   "ojitos",
+   "little eyes"
+  ],
+  "ook": [
+   "también",
+   "also"
+  ],
+  "ooren": [
+   "oídos",
+   "ears"
+  ],
+  "oorlof": [
+   "adiós",
+   "farewell"
+  ],
+  "oosten": [
+   "oriente",
+   "east"
+  ],
+  "oostwaert": [
+   "hacia el este",
+   "eastward"
+  ],
+  "op": [
+   "sobre",
+   "on"
+  ],
+  "opgebroken": [
+   "partido",
+   "setting out"
+  ],
+  "opgezeten": [
+   "montado",
+   "mounted"
+  ],
+  "oprecht": [
+   "rectos",
+   "upright"
+  ],
+  "orakel": [
+   "oráculo",
+   "oracle"
+  ],
+  "oranje": [
+   "Orange",
+   "Orange"
+  ],
+  "ouden": [
+   "viejo",
+   "old"
+  ],
+  "ouders": [
+   "padres",
+   "parents"
+  ],
+  "over": [
+   "pasado",
+   "over"
+  ],
+  "overal": [
+   "por doquier",
+   "everywhere"
+  ],
+  "overschryt": [
+   "excede",
+   "exceeds"
+  ],
+  "overvloets": [
+   "abundancia",
+   "abundance"
+  ],
+  "palais": [
+   "palacio",
+   "palace"
+  ],
+  "pallaizen": [
+   "palacios",
+   "palaces"
+  ],
+  "peil": [
+   "medida",
+   "measure"
+  ],
+  "perck": [
+   "límite",
+   "bound"
+  ],
+  "plaets": [
+   "lugar",
+   "place"
+  ],
+  "pluimen": [
+   "plumas",
+   "feathers"
+  ],
+  "pooght": [
+   "intenta",
+   "strives"
+  ],
+  "pop": [
+   "muñeca",
+   "doll"
+  ],
+  "potgelt": [
+   "dinero ahorrado",
+   "hoarded money"
+  ],
+  "prieel": [
+   "cenador",
+   "arbour"
+  ],
+  "prins": [
+   "príncipe",
+   "prince"
+  ],
+  "prinse": [
+   "príncipe",
+   "prince"
+  ],
+  "prinselijk": [
+   "principesco",
+   "princely"
+  ],
+  "puick": [
+   "lo más escogido",
+   "the choicest"
+  ],
+  "quam": [
+   "vino",
+   "came"
+  ],
+  "quyt": [
+   "libres",
+   "free"
+  ],
+  "rachel": [
+   "Raquel",
+   "Rachel"
+  ],
+  "raest": [
+   "delira",
+   "rages"
+  ],
+  "redden": [
+   "salvar",
+   "save"
+  ],
+  "reden": [
+   "razón",
+   "reason"
+  ],
+  "regeert": [
+   "gobierna",
+   "rules"
+  ],
+  "regen": [
+   "lluvia",
+   "rain"
+  ],
+  "regeren": [
+   "guiar",
+   "guide"
+  ],
+  "regiment": [
+   "gobierno",
+   "rule"
+  ],
+  "reitje": [
+   "corro",
+   "ring dance"
+  ],
+  "reizen": [
+   "viajar",
+   "travel"
+  ],
+  "reuck": [
+   "perfume",
+   "scent"
+  ],
+  "rijck": [
+   "ricamente",
+   "richly"
+  ],
+  "rijckdom": [
+   "riqueza",
+   "wealth"
+  ],
+  "rijk": [
+   "reino",
+   "kingdom"
+  ],
+  "rijks": [
+   "Imperio",
+   "Empire"
+  ],
+  "rijn": [
+   "Rin",
+   "Rhine"
+  ],
+  "rinckelenden": [
+   "tintineante",
+   "jingling"
+  ],
+  "roemen": [
+   "jactarse",
+   "boast"
+  ],
+  "roken": [
+   "olían",
+   "smelled"
+  ],
+  "rolde": [
+   "rodaba",
+   "rolled"
+  ],
+  "rome": [
+   "Roma",
+   "Rome"
+  ],
+  "ronden": [
+   "esferas",
+   "spheres"
+  ],
+  "rood": [
+   "rojo",
+   "red"
+  ],
+  "roof": [
+   "botín",
+   "spoil"
+  ],
+  "roosmarijn": [
+   "romero",
+   "rosemary"
+  ],
+  "rotse": [
+   "roca",
+   "rock"
+  ],
+  "rouwt": [
+   "le pesa",
+   "grieves"
+  ],
+  "ruimen": [
+   "ancho",
+   "wide"
+  ],
+  "ruimer": [
+   "más ancho",
+   "wider"
+  ],
+  "ruischt": [
+   "susurra",
+   "rustles"
+  ],
+  "ruiters": [
+   "jinetes",
+   "horsemen"
+  ],
+  "rust": [
+   "descansa",
+   "rests"
+  ],
+  "s": [
+   "del",
+   "of the"
+  ],
+  "saertje": [
+   "Sarita",
+   "little Sara"
+  ],
+  "sal": [
+   "he de",
+   "shall"
+  ],
+  "samen": [
+   "juntos",
+   "together"
+  ],
+  "sauel": [
+   "Saúl",
+   "Saul"
+  ],
+  "schaar": [
+   "grupo",
+   "band"
+  ],
+  "schaft": [
+   "provee",
+   "provides"
+  ],
+  "schapen": [
+   "ovejas",
+   "sheep"
+  ],
+  "scharpen": [
+   "afilado",
+   "sharp"
+  ],
+  "schat": [
+   "tesoro",
+   "treasure"
+  ],
+  "schaterde": [
+   "reía a carcajadas",
+   "roared with laughter"
+  ],
+  "scheien": [
+   "separarse",
+   "parting"
+  ],
+  "schel": [
+   "agudo",
+   "shrill"
+  ],
+  "schelt": [
+   "absuelve",
+   "absolve"
+  ],
+  "schenckt": [
+   "escancia",
+   "pours"
+  ],
+  "schendigh": [
+   "infame",
+   "shameful"
+  ],
+  "schennis": [
+   "ultraje",
+   "violation"
+  ],
+  "schepper": [
+   "creador",
+   "creator"
+  ],
+  "schicht": [
+   "dardo",
+   "dart"
+  ],
+  "schiepen": [
+   "hacían",
+   "made"
+  ],
+  "schiet": [
+   "brota",
+   "shoots"
+  ],
+  "schild": [
+   "escudo",
+   "shield"
+  ],
+  "schincker": [
+   "escanciador",
+   "cup-bearer"
+  ],
+  "schonck": [
+   "dio",
+   "gave"
+  ],
+  "schooner": [
+   "más hermosa",
+   "fairer"
+  ],
+  "schop": [
+   "columpio",
+   "swing"
+  ],
+  "schort": [
+   "cesa",
+   "stop"
+  ],
+  "schreien": [
+   "lloran",
+   "weep"
+  ],
+  "schreit": [
+   "lloras",
+   "weep"
+  ],
+  "schud": [
+   "sacude",
+   "shakes"
+  ],
+  "schut": [
+   "contiene",
+   "holds back"
+  ],
+  "schutten": [
+   "atajar",
+   "to stem"
+  ],
+  "selve": [
+   "misma",
+   "same"
+  ],
+  "selven": [
+   "a sí mismo",
+   "himself"
+  ],
+  "serafyne": [
+   "seráfica",
+   "seraphic"
+  ],
+  "sich": [
+   "se",
+   "himself"
+  ],
+  "slaat": [
+   "pasa",
+   "passes"
+  ],
+  "slaef": [
+   "esclavo",
+   "slave"
+  ],
+  "slag": [
+   "batalla",
+   "battle"
+  ],
+  "slapen": [
+   "dormir",
+   "sleep"
+  ],
+  "slick": [
+   "lodo",
+   "mire"
+  ],
+  "slingertouwtje": [
+   "comba",
+   "skipping rope"
+  ],
+  "smorgens": [
+   "por la mañana",
+   "in the morning"
+  ],
+  "sneeuw": [
+   "nieve",
+   "snow"
+  ],
+  "snellen": [
+   "veloz",
+   "swift"
+  ],
+  "soete": [
+   "dulce",
+   "sweet"
+  ],
+  "soo": [
+   "así",
+   "so"
+  ],
+  "soon": [
+   "hijo",
+   "son"
+  ],
+  "spaert": [
+   "guarda",
+   "saves"
+  ],
+  "spanjaards": [
+   "españoles",
+   "Spaniards"
+  ],
+  "speelde": [
+   "jugaba",
+   "played"
+  ],
+  "speelnoot": [
+   "compañeras",
+   "playmates"
+  ],
+  "speelzieck": [
+   "juguetón",
+   "play-loving"
+  ],
+  "spillen": [
+   "desperdicio",
+   "waste"
+  ],
+  "spreken": [
+   "hablar",
+   "speak"
+  ],
+  "springen": [
+   "brotar",
+   "springing"
+  ],
+  "springend": [
+   "saltarín",
+   "bouncing"
+  ],
+  "sprong": [
+   "saltaba",
+   "jumped"
+  ],
+  "staack": [
+   "detén",
+   "stay"
+  ],
+  "staatsi": [
+   "pompa",
+   "pomp"
+  ],
+  "stad": [
+   "ciudad",
+   "town"
+  ],
+  "stadt": [
+   "ciudad",
+   "city"
+  ],
+  "staetzucht": [
+   "ambición",
+   "ambition"
+  ],
+  "stam": [
+   "estirpe",
+   "stock"
+  ],
+  "standvastig": [
+   "firme",
+   "steadfast"
+  ],
+  "starcken": [
+   "fuerte",
+   "strong"
+  ],
+  "starren": [
+   "estrellas",
+   "stars"
+  ],
+  "steen": [
+   "piedra",
+   "stone"
+  ],
+  "steent": [
+   "gime",
+   "groans"
+  ],
+  "steile": [
+   "escarpada",
+   "steep"
+  ],
+  "stem": [
+   "voz",
+   "voice"
+  ],
+  "sterven": [
+   "mueren",
+   "die"
+  ],
+  "steun": [
+   "apoyo",
+   "support"
+  ],
+  "stof": [
+   "materia",
+   "matter"
+  ],
+  "stond": [
+   "hora",
+   "hour"
+  ],
+  "stont": [
+   "estaba",
+   "stood"
+  ],
+  "stormt": [
+   "hay tormenta",
+   "storms"
+  ],
+  "stort": [
+   "se derrama",
+   "spills"
+  ],
+  "straelden": [
+   "irradiaban",
+   "beamed"
+  ],
+  "straelt": [
+   "reluce",
+   "beams"
+  ],
+  "straetgeschil": [
+   "riña callejera",
+   "street quarrel"
+  ],
+  "strandt": [
+   "encalla",
+   "runs aground"
+  ],
+  "straten": [
+   "calles",
+   "streets"
+  ],
+  "strijcken": [
+   "llevarse",
+   "to make off"
+  ],
+  "strijdbre": [
+   "batallador",
+   "warlike"
+  ],
+  "sy": [
+   "sea",
+   "be"
+  ],
+  "syn": [
+   "su",
+   "his"
+  ],
+  "t": [
+   "el",
+   "the"
+  ],
+  "t'aenschouwen": [
+   "contemplar",
+   "to behold"
+  ],
+  "t'aller": [
+   "a toda",
+   "at every"
+  ],
+  "t'amsterdam": [
+   "en Ámsterdam",
+   "in Amsterdam"
+  ],
+  "tack": [
+   "rama",
+   "branch"
+  ],
+  "te": [
+   "a",
+   "on"
+  ],
+  "teere": [
+   "tiernas",
+   "tender"
+  ],
+  "teeren": [
+   "vivimos de",
+   "live on"
+  ],
+  "tegenspoed": [
+   "adversidad",
+   "adversity"
+  ],
+  "tegenwight": [
+   "contrapeso",
+   "counterweight"
+  ],
+  "teken": [
+   "signo",
+   "sign"
+  ],
+  "tellen": [
+   "contar",
+   "count"
+  ],
+  "tempeest": [
+   "tempestad",
+   "tempest"
+  ],
+  "ten": [
+   "al",
+   "to the"
+  ],
+  "ter": [
+   "por",
+   "for"
+  ],
+  "terwijl": [
+   "mientras",
+   "while"
+  ],
+  "terwijlwe": [
+   "mientras nosotros",
+   "while we"
+  ],
+  "tiber": [
+   "Tíber",
+   "Tiber"
+  ],
+  "tijd": [
+   "tiempo",
+   "time"
+  ],
+  "tijden": [
+   "tiempo",
+   "time"
+  ],
+  "tijt": [
+   "tiempo",
+   "time"
+  ],
+  "tippen": [
+   "puntas",
+   "tips"
+  ],
+  "tiran": [
+   "tirano",
+   "tyrant"
+  ],
+  "tirannie": [
+   "tiranía",
+   "tyranny"
+  ],
+  "toe": [
+   "hacia",
+   "toward"
+  ],
+  "toen": [
+   "entonces",
+   "then"
+  ],
+  "toesingen": [
+   "cantar",
+   "to sing to"
+  ],
+  "tong": [
+   "lengua",
+   "tongue"
+  ],
+  "toom": [
+   "freno",
+   "check"
+  ],
+  "top": [
+   "cima",
+   "top"
+  ],
+  "tot": [
+   "hasta",
+   "into"
+  ],
+  "traentjes": [
+   "lagrimitas",
+   "little tears"
+  ],
+  "tranen": [
+   "lágrimas",
+   "tears"
+  ],
+  "trecke": [
+   "ponga",
+   "put"
+  ],
+  "treckende": [
+   "que tira",
+   "drawing"
+  ],
+  "treckt": [
+   "tira",
+   "draws"
+  ],
+  "treurt": [
+   "te afliges",
+   "grieve"
+  ],
+  "troep": [
+   "tropa",
+   "troop"
+  ],
+  "troost": [
+   "consuelo",
+   "comfort"
+  ],
+  "troosten": [
+   "consolar",
+   "comfort"
+  ],
+  "trouwe": [
+   "fiel",
+   "faithful"
+  ],
+  "trouwen": [
+   "fiel",
+   "faithful"
+  ],
+  "tucht": [
+   "disciplina",
+   "discipline"
+  ],
+  "tyt": [
+   "tiempo",
+   "time"
+  ],
+  "u": [
+   "te",
+   "you"
+  ],
+  "uit": [
+   "fuera de",
+   "out of"
+  ],
+  "uitgesproken": [
+   "pronunciado",
+   "uttered"
+  ],
+  "uitspraeck": [
+   "palabra",
+   "utterance"
+  ],
+  "uw": [
+   "tu",
+   "your"
+  ],
+  "uwen": [
+   "tu",
+   "your"
+  ],
+  "v": [
+   "os",
+   "you"
+  ],
+  "vader": [
+   "padre",
+   "father"
+  ],
+  "vaderland": [
+   "patria",
+   "fatherland"
+  ],
+  "vaders": [
+   "del padre",
+   "father's"
+  ],
+  "vallen": [
+   "caemos",
+   "fall"
+  ],
+  "van": [
+   "de",
+   "from"
+  ],
+  "veder": [
+   "pluma",
+   "quill"
+  ],
+  "veel": [
+   "mucho",
+   "much"
+  ],
+  "veiligh": [
+   "seguro",
+   "safe"
+  ],
+  "veld": [
+   "campo",
+   "field"
+  ],
+  "vele": [
+   "muchos",
+   "many"
+  ],
+  "velt": [
+   "abate",
+   "fells"
+  ],
+  "veracht": [
+   "despreciado",
+   "scorned"
+  ],
+  "verarmen": [
+   "empobrecerse",
+   "grow poor"
+  ],
+  "verbeelding": [
+   "imaginación",
+   "imagination"
+  ],
+  "verbeiden": [
+   "esperar",
+   "to await"
+  ],
+  "verbolgen": [
+   "embravecido",
+   "raging"
+  ],
+  "verdraegen": [
+   "soportar",
+   "bear"
+  ],
+  "verdreven": [
+   "desterrado",
+   "driven out"
+  ],
+  "verdriet": [
+   "pesar",
+   "sorrow"
+  ],
+  "verdrijven": [
+   "expulsar",
+   "drive out"
+  ],
+  "vergaet": [
+   "perece",
+   "perishes"
+  ],
+  "vergeef": [
+   "perdona",
+   "forgive"
+  ],
+  "vergeefs": [
+   "en vano",
+   "in vain"
+  ],
+  "verheft": [
+   "exaltad",
+   "exalt"
+  ],
+  "verheven": [
+   "enaltecido",
+   "raised up"
+  ],
+  "verjagen": [
+   "ahuyentan",
+   "chase away"
+  ],
+  "verkondigh": [
+   "anuncie",
+   "proclaim"
+  ],
+  "verkoren": [
+   "elegido",
+   "chosen"
+  ],
+  "verlaat": [
+   "abandones",
+   "forsake"
+  ],
+  "verlangen": [
+   "anhelar",
+   "long"
+  ],
+  "verlaten": [
+   "abandonar",
+   "forsake"
+  ],
+  "verlost": [
+   "librado",
+   "delivered"
+  ],
+  "vermaackt": [
+   "divierte",
+   "amuses"
+  ],
+  "vermeten": [
+   "arrogante",
+   "arrogant"
+  ],
+  "vermogen": [
+   "poder",
+   "power"
+  ],
+  "vermy": [
+   "evite",
+   "shun"
+  ],
+  "vernielen": [
+   "destruir",
+   "destroy"
+  ],
+  "verouden": [
+   "envejecemos",
+   "grow old"
+  ],
+  "verrassen": [
+   "sorprendan",
+   "surprise"
+  ],
+  "versch": [
+   "fresco",
+   "fresh"
+  ],
+  "verschenen": [
+   "aparecido",
+   "appeared"
+  ],
+  "verschoond": [
+   "escatimado",
+   "spared"
+  ],
+  "verschoont": [
+   "perdona",
+   "spares"
+  ],
+  "versmooren": [
+   "ahogarse",
+   "smother"
+  ],
+  "verstrooid": [
+   "dispersas",
+   "scattered"
+  ],
+  "vertoond": [
+   "mostrado",
+   "shown"
+  ],
+  "vervolgers": [
+   "perseguidores",
+   "persecutors"
+  ],
+  "verwacht": [
+   "espera",
+   "awaits"
+  ],
+  "verwelckten": [
+   "se marchitaron",
+   "withered"
+  ],
+  "verwerven": [
+   "ganar",
+   "win"
+  ],
+  "vit": [
+   "desde",
+   "out of"
+  ],
+  "vitlacht": [
+   "se ríe de",
+   "laughs at"
+  ],
+  "vleuglen": [
+   "alas",
+   "wings"
+  ],
+  "vliegen": [
+   "volamos",
+   "fly"
+  ],
+  "vliet": [
+   "corriente",
+   "stream"
+  ],
+  "vlocht": [
+   "trenzó",
+   "wove"
+  ],
+  "vloeien": [
+   "manan",
+   "flow"
+  ],
+  "vluchten": [
+   "huir",
+   "flee"
+  ],
+  "vlugh": [
+   "ligera",
+   "nimble"
+  ],
+  "voet": [
+   "pie",
+   "foot"
+  ],
+  "vogel": [
+   "pájaro",
+   "bird"
+  ],
+  "vogelkijn": [
+   "pajarillo",
+   "little bird"
+  ],
+  "vogels": [
+   "pájaros",
+   "birds"
+  ],
+  "volprezen": [
+   "bastante alabado",
+   "fully praised"
+  ],
+  "voltogen": [
+   "acabado",
+   "completed"
+  ],
+  "voor": [
+   "antes que",
+   "before"
+  ],
+  "voorby": [
+   "de largo",
+   "by"
+  ],
+  "voorhooft": [
+   "frente",
+   "brow"
+  ],
+  "voorspel": [
+   "preludio",
+   "prelude"
+  ],
+  "vorst": [
+   "príncipe",
+   "prince"
+  ],
+  "vorstelijk": [
+   "principesco",
+   "princely"
+  ],
+  "vos": [
+   "Vos",
+   "Vos"
+  ],
+  "voêr": [
+   "alimento",
+   "fodder"
+  ],
+  "vreck": [
+   "avaro",
+   "miser"
+  ],
+  "vrees": [
+   "temor",
+   "fear"
+  ],
+  "vreeze": [
+   "temor",
+   "fear"
+  ],
+  "vreught": [
+   "alegría",
+   "joy"
+  ],
+  "vrezen": [
+   "temor",
+   "fear"
+  ],
+  "vrij": [
+   "libre",
+   "free"
+  ],
+  "vrolijck": [
+   "alegre",
+   "merry"
+  ],
+  "vrome": [
+   "piadosos",
+   "devout"
+  ],
+  "vromen": [
+   "piadosos",
+   "the devout"
+  ],
+  "vroom": [
+   "piadoso",
+   "devout"
+  ],
+  "vry": [
+   "de buen grado",
+   "freely"
+  ],
+  "vryheit": [
+   "libertad",
+   "freedom"
+  ],
+  "vuil": [
+   "sucios",
+   "foul"
+  ],
+  "vw": [
+   "tus",
+   "your"
+  ],
+  "waarom": [
+   "por qué",
+   "why"
+  ],
+  "wacker": [
+   "despierto",
+   "awake"
+  ],
+  "wackren": [
+   "despierta",
+   "lively"
+  ],
+  "waer": [
+   "dónde",
+   "where"
+  ],
+  "waeren": [
+   "vagar",
+   "wandering"
+  ],
+  "waert": [
+   "vale",
+   "worth"
+  ],
+  "wancken": [
+   "vacilar",
+   "wavering"
+  ],
+  "wangen": [
+   "mejillas",
+   "cheeks"
+  ],
+  "wanneer": [
+   "cuando",
+   "when"
+  ],
+  "wanneerse": [
+   "cuando ella",
+   "when she"
+  ],
+  "wanneerze": [
+   "cuando ella",
+   "when it"
+  ],
+  "want": [
+   "pues",
+   "for"
+  ],
+  "warm": [
+   "abrigados",
+   "warm"
+  ],
+  "was": [
+   "era",
+   "was"
+  ],
+  "wassen": [
+   "laven",
+   "wash"
+  ],
+  "wat": [
+   "qué",
+   "what"
+  ],
+  "wecken": [
+   "despertamos",
+   "awaken"
+  ],
+  "weckt": [
+   "despierta",
+   "wakes"
+  ],
+  "wederkeren": [
+   "volver",
+   "return"
+  ],
+  "wederspoed": [
+   "adversidad",
+   "adversity"
+  ],
+  "weereldkloot": [
+   "globo del mundo",
+   "world's globe"
+  ],
+  "weest": [
+   "estad",
+   "be"
+  ],
+  "wel": [
+   "bien",
+   "well"
+  ],
+  "welgetroost": [
+   "consolado",
+   "comforted"
+  ],
+  "wensch": [
+   "deseo",
+   "wish"
+  ],
+  "wenschte": [
+   "deseaba",
+   "wished"
+  ],
+  "werd": [
+   "fue",
+   "was"
+  ],
+  "werrelt": [
+   "mundo",
+   "world"
+  ],
+  "westen": [
+   "occidente",
+   "west"
+  ],
+  "wet": [
+   "ley",
+   "law"
+  ],
+  "wey": [
+   "pasto",
+   "pasture"
+  ],
+  "wezen": [
+   "ser",
+   "being"
+  ],
+  "wicht": [
+   "criatura",
+   "little one"
+  ],
+  "wie": [
+   "quien",
+   "whoever"
+  ],
+  "wien": [
+   "a quién",
+   "to whom"
+  ],
+  "wil": [
+   "quiere",
+   "wants"
+  ],
+  "wild": [
+   "salvaje",
+   "wild"
+  ],
+  "wilde": [
+   "salvaje",
+   "wild"
+  ],
+  "wilhelmus": [
+   "Guillermo",
+   "William"
+  ],
+  "willen": [
+   "querido",
+   "wished"
+  ],
+  "wilt": [
+   "volveos",
+   "turn"
+  ],
+  "wiltzang": [
+   "canto silvestre",
+   "wild song"
+  ],
+  "winckbraeuw": [
+   "ceja",
+   "eyebrow"
+  ],
+  "wit": [
+   "blanco (diana)",
+   "mark"
+  ],
+  "woord": [
+   "palabra",
+   "word"
+  ],
+  "word": [
+   "es",
+   "is"
+  ],
+  "worden": [
+   "hacerse",
+   "become"
+  ],
+  "wordt": [
+   "queda",
+   "is"
+  ],
+  "wort": [
+   "es",
+   "is"
+  ],
+  "woud": [
+   "bosque",
+   "forest"
+  ],
+  "wouden": [
+   "bosques",
+   "forests"
+  ],
+  "wreedheid": [
+   "crueldad",
+   "cruelty"
+  ],
+  "wuft": [
+   "ligera",
+   "flighty"
+  ],
+  "wy": [
+   "nosotros",
+   "we"
+  ],
+  "wysheit": [
+   "sabiduría",
+   "wisdom"
+  ],
+  "yder": [
+   "cada cual",
+   "everyone"
+  ],
+  "ydle": [
+   "vanas",
+   "vain"
+  ],
+  "ys": [
+   "hielo",
+   "ice"
+  ],
+  "zaak": [
+   "causa",
+   "cause"
+  ],
+  "zaed": [
+   "semilla",
+   "seed"
+  ],
+  "zaeien": [
+   "sembramos",
+   "sow"
+  ],
+  "zag": [
+   "vio",
+   "saw"
+  ],
+  "zagh'er": [
+   "vio allí",
+   "saw there"
+  ],
+  "zal": [
+   "va a",
+   "shall"
+  ],
+  "zaligh": [
+   "bienaventurado",
+   "blessed"
+  ],
+  "zat": [
+   "estaba",
+   "sat"
+  ],
+  "zeer": [
+   "muy",
+   "very"
+  ],
+  "zein": [
+   "guadaña",
+   "scythe"
+  ],
+  "zeit": [
+   "dice",
+   "says"
+  ],
+  "zelf": [
+   "misma",
+   "itself"
+  ],
+  "zelve": [
+   "mismo",
+   "same"
+  ],
+  "zelven": [
+   "mismo",
+   "self"
+  ],
+  "zich": [
+   "se",
+   "itself"
+  ],
+  "ziel": [
+   "alma",
+   "soul"
+  ],
+  "zielen": [
+   "almas",
+   "souls"
+  ],
+  "zieltje": [
+   "almita",
+   "little soul"
+  ],
+  "zien": [
+   "ver",
+   "see"
+  ],
+  "ziet": [
+   "ve",
+   "sees"
+  ],
+  "zietze": [
+   "los ve",
+   "sees them"
+  ],
+  "zij": [
+   "ellos",
+   "they"
+  ],
+  "zijn": [
+   "ser",
+   "be"
+  ],
+  "zijner": [
+   "de su",
+   "of his"
+  ],
+  "zijt": [
+   "sois",
+   "are"
+  ],
+  "zingt": [
+   "cantad",
+   "sing"
+  ],
+  "zit": [
+   "se sienta",
+   "sits"
+  ],
+  "zo": [
+   "así",
+   "so"
+  ],
+  "zoet": [
+   "dulce",
+   "sweet"
+  ],
+  "zoete": [
+   "dulce",
+   "sweet"
+  ],
+  "zogh": [
+   "leche",
+   "milk"
+  ],
+  "zon": [
+   "sol",
+   "sun"
+  ],
+  "zonder": [
+   "sin",
+   "without"
+  ],
+  "zong": [
+   "cantaba",
+   "sang"
+  ],
+  "zonnen": [
+   "soles",
+   "suns"
+  ],
+  "zonneschijn": [
+   "luz del sol",
+   "sunshine"
+  ],
+  "zoo": [
+   "así",
+   "so"
+  ],
+  "zuchten": [
+   "gemir",
+   "sigh"
+  ],
+  "zulx": [
+   "así",
+   "thus"
+  ],
+  "zuur": [
+   "lo amargo",
+   "the sour"
+  ],
+  "zwaar": [
+   "dura",
+   "heavy"
+  ],
+  "zwack": [
+   "débil",
+   "weak"
+  ],
+  "zwaerden": [
+   "espadas",
+   "swords"
+  ],
+  "zweef": [
+   "floto",
+   "float"
+  ],
+  "zwitsersche": [
+   "suizos",
+   "Swiss"
+  ],
+  "zwym": [
+   "desmayo",
+   "swoon"
+  ],
+  "zy": [
+   "ella",
+   "she"
+  ],
+  "zyn": [
+   "su",
+   "his"
+  ],
+  "zyt": [
+   "eres",
+   "are"
   ]
  },
  "no": {

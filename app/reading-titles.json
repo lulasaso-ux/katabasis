@@ -2401,6 +2401,27 @@
    "name_en": "Come and Hear My Sighs",
    "title_es": "Venid a oír mis suspiros",
    "title_en": "Come and Hear My Sighs"
+  },
+  "vond-vossius": {
+   "type": "poem",
+   "name_es": "Consolación a Gerardus Vossius",
+   "name_en": "Consolation to Gerardus Vossius",
+   "title_es": "Consolación a Gerardus Vossius",
+   "title_en": "Consolation to Gerardus Vossius"
+  },
+  "vond-isabelle": {
+   "type": "poem",
+   "name_es": "La niña consuela a sus padres",
+   "name_en": "The Child Consoles Her Parents",
+   "title_es": "La niña consuela a sus padres",
+   "title_en": "The Child Consoles Her Parents"
+  },
+  "vond-rynstroom": {
+   "type": "fragment",
+   "name_es": "El Rin",
+   "name_en": "The Rhine",
+   "title_es": "De Rynstroom",
+   "title_en": "De Rynstroom"
   }
  }
 }
