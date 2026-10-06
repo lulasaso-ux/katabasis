@@ -1,17 +1,13 @@
 {
   "_nota": "Lo que el flujo Traer fuentes externas descarga. Una entrada con `site`+`title` consulta un Wikisource; una con `url` trae esa página tal cual. El resultado queda en scripts/_fuentes/, fuera del sitio publicado.",
   "textos": [
-    {"id": "dante-guido",    "site": "it.wikisource.org", "title": "Rime (Dante)/LII - Guido, i' vorrei che tu e Lapo ed io"},
-    {"id": "dante-occhi",    "site": "it.wikisource.org", "title": "Vita nuova/XXI"},
-    {"id": "dante-peregrini","site": "it.wikisource.org", "title": "Vita nuova/XL"},
-    {"id": "dante-spera",    "site": "it.wikisource.org", "title": "Vita nuova/XLI"},
-    {"id": "dante-donne",    "site": "it.wikisource.org", "title": "Vita nuova/XIX"},
-    {"id": "dante-tanto",    "site": "it.wikisource.org", "title": "Vita nuova/XXVI"},
+    {"id": "dante-rime-indice", "site": "it.wikisource.org", "title": "Rime (Dante)"},
+    {"id": "dante-xxi",   "site": "it.wikisource.org", "title": "Rime (Dante)/XXI - Io mi senti' svegliar dentro a lo core"},
+    {"id": "dante-xxvi",  "site": "it.wikisource.org", "title": "Rime (Dante)/XXVI - Venite a intender li sospiri miei"},
+    {"id": "dante-vn-indice", "site": "it.wikisource.org", "title": "Vita nuova"},
 
-    {"id": "vondel-indice3", "url": "https://www.dbnl.org/tekst/vond001dewe03_01/"},
-    {"id": "vondel-indice9", "url": "https://www.dbnl.org/tekst/vond001dewe09_01/"},
-
-    {"id": "cervantes-61202", "url": "https://www.gutenberg.org/cache/epub/61202/pg61202.txt"}
+    {"id": "vondel-dbnl3", "url": "https://www.dbnl.org/tekst/vond001dewe03_01/index.php"},
+    {"id": "vondel-dbnl5", "url": "https://www.dbnl.org/tekst/vond001dewe05_01/index.php"}
   ],
   "imagenes": []
 }

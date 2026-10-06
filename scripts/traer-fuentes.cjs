@@ -104,7 +104,10 @@ async function commonsImage(file) {
 // marcado, conservando los saltos de línea.
 async function paginaSuelta(url) {
   const html = await get(url, false);
-  return html
+  // Un índice sirve de poco sin sus enlaces: se conservan como «texto → ruta».
+  const conEnlaces = html.replace(/<a\s[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/g,
+    (m, href, texto) => texto.replace(/<[^>]+>/g, '').trim() + ' \u2192 ' + href);
+  return conEnlaces
     .replace(/<style[\s\S]*?<\/style>/g, '')
     .replace(/<script[\s\S]*?<\/script>/g, '')
     .replace(/<br\s*\/?>/g, '\n')
