@@ -1,13 +1,41 @@
 {
   "_nota": "Lo que el flujo Traer fuentes externas descarga. Una entrada con `site`+`title` consulta un Wikisource; una con `url` trae esa página tal cual. El resultado queda en scripts/_fuentes/, fuera del sitio publicado.",
   "textos": [
-    {"id": "dante-rime-indice", "site": "it.wikisource.org", "title": "Rime (Dante)"},
-    {"id": "dante-xxi",   "site": "it.wikisource.org", "title": "Rime (Dante)/XXI - Io mi senti' svegliar dentro a lo core"},
-    {"id": "dante-xxvi",  "site": "it.wikisource.org", "title": "Rime (Dante)/XXVI - Venite a intender li sospiri miei"},
-    {"id": "dante-vn-indice", "site": "it.wikisource.org", "title": "Vita nuova"},
-
-    {"id": "vondel-dbnl3", "url": "https://www.dbnl.org/tekst/vond001dewe03_01/index.php"},
-    {"id": "vondel-dbnl5", "url": "https://www.dbnl.org/tekst/vond001dewe05_01/index.php"}
+    {
+      "id": "dante-vi",
+      "site": "it.wikisource.org",
+      "title": "Rime (Dante)/VI - Piangete, amanti, poi che piange Amore"
+    },
+    {
+      "id": "dante-vii",
+      "site": "it.wikisource.org",
+      "title": "Rime (Dante)/VII - Morte villana, di pietà nemica"
+    },
+    {
+      "id": "dante-xvii",
+      "site": "it.wikisource.org",
+      "title": "Rime (Dante)/XVII - Ne li occhi porta la mia donna Amore"
+    },
+    {
+      "id": "vond-rynstroom",
+      "url": "https://www.dbnl.org/tekst/vond001dewe03_01/vond001dewe03_01_0034.php"
+    },
+    {
+      "id": "vond-vredewensch",
+      "url": "https://www.dbnl.org/tekst/vond001dewe03_01/vond001dewe03_01_0073.php"
+    },
+    {
+      "id": "vond-vossius",
+      "url": "https://www.dbnl.org/tekst/vond001dewe03_01/vond001dewe03_01_0078.php"
+    },
+    {
+      "id": "vond-isabelle",
+      "url": "https://www.dbnl.org/tekst/vond001dewe03_01/vond001dewe03_01_0107.php"
+    },
+    {
+      "id": "vond-gebedt",
+      "url": "https://www.dbnl.org/tekst/vond001dewe05_01/vond001dewe05_01_0174.php"
+    }
   ],
   "imagenes": []
 }
