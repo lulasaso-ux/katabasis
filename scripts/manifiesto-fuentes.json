@@ -1,19 +1,19 @@
 {
   "_nota": "Lo que el flujo Traer fuentes externas descarga. Se edita a mano antes de cada corrida; el resultado queda en scripts/_fuentes/, fuera del sitio publicado.",
   "textos": [
-    {"id": "shk-sonnet-29",  "site": "en.wikisource.org", "title": "Sonnet 29 (Shakespeare)"},
-    {"id": "shk-sonnet-30",  "site": "en.wikisource.org", "title": "Sonnet 30 (Shakespeare)"},
-    {"id": "shk-sonnet-60",  "site": "en.wikisource.org", "title": "Sonnet 60 (Shakespeare)"},
-    {"id": "shk-sonnet-94",  "site": "en.wikisource.org", "title": "Sonnet 94 (Shakespeare)"},
-    {"id": "shk-sonnet-129", "site": "en.wikisource.org", "title": "Sonnet 129 (Shakespeare)"},
-    {"id": "shk-sonnet-130", "site": "en.wikisource.org", "title": "Sonnet 130 (Shakespeare)"},
-    {"id": "shk-sonnet-146", "site": "en.wikisource.org", "title": "Sonnet 146 (Shakespeare)"},
-    {"id": "shk-sonnet-73",  "site": "en.wikisource.org", "title": "Sonnet 73 (Shakespeare)"},
+    {"id": "shk-29",  "site": "en.wikisource.org", "title": "Shake-speares Sonnets, Never before Imprinted/Sonnet 29"},
+    {"id": "shk-30",  "site": "en.wikisource.org", "title": "Shake-speares Sonnets, Never before Imprinted/Sonnet 30"},
+    {"id": "shk-60",  "site": "en.wikisource.org", "title": "Shake-speares Sonnets, Never before Imprinted/Sonnet 60"},
+    {"id": "shk-94",  "site": "en.wikisource.org", "title": "Shake-speares Sonnets, Never before Imprinted/Sonnet 94"},
+    {"id": "shk-129", "site": "en.wikisource.org", "title": "Shake-speares Sonnets, Never before Imprinted/Sonnet 129"},
+    {"id": "shk-130", "site": "en.wikisource.org", "title": "Shake-speares Sonnets, Never before Imprinted/Sonnet 130"},
 
-    {"id": "vond-rijnstroom",   "site": "nl.wikisource.org", "title": "Het Stockske van Joan van Oldenbarnevelt"},
-    {"id": "vond-gysbreght",    "site": "nl.wikisource.org", "title": "Gysbreght van Aemstel"},
-    {"id": "vond-roskam",       "site": "nl.wikisource.org", "title": "Roskam"},
-    {"id": "vond-uitvaart",     "site": "nl.wikisource.org", "title": "Uytvaert van mijn dochterken"}
+    {"id": "vond-stokske",   "site": "nl.wikisource.org", "title": "Het stokske van Joan van Oldenbarnevelt"},
+    {"id": "vond-rijn",      "site": "nl.wikisource.org", "title": "Aen den Rynstroom"},
+    {"id": "vond-vertroost", "site": "nl.wikisource.org", "title": "Vertroostinge aen Geeraerdt Vossius"},
+    {"id": "vond-hooft",     "site": "nl.wikisource.org", "title": "Op Pieter Cornelisz. Hooft"},
+    {"id": "vond-gebed",     "site": "nl.wikisource.org", "title": "Vondel"},
+    {"id": "vond-lucifer",   "site": "nl.wikisource.org", "title": "Lucifer"}
   ],
   "imagenes": []
 }
