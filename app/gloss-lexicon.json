@@ -120688,6 +120688,10 @@
    "sin",
    "without"
   ],
+  "бездны": [
+   "del abismo",
+   "of the abyss"
+  ],
   "безмолвно": [
    "en silencio",
    "silently"
@@ -120716,6 +120720,10 @@
    "orillas",
    "banks"
   ],
+  "берегов": [
+   "las orillas",
+   "the shores"
+  ],
   "берегу": [
    "orilla",
    "shore"
@@ -120731,6 +120739,10 @@
   "бескостным": [
    "sin huesos",
    "boneless"
+  ],
+  "беспечный": [
+   "despreocupada",
+   "careless"
   ],
   "бессильным": [
    "impotente",
@@ -120748,6 +120760,10 @@
    "batir",
    "clap"
   ],
+  "блага": [
+   "de bien",
+   "of good"
+  ],
   "благоухающим": [
    "perfumados",
    "fragrant"
@@ -120759,6 +120775,10 @@
   "бледному": [
    "pálida",
    "pale"
+  ],
+  "блеск": [
+   "brillo",
+   "gleam"
   ],
   "блеском": [
    "brillo",
@@ -120775,6 +120795,10 @@
   "блестя": [
    "brillando",
    "glittering"
+  ],
+  "блещешь": [
+   "resplandeces",
+   "you shine"
   ],
   "ближайших": [
    "más cercanos",
@@ -120887,6 +120911,18 @@
   "братьям": [
    "hermanos",
    "brothers"
+  ],
+  "брег": [
+   "orilla",
+   "shore"
+  ],
+  "брегам": [
+   "orillas",
+   "shores"
+  ],
+  "бродил": [
+   "vagaba",
+   "I wandered"
   ],
   "буде": [
    "basta",
@@ -121068,6 +121104,14 @@
    "magníficas",
    "magnificent"
   ],
+  "величавы": [
+   "majestuosos",
+   "majestic"
+  ],
+  "венец": [
+   "corona",
+   "crown"
+  ],
   "венца": [
    "corona",
    "crown"
@@ -121108,6 +121152,14 @@
    "viento",
    "wind"
   ],
+  "вечерние": [
+   "del atardecer",
+   "evening"
+  ],
+  "вечерний": [
+   "del atardecer",
+   "evening"
+  ],
   "вечор": [
    "anoche",
    "last night"
@@ -121115,6 +121167,10 @@
   "вещие": [
    "proféticas",
    "prophetic"
+  ],
+  "взволнуйся": [
+   "agítate",
+   "rise up"
   ],
   "взгляд": [
    "mirada",
@@ -121135,6 +121191,10 @@
   "взоры": [
    "ojos",
    "eyes"
+  ],
+  "взыграл": [
+   "te alzaste",
+   "you rose up"
   ],
   "взял": [
    "tomó",
@@ -121187,6 +121247,10 @@
   "владыки": [
    "del señor",
    "of the lord"
+  ],
+  "властитель": [
+   "soberano",
+   "sovereign"
   ],
   "властным": [
    "de mando",
@@ -121364,6 +121428,10 @@
    "recuerdos",
    "memories"
   ],
+  "воспоминанья": [
+   "recuerdos",
+   "memories"
+  ],
   "восславил": [
    "glorifiqué",
    "glorified"
@@ -121375,6 +121443,10 @@
   "восторг": [
    "arrobo",
    "rapture"
+  ],
+  "восторгами": [
+   "con arrebatos",
+   "with raptures"
   ],
   "восторженная": [
    "exaltada",
@@ -121391,6 +121463,10 @@
   "вот": [
    "he aquí",
    "here"
+  ],
+  "вотще": [
+   "en vano",
+   "in vain"
   ],
   "вошел": [
    "entraste",
@@ -121468,6 +121544,10 @@
    "todos",
    "all"
   ],
+  "вслед": [
+   "tras",
+   "after"
+  ],
   "всосала": [
    "absorbió",
    "absorbed"
@@ -121539,6 +121619,10 @@
   "выйдет": [
    "saldrá",
    "will come out"
+  ],
+  "вынес": [
+   "llevarías",
+   "would carry"
   ],
   "вынул": [
    "sacó",
@@ -121652,6 +121736,10 @@
    "a la voz",
    "to the voice"
   ],
+  "глубок": [
+   "profundo",
+   "deep"
+  ],
   "глубокая": [
    "profunda",
    "deep"
@@ -121663,6 +121751,10 @@
   "глупца": [
    "necio",
    "fool"
+  ],
+  "глухие": [
+   "sordos",
+   "muffled"
   ],
   "глухом": [
    "sordo",
@@ -121687,6 +121779,10 @@
   "гнусно": [
    "vilmente",
    "vilely"
+  ],
+  "говор": [
+   "habla",
+   "talk"
   ],
   "говорил": [
    "decía",
@@ -121720,6 +121816,10 @@
    "voz",
    "voice"
   ],
+  "голубые": [
+   "azules",
+   "blue"
+  ],
   "голубыми": [
    "azules",
    "blue"
@@ -121731,6 +121831,10 @@
   "гордо": [
    "orgullosamente",
    "proudly"
+  ],
+  "гордою": [
+   "soberbia",
+   "proud"
   ],
   "гордый": [
    "orgulloso",
@@ -121808,6 +121912,10 @@
    "tumba",
    "grave"
   ],
+  "гробница": [
+   "sepulcro",
+   "tomb"
+  ],
   "грозит": [
    "amenaza",
    "threatens"
@@ -121852,9 +121960,17 @@
    "tristeza",
    "sadness"
   ],
+  "грустный": [
+   "triste",
+   "sad"
+  ],
   "губами": [
    "labios",
    "lips"
+  ],
+  "гул": [
+   "fragor",
+   "roar"
   ],
   "густой": [
    "espesa",
@@ -122216,6 +122332,10 @@
    "espiritual",
    "spiritual"
   ],
+  "духом": [
+   "de espíritu",
+   "of spirit"
+  ],
   "душа": [
    "alma",
    "soul"
@@ -122229,6 +122349,10 @@
    "soul"
   ],
   "душой": [
+   "alma",
+   "soul"
+  ],
+  "душу": [
    "alma",
    "soul"
   ],
@@ -122336,6 +122460,10 @@
    "compadecía",
    "pitied"
   ],
+  "жалеть": [
+   "lamentar",
+   "to regret"
+  ],
   "жалко": [
    "lástima",
    "pity"
@@ -122367,6 +122495,10 @@
   "же": [
    "mismo",
    "same"
+  ],
+  "желанный": [
+   "anhelado",
+   "longed-for"
   ],
   "желая": [
    "deseando",
@@ -122444,6 +122576,10 @@
    "errores",
    "errors"
   ],
+  "забуду": [
+   "olvidaré",
+   "I shall forget"
+  ],
   "забыл": [
    "olvidé",
    "forgot"
@@ -122464,6 +122600,10 @@
    "sagrada",
    "cherished"
   ],
+  "заветным": [
+   "secreto",
+   "cherished"
+  ],
   "завещанию": [
    "testamento",
    "will"
@@ -122479,6 +122619,10 @@
   "заливает": [
    "parlotea",
    "rattles on"
+  ],
+  "заливы": [
+   "bahías",
+   "bays"
   ],
   "залогом": [
    "prenda",
@@ -122540,6 +122684,10 @@
    "encierro",
    "confinement"
   ],
+  "заунывный": [
+   "lastimero",
+   "mournful"
+  ],
   "захватившие": [
    "que oprimían",
    "seizing"
@@ -122551,6 +122699,10 @@
   "защиты": [
    "protección",
    "protection"
+  ],
+  "звал": [
+   "llamabas",
+   "you called"
   ],
   "званья": [
    "título",
@@ -122684,6 +122836,10 @@
    "del calor",
    "from the swelter"
   ],
+  "зов": [
+   "llamada",
+   "call"
+  ],
   "зубами": [
    "dientes",
    "teeth"
@@ -122691,6 +122847,10 @@
   "зубы": [
    "dientes",
    "teeth"
+  ],
+  "зыбей": [
+   "del oleaje",
+   "of the swells"
   ],
   "и": [
    "y",
@@ -122812,6 +122972,10 @@
    "historia",
    "story"
   ],
+  "исчез": [
+   "desapareció",
+   "he vanished"
+  ],
   "их": [
    "los",
    "them"
@@ -122868,6 +123032,10 @@
    "gota",
    "drop"
   ],
+  "капля": [
+   "gota",
+   "drop"
+  ],
   "картофеля": [
    "patata",
    "potato"
@@ -122887,6 +123055,10 @@
   "касках": [
    "cascos",
    "helmets"
+  ],
+  "катишь": [
+   "ruedas",
+   "you roll"
   ],
   "кишат": [
    "bullen",
@@ -123000,6 +123172,10 @@
    "caballo",
    "horse"
   ],
+  "кораблей": [
+   "de navíos",
+   "of ships"
+  ],
   "корни": [
    "raíces",
    "roots"
@@ -123064,8 +123240,16 @@
    "preciosa",
    "beauty"
   ],
+  "красой": [
+   "hermosura",
+   "beauty"
+  ],
   "красоты": [
    "belleza",
+   "beauty"
+  ],
+  "красы": [
+   "hermosura",
    "beauty"
   ],
   "краю": [
@@ -123111,6 +123295,10 @@
   "кто-то": [
    "alguien",
    "someone"
+  ],
+  "куда": [
+   "adónde",
+   "where to"
   ],
   "куда-то": [
    "a algún sitio",
@@ -123492,6 +123680,10 @@
    "mundo",
    "world"
   ],
+  "миру": [
+   "al mundo",
+   "to the world"
+  ],
   "мне": [
    "me",
    "to me"
@@ -123519,6 +123711,14 @@
   "могу": [
    "puedo",
    "I can"
+  ],
+  "могучей": [
+   "poderosa",
+   "mighty"
+  ],
+  "могущ": [
+   "poderoso",
+   "mighty"
   ],
   "мое": [
    "mi",
@@ -123584,6 +123784,10 @@
    "en silencio",
    "in silence"
   ],
+  "молчаливы": [
+   "callados",
+   "silent"
+  ],
   "молчанья": [
    "silencio",
    "silence"
@@ -123624,6 +123828,10 @@
    "oscuridad",
    "gloom"
   ],
+  "мрачен": [
+   "sombrío",
+   "dark"
+  ],
   "мрачной": [
    "sombrío",
    "gloomy"
@@ -123655,6 +123863,10 @@
   "муций": [
    "Mucio",
    "Mucius"
+  ],
+  "мучений": [
+   "tormentos",
+   "torments"
   ],
   "мученья": [
    "tormento",
@@ -123703,6 +123915,10 @@
   "набежит": [
    "se abalanza",
    "rushes upon"
+  ],
+  "навек": [
+   "para siempre",
+   "for ever"
   ],
   "наверно": [
    "con certeza",
@@ -123812,6 +124028,10 @@
    "dio de beber",
    "gave to drink"
   ],
+  "наполеон": [
+   "Napoleón",
+   "Napoleon"
+  ],
   "наполнил": [
    "llenó",
    "filled"
@@ -123827,6 +124047,10 @@
   "наполнявших": [
    "que llenaban",
    "filling"
+  ],
+  "направить": [
+   "encaminar",
+   "to set out"
   ],
   "напрасно": [
    "en vano",
@@ -123898,6 +124122,10 @@
   ],
   "нашей": [
    "nuestra",
+   "our"
+  ],
+  "наших": [
+   "nuestros",
    "our"
   ],
   "нашла": [
@@ -124040,6 +124268,10 @@
    "extraordinariamente",
    "extraordinarily"
   ],
+  "неодолимый": [
+   "invencible",
+   "unconquerable"
+  ],
   "неожиданное": [
    "inesperado",
    "unexpected"
@@ -124051,6 +124283,14 @@
   "непобедимого": [
    "invencible",
    "invincible"
+  ],
+  "непогодой": [
+   "con la tormenta",
+   "in foul weather"
+  ],
+  "неподвижный": [
+   "inmóvil",
+   "unmoving"
   ],
   "неподражаемые": [
    "inimitables",
@@ -124119,6 +124359,10 @@
   "нетерпеливого": [
    "impaciente",
    "impatient"
+  ],
+  "неукротим": [
+   "indomable",
+   "untamed"
   ],
   "неумолимое": [
    "implacable",
@@ -124328,6 +124572,10 @@
    "me quedé sin aliento",
    "went numb"
   ],
+  "образ": [
+   "imagen",
+   "image"
+  ],
   "образа": [
    "figura",
    "image"
@@ -124440,9 +124688,21 @@
    "enfurecidos",
    "embittered"
   ],
+  "означен": [
+   "marcada",
+   "marked"
+  ],
+  "океан": [
+   "océano",
+   "ocean"
+  ],
   "окно": [
    "ventana",
    "window"
+  ],
+  "окован": [
+   "encadenado",
+   "in irons"
   ],
   "омерзительно": [
    "asquerosamente",
@@ -124467,6 +124727,14 @@
   "оно": [
    "ello",
    "it"
+  ],
+  "оплаканный": [
+   "llorado",
+   "mourned"
+  ],
+  "опустел": [
+   "quedó vacío",
+   "is empty"
   ],
   "опытных": [
    "expertos",
@@ -124524,6 +124792,18 @@
    "abandonará",
    "will abandon"
   ],
+  "оставить": [
+   "abandonar",
+   "to leave"
+  ],
+  "оставя": [
+   "dejando",
+   "leaving"
+  ],
+  "остался": [
+   "me quedé",
+   "I stayed"
+  ],
   "остановился": [
    "se detuvo",
    "stopped"
@@ -124543,6 +124823,10 @@
   "от": [
    "de",
    "from"
+  ],
+  "отважно": [
+   "audazmente",
+   "boldly"
   ],
   "отверзлись": [
    "se abrieron",
@@ -124591,6 +124875,10 @@
   "отзыва": [
    "respuesta",
    "reply"
+  ],
+  "отзывы": [
+   "respuestas",
+   "answerings"
   ],
   "отклик": [
    "respuesta",
@@ -124660,6 +124948,10 @@
    "invadió",
    "seized"
   ],
+  "очарован": [
+   "hechizado",
+   "spellbound"
+  ],
   "очень": [
    "muy",
    "very"
@@ -124692,6 +124984,10 @@
    "memoria",
    "memory"
   ],
+  "парус": [
+   "vela",
+   "sail"
+  ],
   "пастухов": [
    "de los pastores",
    "of shepherds"
@@ -124703,6 +124999,10 @@
   "пахнет": [
    "huele",
    "smells"
+  ],
+  "певец": [
+   "cantor",
+   "singer"
   ],
   "пена": [
    "espuma",
@@ -124735,6 +125035,10 @@
   "переживет": [
    "sobrevivirá",
    "will outlive"
+  ],
+  "перенесу": [
+   "llevaré",
+   "I shall carry"
   ],
   "перепутье": [
    "encrucijada",
@@ -124852,6 +125156,10 @@
    "por",
    "by"
   ],
+  "побег": [
+   "fuga",
+   "flight"
+  ],
   "поблагодарил": [
    "agradeció",
    "thanked"
@@ -124864,6 +125172,10 @@
    "dañaré",
    "harm"
   ],
+  "повсюду": [
+   "en todas partes",
+   "everywhere"
+  ],
   "повторил": [
    "repitió",
    "repeated"
@@ -124871,6 +125183,10 @@
   "погляди": [
    "mira",
    "look"
+  ],
+  "погружались": [
+   "se hundían",
+   "sank"
   ],
   "под": [
    "bajo",
@@ -124959,6 +125275,10 @@
   "поздно": [
    "tarde",
    "late"
+  ],
+  "поздравить": [
+   "saludar",
+   "to greet"
   ],
   "позе": [
    "postura",
@@ -125104,6 +125424,10 @@
    "es hora",
    "it is time"
   ],
+  "поразил": [
+   "herido",
+   "struck"
+  ],
   "породила": [
    "engendró",
    "bore"
@@ -125119,6 +125443,10 @@
   "порыв": [
    "ímpetu",
    "gust"
+  ],
+  "порывы": [
+   "arrebatos",
+   "gusts"
   ],
   "порядочный": [
    "decente",
@@ -125143,6 +125471,10 @@
   "после": [
    "después",
    "after"
+  ],
+  "последний": [
+   "último",
+   "last"
   ],
   "последняя": [
    "última",
@@ -125224,6 +125556,10 @@
    "suelo",
    "soil"
   ],
+  "почил": [
+   "descansó",
+   "came to rest"
+  ],
   "почтенным": [
    "venerables",
    "venerable"
@@ -125256,6 +125592,10 @@
    "poeta",
    "poet"
   ],
+  "поэтической": [
+   "de poeta",
+   "poet’s"
+  ],
   "поёт": [
    "canta",
    "sings"
@@ -125284,6 +125624,10 @@
    "entreguémonos",
    "let us give ourselves"
   ],
+  "предел": [
+   "confín",
+   "bound"
+  ],
   "пределы": [
    "confines",
    "lands"
@@ -125291,6 +125635,10 @@
   "предлагали": [
    "ofrecían",
    "offered"
+  ],
+  "предмет": [
+   "cosa",
+   "thing"
   ],
   "представилось": [
    "se presentó",
@@ -125344,6 +125692,10 @@
    "pedí",
    "called for"
   ],
+  "призывный": [
+   "que llama",
+   "summoning"
+  ],
   "принес": [
    "trajo",
    "brought"
@@ -125375,6 +125727,10 @@
   "присутствующих": [
    "presentes",
    "those present"
+  ],
+  "прихотью": [
+   "antojo",
+   "whim"
   ],
   "пришла": [
    "vino",
@@ -125456,6 +125812,10 @@
    "abrir a hachazos",
    "cut through"
   ],
+  "просвещенье": [
+   "la ilustración",
+   "enlightenment"
+  ],
   "просились": [
    "pedían salir",
    "begged"
@@ -125524,6 +125884,14 @@
    "pido",
    "ask"
   ],
+  "прощай": [
+   "adiós",
+   "farewell"
+  ],
+  "прощальный": [
+   "de despedida",
+   "parting"
+  ],
   "прощенья": [
    "perdón",
    "forgiveness"
@@ -125567,6 +125935,10 @@
   "пустыне": [
    "desierto",
    "desert"
+  ],
+  "пустыни": [
+   "desiertos",
+   "wastes"
   ],
   "пустынных": [
    "desiertas",
@@ -125740,6 +126112,10 @@
    "derretido",
    "melting"
   ],
+  "рвалась": [
+   "se debatía",
+   "strained"
+  ],
   "ревизор": [
    "inspector",
    "inspector"
@@ -125800,6 +126176,10 @@
    "parientes",
    "relatives"
   ],
+  "ропот": [
+   "murmullo",
+   "murmur"
+  ],
   "рта": [
    "boca",
    "mouth"
@@ -125847,6 +126227,10 @@
   "ручьями": [
    "en arroyos",
    "in rivulets"
+  ],
+  "рыбарей": [
+   "de los pescadores",
+   "of the fishermen"
   ],
   "рыдания": [
    "sollozos",
@@ -125928,6 +126312,14 @@
    "encuentro",
    "meeting"
   ],
+  "свободная": [
+   "libre",
+   "free"
+  ],
+  "свободой": [
+   "por la libertad",
+   "by freedom"
+  ],
   "свободу": [
    "Libertad",
    "Freedom"
@@ -125947,6 +126339,10 @@
   "своему": [
    "su",
    "his"
+  ],
+  "своенравные": [
+   "caprichosos",
+   "wayward"
   ],
   "свои": [
    "sus",
@@ -126100,9 +126496,17 @@
    "decir",
    "say"
   ],
+  "скала": [
+   "roca",
+   "rock"
+  ],
   "скалить": [
    "enseñar",
    "bare"
+  ],
+  "скалы": [
+   "rocas",
+   "cliffs"
   ],
   "скверная": [
    "asquerosa",
@@ -126119,6 +126523,10 @@
   "складной": [
    "plegable",
    "folding"
+  ],
+  "скользит": [
+   "se desliza",
+   "glides"
   ],
   "скользя": [
    "deslizándonos",
@@ -126140,6 +126548,10 @@
    "aburrido",
    "boring"
   ],
+  "скучный": [
+   "tedioso",
+   "dull"
+  ],
   "слабость": [
    "debilidad",
    "weakness"
@@ -126151,6 +126563,10 @@
   "славен": [
    "glorioso",
    "famed"
+  ],
+  "славы": [
+   "de la gloria",
+   "of glory"
   ],
   "славян": [
    "eslavos",
@@ -126239,6 +126655,10 @@
   "смешить": [
    "hacer reír",
    "amuse"
+  ],
+  "смиренный": [
+   "humilde",
+   "humble"
   ],
   "смирив": [
    "calmando",
@@ -126331,6 +126751,10 @@
   "содроганье": [
    "estremecimiento",
    "shuddering"
+  ],
+  "создан": [
+   "hecho",
+   "made"
   ],
   "сознавал": [
    "era consciente",
@@ -126460,9 +126884,17 @@
    "de pelo plateado",
    "silver-haired"
   ],
+  "среди": [
+   "entre",
+   "amid"
+  ],
   "средствами": [
    "medios",
    "means"
+  ],
+  "средь": [
+   "entre",
+   "among"
   ],
   "стакане": [
    "vaso",
@@ -126512,6 +126944,10 @@
    "asentarse",
    "stand"
   ],
+  "стая": [
+   "bandada",
+   "flock"
+  ],
   "стекает": [
    "escurre",
    "runs down"
@@ -126523,6 +126959,10 @@
   "стер": [
    "molería",
    "would grind"
+  ],
+  "стихия": [
+   "elemento",
+   "element"
   ],
   "стоит": [
    "está de pie",
@@ -126551,6 +126991,14 @@
   "страдать": [
    "sufrir",
    "suffer"
+  ],
+  "страже": [
+   "guardia",
+   "guard"
+  ],
+  "страстью": [
+   "pasión",
+   "passion"
   ],
   "страх": [
    "miedo",
@@ -126599,6 +127047,10 @@
   "стыдом": [
    "vergüenza",
    "shame"
+  ],
+  "судьба": [
+   "suerte",
+   "fate"
   ],
   "судьбу": [
    "destino",
@@ -126728,7 +127180,15 @@
    "tu",
    "your"
   ],
+  "твоею": [
+   "tu",
+   "your"
+  ],
   "твои": [
+   "tus",
+   "your"
+  ],
+  "твоим": [
    "tus",
    "your"
   ],
@@ -126792,6 +127252,14 @@
    "tigre",
    "tiger"
   ],
+  "тиран": [
+   "tirano",
+   "tyrant"
+  ],
+  "тихий": [
+   "callado",
+   "quiet"
+  ],
   "тихо": [
    "quietamente",
    "quietly"
@@ -126803,6 +127271,10 @@
   "тишине": [
    "silencio",
    "silence"
+  ],
+  "тишину": [
+   "silencio",
+   "stillness"
   ],
   "тишины": [
    "silencio",
@@ -126872,6 +127344,10 @@
    "delgadita",
    "slender"
   ],
+  "тонет": [
+   "se hunde",
+   "goes down"
+  ],
   "тонкими": [
    "finos",
    "thin"
@@ -126891,6 +127367,10 @@
   "торжественно": [
    "solemnemente",
    "solemnly"
+  ],
+  "торжественной": [
+   "solemne",
+   "solemn"
   ],
   "торжеством": [
    "triunfo",
@@ -126984,6 +127464,10 @@
    "niebla",
    "mist"
   ],
+  "туманный": [
+   "nublado",
+   "clouded"
+  ],
   "тунгуз": [
    "tunguso",
    "Tungus"
@@ -127076,6 +127560,10 @@
    "marchitas",
    "withered"
   ],
+  "угасал": [
+   "se apagaba",
+   "was going out"
+  ],
   "угасла": [
    "se apagó",
    "died out"
@@ -127090,6 +127578,10 @@
   ],
   "удавалось": [
    "lograba",
+   "managed"
+  ],
+  "удалось": [
+   "logré",
    "managed"
   ],
   "ударил": [
@@ -127188,6 +127680,14 @@
    "morirá",
    "will die"
   ],
+  "умчался": [
+   "se fue arrebatado",
+   "was swept away"
+  ],
+  "умыслом": [
+   "designio",
+   "design"
+  ],
   "унылую": [
    "desolada",
    "dreary"
@@ -127208,6 +127708,10 @@
    "oyó",
    "heard"
   ],
+  "услышал": [
+   "oí",
+   "I heard"
+  ],
   "успокоения": [
    "sosiego",
    "calm"
@@ -127227,6 +127731,10 @@
   "устам": [
    "labios",
    "lips"
+  ],
+  "устремил": [
+   "lancé",
+   "aimed"
   ],
   "утешением": [
    "consuelo",
@@ -127300,6 +127808,10 @@
    "pícaramente alegre",
    "slyly merry"
   ],
+  "хладный": [
+   "frío",
+   "cold"
+  ],
   "хладными": [
    "fríos",
    "cold"
@@ -127352,6 +127864,10 @@
    "quiero",
    "I want"
   ],
+  "хранимый": [
+   "guardada",
+   "kept safe"
+  ],
   "хранитель": [
    "guardián",
    "guardian"
@@ -127363,6 +127879,10 @@
   "храпенья": [
    "ronquido",
    "snoring"
+  ],
+  "хребтам": [
+   "lomos",
+   "ridges"
   ],
   "христианство": [
    "cristiandad",
@@ -127399,6 +127919,14 @@
   "частию": [
    "parte",
    "part"
+  ],
+  "часто": [
+   "a menudo",
+   "often"
+  ],
+  "часы": [
+   "horas",
+   "hours"
   ],
   "чахлой": [
    "raquítico",
@@ -127580,6 +128108,10 @@
    "barca",
    "boat"
   ],
+  "чём": [
+   "qué",
+   "what"
+  ],
   "шалаша": [
    "de la choza",
    "of the hut"
@@ -127651,6 +128183,10 @@
   "шумел": [
    "susurraba",
    "murmured"
+  ],
+  "шуми": [
+   "ruge",
+   "roar"
   ],
   "шумной": [
    "ruidoso",

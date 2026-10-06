@@ -2436,6 +2436,13 @@
    "name_en": "The Lord’s Prayer",
    "title_es": "El Padrenuestro",
    "title_en": "The Lord’s Prayer"
+  },
+  "push-k-moryu": {
+   "type": "poem",
+   "name_es": "Al mar",
+   "name_en": "To the Sea",
+   "title_es": "Al mar",
+   "title_en": "To the Sea"
   }
  }
 }
