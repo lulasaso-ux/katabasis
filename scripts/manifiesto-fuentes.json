@@ -197,12 +197,11 @@
     },
     {
       "id": "vond-goyen-rijn",
-      "file": "Jan_van_Goyen_-_River_Landscape_-_WGA09955.jpg",
-      "search": "Jan van Goyen river landscape",
+      "file": "Jan_van_Goyen_(1596-1656)_-_A_River_Landscape_-_NG151_-_National_Gallery.jpg",
+      "search": "Jan van Goyen a river landscape National Gallery",
       "width": 1000,
       "alt": [
-        "Jan_van_Goyen_-_River_landscape.jpg",
-        "Jan_van_Goyen_-_Rivierlandschap.jpg"
+        "Jan_van_Goyen_-_River_Landscape_with_a_Town_in_the_Background.jpg"
       ]
     },
     {
@@ -255,11 +254,14 @@
     },
     {
       "id": "push-brullov-natalia",
-      "file": "Наталья_Николаевна_Пушкина.jpg",
-      "search": "Наталья Николаевна Пушкина Брюллов",
+      "file": "Natalya_Pushkina_by_A.Brullov_(1831).jpg",
+      "search": "Natalya Nikolayevna Pushkina portrait",
       "width": 1000,
       "alt": [
-        "Natalia_Pushkina_by_Alexander_Brullov.jpg"
+        "Natalia_Nikolaevna_Pushkina.jpg",
+        "Naталья_Пушкина.jpg",
+        "Alexander_Brullov_-_Portrait_of_Natalya_Pushkina.jpg",
+        "Pushkina_Natalia_Nikolaevna.jpg"
       ]
     },
     {
