@@ -2387,6 +2387,20 @@
    "name_en": "My Lady Carries Love in Her Eyes",
    "title_es": "Mi señora lleva a Amor en los ojos",
    "title_en": "My Lady Carries Love in Her Eyes"
+  },
+  "contra-svegliar": {
+   "type": "poem",
+   "name_es": "Sentí despertar un espíritu",
+   "name_en": "I Felt a Spirit Wake",
+   "title_es": "Sentí despertar un espíritu",
+   "title_en": "I Felt a Spirit Wake"
+  },
+  "contra-sospiri": {
+   "type": "poem",
+   "name_es": "Venid a oír mis suspiros",
+   "name_en": "Come and Hear My Sighs",
+   "title_es": "Venid a oír mis suspiros",
+   "title_en": "Come and Hear My Sighs"
   }
  }
 }
