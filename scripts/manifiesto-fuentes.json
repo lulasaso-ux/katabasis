@@ -1,14 +1,18 @@
 {
   "_nota": "Lo que el flujo Traer fuentes externas descarga. Se edita a mano antes de cada corrida; el resultado queda en scripts/_fuentes/, fuera del sitio publicado.",
   "textos": [
-    {"id": "goethe-heidenroslein",  "site": "de.wikisource.org", "title": "Heidenröslein"},
-    {"id": "goethe-prometheus",     "site": "de.wikisource.org", "title": "Prometheus (Goethe)"},
-    {"id": "goethe-ganymed",        "site": "de.wikisource.org", "title": "Ganymed (Goethe)"},
-    {"id": "goethe-willkommen",     "site": "de.wikisource.org", "title": "Willkommen und Abschied"},
-    {"id": "goethe-an-den-mond",    "site": "de.wikisource.org", "title": "An den Mond (Goethe)"},
-    {"id": "goethe-fischer",        "site": "de.wikisource.org", "title": "Der Fischer (Goethe)"},
-    {"id": "goethe-selige",         "site": "de.wikisource.org", "title": "Selige Sehnsucht"},
-    {"id": "goethe-gefunden",       "site": "de.wikisource.org", "title": "Gefunden"}
+    {"id": "goethe-heidenroslein", "site": "de.wikisource.org", "title": "Heidenröslein"},
+    {"id": "goethe-prometheus",    "site": "de.wikisource.org", "title": "Prometheus (Gedicht, späte Fassung)"},
+    {"id": "goethe-ganymed",       "site": "de.wikisource.org", "title": "Ganymed"},
+    {"id": "goethe-willkommen",    "site": "de.wikisource.org", "title": "Willkommen und Abschied"},
+    {"id": "goethe-an-den-mond",   "site": "de.wikisource.org", "title": "An den Mond"},
+    {"id": "goethe-fischer",       "site": "de.wikisource.org", "title": "Der Fischer"},
+    {"id": "goethe-selige",        "site": "de.wikisource.org", "title": "Selige Sehnsucht"},
+    {"id": "goethe-gefunden",      "site": "de.wikisource.org", "title": "Gefunden"},
+    {"id": "goethe-mailied",       "site": "de.wikisource.org", "title": "Mailied"},
+    {"id": "goethe-nahe",          "site": "de.wikisource.org", "title": "Nähe des Geliebten"},
+    {"id": "goethe-zauberlehrling","site": "de.wikisource.org", "title": "Der Zauberlehrling"},
+    {"id": "goethe-nachtlied-1",   "site": "de.wikisource.org", "title": "Wandrers Nachtlied"}
   ],
   "imagenes": []
 }

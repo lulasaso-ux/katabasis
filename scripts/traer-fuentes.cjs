@@ -17,17 +17,21 @@ async function get(url, binary) {
   return binary ? Buffer.from(await res.arrayBuffer()) : res.text();
 }
 
-// Wikisource: el texto plano de una página, por su título exacto.
+// Wikisource: el wikitexto crudo de una página, por su título exacto. Los
+// poemas viven dentro de plantillas <poem>, que prop=extracts devuelve vacías;
+// el wikitexto conserva los saltos de verso.
 async function wikitext(site, title) {
-  const url = `https://${site}/w/api.php?action=query&prop=extracts&explaintext=1`
-    + `&format=json&formatversion=2&redirects=1&titles=${encodeURIComponent(title)}`;
+  const url = `https://${site}/w/api.php?action=query&prop=revisions&rvslots=main`
+    + `&rvprop=content&format=json&formatversion=2&redirects=1&titles=${encodeURIComponent(title)}`;
   const data = JSON.parse(await get(url, false));
   const page = data?.query?.pages?.[0];
   if (!page || page.missing) {
     const hits = await buscar(site, title);
     throw new Error('Página ausente: ' + title + (hits.length ? ' · candidatos: ' + hits.join(' | ') : ''));
   }
-  return page.extract;
+  const raw = page.revisions?.[0]?.slots?.main?.content || '';
+  if (!raw.trim()) throw new Error('Página vacía: ' + title);
+  return raw;
 }
 
 // Cuando el título exacto no existe, proponer candidatos en vez de rendirse.
