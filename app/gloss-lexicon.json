@@ -107138,6 +107138,10 @@
    "terrenal",
    "earthly"
   ],
+  "achten": [
+   "tenernos",
+   "count"
+  ],
   "acker": [
    "campo",
    "field"
@@ -107145,6 +107149,10 @@
   "adam": [
    "Adán",
    "Adam"
+  ],
+  "adams": [
+   "de Adán",
+   "Adam’s"
   ],
   "ader": [
    "vena",
@@ -107173,6 +107181,14 @@
   "aenzicht": [
    "rostro",
    "face"
+  ],
+  "aertsch": [
+   "terreno",
+   "earthly"
+  ],
+  "afgescheiden": [
+   "apartado",
+   "set apart"
   ],
   "afkeerigh": [
    "apartado",
@@ -107214,6 +107230,10 @@
    "todo",
    "all"
   ],
+  "almaght": [
+   "omnipotencia",
+   "almightiness"
+  ],
   "alpes": [
    "Alpes",
    "Alps"
@@ -107233,6 +107253,10 @@
   "anders": [
    "de otro modo",
    "otherwise"
+  ],
+  "andren": [
+   "de los otros",
+   "of others"
   ],
   "arme": [
    "pobre",
@@ -107258,17 +107282,37 @@
    "dio a luz",
    "bore"
   ],
+  "baet": [
+   "provecho",
+   "profit"
+  ],
   "balsem": [
    "bálsamo",
    "balsam"
+  ],
+  "band": [
+   "brida",
+   "band"
   ],
   "bazuin": [
    "trompeta",
    "trumpet"
   ],
+  "bedaer": [
+   "se calme",
+   "may settle"
+  ],
+  "bedreven": [
+   "cometida",
+   "committed"
+  ],
   "bedruckte": [
    "afligida",
    "sorrowing"
+  ],
+  "beelt": [
+   "imagen",
+   "image"
   ],
   "beemd": [
    "prado",
@@ -107338,6 +107382,10 @@
    "recibe",
    "takes"
   ],
+  "bekoort": [
+   "seduce",
+   "tempts"
+  ],
   "belijden": [
    "confesar",
    "confess"
@@ -107350,6 +107398,10 @@
    "soy",
    "am"
   ],
+  "benaude": [
+   "angustiado",
+   "anguished"
+  ],
   "beneden": [
    "abajo",
    "below"
@@ -107358,6 +107410,18 @@
    "niegues",
    "begrudge"
   ],
+  "bepael": [
+   "limite",
+   "bound"
+  ],
+  "bepaeltheit": [
+   "límite",
+   "boundary"
+  ],
+  "besait": [
+   "sembrados",
+   "sown"
+  ],
   "beschryft": [
    "describid",
    "describe"
@@ -107365,6 +107429,10 @@
   "besluiten": [
    "encerrar",
    "enclose"
+  ],
+  "besmet": [
+   "manchada",
+   "stained"
   ],
   "besnoeit": [
    "podada",
@@ -107386,6 +107454,10 @@
    "provee",
    "supplies"
   ],
+  "bestemmen": [
+   "aprueban",
+   "approve"
+  ],
   "bestoken": [
    "asaltar",
    "to assail"
@@ -107394,9 +107466,17 @@
    "muertos",
    "dead"
   ],
+  "besuurt": [
+   "padecido",
+   "endured"
+  ],
   "bethlehem": [
    "Belén",
    "Bethlehem"
+  ],
+  "betoomen": [
+   "frenar",
+   "bridle"
   ],
   "betracht": [
    "procurado",
@@ -107502,9 +107582,21 @@
    "ciega",
    "blind"
   ],
+  "blinden": [
+   "ciego",
+   "blind"
+  ],
+  "blindling": [
+   "a ciegas",
+   "blindly"
+  ],
   "bloed": [
    "sangre",
    "blood"
+  ],
+  "bloedigh": [
+   "sangriento",
+   "bloody"
   ],
   "bloedt": [
    "sangra",
@@ -107530,6 +107622,10 @@
    "permaneces",
    "remain"
   ],
+  "blyven": [
+   "permanezcan",
+   "remain"
+  ],
   "boer": [
    "campesino",
    "farmer"
@@ -107537,6 +107633,10 @@
   "boesem": [
    "seno",
    "bosom"
+  ],
+  "boeten": [
+   "pagamos",
+   "pay"
   ],
   "boncket": [
    "bonete (juego)",
@@ -107553,6 +107653,18 @@
   "boomgaert": [
    "huerto",
    "orchard"
+  ],
+  "boort": [
+   "costado",
+   "aboard"
+  ],
+  "boosheit": [
+   "maldad",
+   "malice"
+  ],
+  "bootseerde": [
+   "modelaste",
+   "shaped"
   ],
   "borst": [
    "pecho",
@@ -107590,6 +107702,10 @@
    "manantial",
    "wellspring"
   ],
+  "broot": [
+   "pan",
+   "bread"
+  ],
   "brouwen": [
    "tramar",
    "brew"
@@ -107622,6 +107738,10 @@
    "superstición",
    "superstition"
   ],
+  "cazimir": [
+   "Casimiro",
+   "Casimir"
+  ],
   "cherubijntje": [
    "querubincito",
    "little cherub"
@@ -107650,6 +107770,10 @@
    "la tierra",
    "the earth"
   ],
+  "d'eer": [
+   "la gloria",
+   "the glory"
+  ],
   "d'eerste": [
    "la primera",
    "the first"
@@ -107662,9 +107786,21 @@
    "los ángeles",
    "the angels"
   ],
+  "d'inlandsche": [
+   "los del país",
+   "the home-grown"
+  ],
   "d'oceaen": [
    "el océano",
    "the ocean"
+  ],
+  "d'olyf": [
+   "el olivo",
+   "the olive"
+  ],
+  "d'onedelsten": [
+   "los más humildes",
+   "the lowliest"
   ],
   "d'onnoosle": [
    "al inocente",
@@ -107701,6 +107837,10 @@
   "daegen": [
    "días",
    "days"
+  ],
+  "daeghlyx": [
+   "cada día",
+   "daily"
   ],
   "daer": [
    "donde",
@@ -107774,6 +107914,10 @@
    "del",
    "of the"
   ],
+  "deught": [
+   "virtud",
+   "virtue"
+  ],
   "deur": [
    "puerta",
    "door"
@@ -107805,6 +107949,10 @@
   "dieren": [
    "costoso",
    "costly"
+  ],
+  "dies": [
+   "por eso",
+   "therefore"
   ],
   "dijn": [
    "tuyo",
@@ -107850,6 +107998,10 @@
    "ilustre",
    "illustrious"
   ],
+  "doorluchtigh": [
+   "ilustre",
+   "illustrious"
+  ],
   "doorwondt": [
    "hiere",
    "wounds"
@@ -107869,6 +108021,10 @@
   "draait": [
    "gira",
    "turns"
+  ],
+  "draegen": [
+   "soportar",
+   "bear"
   ],
   "draeght": [
    "lleva",
@@ -107922,6 +108078,10 @@
    "germánica",
    "Germanic"
   ],
+  "duizenden": [
+   "miles",
+   "thousands"
+  ],
   "durf": [
    "se atreve",
    "dares"
@@ -107966,6 +108126,10 @@
    "una vez",
    "once"
   ],
+  "eenstemmigh": [
+   "a una voz",
+   "with one voice"
+  ],
   "eer": [
    "antes",
    "before"
@@ -107973,6 +108137,10 @@
   "eerbiedigheit": [
    "reverencia",
    "reverence"
+  ],
+  "eere": [
+   "honra",
+   "honour"
   ],
   "eeren": [
    "honrar",
@@ -107994,6 +108162,10 @@
    "siglo",
    "age"
   ],
+  "eeuwe": [
+   "siglo",
+   "century"
+  ],
   "eeuwig": [
    "eterna",
    "eternal"
@@ -108014,9 +108186,25 @@
    "de roble",
    "oak"
   ],
+  "eige": [
+   "propio",
+   "own"
+  ],
   "eigen": [
    "propio",
    "own"
+  ],
+  "eisch": [
+   "exigencia",
+   "demand"
+  ],
+  "eischt": [
+   "exige",
+   "requires"
+  ],
+  "elck": [
+   "cada uno",
+   "each"
   ],
   "elpenbeen": [
    "marfil",
@@ -108025,6 +108213,10 @@
   "en": [
    "y",
    "and"
+  ],
+  "end": [
+   "fin",
+   "end"
   ],
   "ende": [
    "y",
@@ -108042,6 +108234,10 @@
    "saber angélico",
    "angel-knowledge"
   ],
+  "englen": [
+   "ángeles",
+   "angels"
+  ],
   "er": [
    "allí",
    "there"
@@ -108053,6 +108249,10 @@
   "eren": [
    "honra",
    "honour"
+  ],
+  "erfgeschil": [
+   "pleito heredado",
+   "inherited quarrel"
   ],
   "errefdeel": [
    "heredad",
@@ -108106,6 +108306,10 @@
    "va",
    "goes"
   ],
+  "gebalssemt": [
+   "embalsamado",
+   "embalmed"
+  ],
   "gebeden": [
    "rogado",
    "prayed"
@@ -108126,6 +108330,10 @@
    "río natal",
    "native river"
   ],
+  "geboortstroom": [
+   "río natal",
+   "native river"
+  ],
   "geboren": [
    "nacidos",
    "born"
@@ -108133,6 +108341,10 @@
   "geborgen": [
    "a salvo",
    "saved"
+  ],
+  "gebout": [
+   "edificada",
+   "built"
   ],
   "gebracht": [
    "privado",
@@ -108146,6 +108358,10 @@
    "pienso",
    "think"
   ],
+  "gedient": [
+   "servido",
+   "served"
+  ],
   "gedost": [
    "vestidos",
    "clad"
@@ -108154,9 +108370,17 @@
    "movido",
    "driven"
   ],
+  "gedult": [
+   "paciencia",
+   "patience"
+  ],
   "geen": [
    "lo que",
    "what"
+  ],
+  "geensins": [
+   "de ningún modo",
+   "by no means"
   ],
   "geern": [
    "de buena gana",
@@ -108178,6 +108402,10 @@
    "sujeta",
    "held"
   ],
+  "gekrenckt": [
+   "herida",
+   "wounded"
+  ],
   "gelaên": [
    "cargada",
    "laden"
@@ -108190,6 +108418,18 @@
    "dinero",
    "money"
   ],
+  "gelyck": [
+   "semejante a",
+   "like"
+  ],
+  "gelyckwe": [
+   "así como nosotros",
+   "as we"
+  ],
+  "gemeen": [
+   "común",
+   "common"
+  ],
   "gemeten": [
    "medido",
    "measured"
@@ -108197,6 +108437,10 @@
   "gemoed": [
    "ánimo",
    "heart"
+  ],
+  "gena": [
+   "gracia",
+   "grace"
   ],
   "genade": [
    "gracia",
@@ -108250,6 +108494,10 @@
    "separada",
    "parted"
   ],
+  "geschiede": [
+   "suceda",
+   "be done"
+  ],
   "gespeel": [
    "compañera de juego",
    "playmate"
@@ -108257,6 +108505,14 @@
   "gesproten": [
    "brotado",
    "sprouted"
+  ],
+  "gestadigh": [
+   "sin cesar",
+   "unceasingly"
+  ],
+  "getroffen": [
+   "alcanzado",
+   "struck"
   ],
   "getrouwe": [
    "fiel",
@@ -108269,6 +108525,10 @@
   "geurs": [
    "aroma",
    "fragrance"
+  ],
+  "gevaer": [
+   "peligro",
+   "danger"
   ],
   "geven": [
    "dar",
@@ -108338,6 +108598,10 @@
    "vidrio",
    "glass"
   ],
+  "glimp": [
+   "destello",
+   "glimmer"
+  ],
   "glippen": [
    "escurrirse",
    "slipping"
@@ -108361,6 +108625,10 @@
   "godtheit": [
    "divinidad",
    "Godhead"
+  ],
+  "godtheên": [
+   "divinidades",
+   "godheads"
   ],
   "goed": [
    "bueno",
@@ -108398,6 +108666,14 @@
    "gimes",
    "wail"
   ],
+  "grens": [
+   "frontera",
+   "border"
+  ],
+  "grensen": [
+   "fronteras",
+   "borders"
+  ],
   "grijze": [
    "canosos",
    "grey"
@@ -108422,6 +108698,10 @@
    "gran",
    "great"
   ],
+  "groote": [
+   "gran",
+   "great"
+  ],
   "grooten": [
    "gran",
    "great"
@@ -108429,6 +108709,10 @@
   "groten": [
    "gran",
    "great"
+  ],
+  "gulde": [
+   "dorado",
+   "golden"
   ],
   "haar": [
    "su",
@@ -108445,6 +108729,10 @@
   "haer": [
    "sus",
    "her"
+  ],
+  "haest": [
+   "pronto",
+   "soon"
   ],
   "haet": [
    "odio",
@@ -108466,6 +108754,10 @@
    "corazón",
    "heart"
   ],
+  "harte": [
+   "corazón",
+   "heart"
+  ],
   "harten": [
    "corazón",
    "heart"
@@ -108482,9 +108774,17 @@
    "tener",
    "have"
   ],
+  "heden": [
+   "hoy",
+   "today"
+  ],
   "heeft": [
    "tiene",
    "has"
+  ],
+  "heel": [
+   "entera",
+   "whole"
   ],
   "heemlen": [
    "cielos",
@@ -108502,6 +108802,18 @@
    "espléndido",
    "glorious"
   ],
+  "heerlyckheit": [
+   "gloria",
+   "glory"
+  ],
+  "heet": [
+   "ardiente",
+   "hot"
+  ],
+  "heiden": [
+   "pagano",
+   "heathen"
+  ],
   "heidensch": [
    "pagana",
    "heathen"
@@ -108514,6 +108826,18 @@
    "santo",
    "holy"
   ],
+  "heilighde": [
+   "santificaste",
+   "sanctified"
+  ],
+  "heiligheit": [
+   "santidad",
+   "holiness"
+  ],
+  "heiloos": [
+   "nefasto",
+   "unblessed"
+  ],
   "heilzaam": [
    "salvadora",
    "saving"
@@ -108521,6 +108845,10 @@
   "heires-kracht": [
    "fuerza del ejército",
    "army's strength"
+  ],
+  "hel": [
+   "Infierno",
+   "Hell"
   ],
   "helaas": [
    "ay",
@@ -108550,6 +108878,10 @@
    "cielo",
    "heaven's"
   ],
+  "hemelsch": [
+   "celestial",
+   "heavenly"
+  ],
   "hemelsche": [
    "celestial",
    "heavenly"
@@ -108565,6 +108897,10 @@
   "herodes": [
    "Herodes",
    "Herod"
+  ],
+  "herteelde": [
+   "engendraste de nuevo",
+   "begot again"
   ],
   "het": [
    "el",
@@ -108598,12 +108934,24 @@
    "aro",
    "hoop"
   ],
+  "hoewel": [
+   "aunque",
+   "though"
+  ],
+  "hof": [
+   "corte",
+   "court"
+  ],
   "hoofdaêr": [
    "arteria mayor",
    "chief artery"
   ],
   "hoog": [
    "altos",
+   "high"
+  ],
+  "hoogen": [
+   "alto",
    "high"
   ],
   "hooger": [
@@ -108633,6 +108981,10 @@
   "hoop": [
    "espero",
    "hope"
+  ],
+  "hou": [
+   "retenga",
+   "hold"
   ],
   "hout": [
    "bosque",
@@ -108694,6 +109046,10 @@
    "Israel",
    "Israel"
   ],
+  "jaerlyx": [
+   "cada año",
+   "yearly"
+  ],
   "jammer": [
    "pena",
    "grief"
@@ -108702,6 +109058,10 @@
    "lamentosa",
    "wailing"
   ],
+  "jeught": [
+   "juventud",
+   "youth"
+  ],
   "jonge": [
    "jóvenes",
    "young"
@@ -108709,6 +109069,10 @@
   "jongsten": [
    "último",
    "last"
+  ],
+  "juicht": [
+   "se alegra",
+   "rejoices"
   ],
   "kaartje": [
    "cartita",
@@ -108737,6 +109101,10 @@
   "kermde": [
    "gemía",
    "moaned"
+  ],
+  "kermt": [
+   "se lamenta",
+   "wails"
   ],
   "kersnacht": [
    "Nochebuena",
@@ -108770,9 +109138,25 @@
    "se lamenta",
    "laments"
   ],
+  "klampe": [
+   "aborde",
+   "grapple"
+  ],
+  "kleen": [
+   "pequeña",
+   "small"
+  ],
   "klinckt": [
    "suena",
    "rings"
+  ],
+  "knielen": [
+   "arrodillarse",
+   "kneel"
+  ],
+  "koegel": [
+   "bala",
+   "bullet"
   ],
   "koelte": [
    "frescor",
@@ -108810,6 +109194,10 @@
    "espigas",
    "ears of corn"
   ],
+  "korts": [
+   "hace poco",
+   "lately"
+  ],
   "kost": [
    "comida",
    "food"
@@ -108833,6 +109221,10 @@
   "krielen": [
    "pululan",
    "throng"
+  ],
+  "krygh": [
+   "guerra",
+   "war"
   ],
   "kunt": [
    "podéis",
@@ -108874,9 +109266,21 @@
    "arriba a tierra",
    "comes to land"
   ],
+  "lang": [
+   "largo",
+   "long"
+  ],
   "lant": [
    "tierra",
    "land"
+  ],
+  "laurier": [
+   "laurel",
+   "laurel"
+  ],
+  "leden": [
+   "miembros",
+   "limbs"
   ],
   "leef": [
    "vivo",
@@ -108894,6 +109298,18 @@
    "enseñar",
    "teach"
   ],
+  "leert": [
+   "enseñas",
+   "teach"
+  ],
+  "leet": [
+   "daño",
+   "hurt"
+  ],
+  "leeuw": [
+   "león",
+   "lion"
+  ],
   "leste": [
    "último",
    "last"
@@ -108903,6 +109319,10 @@
    "life"
   ],
   "lichaam": [
+   "cuerpo",
+   "body"
+  ],
+  "lichaem": [
    "cuerpo",
    "body"
   ],
@@ -108982,6 +109402,10 @@
    "follaje",
    "foliage"
   ],
+  "lucht": [
+   "aire",
+   "air"
+  ],
   "luid": [
    "suena",
    "sounds"
@@ -108990,9 +109414,29 @@
    "escucha",
    "listens"
   ],
+  "luit": [
+   "laúd",
+   "lute"
+  ],
   "lust": [
    "contento",
    "gladness"
+  ],
+  "lusten": [
+   "apetitos",
+   "appetites"
+  ],
+  "lyck": [
+   "cadáver",
+   "corpse"
+  ],
+  "lycken": [
+   "cadáveres",
+   "corpses"
+  ],
+  "lyf": [
+   "cuerpo",
+   "body"
   ],
   "maar": [
    "pero",
@@ -109014,6 +109458,10 @@
    "segamos",
    "mow"
   ],
+  "maeit": [
+   "siega",
+   "mows"
+  ],
   "maer": [
    "sino",
    "but"
@@ -109034,9 +109482,17 @@
    "hacer",
    "make"
   ],
+  "manne": [
+   "maná",
+   "manna"
+  ],
   "martelaeren": [
    "mártires",
    "martyrs"
+  ],
+  "mededeelt": [
+   "repartes",
+   "share"
   ],
   "meer": [
    "más",
@@ -109062,9 +109518,17 @@
    "tantos",
    "many"
   ],
+  "menighmael": [
+   "muchas veces",
+   "many times"
+  ],
   "mensch": [
    "hombre",
    "man"
+  ],
+  "menschen": [
+   "hombres",
+   "people"
   ],
   "met": [
    "con",
@@ -109130,6 +109594,10 @@
    "valientemente",
    "bravely"
   ],
+  "moedigh": [
+   "anima",
+   "hearten"
+  ],
   "moeste": [
    "tuvo que",
    "had to"
@@ -109149,6 +109617,10 @@
   "moorden": [
    "asesinato",
    "murder"
+  ],
+  "my": [
+   "me",
+   "me"
   ],
   "myn": [
    "mis",
@@ -109178,6 +109650,22 @@
    "nombre",
    "name"
   ],
+  "naer": [
+   "conforme a",
+   "after"
+  ],
+  "naerdienwe": [
+   "puesto que nosotros",
+   "since we"
+  ],
+  "naesten": [
+   "del prójimo",
+   "neighbour’s"
+  ],
+  "nagebuur": [
+   "vecino",
+   "neighbour"
+  ],
   "nam": [
    "tomó",
    "took"
@@ -109189,6 +109677,10 @@
   "namen": [
    "nombre",
    "name"
+  ],
+  "nassauwer": [
+   "el de Nassau",
+   "the man of Nassau"
   ],
   "nassouwe": [
    "Nassau",
@@ -109210,6 +109702,10 @@
    "se inclinó",
    "bowed"
   ],
+  "neem": [
+   "tome",
+   "take"
+  ],
   "neemt": [
    "tomad",
    "take"
@@ -109218,9 +109714,21 @@
    "Neerlandia",
    "Netherland"
   ],
+  "neerlands": [
+   "de los Países Bajos",
+   "the Netherlands’"
+  ],
   "nergens": [
    "en ningún sitio",
    "nowhere"
+  ],
+  "nest": [
+   "nido",
+   "nest"
+  ],
+  "net": [
+   "limpia",
+   "clean"
   ],
   "niemant": [
    "nadie",
@@ -109258,9 +109766,17 @@
    "angustia",
    "distress"
   ],
+  "noodlot": [
+   "destino",
+   "fate"
+  ],
   "noordwaert": [
    "hacia el norte",
    "northward"
+  ],
+  "nootdruft": [
+   "necesidad",
+   "need"
   ],
   "nu": [
    "ahora",
@@ -109277,6 +109793,10 @@
   "oceaan": [
    "océano",
    "ocean"
+  ],
+  "och": [
+   "ay",
+   "oh"
   ],
   "oever": [
    "orilla",
@@ -109302,6 +109822,10 @@
    "en",
    "up"
   ],
+  "onbekent": [
+   "desconocido",
+   "unknown"
+  ],
   "onbequaem": [
    "incapaz",
    "unfit"
@@ -109314,6 +109838,10 @@
    "ignorante",
    "unaware"
   ],
+  "onbezweken": [
+   "sin desfallecer",
+   "unbroken"
+  ],
   "onderhiel": [
    "observaba",
    "kept"
@@ -109322,6 +109850,10 @@
    "sostener",
    "sustain"
   ],
+  "onderhoudt": [
+   "sostiene",
+   "sustains"
+  ],
   "onderzaten": [
    "súbditos",
    "subjects"
@@ -109329,6 +109861,10 @@
   "oneindigh": [
    "infinito",
    "infinite"
+  ],
+  "onlangs": [
+   "hace poco",
+   "recently"
   ],
   "onnoosle": [
    "inocentes",
@@ -109378,6 +109914,14 @@
    "intrépido",
    "undaunted"
   ],
+  "onverwonnen": [
+   "sin ser vencido",
+   "unconquered"
+  ],
+  "onze": [
+   "nuestra",
+   "our"
+  ],
   "onzen": [
    "nuestra",
    "our"
@@ -109402,6 +109946,18 @@
    "adiós",
    "farewell"
   ],
+  "oorloogh": [
+   "guerra",
+   "war"
+  ],
+  "oorlooghslot": [
+   "suerte de la guerra",
+   "war’s lot"
+  ],
+  "oorlooghsveld": [
+   "campo de guerra",
+   "field of war"
+  ],
   "oosten": [
    "oriente",
    "east"
@@ -109422,6 +109978,14 @@
    "montado",
    "mounted"
   ],
+  "ophits": [
+   "azuce",
+   "goad"
+  ],
+  "opperhoofden": [
+   "jefes",
+   "commanders"
+  ],
   "oprecht": [
    "rectos",
    "upright"
@@ -109433,6 +109997,10 @@
   "oranje": [
    "Orange",
    "Orange"
+  ],
+  "oude": [
+   "vieja",
+   "old"
   ],
   "ouden": [
    "viejo",
@@ -109453,6 +110021,14 @@
   "overschryt": [
    "excede",
    "exceeds"
+  ],
+  "overtreden": [
+   "transgresión",
+   "trespass"
+  ],
+  "overtreft": [
+   "supera",
+   "surpasses"
   ],
   "overvloets": [
    "abundancia",
@@ -109489,6 +110065,10 @@
   "pop": [
    "muñeca",
    "doll"
+  ],
+  "portghe": [
+   "¿me instas?",
+   "do you urge"
   ],
   "potgelt": [
    "dinero ahorrado",
@@ -109530,6 +110110,10 @@
    "delira",
    "rages"
   ],
+  "rampsaligh": [
+   "desdichados",
+   "wretched"
+  ],
   "redden": [
    "salvar",
    "save"
@@ -109562,9 +110146,17 @@
    "viajar",
    "travel"
   ],
+  "rekning": [
+   "cuenta",
+   "account"
+  ],
   "reuck": [
    "perfume",
    "scent"
+  ],
+  "ridder": [
+   "caballero",
+   "knight"
   ],
   "rijck": [
    "ricamente",
@@ -109650,9 +110242,29 @@
    "descansa",
    "rests"
   ],
+  "ry": [
+   "fila",
+   "row"
+  ],
+  "ryck": [
+   "reino",
+   "kingdom"
+  ],
+  "rycken": [
+   "rico",
+   "rich"
+  ],
+  "rynberck": [
+   "Rijnberk",
+   "Rheinberg"
+  ],
   "s": [
    "del",
    "of the"
+  ],
+  "saeght": [
+   "viste",
+   "saw"
   ],
   "saertje": [
    "Sarita",
@@ -109673,6 +110285,14 @@
   "schaar": [
    "grupo",
    "band"
+  ],
+  "schade": [
+   "daño",
+   "harm"
+  ],
+  "schaduw": [
+   "sombra",
+   "shadow"
   ],
   "schaft": [
    "provee",
@@ -109718,6 +110338,10 @@
    "ultraje",
    "violation"
   ],
+  "schent": [
+   "agrede",
+   "assails"
+  ],
   "schepper": [
    "creador",
    "creator"
@@ -109729,6 +110353,10 @@
   "schiepen": [
    "hacían",
    "made"
+  ],
+  "schier": [
+   "casi",
+   "nearly"
   ],
   "schiet": [
    "brota",
@@ -109750,6 +110378,10 @@
    "más hermosa",
    "fairer"
   ],
+  "schoot": [
+   "regazo",
+   "lap"
+  ],
   "schop": [
    "columpio",
    "swing"
@@ -109769,6 +110401,30 @@
   "schud": [
    "sacude",
    "shakes"
+  ],
+  "schuim": [
+   "escoria",
+   "scum"
+  ],
+  "schuit": [
+   "deuda",
+   "debt"
+  ],
+  "schuld": [
+   "culpa",
+   "guilt"
+  ],
+  "schulden": [
+   "deudas",
+   "debts"
+  ],
+  "schuldigh": [
+   "culpables",
+   "guilty"
+  ],
+  "schultboeck": [
+   "libro de deudas",
+   "debt-book"
   ],
   "schut": [
    "contiene",
@@ -109802,6 +110458,10 @@
    "esclavo",
    "slave"
   ],
+  "slaet": [
+   "golpea",
+   "strikes"
+  ],
   "slag": [
    "batalla",
    "battle"
@@ -109810,6 +110470,10 @@
    "dormir",
    "sleep"
   ],
+  "sleept": [
+   "arrastra",
+   "drags"
+  ],
   "slick": [
    "lodo",
    "mire"
@@ -109817,6 +110481,14 @@
   "slingertouwtje": [
    "comba",
    "skipping rope"
+  ],
+  "sluiten": [
+   "cerramos",
+   "close"
+  ],
+  "smilt": [
+   "se funda",
+   "melt"
   ],
   "smorgens": [
    "por la mañana",
@@ -109830,9 +110502,21 @@
    "veloz",
    "swift"
   ],
+  "snort": [
+   "pasa silbando",
+   "whirs"
+  ],
   "soete": [
    "dulce",
    "sweet"
+  ],
+  "soldaet": [
+   "soldado",
+   "soldier"
+  ],
+  "sonder": [
+   "sin",
+   "without"
   ],
   "soo": [
    "así",
@@ -109842,6 +110526,10 @@
    "hijo",
    "son"
   ],
+  "sorgelycke": [
+   "peligroso",
+   "perilous"
+  ],
   "spaert": [
    "guarda",
    "saves"
@@ -109849,6 +110537,10 @@
   "spanjaards": [
    "españoles",
    "Spaniards"
+  ],
+  "spanjen": [
+   "España",
+   "Spain"
   ],
   "speelde": [
    "jugaba",
@@ -109862,9 +110554,17 @@
    "juguetón",
    "play-loving"
   ],
+  "spiegel": [
+   "mírese",
+   "let him mirror"
+  ],
   "spillen": [
    "desperdicio",
    "waste"
+  ],
+  "spits": [
+   "filo",
+   "edge"
   ],
   "spreken": [
    "hablar",
@@ -109930,9 +110630,17 @@
    "escarpada",
    "steep"
   ],
+  "stel": [
+   "afina",
+   "tune"
+  ],
   "stem": [
    "voz",
    "voice"
+  ],
+  "stercke": [
+   "fortalezca",
+   "strengthen"
   ],
   "sterven": [
    "mueren",
@@ -109962,6 +110670,10 @@
    "se derrama",
    "spills"
   ],
+  "strael": [
+   "irradie",
+   "shine out"
+  ],
   "straelden": [
    "irradiaban",
    "beamed"
@@ -109982,6 +110694,10 @@
    "calles",
    "streets"
   ],
+  "streel": [
+   "halaga",
+   "soothe"
+  ],
   "strijcken": [
    "llevarse",
    "to make off"
@@ -109990,11 +110706,39 @@
    "batallador",
    "warlike"
   ],
+  "stryden": [
+   "luchan",
+   "fight"
+  ],
+  "stuit": [
+   "detengas",
+   "check"
+  ],
+  "stuiten": [
+   "detener",
+   "stop"
+  ],
+  "styght": [
+   "sube",
+   "rises"
+  ],
+  "sucht": [
+   "gime",
+   "sighs"
+  ],
+  "swedenryck": [
+   "reino de Suecia",
+   "Swedish realm"
+  ],
   "sy": [
    "sea",
    "be"
   ],
   "syn": [
+   "su",
+   "his"
+  ],
+  "synen": [
    "su",
    "his"
   ],
@@ -110013,6 +110757,10 @@
   "t'amsterdam": [
    "en Ámsterdam",
    "in Amsterdam"
+  ],
+  "t'ontworstelen": [
+   "zafarse de",
+   "to wrestle free of"
   ],
   "tack": [
    "rama",
@@ -110106,6 +110854,10 @@
    "cantar",
    "to sing to"
   ],
+  "toght": [
+   "marcha",
+   "march"
+  ],
   "tong": [
    "lengua",
    "tongue"
@@ -110121,6 +110873,10 @@
   "tot": [
    "hasta",
    "into"
+  ],
+  "tot's": [
+   "para el",
+   "for the"
   ],
   "traentjes": [
    "lagrimitas",
@@ -110142,13 +110898,33 @@
    "tira",
    "draws"
   ],
+  "treft": [
+   "alcanza",
+   "hits"
+  ],
   "treurt": [
    "te afliges",
    "grieve"
   ],
+  "triomfeeren": [
+   "triunfar",
+   "triumph"
+  ],
+  "triomfen": [
+   "triunfos",
+   "triumphs"
+  ],
   "troep": [
    "tropa",
    "troop"
+  ],
+  "trompetten": [
+   "trompetean",
+   "trumpet"
+  ],
+  "troon": [
+   "trono",
+   "throne"
   ],
   "troost": [
    "consuelo",
@@ -110170,6 +110946,10 @@
    "disciplina",
    "discipline"
   ],
+  "tyden": [
+   "tiempos",
+   "times"
+  ],
   "tyt": [
    "tiempo",
    "time"
@@ -110182,15 +110962,27 @@
    "fuera de",
    "out of"
   ],
+  "uitgebreit": [
+   "extendido",
+   "spread"
+  ],
   "uitgesproken": [
    "pronunciado",
    "uttered"
+  ],
+  "uitheemsch": [
+   "extranjera",
+   "foreign"
   ],
   "uitspraeck": [
    "palabra",
    "utterance"
   ],
   "uw": [
+   "tu",
+   "your"
+  ],
+  "uwe": [
    "tu",
    "your"
   ],
@@ -110214,13 +111006,25 @@
    "del padre",
    "father's"
   ],
+  "val": [
+   "caída",
+   "fall"
+  ],
   "vallen": [
    "caemos",
    "fall"
   ],
+  "valsche": [
+   "falsas",
+   "false"
+  ],
   "van": [
    "de",
    "from"
+  ],
+  "vecht": [
+   "pelea",
+   "fights"
   ],
   "veder": [
    "pluma",
@@ -110230,13 +111034,25 @@
    "mucho",
    "much"
   ],
+  "veelen": [
+   "muchos",
+   "many"
+  ],
   "veiligh": [
    "seguro",
    "safe"
   ],
+  "veilighst": [
+   "lo más seguro",
+   "safest"
+  ],
   "veld": [
    "campo",
    "field"
+  ],
+  "veldslagh": [
+   "batalla",
+   "battle"
   ],
   "vele": [
    "muchos",
@@ -110282,6 +111098,14 @@
    "expulsar",
    "drive out"
   ],
+  "verdryven": [
+   "ahuyentar",
+   "drive away"
+  ],
+  "vergaen": [
+   "perecemos",
+   "perish"
+  ],
   "vergaet": [
    "perece",
    "perishes"
@@ -110294,6 +111118,10 @@
    "en vano",
    "in vain"
   ],
+  "vergeven": [
+   "perdonar",
+   "forgive"
+  ],
   "verheft": [
    "exaltad",
    "exalt"
@@ -110305,6 +111133,14 @@
   "verjagen": [
    "ahuyentan",
    "chase away"
+  ],
+  "verkies": [
+   "prefiera",
+   "choose"
+  ],
+  "verknocht": [
+   "atado",
+   "bound"
   ],
   "verkondigh": [
    "anuncie",
@@ -110325,6 +111161,10 @@
   "verlaten": [
    "abandonar",
    "forsake"
+  ],
+  "verleen": [
+   "concede",
+   "grant"
   ],
   "verlost": [
    "librado",
@@ -110358,6 +111198,18 @@
    "sorprendan",
    "surprise"
   ],
+  "verreist": [
+   "parta",
+   "departs"
+  ],
+  "verroest": [
+   "se oxida",
+   "rusts"
+  ],
+  "verrot": [
+   "se podre",
+   "rots"
+  ],
   "versch": [
    "fresco",
    "fresh"
@@ -110374,9 +111226,21 @@
    "perdona",
    "spares"
   ],
+  "versengen": [
+   "abrasar",
+   "scorch"
+  ],
+  "verslindend": [
+   "devorador",
+   "devouring"
+  ],
   "versmooren": [
    "ahogarse",
    "smother"
+  ],
+  "versterck": [
+   "fortalece",
+   "strengthen"
   ],
   "verstrooid": [
    "dispersas",
@@ -110385,6 +111249,10 @@
   "vertoond": [
    "mostrado",
    "shown"
+  ],
+  "vervloeckte": [
+   "maldita",
+   "accursed"
   ],
   "vervolgers": [
    "perseguidores",
@@ -110401,6 +111269,30 @@
   "verwerven": [
    "ganar",
    "win"
+  ],
+  "verwonnen": [
+   "vencido",
+   "conquered"
+  ],
+  "verzade": [
+   "sacie",
+   "sate"
+  ],
+  "verzuim": [
+   "descuido",
+   "neglect"
+  ],
+  "vest": [
+   "plaza fuerte",
+   "fortress"
+  ],
+  "vier": [
+   "fuego",
+   "fire"
+  ],
+  "vinden": [
+   "hallamos",
+   "find"
   ],
   "vit": [
    "desde",
@@ -110438,6 +111330,14 @@
    "ligera",
    "nimble"
   ],
+  "voede": [
+   "alimente",
+   "feed"
+  ],
+  "voedtsel": [
+   "alimento",
+   "food"
+  ],
   "voet": [
    "pie",
    "foot"
@@ -110454,9 +111354,29 @@
    "pájaros",
    "birds"
   ],
+  "vol": [
+   "lleno",
+   "full"
+  ],
+  "volck": [
+   "pueblo",
+   "people"
+  ],
+  "volght": [
+   "sigues",
+   "follow"
+  ],
+  "vollen": [
+   "lleno",
+   "full"
+  ],
   "volprezen": [
    "bastante alabado",
    "fully praised"
+  ],
+  "volsta": [
+   "baste",
+   "suffice"
   ],
   "voltogen": [
    "acabado",
@@ -110478,6 +111398,14 @@
    "preludio",
    "prelude"
   ],
+  "voortgang": [
+   "curso",
+   "course"
+  ],
+  "voorzienigheit": [
+   "providencia",
+   "providence"
+  ],
   "vorst": [
    "príncipe",
    "prince"
@@ -110493,6 +111421,10 @@
   "voêr": [
    "alimento",
    "fodder"
+  ],
+  "vre": [
+   "paz",
+   "peace"
   ],
   "vreck": [
    "avaro",
@@ -110514,6 +111446,10 @@
    "temor",
    "fear"
   ],
+  "vreê": [
+   "la paz",
+   "peace"
+  ],
   "vrij": [
    "libre",
    "free"
@@ -110533,6 +111469,10 @@
   "vroom": [
    "piadoso",
    "devout"
+  ],
+  "vruchten": [
+   "frutos",
+   "fruits"
   ],
   "vry": [
    "de buen grado",
@@ -110561,6 +111501,10 @@
   "wackren": [
    "despierta",
    "lively"
+  ],
+  "waeght": [
+   "arriesga",
+   "hazards"
   ],
   "waer": [
    "dónde",
@@ -110630,21 +111574,49 @@
    "adversidad",
    "adversity"
   ],
+  "weduw": [
+   "viuda",
+   "widow"
+  ],
+  "weelde": [
+   "abundancia",
+   "abundance"
+  ],
   "weereldkloot": [
    "globo del mundo",
    "world's globe"
+  ],
+  "weerelt": [
+   "mundo",
+   "world"
+  ],
+  "weereltsch": [
+   "mundano",
+   "worldly"
   ],
   "weest": [
    "estad",
    "be"
   ],
+  "weet": [
+   "sabe",
+   "knows"
+  ],
   "wel": [
    "bien",
    "well"
   ],
+  "welck": [
+   "que",
+   "which"
+  ],
   "welgetroost": [
    "consolado",
    "comforted"
+  ],
+  "wenck": [
+   "seña",
+   "nod"
   ],
   "wensch": [
    "deseo",
@@ -110670,6 +111642,10 @@
    "ley",
    "law"
   ],
+  "wetten": [
+   "leyes",
+   "laws"
+  ],
   "wey": [
    "pasto",
    "pasture"
@@ -110677,6 +111653,10 @@
   "wezen": [
    "ser",
    "being"
+  ],
+  "weêrwraeck": [
+   "venganza",
+   "revenge"
   ],
   "wicht": [
    "criatura",
@@ -110689,6 +111669,10 @@
   "wien": [
    "a quién",
    "to whom"
+  ],
+  "wiens": [
+   "cuya",
+   "whose"
   ],
   "wil": [
    "quiere",
@@ -110705,6 +111689,10 @@
   "wilhelmus": [
    "Guillermo",
    "William"
+  ],
+  "wille": [
+   "voluntad",
+   "will"
   ],
   "willen": [
    "querido",
@@ -110726,7 +111714,15 @@
    "blanco (diana)",
    "mark"
   ],
+  "woest": [
+   "salvaje",
+   "wild"
+  ],
   "woord": [
+   "palabra",
+   "word"
+  ],
+  "woort": [
    "palabra",
    "word"
   ],
@@ -110741,6 +111737,10 @@
   "wordt": [
    "queda",
    "is"
+  ],
+  "worstelperck": [
+   "palestra",
+   "wrestling-ground"
   ],
   "wort": [
    "es",
@@ -110758,6 +111758,10 @@
    "crueldad",
    "cruelty"
   ],
+  "wrock": [
+   "rencor",
+   "grudge"
+  ],
   "wuft": [
    "ligera",
    "flighty"
@@ -110766,9 +111770,17 @@
    "nosotros",
    "we"
   ],
+  "wyder": [
+   "más ancho",
+   "wider"
+  ],
   "wysheit": [
    "sabiduría",
    "wisdom"
+  ],
+  "wyze": [
+   "sabia",
+   "wise"
   ],
   "yder": [
    "cada cual",
@@ -110814,9 +111826,17 @@
    "estaba",
    "sat"
   ],
+  "zee": [
+   "mar",
+   "sea"
+  ],
   "zeer": [
    "muy",
    "very"
+  ],
+  "zegen": [
+   "bendición",
+   "blessing"
   ],
   "zein": [
    "guadaña",
@@ -110850,6 +111870,10 @@
    "almas",
    "souls"
   ],
+  "zielgevaer": [
+   "peligro del alma",
+   "peril of the soul"
+  ],
   "zieltje": [
    "almita",
    "little soul"
@@ -110882,9 +111906,17 @@
    "sois",
    "are"
   ],
+  "zingen": [
+   "cantan",
+   "sing"
+  ],
   "zingt": [
    "cantad",
    "sing"
+  ],
+  "zinnen": [
+   "sentidos",
+   "senses"
   ],
   "zit": [
    "se sienta",
@@ -110930,6 +111962,10 @@
    "así",
    "so"
   ],
+  "zoon": [
+   "hijo",
+   "son"
+  ],
   "zuchten": [
    "gemir",
    "sigh"
@@ -110950,9 +111986,17 @@
    "débil",
    "weak"
   ],
+  "zwacken": [
+   "débil",
+   "weak"
+  ],
   "zwaerden": [
    "espadas",
    "swords"
+  ],
+  "zware": [
+   "pesada",
+   "heavy"
   ],
   "zweef": [
    "floto",
@@ -110973,6 +112017,10 @@
   "zyn": [
    "su",
    "his"
+  ],
+  "zynen": [
+   "su",
+   "its"
   ],
   "zyt": [
    "eres",

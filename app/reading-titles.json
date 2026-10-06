@@ -2422,6 +2422,20 @@
    "name_en": "The Rhine",
    "title_es": "De Rynstroom",
    "title_en": "De Rynstroom"
+  },
+  "vond-vredewensch": {
+   "type": "poem",
+   "name_es": "Deseo de paz, a Constantijn Huygens",
+   "name_en": "A Wish for Peace, to Constantijn Huygens",
+   "title_es": "Deseo de paz, a Constantijn Huygens",
+   "title_en": "A Wish for Peace, to Constantijn Huygens"
+  },
+  "vond-gebedt": {
+   "type": "poem",
+   "name_es": "El Padrenuestro",
+   "name_en": "The Lord’s Prayer",
+   "title_es": "El Padrenuestro",
+   "title_en": "The Lord’s Prayer"
   }
  }
 }

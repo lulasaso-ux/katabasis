@@ -110,7 +110,7 @@ for (const list of [works, paintings, packages]) {
 }
 for (const [id, expectedReadings, expectedArt] of [
   ['renaissance-superpack', 12, 6], ['latin-american-romanticism', 6, 3], ['goethezeit',10,2], ['quixote-mysteries',5,1], ['bardolatry',10,2], ['cervantismo',10,1], ['war-peace-mysteries',5,1], ['aeneid-mysteries',5,2],
-  ['vondeliana',8,3], ['os-lusiadas',6,3],
+  ['vondeliana',10,3], ['os-lusiadas',6,3],
   ['contrapasso',10,3], ['gilded-age',6,5],
   ['tragedia',6,5], ['comedia',6,4],
   ['nashe-vsyo',10,3], ['republica-letras',6,5],['himnos',9,4],['himnos-2',8,3],['joyful-mysteries',5,5],['iliad-mysteries',5,4],['cronicas',6,5],['ego-hugo',10,6],['baudelaire',6,5],['baudelaire-2',6,3],['impressionism',3,4]
