@@ -34,6 +34,17 @@ async function wikitext(site, title) {
   return raw;
 }
 
+// El wikitexto no basta en todos los Wikisource: el alemán guarda el poema en
+// una plantilla <poem>, el francés lo transcluye desde el escaneo con <pages>
+// y el ruso lo pone tras una ficha. El texto ya renderizado sirve para los dos
+// últimos, así que se traen ambos y se elige al componer.
+async function textoPlano(site, title) {
+  const url = `https://${site}/w/api.php?action=query&prop=extracts&explaintext=1`
+    + `&format=json&formatversion=2&redirects=1&titles=${encodeURIComponent(title)}`;
+  const data = JSON.parse(await get(url, false));
+  return data?.query?.pages?.[0]?.extract || '';
+}
+
 // Cuando el título exacto no existe, proponer candidatos en vez de rendirse.
 async function buscar(site, term) {
   try {
@@ -80,8 +91,9 @@ async function commonsImage(file) {
     process.stdout.write('texto  ' + t.id.padEnd(34));
     try {
       const body = await wikitext(t.site, t.title);
-      textos[t.id] = { ...t, url: `https://${t.site}/wiki/${encodeURIComponent(t.title)}`, body };
-      console.log('OK  ' + body.split('\n').length + ' líneas, ' + body.length + ' caracteres');
+      const plain = await textoPlano(t.site, t.title).catch(() => '');
+      textos[t.id] = { ...t, url: `https://${t.site}/wiki/${encodeURIComponent(t.title)}`, body, plain };
+      console.log('OK  wikitexto ' + body.length + ' car · renderizado ' + plain.length + ' car');
     } catch (e) { textos[t.id] = { ...t, error: String(e.message) }; console.log('FALLA  ' + e.message); }
   }
   fs.writeFileSync(path.join(out, 'textos.json'), JSON.stringify(textos, null, 1));
