@@ -1,0 +1,53 @@
+{
+ "goethe-heidenroslein": {
+  "id": "goethe-heidenroslein",
+  "site": "de.wikisource.org",
+  "title": "Heidenröslein",
+  "url": "https://de.wikisource.org/wiki/Heidenr%C3%B6slein",
+  "body": ""
+ },
+ "goethe-prometheus": {
+  "id": "goethe-prometheus",
+  "site": "de.wikisource.org",
+  "title": "Prometheus (Goethe)",
+  "error": "Página ausente: Prometheus (Goethe) · candidatos: Prometheus | Johann Wolfgang von Goethe | Prometheus (Gedicht, späte Fassung) | Prometheus (Gedicht, frühe Fassung) | Zum Goethe-Gedenktag"
+ },
+ "goethe-ganymed": {
+  "id": "goethe-ganymed",
+  "site": "de.wikisource.org",
+  "title": "Ganymed (Goethe)",
+  "error": "Página ausente: Ganymed (Goethe) · candidatos: Ganymed | Johann Wolfgang von Goethe | ADB:Wagner, Theodor | Boetticher:Neher, Bernhard | Deutsche Literaturgeschichte in einer Stunde (Klabund)"
+ },
+ "goethe-willkommen": {
+  "id": "goethe-willkommen",
+  "site": "de.wikisource.org",
+  "title": "Willkommen und Abschied",
+  "url": "https://de.wikisource.org/wiki/Willkommen%20und%20Abschied",
+  "body": "Den Titel Willkommen und Abschied tragen folgende Werke:\n\ndas Gedicht Willkommen und Abschied von Johann Wolfgang von Goethe (Erstdruck von 1775)\ndas Gedicht Willkommen und Abschied von Johann Wolfgang von Goethe (Fassung von 1827)"
+ },
+ "goethe-an-den-mond": {
+  "id": "goethe-an-den-mond",
+  "site": "de.wikisource.org",
+  "title": "An den Mond (Goethe)",
+  "error": "Página ausente: An den Mond (Goethe) · candidatos: Dunkel war’s, der Mond schien helle | Mond | Ein Gedenkblatt an Goethe | An den Mond | Keplers Traum vom Mond"
+ },
+ "goethe-fischer": {
+  "id": "goethe-fischer",
+  "site": "de.wikisource.org",
+  "title": "Der Fischer (Goethe)",
+  "error": "Página ausente: Der Fischer (Goethe) · candidatos: Johann Wolfgang von Goethe | Kuno Fischer | Fischer | Johann Georg Fischer | Das neue Goethe-Schiller-Archiv in Weimar"
+ },
+ "goethe-selige": {
+  "id": "goethe-selige",
+  "site": "de.wikisource.org",
+  "title": "Selige Sehnsucht",
+  "error": "Página ausente: Selige Sehnsucht · candidatos: Sehnsucht der Liebe | Selige Liebe | „Der selige Franz“ | Juliane Déry | Welle und Licht"
+ },
+ "goethe-gefunden": {
+  "id": "goethe-gefunden",
+  "site": "de.wikisource.org",
+  "title": "Gefunden",
+  "url": "https://de.wikisource.org/wiki/Gefunden",
+  "body": ""
+ }
+}
