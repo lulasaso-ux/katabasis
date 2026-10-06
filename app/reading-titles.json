@@ -2324,6 +2324,48 @@
    "name_en": "Sonnet 130",
    "title_es": "Los ojos de mi amada",
    "title_en": "Sonnet 130"
+  },
+  "cerv-retrato": {
+   "type": "fragment",
+   "name_es": "El retrato que Cervantes se escribió",
+   "name_en": "The Portrait Cervantes Wrote Himself",
+   "title_es": "Novelas ejemplares",
+   "title_en": "Exemplary Novels"
+  },
+  "cerv-nicosia": {
+   "type": "fragment",
+   "name_es": "Un cautivo le habla a las ruinas",
+   "name_en": "A Captive Speaks to the Ruins",
+   "title_es": "El amante liberal",
+   "title_en": "The Generous Lover"
+  },
+  "cerv-fuerza-sangre": {
+   "type": "fragment",
+   "name_es": "Una noche de verano en Toledo",
+   "name_en": "A Summer Night in Toledo",
+   "title_es": "La fuerza de la sangre",
+   "title_en": "The Power of Blood"
+  },
+  "cerv-carrizales": {
+   "type": "fragment",
+   "name_es": "Un pródigo vuelve rico",
+   "name_en": "A Prodigal Comes Back Rich",
+   "title_es": "El celoso extremeño",
+   "title_en": "The Jealous Man from Extremadura"
+  },
+  "cerv-fregona": {
+   "type": "fragment",
+   "name_es": "Dos muchachos de Burgos",
+   "name_en": "Two Boys of Burgos",
+   "title_es": "La ilustre fregona",
+   "title_en": "The Illustrious Kitchen-Maid"
+  },
+  "cerv-espanola": {
+   "type": "fragment",
+   "name_es": "Una niña entre el botín",
+   "name_en": "A Child Among the Spoils",
+   "title_es": "La española inglesa",
+   "title_en": "The English Spanish Girl"
   }
  }
 }
