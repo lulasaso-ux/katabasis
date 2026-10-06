@@ -39,10 +39,24 @@ async function wikitext(site, title) {
 // y el ruso lo pone tras una ficha. El texto ya renderizado sirve para los dos
 // últimos, así que se traen ambos y se elige al componer.
 async function textoPlano(site, title) {
-  const url = `https://${site}/w/api.php?action=query&prop=extracts&explaintext=1`
-    + `&format=json&formatversion=2&redirects=1&titles=${encodeURIComponent(title)}`;
+  // action=parse resuelve la transclusión <pages> del Wikisource francés, que
+  // prop=extracts devuelve vacía. Se conserva el salto de verso de los <br>.
+  const url = `https://${site}/w/api.php?action=parse&prop=text&formatversion=2`
+    + `&format=json&redirects=1&page=${encodeURIComponent(title)}`;
   const data = JSON.parse(await get(url, false));
-  return data?.query?.pages?.[0]?.extract || '';
+  const html = data?.parse?.text || '';
+  return html
+    .replace(/<style[\s\S]*?<\/style>/g, '')
+    .replace(/<script[\s\S]*?<\/script>/g, '')
+    .replace(/<sup class="reference"[\s\S]*?<\/sup>/g, '')
+    .replace(/<br\s*\/?>/g, '\n')
+    .replace(/<\/(p|div|dd|li|h\d)>/g, '\n')
+    .replace(/<[^>]+>/g, '')
+    .replace(/&#160;|&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"').replace(/&#39;/g, "'")
+    .split('\n').map(l => l.trim()).join('\n')
+    .replace(/\n{3,}/g, '\n\n').trim();
 }
 
 // Cuando el título exacto no existe, proponer candidatos en vez de rendirse.
