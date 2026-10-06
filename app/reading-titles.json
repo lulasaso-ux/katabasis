@@ -2226,6 +2226,34 @@
    "name_en": "To the Moon",
    "title_es": "A la luna",
    "title_en": "To the Moon"
+  },
+  "push-ekho": {
+   "type": "poem",
+   "name_es": "Eco",
+   "name_en": "Echo",
+   "title_es": "Eco",
+   "title_en": "Echo"
+  },
+  "push-tucha": {
+   "type": "poem",
+   "name_es": "La nube",
+   "name_en": "The Cloud",
+   "title_es": "La nube",
+   "title_en": "The Cloud"
+  },
+  "push-chto-v-imeni": {
+   "type": "poem",
+   "name_es": "¿Qué es para ti mi nombre?",
+   "name_en": "What Is My Name to You?",
+   "title_es": "¿Qué es para ti mi nombre?",
+   "title_en": "What Is My Name to You?"
+  },
+  "push-anchar": {
+   "type": "poem",
+   "name_es": "El anchar",
+   "name_en": "The Anchar",
+   "title_es": "El anchar",
+   "title_en": "The Anchar"
   }
  }
 }
