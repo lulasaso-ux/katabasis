@@ -22,5 +22,234 @@
       "raw": true
     }
   ],
-  "imagenes": []
+  "imagenes": [
+    {
+      "id": "goethezeit-tischbein-campagna",
+      "file": "Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg",
+      "search": "Tischbein Goethe Roman Campagna",
+      "width": 1000
+    },
+    {
+      "id": "goethezeit-friedrich-wanderer",
+      "file": "Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg",
+      "search": "Friedrich Wanderer above the Sea of Fog",
+      "width": 1000
+    },
+    {
+      "id": "goethezeit-friedrich-mond",
+      "file": "Caspar_David_Friedrich_-_Two_Men_Contemplating_the_Moon_-_Google_Art_Project.jpg",
+      "search": "Friedrich Two Men Contemplating the Moon",
+      "width": 1000,
+      "alt": [
+        "Caspar_David_Friedrich_-_Zwei_Männer_in_Betrachtung_des_Mondes_-_Google_Art_Project.jpg"
+      ]
+    },
+    {
+      "id": "goethezeit-runge-morgen",
+      "file": "Philipp_Otto_Runge_-_Der_Morgen_-_Google_Art_Project.jpg",
+      "search": "Philipp Otto Runge Der Morgen",
+      "width": 1000,
+      "alt": [
+        "Runge_-_Der_Morgen.jpg"
+      ]
+    },
+    {
+      "id": "goethezeit-amberg-werther",
+      "file": "Wilhelm_Amberg_Vorlesung_aus_Goethes_Werther.jpg",
+      "search": "Amberg Vorlesung aus Goethes Werther",
+      "width": 1000
+    },
+    {
+      "id": "goethezeit-friedrich-fenster",
+      "file": "Caspar_David_Friedrich_-_Woman_at_a_Window_-_Google_Art_Project.jpg",
+      "search": "Friedrich Frau am Fenster woman at a window",
+      "width": 1000,
+      "alt": [
+        "Caspar_David_Friedrich_-_Frau_am_Fenster.jpg"
+      ]
+    },
+    {
+      "id": "bard-millais-ophelia",
+      "file": "John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg",
+      "search": "Millais Ophelia Tate",
+      "width": 1000
+    },
+    {
+      "id": "bard-delacroix-hamlet",
+      "file": "Eugène_Delacroix_-_Hamlet_and_Horatio_in_the_Graveyard_-_WGA6198.jpg",
+      "search": "Delacroix Hamlet and Horatio in the graveyard",
+      "width": 1000,
+      "alt": [
+        "Eugene_Delacroix_-_Hamlet_and_Horatio_in_the_Graveyard.jpg"
+      ]
+    },
+    {
+      "id": "bard-chandos-portrait",
+      "file": "Shakespeare.jpg",
+      "search": "Chandos portrait William Shakespeare National Portrait Gallery",
+      "width": 1000
+    },
+    {
+      "id": "bard-first-folio",
+      "file": "Title_page_William_Shakespeare's_First_Folio_1623.jpg",
+      "search": "First Folio 1623 title page Droeshout Shakespeare",
+      "width": 1000
+    },
+    {
+      "id": "bard-hilliard-roses",
+      "file": "Nicholas_Hilliard_-_Young_Man_Among_Roses.jpg",
+      "search": "Hilliard Young Man Among Roses miniature",
+      "width": 1000
+    },
+    {
+      "id": "bard-sargent-terry",
+      "file": "Ellen_Terry_as_Lady_Macbeth.jpg",
+      "search": "Sargent Ellen Terry as Lady Macbeth",
+      "width": 1000
+    },
+    {
+      "id": "cerv-jauregui-retrato",
+      "file": "Cervantes_Jáuregui.jpg",
+      "search": "retrato de Cervantes atribuido a Jáuregui",
+      "width": 1000
+    },
+    {
+      "id": "cerv-greco-toledo-plano",
+      "file": "El_Greco_-_View_and_Plan_of_Toledo.jpg",
+      "search": "El Greco View and Plan of Toledo",
+      "width": 1000
+    },
+    {
+      "id": "cerv-velazquez-aguador",
+      "file": "Velázquez_-_El_Aguador_de_Sevilla_(Wellington_Museum,_Apsley_House,_1618-22).jpg",
+      "search": "Velázquez Aguador de Sevilla waterseller",
+      "width": 1000
+    },
+    {
+      "id": "cerv-murillo-ninos",
+      "file": "Bartolomé_Esteban_Murillo_-_Boys_Eating_Grapes_and_Melon.jpg",
+      "search": "Murillo Boys Eating Grapes and Melon Traubenesser",
+      "width": 1000
+    },
+    {
+      "id": "cerv-lepanto",
+      "file": "Battle_of_Lepanto_1571.jpg",
+      "search": "Battle of Lepanto 1571 painting",
+      "width": 1000
+    },
+    {
+      "id": "cerv-velazquez-menipo",
+      "file": "Diego_Rodríguez_de_Silva_y_Velázquez_-_Menippus_-_Google_Art_Project.jpg",
+      "search": "Velázquez Menipo Prado",
+      "width": 1000
+    },
+    {
+      "id": "cerv-velazquez-esopo",
+      "file": "Diego_Velázquez_-_Aesop_-_Google_Art_Project.jpg",
+      "search": "Velázquez Esopo Aesop Prado",
+      "width": 1000
+    },
+    {
+      "id": "contra-botticelli-inferno",
+      "file": "Sandro_Botticelli_-_La_Carte_de_l'Enfer.jpg",
+      "search": "Botticelli Map of Hell mappa inferno",
+      "width": 1000
+    },
+    {
+      "id": "contra-michelino-dante",
+      "file": "Dante_Domenico_di_Michelino_Duomo_Florence.jpg",
+      "search": "Domenico di Michelino Dante Divine Comedy Florence",
+      "width": 1000
+    },
+    {
+      "id": "contra-rossetti-beata",
+      "file": "Dante_Gabriel_Rossetti_-_Beata_Beatrix,_1864-1870.jpg",
+      "search": "Rossetti Beata Beatrix",
+      "width": 1000
+    },
+    {
+      "id": "contra-holiday-beatrice",
+      "file": "Dante_and_beatrice.jpg",
+      "search": "Henry Holiday Dante and Beatrice 1883",
+      "width": 1000
+    },
+    {
+      "id": "contra-blake-whirlwind",
+      "file": "Blake_Dante_Hell_V.jpg",
+      "search": "Blake Whirlwind of Lovers Paolo Francesca Dante",
+      "width": 1000
+    },
+    {
+      "id": "vond-rembrandt-christus",
+      "file": "Rembrandt_-_Head_of_Christ_-_Google_Art_Project.jpg",
+      "search": "Rembrandt Head of Christ",
+      "width": 1000
+    },
+    {
+      "id": "vond-goyen-rijn",
+      "file": "Jan_van_Goyen_-_View_of_the_Rhine_near_Hoog-Elten.jpg",
+      "search": "Jan van Goyen Rijn river landscape Rhine",
+      "width": 1000
+    },
+    {
+      "id": "vond-terborch-munster",
+      "file": "Gerard_ter_Borch_-_The_Swearing_of_the_Oath_of_Ratification_of_the_Treaty_of_Münster.jpg",
+      "search": "ter Borch Treaty of Münster ratification 1648",
+      "width": 1000
+    },
+    {
+      "id": "vond-berckheyde-beurs",
+      "file": "Job_Adriaensz_Berckheyde_-_De_binnenplaats_van_de_beurs_te_Amsterdam.jpg",
+      "search": "Berckheyde courtyard Amsterdam stock exchange beurs",
+      "width": 1000
+    },
+    {
+      "id": "vond-hals-catharina",
+      "file": "Frans_Hals_-_Catharina_Hooft_with_her_Nurse_-_Google_Art_Project.jpg",
+      "search": "Frans Hals Catharina Hooft with her nurse",
+      "width": 1000
+    },
+    {
+      "id": "hugo-courbet-vague",
+      "file": "Gustave_Courbet_-_The_Wave_-_Google_Art_Project.jpg",
+      "search": "Courbet La Vague the wave",
+      "width": 1000
+    },
+    {
+      "id": "hugo-millet-semeur",
+      "file": "Jean-François_Millet_-_The_Sower_-_Google_Art_Project.jpg",
+      "search": "Millet The Sower semeur",
+      "width": 1000
+    },
+    {
+      "id": "push-repin-licey",
+      "file": "Pushkin_by_Repin_1911.jpg",
+      "search": "Repin Pushkin exam Tsarskoye Selo Lyceum 1911",
+      "width": 1000
+    },
+    {
+      "id": "push-aivazovsky-more",
+      "file": "Pushkin's_Farewell_to_the_Sea.jpg",
+      "search": "Aivazovsky Repin Pushkin farewell to the sea",
+      "width": 1000
+    },
+    {
+      "id": "push-kramskoy-pustynya",
+      "file": "Ivan_Kramskoi_-_Christ_in_the_Desert_-_Google_Art_Project.jpg",
+      "search": "Kramskoy Christ in the Desert wilderness",
+      "width": 1000
+    },
+    {
+      "id": "push-brullov-natalia",
+      "file": "Natalia_Pushkina_by_A.Brullov_(1831,_Pushkin_museum).jpg",
+      "search": "Natalia Pushkina Alexander Brullov watercolour 1831",
+      "width": 1000
+    },
+    {
+      "id": "push-kern",
+      "file": "Anna_Kern.jpg",
+      "search": "Anna Kern portrait",
+      "width": 1000
+    }
+  ]
 }

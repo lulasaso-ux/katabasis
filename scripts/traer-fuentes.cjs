@@ -69,10 +69,21 @@ async function buscar(site, term) {
   } catch { return []; }
 }
 
+// Commons, espacio de nombres Archivo: los nombres sin el prefijo «File:».
+async function buscarArchivos(term) {
+  try {
+    const url = 'https://commons.wikimedia.org/w/api.php?action=query&list=search&format=json&formatversion=2'
+      + '&srnamespace=6&srlimit=8&srsearch=' + encodeURIComponent(term);
+    const data = JSON.parse(await get(url, false));
+    return (data?.query?.search || []).map(r => r.title.replace(/^File:/, ''))
+      .filter(n => /\.(jpe?g|png)$/i.test(n));
+  } catch { return []; }
+}
+
 // Commons: la ficha del archivo y una versión de 1200 px de ancho como máximo.
-async function commonsImage(file) {
+async function commonsImage(file, ancho) {
   const url = 'https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo'
-    + '&iiprop=url|extmetadata|mime|size&iiurlwidth=1200&format=json&formatversion=2'
+    + '&iiprop=url|extmetadata|mime|size&iiurlwidth=' + (ancho || 1200) + '&format=json&formatversion=2'
     + '&titles=' + encodeURIComponent('File:' + file);
   const data = JSON.parse(await get(url, false));
   const page = data?.query?.pages?.[0];
@@ -144,10 +155,29 @@ async function paginaSuelta(url) {
   const imagenes = {};
   for (const a of manifest.imagenes || []) {
     process.stdout.write('imagen ' + a.id.padEnd(34));
-    try {
-      imagenes[a.id] = { ...a, ...(await commonsImage(a.file)) };
-      console.log('OK  ' + imagenes[a.id].width + 'x' + imagenes[a.id].height + ', ' + Math.round(imagenes[a.id].bytes / 1024) + ' KB');
-    } catch (e) { imagenes[a.id] = { ...a, error: String(e.message) }; console.log('FALLA  ' + e.message); }
+    // Un nombre de archivo escrito de memoria falla a menudo por un guion o un
+    // acento, de modo que se prueban los alternativos y, si ninguno existe, se
+    // busca en Commons: la corrida deja resuelto lo que pueda y, para el resto,
+    // los candidatos con que corregir el manifiesto.
+    const intentos = [a.file, ...(a.alt || [])].filter(Boolean);
+    let hecho = null, errores = [];
+    for (const nombre of intentos) {
+      try { hecho = await commonsImage(nombre, a.width); break; }
+      catch (e) { errores.push(nombre + ': ' + e.message); }
+    }
+    if (!hecho && (a.search || intentos.length)) {
+      const candidatos = await buscarArchivos(a.search || intentos[0].replace(/[_-]/g, ' ').replace(/\.(jpg|jpeg|png|tif|tiff)$/i, ''));
+      for (const nombre of candidatos) {
+        try { hecho = await commonsImage(nombre, a.width); hecho.resuelto_por_busqueda = true; break; }
+        catch (e) { errores.push(nombre + ': ' + e.message); }
+      }
+      if (!hecho) { imagenes[a.id] = { ...a, error: errores.join(' | ') || 'sin candidatos', candidatos }; console.log('FALLA  ' + (candidatos.length ? candidatos.length + ' candidatos, ninguno servible' : 'sin candidatos')); continue; }
+      hecho.candidatos = candidatos;
+    }
+    if (!hecho) { imagenes[a.id] = { ...a, error: errores.join(' | ') }; console.log('FALLA  ' + errores.join(' | ')); continue; }
+    imagenes[a.id] = { ...a, ...hecho };
+    console.log('OK  ' + hecho.width + 'x' + hecho.height + ', ' + Math.round(hecho.bytes / 1024) + ' KB'
+      + (hecho.resuelto_por_busqueda ? '  (por busqueda: ' + hecho.file + ')' : ''));
   }
   fs.writeFileSync(path.join(out, 'imagenes.json'), JSON.stringify(imagenes, null, 1));
 
