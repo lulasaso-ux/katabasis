@@ -99,11 +99,35 @@ async function commonsImage(file) {
   };
 }
 
+// No todo vive en un Wikisource: Vondel viene de dbnl.org y Cervantes de un
+// libro de Gutenberg. Una entrada con `url` se trae tal cual y se le quita el
+// marcado, conservando los saltos de línea.
+async function paginaSuelta(url) {
+  const html = await get(url, false);
+  return html
+    .replace(/<style[\s\S]*?<\/style>/g, '')
+    .replace(/<script[\s\S]*?<\/script>/g, '')
+    .replace(/<br\s*\/?>/g, '\n')
+    .replace(/<\/(p|div|dd|li|tr|h\d)>/g, '\n')
+    .replace(/<[^>]+>/g, '')
+    .replace(/&#160;|&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&eacute;/g, 'é')
+    .split('\n').map(l => l.trim()).join('\n')
+    .replace(/\n{3,}/g, '\n\n').trim();
+}
+
 (async () => {
   const textos = {};
   for (const t of manifest.textos || []) {
     process.stdout.write('texto  ' + t.id.padEnd(34));
     try {
+      if (t.url) {
+        const plain = await paginaSuelta(t.url);
+        textos[t.id] = { ...t, body: '', plain };
+        console.log('OK  página suelta, ' + plain.length + ' car');
+        continue;
+      }
       const body = await wikitext(t.site, t.title);
       const plain = await textoPlano(t.site, t.title).catch(() => '');
       textos[t.id] = { ...t, url: `https://${t.site}/wiki/${encodeURIComponent(t.title)}`, body, plain };

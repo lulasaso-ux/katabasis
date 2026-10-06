@@ -1,19 +1,17 @@
 {
-  "_nota": "Lo que el flujo Traer fuentes externas descarga. Se edita a mano antes de cada corrida; el resultado queda en scripts/_fuentes/, fuera del sitio publicado.",
+  "_nota": "Lo que el flujo Traer fuentes externas descarga. Una entrada con `site`+`title` consulta un Wikisource; una con `url` trae esa página tal cual. El resultado queda en scripts/_fuentes/, fuera del sitio publicado.",
   "textos": [
-    {"id": "shk-29",  "site": "en.wikisource.org", "title": "Shake-speares Sonnets, Never before Imprinted/Sonnet 29"},
-    {"id": "shk-30",  "site": "en.wikisource.org", "title": "Shake-speares Sonnets, Never before Imprinted/Sonnet 30"},
-    {"id": "shk-60",  "site": "en.wikisource.org", "title": "Shake-speares Sonnets, Never before Imprinted/Sonnet 60"},
-    {"id": "shk-94",  "site": "en.wikisource.org", "title": "Shake-speares Sonnets, Never before Imprinted/Sonnet 94"},
-    {"id": "shk-129", "site": "en.wikisource.org", "title": "Shake-speares Sonnets, Never before Imprinted/Sonnet 129"},
-    {"id": "shk-130", "site": "en.wikisource.org", "title": "Shake-speares Sonnets, Never before Imprinted/Sonnet 130"},
+    {"id": "dante-guido",    "site": "it.wikisource.org", "title": "Rime (Dante)/LII - Guido, i' vorrei che tu e Lapo ed io"},
+    {"id": "dante-occhi",    "site": "it.wikisource.org", "title": "Vita nuova/XXI"},
+    {"id": "dante-peregrini","site": "it.wikisource.org", "title": "Vita nuova/XL"},
+    {"id": "dante-spera",    "site": "it.wikisource.org", "title": "Vita nuova/XLI"},
+    {"id": "dante-donne",    "site": "it.wikisource.org", "title": "Vita nuova/XIX"},
+    {"id": "dante-tanto",    "site": "it.wikisource.org", "title": "Vita nuova/XXVI"},
 
-    {"id": "vond-stokske",   "site": "nl.wikisource.org", "title": "Het stokske van Joan van Oldenbarnevelt"},
-    {"id": "vond-rijn",      "site": "nl.wikisource.org", "title": "Aen den Rynstroom"},
-    {"id": "vond-vertroost", "site": "nl.wikisource.org", "title": "Vertroostinge aen Geeraerdt Vossius"},
-    {"id": "vond-hooft",     "site": "nl.wikisource.org", "title": "Op Pieter Cornelisz. Hooft"},
-    {"id": "vond-gebed",     "site": "nl.wikisource.org", "title": "Vondel"},
-    {"id": "vond-lucifer",   "site": "nl.wikisource.org", "title": "Lucifer"}
+    {"id": "vondel-indice3", "url": "https://www.dbnl.org/tekst/vond001dewe03_01/"},
+    {"id": "vondel-indice9", "url": "https://www.dbnl.org/tekst/vond001dewe09_01/"},
+
+    {"id": "cervantes-61202", "url": "https://www.gutenberg.org/cache/epub/61202/pg61202.txt"}
   ],
   "imagenes": []
 }
