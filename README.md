@@ -464,10 +464,11 @@ barra de progreso fina.
 | Contrapasso | Dante | 10 | 8 |
 | Vondeliana | Vondel | 10 | 8 |
 | Ego Hugo | Hugo | 10 | 8 |
-| Nashe vsyo | Pushkin | 10 | 8 |
+| Nashe vsyo | Pushkin | 11 | 8 |
 
 Cada uno de estos siete paquetes pasó a diez lecturas y ocho obras visuales,
-que es el tope. La regla es un solo superpaquete por país, el de su mejor
+que es el tope; Nashe vsyo tiene once, porque «Al mar» entró después de su
+cuadro. La regla es un solo superpaquete por país, el de su mejor
 autor; de ahí que Baudelaire, en una Francia que ya tiene a Hugo, quede en
 dos paquetes de seis (Poète maudit 1 y 2) y no en un superpaquete.
 
@@ -491,7 +492,7 @@ y el texto alternativo en los dos idiomas.
 Un paquete con diez lecturas o más es un *superpaquete*: hoy lo son Ruinas (14),
 Poetas malditos (12), Renacimiento (12), Goethezeit (10), Bardolatry (10),
 Cervantismo (10), Contrapasso (10), Vondeliana (10), Ego Hugo (10) y
-Nashe vsyo (10). La
+Nashe vsyo (11). La
 distinción no se asigna a mano: se calcula con el número de lecturas del
 paquete (`SUPER_PACKAGE_MIN` en `app/katabasis-37.txt`), de modo que un paquete
 que crezca hasta diez lecturas pasa a serlo.
