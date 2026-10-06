@@ -94,5 +94,8 @@ async function commonsImage(file) {
 
   const fallos = [...Object.values(textos), ...Object.values(imagenes)].filter(x => x.error);
   console.log(`\nTextos: ${Object.keys(textos).length} · Imágenes: ${Object.keys(imagenes).length} · Fallos: ${fallos.length}`);
-  if (fallos.length) { console.log(fallos.map(f => '  ' + f.id + ': ' + f.error).join('\n')); process.exitCode = 1; }
+  // Un fallo no tumba la corrida: lo que sí se descargó se confirma igual y el
+  // error queda escrito junto a su entrada, para corregir el manifiesto sin
+  // gastar otra corrida a ciegas.
+  if (fallos.length) console.log(fallos.map(f => '  ' + f.id + ': ' + f.error).join('\n'));
 })();

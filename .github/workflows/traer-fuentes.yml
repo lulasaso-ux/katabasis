@@ -27,7 +27,8 @@ jobs:
           node-version: '22'
       - name: Descargar textos e imágenes del manifiesto
         run: node scripts/traer-fuentes.cjs
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - if: always()
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'Traer fuentes externas del manifiesto'
           file_pattern: 'scripts/_fuentes/*'
