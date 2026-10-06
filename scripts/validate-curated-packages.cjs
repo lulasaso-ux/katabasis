@@ -109,11 +109,11 @@ for (const list of [works, paintings, packages]) {
   assert.equal(new Set(list.map(x=>x.id)).size, list.length, 'Duplicate ID');
 }
 for (const [id, expectedReadings, expectedArt] of [
-  ['renaissance-superpack', 12, 6], ['latin-american-romanticism', 6, 3], ['goethezeit',4,2], ['quixote-mysteries',5,1], ['bardolatry',4,2], ['cervantismo',4,1], ['war-peace-mysteries',5,1], ['aeneid-mysteries',5,2],
+  ['renaissance-superpack', 12, 6], ['latin-american-romanticism', 6, 3], ['goethezeit',8,2], ['quixote-mysteries',5,1], ['bardolatry',4,2], ['cervantismo',4,1], ['war-peace-mysteries',5,1], ['aeneid-mysteries',5,2],
   ['vondeliana',5,3], ['os-lusiadas',6,3],
   ['contrapasso',5,3], ['gilded-age',6,5],
   ['tragedia',6,5], ['comedia',6,4],
-  ['nashe-vsyo',6,3], ['republica-letras',6,5],['himnos',9,4],['himnos-2',8,3],['joyful-mysteries',5,5],['iliad-mysteries',5,4],['cronicas',6,5],['ego-hugo',6,6],['baudelaire',12,8],['impressionism',3,4]
+  ['nashe-vsyo',6,3], ['republica-letras',6,5],['himnos',9,4],['himnos-2',8,3],['joyful-mysteries',5,5],['iliad-mysteries',5,4],['cronicas',6,5],['ego-hugo',6,6],['baudelaire',6,5],['baudelaire-2',6,3],['impressionism',3,4]
 ]) {
   assert.equal(works.filter(w=>w.package_id===id||(w.additional_package_ids||[]).includes(id)).length, expectedReadings);
   assert.equal(paintings.filter(w=>w.package_id===id).length, expectedArt);

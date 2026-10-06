@@ -2184,6 +2184,34 @@
    "name_en": "The Stranger",
    "title_es": "El extranjero",
    "title_en": "The Stranger"
+  },
+  "goethezeit-heidenroslein": {
+   "type": "poem",
+   "name_es": "Rosita del brezal",
+   "name_en": "Heath Rose",
+   "title_es": "Rosita del brezal",
+   "title_en": "Heath Rose"
+  },
+  "goethezeit-gefunden": {
+   "type": "poem",
+   "name_es": "Hallada",
+   "name_en": "Found",
+   "title_es": "Hallada",
+   "title_en": "Found"
+  },
+  "goethezeit-nahe": {
+   "type": "poem",
+   "name_es": "Cercanía del amado",
+   "name_en": "Nearness of the Beloved",
+   "title_es": "Cercanía del amado",
+   "title_en": "Nearness of the Beloved"
+  },
+  "goethezeit-nachtlied-1": {
+   "type": "poem",
+   "name_es": "Tú que vienes del cielo",
+   "name_en": "You Who Are from Heaven",
+   "title_es": "Tú que vienes del cielo",
+   "title_en": "You Who Are from Heaven"
   }
  }
 }
