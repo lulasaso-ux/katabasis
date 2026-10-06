@@ -2254,6 +2254,34 @@
    "name_en": "The Anchar",
    "title_es": "El anchar",
    "title_en": "The Anchar"
+  },
+  "hugo-juin": {
+   "type": "poem",
+   "name_es": "Noches de junio",
+   "name_en": "June Nights",
+   "title_es": "Noches de junio",
+   "title_en": "June Nights"
+  },
+  "hugo-semailles": {
+   "type": "poem",
+   "name_es": "Tiempo de siembra. El atardecer",
+   "name_en": "Sowing Season. Evening",
+   "title_es": "Tiempo de siembra. El atardecer",
+   "title_en": "Sowing Season. Evening"
+  },
+  "hugo-dechaussee": {
+   "type": "poem",
+   "name_es": "Iba descalza, iba despeinada",
+   "name_en": "She Was Barefoot, She Was Bareheaded",
+   "title_es": "Iba descalza, iba despeinada",
+   "title_en": "She Was Barefoot, She Was Bareheaded"
+  },
+  "hugo-oceano": {
+   "type": "poem",
+   "name_es": "Oceano nox",
+   "name_en": "Oceano Nox",
+   "title_es": "Oceano nox",
+   "title_en": "Oceano Nox"
   }
  }
 }
