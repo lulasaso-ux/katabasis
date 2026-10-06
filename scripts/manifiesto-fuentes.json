@@ -1,18 +1,21 @@
 {
   "_nota": "Lo que el flujo Traer fuentes externas descarga. Se edita a mano antes de cada corrida; el resultado queda en scripts/_fuentes/, fuera del sitio publicado.",
   "textos": [
-    {"id": "goethe-heidenroslein", "site": "de.wikisource.org", "title": "Heidenröslein"},
-    {"id": "goethe-prometheus",    "site": "de.wikisource.org", "title": "Prometheus (Gedicht, späte Fassung)"},
-    {"id": "goethe-ganymed",       "site": "de.wikisource.org", "title": "Ganymed"},
-    {"id": "goethe-willkommen",    "site": "de.wikisource.org", "title": "Willkommen und Abschied"},
-    {"id": "goethe-an-den-mond",   "site": "de.wikisource.org", "title": "An den Mond"},
-    {"id": "goethe-fischer",       "site": "de.wikisource.org", "title": "Der Fischer"},
-    {"id": "goethe-selige",        "site": "de.wikisource.org", "title": "Selige Sehnsucht"},
-    {"id": "goethe-gefunden",      "site": "de.wikisource.org", "title": "Gefunden"},
-    {"id": "goethe-mailied",       "site": "de.wikisource.org", "title": "Mailied"},
-    {"id": "goethe-nahe",          "site": "de.wikisource.org", "title": "Nähe des Geliebten"},
-    {"id": "goethe-zauberlehrling","site": "de.wikisource.org", "title": "Der Zauberlehrling"},
-    {"id": "goethe-nachtlied-1",   "site": "de.wikisource.org", "title": "Wandrers Nachtlied"}
+    {"id": "push-anchar",      "site": "ru.wikisource.org", "title": "Анчар (Пушкин)"},
+    {"id": "push-zimniy",      "site": "ru.wikisource.org", "title": "Зимний вечер (Пушкин)"},
+    {"id": "push-besy",        "site": "ru.wikisource.org", "title": "Бесы (Пушкин)"},
+    {"id": "push-ekho",        "site": "ru.wikisource.org", "title": "Эхо (Пушкин)"},
+    {"id": "push-tucha",       "site": "ru.wikisource.org", "title": "Туча (Пушкин)"},
+    {"id": "push-poetu",       "site": "ru.wikisource.org", "title": "Поэту (Пушкин)"},
+    {"id": "push-chto-v-imeni","site": "ru.wikisource.org", "title": "Что в имени тебе моём (Пушкин)"},
+
+    {"id": "hugo-oceano",      "site": "fr.wikisource.org", "title": "Oceano nox"},
+    {"id": "hugo-dechaussee",  "site": "fr.wikisource.org", "title": "Elle était déchaussée, elle était décoiffée"},
+    {"id": "hugo-juin",        "site": "fr.wikisource.org", "title": "Nuits de juin"},
+    {"id": "hugo-semailles",   "site": "fr.wikisource.org", "title": "Saison des semailles. Le soir"},
+    {"id": "hugo-mendiant",    "site": "fr.wikisource.org", "title": "Le Mendiant"},
+    {"id": "hugo-lise",        "site": "fr.wikisource.org", "title": "Lise"},
+    {"id": "hugo-veni",        "site": "fr.wikisource.org", "title": "Veni, vidi, vixi"}
   ],
   "imagenes": []
 }
