@@ -2366,6 +2366,27 @@
    "name_en": "A Child Among the Spoils",
    "title_es": "La española inglesa",
    "title_en": "The English Spanish Girl"
+  },
+  "contra-piangete": {
+   "type": "poem",
+   "name_es": "Llorad, amantes",
+   "name_en": "Weep, Lovers",
+   "title_es": "Llorad, amantes",
+   "title_en": "Weep, Lovers"
+  },
+  "contra-morte-villana": {
+   "type": "poem",
+   "name_es": "Muerte villana",
+   "name_en": "Villainous Death",
+   "title_es": "Muerte villana",
+   "title_en": "Villainous Death"
+  },
+  "contra-ne-li-occhi": {
+   "type": "poem",
+   "name_es": "Mi señora lleva a Amor en los ojos",
+   "name_en": "My Lady Carries Love in Her Eyes",
+   "title_es": "Mi señora lleva a Amor en los ojos",
+   "title_en": "My Lady Carries Love in Her Eyes"
   }
  }
 }
