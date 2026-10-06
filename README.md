@@ -38,7 +38,11 @@ El único historial disponible de este repositorio contenía este README, no el
 árbol de fuentes que describía (`corpus.py`, `texts/`, `packages/`,
 `build.py`, `dist/`, etc.). La aplicación se restauró desde el archivo HTML
 proporcionado. Por ello, los recuentos de esta versión ejecutable sustituyen las
-cifras anteriores de 151 lecturas y 75 imágenes.
+cifras anteriores de 151 lecturas y 75 imágenes. Del mismo modo, las tablas de
+Goethezeit, Bardolatry, Cervantismo, Contrapasso, Vondeliana, Ego Hugo y
+Nashe vsyo que aparecen más abajo son las de su primera versión: los
+recuentos vigentes de esos siete paquetes están en «Siete superpaquetes del
+mejor autor de cada país».
 
 Cada ficha conserva enlaces de procedencia y notas editoriales. Las
 reproducciones de arte y los textos pueden tener condiciones de derechos
@@ -450,10 +454,44 @@ un arco, cintas y un escudo con laurel sobre «Descender · leer · renacer». E
 fondo toma el color del papel de la imagen y debajo quedan el estado y una
 barra de progreso fina.
 
+## Siete superpaquetes del mejor autor de cada país
+
+| Paquete | Autor | Lecturas | Obras visuales |
+| --- | --- | ---: | ---: |
+| Goethezeit | Goethe | 10 | 8 |
+| Bardolatry | Shakespeare | 10 | 8 |
+| Cervantismo | Cervantes | 10 | 8 |
+| Contrapasso | Dante | 10 | 8 |
+| Vondeliana | Vondel | 10 | 8 |
+| Ego Hugo | Hugo | 10 | 8 |
+| Nashe vsyo | Pushkin | 10 | 8 |
+
+Cada uno de estos siete paquetes pasó a diez lecturas y ocho obras visuales,
+que es el tope. La regla es un solo superpaquete por país, el de su mejor
+autor; de ahí que Baudelaire, en una Francia que ya tiene a Hugo, quede en
+dos paquetes de seis (Poète maudit 1 y 2) y no en un superpaquete.
+
+Las lecturas nuevas son textos breves y completos siempre que se pueda: los
+sonetos de Shakespeare, las *rime* de Dante anteriores a la *Comedia*, los
+poemas sueltos de Goethe, las piezas de Vondel que no estaban en DBNL con el
+resto, los poemas de Hugo fuera de *Les Contemplations* y los de Pushkin que
+no son *Onegin*. Lo que se extrajo y no entró queda anotado en el manifiesto
+de fuentes para una segunda parte.
+
+Las obras visuales se traen de Wikimedia Commons con
+`.github/workflows/traer-fuentes.yml`, porque el entorno de desarrollo no
+alcanza Commons. `scripts/manifiesto-fuentes.json` nombra los archivos; si un
+nombre no existe, el script prueba los alternativos y después busca en el
+espacio Archivo:, dejando anotados los candidatos. Cada ficha guarda la
+imagen en base64, la procedencia, el autor, la licencia declarada en Commons
+y el texto alternativo en los dos idiomas.
+
 ## Superpaquetes
 
 Un paquete con diez lecturas o más es un *superpaquete*: hoy lo son Ruinas (14),
-Poetas malditos (12) y Renacimiento (12). La
+Poetas malditos (12), Renacimiento (12), Goethezeit (10), Bardolatry (10),
+Cervantismo (10), Contrapasso (10), Vondeliana (10), Ego Hugo (10) y
+Nashe vsyo (10). La
 distinción no se asigna a mano: se calcula con el número de lecturas del
 paquete (`SUPER_PACKAGE_MIN` en `app/katabasis-37.txt`), de modo que un paquete
 que crezca hasta diez lecturas pasa a serlo.
