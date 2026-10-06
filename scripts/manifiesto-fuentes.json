@@ -2,23 +2,18 @@
   "_nota": "Lo que el flujo Traer fuentes externas descarga. `site`+`title` consulta un Wikisource; `url` trae esa página; `raw` la guarda sin desmarcar.",
   "textos": [
     {
-      "id": "vraw-rynstroom",
-      "url": "https://www.dbnl.org/tekst/vond001dewe03_01/vond001dewe03_01_0034.php",
+      "id": "vraw-vredewensch-b",
+      "url": "https://www.dbnl.org/tekst/vond001dewe03_01/vond001dewe03_01_0074.php",
+      "raw": true
+    },
+    {
+      "id": "vraw-gebedt-b",
+      "url": "https://www.dbnl.org/tekst/vond001dewe05_01/vond001dewe05_01_0175.php",
       "raw": true
     },
     {
       "id": "vraw-vredewensch",
       "url": "https://www.dbnl.org/tekst/vond001dewe03_01/vond001dewe03_01_0073.php",
-      "raw": true
-    },
-    {
-      "id": "vraw-vossius",
-      "url": "https://www.dbnl.org/tekst/vond001dewe03_01/vond001dewe03_01_0078.php",
-      "raw": true
-    },
-    {
-      "id": "vraw-isabelle",
-      "url": "https://www.dbnl.org/tekst/vond001dewe03_01/vond001dewe03_01_0107.php",
       "raw": true
     },
     {
