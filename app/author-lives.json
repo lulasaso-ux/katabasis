@@ -2668,6 +2668,51 @@
       "checked": "2026-10-07",
       "note_es": "Autoría colectiva o anónima: la tradición atribuye el libro a Moisés, pero no se le asigna una vida individual.",
       "note_en": "Collective or anonymous authorship: tradition attributes the book to Moses, but no individual lifespan is assigned."
+    },
+    {
+      "author": "Nikolay Nekrasov",
+      "birth": {
+        "min": 1821,
+        "max": 1821,
+        "approximate": false
+      },
+      "death": {
+        "min": 1878,
+        "max": 1878,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q208003",
+      "checked": "2026-10-08"
+    },
+    {
+      "author": "Ivan Turgenev",
+      "birth": {
+        "min": 1818,
+        "max": 1818,
+        "approximate": false
+      },
+      "death": {
+        "min": 1883,
+        "max": 1883,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q42831",
+      "checked": "2026-10-08"
+    },
+    {
+      "author": "Anton Chekhov",
+      "birth": {
+        "min": 1860,
+        "max": 1860,
+        "approximate": false
+      },
+      "death": {
+        "min": 1904,
+        "max": 1904,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q5685",
+      "checked": "2026-10-08"
     }
   ]
 }

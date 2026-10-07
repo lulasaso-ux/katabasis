@@ -504,6 +504,27 @@ obras: una cárcel de Piranesi, las puertas abiertas de Hammershøi, el
 emperador Qianlong de Castiglione, una lámina de metamorfosis de Maria
 Sibylla Merian y la amazona del Cirque Fernando de Toulouse-Lautrec.
 
+## Los Vagabundos
+
+| Paquete | Lecturas | Obras visuales |
+| --- | ---: | ---: |
+| Los Vagabundos (*The Wanderers* en inglés) | 5 | 4 |
+
+El realismo ruso del siglo XIX en cinco lecturas, en ruso y con nuevas
+traducciones de lectura, y cuatro cuadros de los Peredvízhniki, «los
+ambulantes»:
+
+| Lectura | Obra | Cuadro |
+| --- | --- | --- |
+| Sal al Volga | Nekrásov, *Reflexiones ante un portal de gala* (1858), versos 90–117 | Repin, *Los sirgadores del Volga* |
+| La noche junto al fuego | Turguénev, «El prado de Bezhin» (1851), fragmento | — |
+| Cristo en Sevilla | Dostoievski, *Los hermanos Karamázov*, V, 5, «El Gran Inquisidor», fragmento | Gué, *¿Qué es la verdad?* |
+| El hombre junto a la capilla | Tolstói, *De qué viven los hombres* (1881), capítulo I, fragmento | Yaroshenko, *En todas partes hay vida* |
+| El estudiante | Chéjov, «El estudiante» (1894), completo | Savrásov, *Han llegado los grajos* |
+
+Los textos vienen de Wikisource en ruso. Nekrásov, Turguénev y Chéjov tienen
+ahora su ficha de vida.
+
 ## Pantalla de carga
 
 Mientras se cargan los archivos de la sala, `index.html` muestra la portada
