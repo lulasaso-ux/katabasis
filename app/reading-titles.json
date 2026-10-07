@@ -2451,17 +2451,10 @@
    "title_es": "Éxodo",
    "title_en": "Exodus"
   },
-  "pkg-exod-passover": {
-   "type": "fragment",
-   "name_es": "II. La sangre del cordero",
-   "name_en": "II. The blood of the lamb",
-   "title_es": "Éxodo",
-   "title_en": "Exodus"
-  },
   "pkg-exod-sea": {
    "type": "fragment",
-   "name_es": "III. El paso del mar",
-   "name_en": "III. The crossing of the sea",
+   "name_es": "II. El paso del mar",
+   "name_en": "II. The crossing of the sea",
    "title_es": "Éxodo",
    "title_en": "Exodus"
   },
@@ -2514,13 +2507,6 @@
    "title_es": "Odradek",
    "title_en": "Odradek"
   },
-  "kafka-baeume": {
-   "type": "complete",
-   "name_es": "Los árboles",
-   "name_en": "The Trees",
-   "title_es": "Los árboles",
-   "title_en": "The Trees"
-  },
   "kafka-process": {
    "type": "fragment",
    "name_es": "Alguien tenía que haber calumniado a Josef K.",
@@ -2528,12 +2514,12 @@
    "title_es": "El proceso",
    "title_en": "The Trial"
   },
-  "kafka-schloss": {
+  "pkg-exod-manna": {
    "type": "fragment",
-   "name_es": "Era tarde por la noche",
-   "name_en": "Late in the evening",
-   "title_es": "El castillo",
-   "title_en": "The Castle"
+   "name_es": "III. El pan del cielo",
+   "name_en": "III. Bread from heaven",
+   "title_es": "Éxodo",
+   "title_en": "Exodus"
   }
  }
 }

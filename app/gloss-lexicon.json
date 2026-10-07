@@ -14870,34 +14870,6 @@
    "dolorosa",
    "painful"
   ],
-  "baumstämme": [
-   "troncos de árbol",
-   "tree trunks"
-  ],
-  "schnee": [
-   "nieve",
-   "snow"
-  ],
-  "scheinbar": [
-   "en apariencia",
-   "seemingly"
-  ],
-  "liegen": [
-   "yacen",
-   "lie"
-  ],
-  "kleinem": [
-   "pequeño",
-   "small"
-  ],
-  "anstoß": [
-   "empujón",
-   "push"
-  ],
-  "wegschieben": [
-   "apartar",
-   "push away"
-  ],
   "nein": [
    "no",
    "no"
@@ -14905,10 +14877,6 @@
   "fest": [
    "firmemente",
    "firmly"
-  ],
-  "sieh": [
-   "mira",
-   "see"
   ],
   "jemand": [
    "alguien",
@@ -15473,350 +15441,6 @@
   "zuversichtlich": [
    "confiado",
    "confident"
-  ],
-  "abends": [
-   "por la noche",
-   "in the evening"
-  ],
-  "ankam": [
-   "llegó",
-   "arrived"
-  ],
-  "dorf": [
-   "pueblo",
-   "village"
-  ],
-  "tiefem": [
-   "profunda",
-   "deep"
-  ],
-  "schloßberg": [
-   "colina del castillo",
-   "castle hill"
-  ],
-  "umgaben": [
-   "rodeaban",
-   "surrounded"
-  ],
-  "schwächste": [
-   "más débil",
-   "faintest"
-  ],
-  "deutete": [
-   "indicaba",
-   "suggested"
-  ],
-  "holzbrücke": [
-   "puente de madera",
-   "wooden bridge"
-  ],
-  "landstraße": [
-   "carretera",
-   "main road"
-  ],
-  "führte": [
-   "llevaba",
-   "led"
-  ],
-  "blickte": [
-   "miró",
-   "gazed"
-  ],
-  "scheinbare": [
-   "aparente",
-   "seeming"
-  ],
-  "leere": [
-   "vacío",
-   "emptiness"
-  ],
-  "nachtlager": [
-   "alojamiento para la noche",
-   "bed for the night"
-  ],
-  "wirtshaus": [
-   "posada",
-   "inn"
-  ],
-  "wach": [
-   "despierto",
-   "awake"
-  ],
-  "wirt": [
-   "posadero",
-   "landlord"
-  ],
-  "vermieten": [
-   "alquilar",
-   "let"
-  ],
-  "späten": [
-   "tardío",
-   "late"
-  ],
-  "gast": [
-   "huésped",
-   "guest"
-  ],
-  "äußerst": [
-   "sumamente",
-   "extremely"
-  ],
-  "überrascht": [
-   "sorprendido",
-   "surprised"
-  ],
-  "verwirrt": [
-   "desconcertado",
-   "bewildered"
-  ],
-  "wirtsstube": [
-   "sala de la posada",
-   "taproom"
-  ],
-  "strohsack": [
-   "jergón de paja",
-   "straw mattress"
-  ],
-  "einverstanden": [
-   "de acuerdo",
-   "agreed"
-  ],
-  "einige": [
-   "algunos",
-   "some"
-  ],
-  "bauern": [
-   "campesinos",
-   "peasants"
-  ],
-  "bier": [
-   "cerveza",
-   "beer"
-  ],
-  "unterhalten": [
-   "conversar",
-   "converse"
-  ],
-  "holte": [
-   "fue a buscar",
-   "fetched"
-  ],
-  "legte": [
-   "tumbó",
-   "laid"
-  ],
-  "nähe": [
-   "cercanía",
-   "vicinity"
-  ],
-  "ofens": [
-   "de la estufa",
-   "of the stove"
-  ],
-  "prüfte": [
-   "examinó",
-   "scrutinised"
-  ],
-  "müden": [
-   "cansados",
-   "tired"
-  ],
-  "schlief": [
-   "durmió",
-   "slept"
-  ],
-  "kurze": [
-   "breve",
-   "short"
-  ],
-  "geweckt": [
-   "despertado",
-   "woken"
-  ],
-  "städtisch": [
-   "a la manera de la ciudad",
-   "townsman-like"
-  ],
-  "angezogen": [
-   "vestido",
-   "dressed"
-  ],
-  "schauspielerhaftem": [
-   "de actor",
-   "actor’s"
-  ],
-  "schmal": [
-   "estrechos",
-   "narrow"
-  ],
-  "augenbrauen": [
-   "cejas",
-   "eyebrows"
-  ],
-  "sessel": [
-   "sillas",
-   "chairs"
-  ],
-  "herumgedreht": [
-   "girado",
-   "turned round"
-  ],
-  "hören": [
-   "oír",
-   "hear"
-  ],
-  "junge": [
-   "joven",
-   "young"
-  ],
-  "entschuldigte": [
-   "disculpó",
-   "apologised"
-  ],
-  "höflich": [
-   "cortésmente",
-   "politely"
-  ],
-  "schloß-kastellans": [
-   "del alcaide del castillo",
-   "of the castle steward"
-  ],
-  "besitze": [
-   "propiedad",
-   "possession"
-  ],
-  "schlosses": [
-   "del castillo",
-   "of the castle"
-  ],
-  "übernachtet": [
-   "pernocta",
-   "spends the night"
-  ],
-  "gräfliche": [
-   "del conde",
-   "count’s"
-  ],
-  "vorgezeigt": [
-   "mostrado",
-   "shown"
-  ],
-  "aufgerichtet": [
-   "incorporado",
-   "sat up"
-  ],
-  "haare": [
-   "cabello",
-   "hair"
-  ],
-  "zurecht": [
-   "en orden",
-   "into place"
-  ],
-  "gestrichen": [
-   "alisado",
-   "smoothed"
-  ],
-  "welches": [
-   "qué",
-   "which"
-  ],
-  "verirrt": [
-   "extraviado",
-   "strayed"
-  ],
-  "schüttelte": [
-   "movía (la cabeza)",
-   "shook"
-  ],
-  "herrn": [
-   "señor",
-   "Mr, lord"
-  ],
-  "grafen": [
-   "conde",
-   "count"
-  ],
-  "westwest": [
-   "Westwest",
-   "Westwest"
-  ],
-  "übernachten": [
-   "pernoctar",
-   "stay overnight"
-  ],
-  "überzeugen": [
-   "convencerse",
-   "make sure"
-  ],
-  "früheren": [
-   "anteriores",
-   "earlier"
-  ],
-  "mitteilungen": [
-   "comunicaciones",
-   "statements"
-  ],
-  "geträumt": [
-   "soñado",
-   "dreamt"
-  ],
-  "antwort": [
-   "respuesta",
-   "answer"
-  ],
-  "darin": [
-   "en ello",
-   "in it"
-  ],
-  "grober": [
-   "grosera",
-   "coarse"
-  ],
-  "ausgestrecktem": [
-   "extendido",
-   "outstretched"
-  ],
-  "gähnend": [
-   "bostezando",
-   "yawning"
-  ],
-  "decke": [
-   "manta",
-   "blanket"
-  ],
-  "aufstehen": [
-   "levantarse",
-   "get up"
-  ],
-  "wem": [
-   "quién",
-   "whom"
-  ],
-  "anderes": [
-   "otra cosa",
-   "anything else"
-  ],
-  "übrigbleiben": [
-   "quedar",
-   "remain"
-  ],
-  "mitternacht": [
-   "medianoche",
-   "midnight"
-  ],
-  "rief": [
-   "gritó",
-   "cried"
-  ],
-  "schritt": [
-   "paso",
-   "step"
-  ],
-  "gleichmütig": [
-   "con indiferencia",
-   "calmly"
   ]
  },
  "el": {
@@ -88892,225 +88516,33 @@
    "y llamó",
    "and he called"
   ],
-  "לְכָל": [
-   "a todos",
-   "all"
-  ],
-  "זִקְנֵי": [
-   "ancianos de",
-   "elders of"
-  ],
   "יִשְׂרָאֵל": [
    "Israel",
    "Israel"
-  ],
-  "מִשְׁכוּ": [
-   "sacad, id",
-   "draw out, go"
-  ],
-  "וּקְחוּ": [
-   "y tomad",
-   "and take"
   ],
   "לָכֶם": [
    "para vosotros",
    "for yourselves"
   ],
-  "צֹאן": [
-   "ganado menor, cordero",
-   "flock, lamb"
-  ],
-  "לְמִשְׁפְּחֹתֵיכֶם": [
-   "según vuestras familias",
-   "for your families"
-  ],
-  "וְשַׁחֲטוּ": [
-   "e inmolad",
-   "and slaughter"
-  ],
-  "הַפָּסַח": [
-   "la Pascua",
-   "the Passover"
-  ],
-  "וּלְקַחְתֶּם": [
-   "y tomaréis",
-   "and you shall take"
-  ],
-  "אֲגֻדַּת": [
-   "manojo de",
-   "bunch of"
-  ],
-  "אֵזוֹב": [
-   "hisopo",
-   "hyssop"
-  ],
-  "וּטְבַלְתֶּם": [
-   "y mojaréis",
-   "and you shall dip"
-  ],
-  "בַּדָּם": [
-   "en la sangre",
-   "in the blood"
-  ],
-  "בַּסַּף": [
-   "en la vasija",
-   "in the basin"
-  ],
-  "וְהִגַּעְתֶּם": [
-   "y tocaréis",
-   "and you shall touch"
-  ],
-  "הַמַּשְׁקוֹף": [
-   "el dintel",
-   "the lintel"
-  ],
-  "וְאֶל": [
-   "y a",
-   "and to"
-  ],
-  "שְׁתֵּי": [
-   "dos",
-   "two"
-  ],
-  "הַמְּזוּזֹת": [
-   "las jambas",
-   "the doorposts"
-  ],
-  "בַּסָּף": [
-   "en la vasija",
-   "in the basin"
-  ],
-  "וְאַתֶּם": [
-   "y vosotros",
-   "and you"
-  ],
-  "תֵצְאוּ": [
-   "saldréis",
-   "shall go out"
-  ],
   "אִישׁ": [
    "hombre, cada uno",
    "man, each one"
-  ],
-  "מִפֶּתַח": [
-   "de la puerta de",
-   "from the door of"
   ],
   "בֹּקֶר": [
    "mañana",
    "morning"
   ],
-  "וְעָבַר": [
-   "y pasará",
-   "and he will pass through"
-  ],
-  "לִנְגֹּף": [
-   "para herir",
-   "to strike"
-  ],
-  "וְרָאָה": [
-   "y verá",
-   "and he will see"
-  ],
-  "וּפָסַח": [
-   "y pasará de largo",
-   "and he will pass over"
-  ],
-  "הַפֶּתַח": [
-   "la puerta",
-   "the door"
-  ],
-  "יִתֵּן": [
-   "dejará",
-   "will allow"
-  ],
-  "הַמַּשְׁחִית": [
-   "el Exterminador",
-   "the Destroyer"
-  ],
-  "לָבֹא": [
-   "entrar",
-   "to come in"
-  ],
-  "בָּתֵּיכֶם": [
-   "vuestras casas",
-   "your houses"
-  ],
-  "וּשְׁמַרְתֶּם": [
-   "y guardaréis",
-   "and you shall keep"
-  ],
   "הַדָּבָר": [
    "la cosa, la palabra",
    "the thing, the word"
-  ],
-  "הַזֶּה": [
-   "este",
-   "this"
-  ],
-  "לְחָק": [
-   "como ley",
-   "as a statute"
   ],
   "לְךָ": [
    "para ti",
    "for you"
   ],
-  "וּלְבָנֶיךָ": [
-   "y para tus hijos",
-   "and for your sons"
-  ],
-  "עוֹלָם": [
-   "para siempre",
-   "for ever"
-  ],
-  "תָבֹאוּ": [
-   "entréis",
-   "you come"
-  ],
   "הָאָרֶץ": [
    "la tierra",
    "the land"
-  ],
-  "דִּבֵּר": [
-   "ha dicho",
-   "has spoken"
-  ],
-  "הָעֲבֹדָה": [
-   "el servicio, el rito",
-   "the service, the rite"
-  ],
-  "הַזֹּאת": [
-   "esta",
-   "this"
-  ],
-  "יֹאמְרוּ": [
-   "dirán",
-   "they will say"
-  ],
-  "אֲלֵיכֶם": [
-   "a vosotros",
-   "to you"
-  ],
-  "בְּנֵיכֶם": [
-   "vuestros hijos",
-   "your children"
-  ],
-  "מָה": [
-   "qué",
-   "what"
-  ],
-  "וַאֲמַרְתֶּם": [
-   "y diréis",
-   "and you shall say"
-  ],
-  "זֶבַח": [
-   "sacrificio de",
-   "sacrifice of"
-  ],
-  "פֶּסַח": [
-   "Pascua",
-   "Passover"
   ],
   "הוּא": [
    "él, ello",
@@ -89120,14 +88552,6 @@
    "para el SEÑOR",
    "to the LORD"
   ],
-  "פָּסַח": [
-   "pasó de largo",
-   "passed over"
-  ],
-  "בָּתֵּי": [
-   "casas de",
-   "houses of"
-  ],
   "בְנֵי": [
    "hijos de",
    "children of"
@@ -89136,33 +88560,9 @@
    "en Egipto",
    "in Egypt"
   ],
-  "בְּנָגְפּוֹ": [
-   "al herir él",
-   "when he struck"
-  ],
   "וְאֶת": [
    "y a",
    "and (object)"
-  ],
-  "בָּתֵּינוּ": [
-   "nuestras casas",
-   "our houses"
-  ],
-  "הִצִּיל": [
-   "salvó",
-   "delivered"
-  ],
-  "וַיִּקֹּד": [
-   "e inclinó la cabeza",
-   "and bowed the head"
-  ],
-  "וַיִּשְׁתַּחֲוּוּ": [
-   "y se postraron",
-   "and they worshipped"
-  ],
-  "וַיֵּלְכוּ": [
-   "y fueron",
-   "and they went"
   ],
   "בְּנֵי": [
    "hijos de",
@@ -89172,101 +88572,21 @@
    "así",
    "so"
   ],
-  "עָשׂוּ": [
-   "hicieron",
-   "they did"
-  ],
-  "בַּחֲצִי": [
-   "a la mitad de",
-   "at the middle of"
-  ],
   "הַלַּיְלָה": [
    "la noche",
    "the night"
-  ],
-  "וַיהוָה": [
-   "y el SEÑOR",
-   "and the LORD"
-  ],
-  "הִכָּה": [
-   "hirió",
-   "struck"
-  ],
-  "בְּכוֹר": [
-   "primogénito",
-   "firstborn"
-  ],
-  "בְּאֶרֶץ": [
-   "en la tierra de",
-   "in the land of"
-  ],
-  "מִבְּכֹר": [
-   "desde el primogénito de",
-   "from the firstborn of"
-  ],
-  "הַיֹּשֵׁב": [
-   "el que se sienta",
-   "who sits"
-  ],
-  "כִּסְאוֹ": [
-   "su trono",
-   "his throne"
-  ],
-  "הַשְּׁבִי": [
-   "el cautivo",
-   "the captive"
-  ],
-  "בְּבֵית": [
-   "en la casa de",
-   "in the house of"
-  ],
-  "הַבּוֹר": [
-   "la fosa, el calabozo",
-   "the pit, the dungeon"
   ],
   "וְכֹל": [
    "y todo",
    "and all"
   ],
-  "בְּהֵמָה": [
-   "ganado",
-   "cattle"
-  ],
-  "וַיָּקָם": [
-   "y se levantó",
-   "and he rose up"
-  ],
-  "לַיְלָה": [
-   "de noche",
-   "at night"
-  ],
   "וְכָל": [
    "y todo",
    "and all"
   ],
-  "וַתְּהִי": [
-   "y hubo",
-   "and there was"
-  ],
-  "צְעָקָה": [
-   "clamor",
-   "cry"
-  ],
-  "גְדֹלָה": [
-   "grande",
-   "great"
-  ],
   "בְּמִצְרָיִם": [
    "en Egipto",
    "in Egypt"
-  ],
-  "אֵין": [
-   "no hay",
-   "there is not"
-  ],
-  "בַּיִת": [
-   "casa",
-   "house"
   ],
   "שָׁם": [
    "allí",
@@ -90339,6 +89659,302 @@
   "בֹּאוֹ": [
    "su entrar",
    "his going in"
+  ],
+  "עֲדַת": [
+   "comunidad de",
+   "congregation of"
+  ],
+  "קִרְבוּ": [
+   "acercaos",
+   "come near"
+  ],
+  "תְּלֻנֹּתֵיכֶם": [
+   "vuestras murmuraciones",
+   "your grumblings"
+  ],
+  "כְּדַבֵּר": [
+   "mientras hablaba",
+   "as he spoke"
+  ],
+  "וַיִּפְנוּ": [
+   "y se volvieron",
+   "and they turned"
+  ],
+  "הַמִּדְבָּר": [
+   "el desierto",
+   "the wilderness"
+  ],
+  "כְּבוֹד": [
+   "gloria de",
+   "glory of"
+  ],
+  "נִרְאָה": [
+   "apareció",
+   "appeared"
+  ],
+  "בֶּעָנָן": [
+   "en la nube",
+   "in the cloud"
+  ],
+  "לֵּאמֹר": [
+   "diciendo",
+   "saying"
+  ],
+  "שָׁמַעְתִּי": [
+   "he oído",
+   "I have heard"
+  ],
+  "תְּלוּנֹּת": [
+   "murmuraciones de",
+   "grumblings of"
+  ],
+  "הָעַרְבַּיִם": [
+   "el atardecer (entre las dos tardes)",
+   "twilight"
+  ],
+  "תֹּאכְלוּ": [
+   "comeréis",
+   "you shall eat"
+  ],
+  "בָשָׂר": [
+   "carne",
+   "meat"
+  ],
+  "וּבַבֹּקֶר": [
+   "y por la mañana",
+   "and in the morning"
+  ],
+  "תִּשְׂבְּעוּ": [
+   "os saciaréis",
+   "you shall be filled"
+  ],
+  "לָחֶם": [
+   "pan",
+   "bread"
+  ],
+  "וִידַעְתֶּם": [
+   "y sabréis",
+   "and you shall know"
+  ],
+  "אֱלֹהֵיכֶם": [
+   "vuestro Dios",
+   "your God"
+  ],
+  "בָעֶרֶב": [
+   "al atardecer",
+   "in the evening"
+  ],
+  "וַתַּעַל": [
+   "y subió",
+   "and came up"
+  ],
+  "הַשְּׂלָו": [
+   "la codorniz",
+   "the quail"
+  ],
+  "וַתְּכַס": [
+   "y cubrió",
+   "and covered"
+  ],
+  "הַמַּחֲנֶה": [
+   "el campamento",
+   "the camp"
+  ],
+  "הָיְתָה": [
+   "había",
+   "there was"
+  ],
+  "שִׁכְבַת": [
+   "capa de",
+   "layer of"
+  ],
+  "הַטַּל": [
+   "el rocío",
+   "the dew"
+  ],
+  "סָבִיב": [
+   "alrededor",
+   "around"
+  ],
+  "לַמַּחֲנֶה": [
+   "del campamento",
+   "the camp"
+  ],
+  "הַטָּל": [
+   "el rocío",
+   "the dew"
+  ],
+  "דַּק": [
+   "menudo, fino",
+   "fine"
+  ],
+  "מְחֻסְפָּס": [
+   "escamoso",
+   "flaky"
+  ],
+  "כַּכְּפֹר": [
+   "como la escarcha",
+   "as hoarfrost"
+  ],
+  "וַיִּרְאוּ": [
+   "y vieron",
+   "and they saw"
+  ],
+  "אָחִיו": [
+   "su hermano",
+   "his brother"
+  ],
+  "מָן": [
+   "¿qué? (maná)",
+   "what? (manna)"
+  ],
+  "יָדְעוּ": [
+   "sabían",
+   "they knew"
+  ],
+  "מַה": [
+   "qué",
+   "what"
+  ],
+  "הַלֶּחֶם": [
+   "el pan",
+   "the bread"
+  ],
+  "נָתַן": [
+   "dio",
+   "gave"
+  ],
+  "לְאָכְלָה": [
+   "para comer",
+   "to eat"
+  ],
+  "לִקְטוּ": [
+   "recoged",
+   "gather"
+  ],
+  "מִמֶּנּוּ": [
+   "de él",
+   "of it"
+  ],
+  "לְפִי": [
+   "según",
+   "according to"
+  ],
+  "אָכְלוֹ": [
+   "su comer",
+   "his eating"
+  ],
+  "עֹמֶר": [
+   "ómer",
+   "omer"
+  ],
+  "לַגֻּלְגֹּלֶת": [
+   "por cabeza",
+   "per head"
+  ],
+  "מִסְפַּר": [
+   "número de",
+   "number of"
+  ],
+  "נַפְשֹׁתֵיכֶם": [
+   "vuestras personas",
+   "your persons"
+  ],
+  "לַאֲשֶׁר": [
+   "para quien",
+   "for whoever"
+  ],
+  "בְּאָהֳלוֹ": [
+   "en su tienda",
+   "in his tent"
+  ],
+  "תִּקָּחוּ": [
+   "tomaréis",
+   "you shall take"
+  ],
+  "וַיִּלְקְטוּ": [
+   "y recogieron",
+   "and they gathered"
+  ],
+  "הַמַּרְבֶּה": [
+   "el que (recogió) mucho",
+   "the one with much"
+  ],
+  "וְהַמַּמְעִיט": [
+   "y el que (recogió) poco",
+   "and the one with little"
+  ],
+  "וַיָּמֹדּוּ": [
+   "y midieron",
+   "and they measured"
+  ],
+  "בָעֹמֶר": [
+   "con el ómer",
+   "by the omer"
+  ],
+  "הֶעְדִּיף": [
+   "sobró",
+   "had surplus"
+  ],
+  "הֶחְסִיר": [
+   "faltó",
+   "lacked"
+  ],
+  "לָקָטוּ": [
+   "recogieron",
+   "gathered"
+  ],
+  "יוֹתֵר": [
+   "deje sobrar",
+   "leave over"
+  ],
+  "שָׁמְעוּ": [
+   "escucharon",
+   "listened"
+  ],
+  "וַיּוֹתִרוּ": [
+   "y dejaron sobrar",
+   "and they left over"
+  ],
+  "אֲנָשִׁים": [
+   "hombres",
+   "men"
+  ],
+  "וַיָּרֻם": [
+   "y crió",
+   "and bred"
+  ],
+  "תּוֹלָעִים": [
+   "gusanos",
+   "worms"
+  ],
+  "וַיִּקְצֹף": [
+   "y se enojó",
+   "and was angry"
+  ],
+  "עֲלֵהֶם": [
+   "con ellos",
+   "with them"
+  ],
+  "אֹתוֹ": [
+   "lo",
+   "it"
+  ],
+  "כְּפִי": [
+   "según",
+   "according to"
+  ],
+  "וְחַם": [
+   "y calentaba",
+   "and grew hot"
+  ],
+  "הַשֶּׁמֶשׁ": [
+   "el sol",
+   "the sun"
+  ],
+  "וְנָמָס": [
+   "y se derretía",
+   "and it melted"
   ]
  },
  "ht": {

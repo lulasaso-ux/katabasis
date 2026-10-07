@@ -450,7 +450,7 @@ Ninguna de las ocho repite una obra de Poetas malditos.
 
 | Paquete | Lecturas | Versículos | Obras visuales |
 | --- | ---: | ---: | ---: |
-| Misterios del Éxodo | 5 | 63 | 6 |
+| Misterios del Éxodo | 5 | 66 | 5 |
 
 Los cinco misterios luminosos del Rosario, leídos en el libro del Éxodo y en
 el orden del libro, no en el del Rosario:
@@ -458,36 +458,36 @@ el orden del libro, no en el del Rosario:
 | Paso | Éxodo | Misterio luminoso |
 | --- | --- | --- |
 | I. El agua hecha sangre | 7, 14–25 | Las bodas de Caná |
-| II. La sangre del cordero | 12, 21–30 | La institución de la Eucaristía |
-| III. El paso del mar | 14, 19–31 | El bautismo en el Jordán |
+| II. El paso del mar | 14, 19–31 | El bautismo en el Jordán |
+| III. El pan del cielo | 16, 9–21 | La institución de la Eucaristía |
 | IV. Las diez palabras | 20, 1–21 | El anuncio del Reino |
 | V. El rostro de Moisés | 34, 29–35 | La transfiguración |
 
-Los pasajes son continuos: la primera plaga; la Pascua con la sangre en las
-puertas, el Exterminador y la muerte de los primogénitos; el mar partido; el
-Decálogo entero con el miedo del pueblo ante el monte; y el rostro de Moisés
-que resplandece y se cubre con un velo. Los puentes cuentan lo que pasa entre
-uno y otro (las demás plagas, el maná, el becerro de oro) y nombran el
-misterio luminoso que cada escena prefigura; el desenlace llega hasta la
-nube que llena la tienda y hasta Moisés en el monte de la transfiguración.
+Los pasajes son continuos: la primera plaga; el mar partido; el maná, con la
+gloria en la nube, las codornices, el rocío y el pan que se pudre si se
+guarda; el Decálogo entero con el miedo del pueblo ante el monte; y el rostro
+de Moisés que resplandece y se cubre con un velo. Los puentes cuentan lo que
+pasa entre uno y otro (las demás plagas, el canto de María, el becerro de oro)
+y nombran el misterio luminoso que cada escena prefigura; el desenlace llega
+hasta la nube que llena la tienda y hasta Moisés en el monte de la
+transfiguración.
 
 El hebreo es el del códice de Leningrado (WLC 4.20, dominio público) en la
 edición electrónica de Open Scriptures, con puntos vocálicos y sin signos de
-cantilación. Las seis obras: *El agua convertida en sangre* de James Tissot
-(Jewish Museum), *La fiesta de la Pascua* de Dieric Bouts (retablo del
-Santísimo Sacramento, Lovaina), *La muerte del primogénito del faraón* de
-Alma-Tadema (Rijksmuseum), *El paso de los judíos por el mar Rojo* de
-Aivazovski, *Moisés con las tablas de la ley* de Rembrandt (Gemäldegalerie,
-Berlín) y el grabado de Doré *Moisés baja del monte Sinaí*.
+cantilación. Las cinco obras: *El agua convertida en sangre* de James Tissot
+(Jewish Museum), *El paso de los judíos por el mar Rojo* de Aivazovski, *Los
+israelitas recogiendo el maná en el desierto* de Poussin (Louvre), *Moisés con
+las tablas de la ley* de Rembrandt (Gemäldegalerie, Berlín) y el grabado de
+Doré *Moisés baja del monte Sinaí*.
 
 ## Kafkiano
 
 | Paquete | Lecturas | Obras visuales |
 | --- | ---: | ---: |
-| Kafkiano (*Kafkaesque* en inglés) | 8 | 5 |
+| Kafkiano (*Kafkaesque* en inglés) | 6 | 5 |
 
 Franz Kafka en alemán, con nuevas traducciones de lectura. Solo entran textos
-que Kafka vio impresos o que Max Brod publicó antes de 1927:
+que Kafka vio impresos o que Max Brod publicó en 1925:
 
 | Lectura | Obra | Publicación |
 | --- | --- | --- |
@@ -496,9 +496,7 @@ que Kafka vio impresos o que Max Brod publicó antes de 1927:
 | La mañana de Gregor Samsa | *La metamorfosis*, los cuatro primeros párrafos | *Die weißen Blätter*, 1915 |
 | En la galería | completo | *Un médico rural*, 1919 |
 | Odradek | «Las preocupaciones de un padre de familia», completo | *Selbstwehr*, 1919 |
-| Los árboles | completo | *Hyperion*, 1908 |
 | Alguien tenía que haber calumniado a Josef K. | *El proceso*, comienzo del capítulo I | 1925 |
-| Era tarde por la noche | *El castillo*, comienzo del capítulo I | 1926 |
 
 Los textos vienen de las transcripciones de Wikisource en alemán, que siguen
 la ortografía de cada primera edición (*daß*, *Oeffnete*, *Uebrigens*). Las cinco
