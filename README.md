@@ -446,6 +446,40 @@ Tullerías* de Manet y *El naufragio de Don Juan* de Delacroix.
 
 Ninguna de las ocho repite una obra de Poetas malditos.
 
+## Misterios del Éxodo
+
+| Paquete | Lecturas | Versículos | Obras visuales |
+| --- | ---: | ---: | ---: |
+| Misterios del Éxodo | 5 | 63 | 6 |
+
+Los cinco misterios luminosos del Rosario, leídos en el libro del Éxodo y en
+el orden del libro, no en el del Rosario:
+
+| Paso | Éxodo | Misterio luminoso |
+| --- | --- | --- |
+| I. El agua hecha sangre | 7, 14–25 | Las bodas de Caná |
+| II. La sangre del cordero | 12, 21–30 | La institución de la Eucaristía |
+| III. El paso del mar | 14, 19–31 | El bautismo en el Jordán |
+| IV. Las diez palabras | 20, 1–21 | El anuncio del Reino |
+| V. El rostro de Moisés | 34, 29–35 | La transfiguración |
+
+Los pasajes son continuos: la primera plaga; la Pascua con la sangre en las
+puertas, el Exterminador y la muerte de los primogénitos; el mar partido; el
+Decálogo entero con el miedo del pueblo ante el monte; y el rostro de Moisés
+que resplandece y se cubre con un velo. Los puentes cuentan lo que pasa entre
+uno y otro (las demás plagas, el maná, el becerro de oro) y nombran el
+misterio luminoso que cada escena prefigura; el desenlace llega hasta la
+nube que llena la tienda y hasta Moisés en el monte de la transfiguración.
+
+El hebreo es el del códice de Leningrado (WLC 4.20, dominio público) en la
+edición electrónica de Open Scriptures, con puntos vocálicos y sin signos de
+cantilación. Las seis obras: *El agua convertida en sangre* de James Tissot
+(Jewish Museum), *La fiesta de la Pascua* de Dieric Bouts (retablo del
+Santísimo Sacramento, Lovaina), *La muerte del primogénito del faraón* de
+Alma-Tadema (Rijksmuseum), *El paso de los judíos por el mar Rojo* de
+Aivazovski, *Moisés con las tablas de la ley* de Rembrandt (Gemäldegalerie,
+Berlín) y el grabado de Doré *Moisés baja del monte Sinaí*.
+
 ## Pantalla de carga
 
 Mientras se cargan los archivos de la sala, `index.html` muestra la portada

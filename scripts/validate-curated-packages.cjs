@@ -113,7 +113,7 @@ for (const [id, expectedReadings, expectedArt] of [
   ['vondeliana',10,8], ['os-lusiadas',6,3],
   ['contrapasso',10,8], ['gilded-age',6,5],
   ['tragedia',6,5], ['comedia',6,4],
-  ['nashe-vsyo',11,8], ['republica-letras',6,5],['himnos',9,4],['himnos-2',8,3],['joyful-mysteries',5,5],['iliad-mysteries',5,4],['cronicas',6,5],['ego-hugo',10,8],['baudelaire',6,5],['baudelaire-2',6,3],['impressionism',3,4]
+  ['nashe-vsyo',11,8], ['republica-letras',6,5],['himnos',9,4],['himnos-2',8,3],['joyful-mysteries',5,5],['iliad-mysteries',5,4],['cronicas',6,5],['ego-hugo',10,8],['baudelaire',6,5],['baudelaire-2',6,3],['impressionism',3,4],['exodus-mysteries',5,6]
 ]) {
   assert.equal(works.filter(w=>w.package_id===id||(w.additional_package_ids||[]).includes(id)).length, expectedReadings);
   assert.equal(paintings.filter(w=>w.package_id===id).length, expectedArt);
