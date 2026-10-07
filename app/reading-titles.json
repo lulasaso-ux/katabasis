@@ -2451,17 +2451,10 @@
    "title_es": "Éxodo",
    "title_en": "Exodus"
   },
-  "pkg-exod-passover": {
-   "type": "fragment",
-   "name_es": "II. La sangre del cordero",
-   "name_en": "II. The blood of the lamb",
-   "title_es": "Éxodo",
-   "title_en": "Exodus"
-  },
   "pkg-exod-sea": {
    "type": "fragment",
-   "name_es": "III. El paso del mar",
-   "name_en": "III. The crossing of the sea",
+   "name_es": "II. El paso del mar",
+   "name_en": "II. The crossing of the sea",
    "title_es": "Éxodo",
    "title_en": "Exodus"
   },
@@ -2514,13 +2507,6 @@
    "title_es": "Odradek",
    "title_en": "Odradek"
   },
-  "kafka-baeume": {
-   "type": "complete",
-   "name_es": "Los árboles",
-   "name_en": "The Trees",
-   "title_es": "Los árboles",
-   "title_en": "The Trees"
-  },
   "kafka-process": {
    "type": "fragment",
    "name_es": "Alguien tenía que haber calumniado a Josef K.",
@@ -2528,12 +2514,47 @@
    "title_es": "El proceso",
    "title_en": "The Trial"
   },
-  "kafka-schloss": {
+  "pkg-exod-manna": {
    "type": "fragment",
-   "name_es": "Era tarde por la noche",
-   "name_en": "Late in the evening",
-   "title_es": "El castillo",
-   "title_en": "The Castle"
+   "name_es": "III. El pan del cielo",
+   "name_en": "III. Bread from heaven",
+   "title_es": "Éxodo",
+   "title_en": "Exodus"
+  },
+  "vag-nekrasov": {
+   "type": "fragment",
+   "name_es": "Sal al Volga",
+   "name_en": "Go Out to the Volga",
+   "title_es": "Reflexiones ante un portal de gala",
+   "title_en": "Reflections at a Grand Entrance"
+  },
+  "vag-turgenev": {
+   "type": "fragment",
+   "name_es": "La noche junto al fuego",
+   "name_en": "The Night by the Fire",
+   "title_es": "El prado de Bezhin",
+   "title_en": "Bezhin Meadow"
+  },
+  "vag-dostoevsky": {
+   "type": "fragment",
+   "name_es": "Cristo en Sevilla",
+   "name_en": "Christ in Seville",
+   "title_es": "Los hermanos Karamázov",
+   "title_en": "The Brothers Karamazov"
+  },
+  "vag-tolstoy": {
+   "type": "fragment",
+   "name_es": "El hombre junto a la capilla",
+   "name_en": "The Man by the Chapel",
+   "title_es": "De qué viven los hombres",
+   "title_en": "What Men Live By"
+  },
+  "vag-chekhov": {
+   "type": "complete",
+   "name_es": "El estudiante",
+   "name_en": "The Student",
+   "title_es": "El estudiante",
+   "title_en": "The Student"
   }
  }
 }
