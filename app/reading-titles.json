@@ -2478,6 +2478,62 @@
    "name_en": "V. The face of Moses",
    "title_es": "Éxodo",
    "title_en": "Exodus"
+  },
+  "kafka-gesetz": {
+   "type": "complete",
+   "name_es": "Ante la ley",
+   "name_en": "Before the Law",
+   "title_es": "Ante la ley",
+   "title_en": "Before the Law"
+  },
+  "kafka-botschaft": {
+   "type": "complete",
+   "name_es": "Un mensaje imperial",
+   "name_en": "An Imperial Message",
+   "title_es": "Un mensaje imperial",
+   "title_en": "An Imperial Message"
+  },
+  "kafka-verwandlung": {
+   "type": "fragment",
+   "name_es": "La mañana de Gregor Samsa",
+   "name_en": "Gregor Samsa’s Morning",
+   "title_es": "La metamorfosis",
+   "title_en": "The Metamorphosis"
+  },
+  "kafka-galerie": {
+   "type": "complete",
+   "name_es": "En la galería",
+   "name_en": "Up in the Gallery",
+   "title_es": "En la galería",
+   "title_en": "Up in the Gallery"
+  },
+  "kafka-odradek": {
+   "type": "complete",
+   "name_es": "Odradek",
+   "name_en": "Odradek",
+   "title_es": "Odradek",
+   "title_en": "Odradek"
+  },
+  "kafka-baeume": {
+   "type": "complete",
+   "name_es": "Los árboles",
+   "name_en": "The Trees",
+   "title_es": "Los árboles",
+   "title_en": "The Trees"
+  },
+  "kafka-process": {
+   "type": "fragment",
+   "name_es": "Alguien tenía que haber calumniado a Josef K.",
+   "name_en": "Someone must have slandered Josef K.",
+   "title_es": "El proceso",
+   "title_en": "The Trial"
+  },
+  "kafka-schloss": {
+   "type": "fragment",
+   "name_es": "Era tarde por la noche",
+   "name_en": "Late in the evening",
+   "title_es": "El castillo",
+   "title_en": "The Castle"
   }
  }
 }

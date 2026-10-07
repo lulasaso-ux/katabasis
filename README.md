@@ -480,6 +480,32 @@ Alma-Tadema (Rijksmuseum), *El paso de los judíos por el mar Rojo* de
 Aivazovski, *Moisés con las tablas de la ley* de Rembrandt (Gemäldegalerie,
 Berlín) y el grabado de Doré *Moisés baja del monte Sinaí*.
 
+## Kafkiano
+
+| Paquete | Lecturas | Obras visuales |
+| --- | ---: | ---: |
+| Kafkiano (*Kafkaesque* en inglés) | 8 | 5 |
+
+Franz Kafka en alemán, con nuevas traducciones de lectura. Solo entran textos
+que Kafka vio impresos o que Max Brod publicó antes de 1927:
+
+| Lectura | Obra | Publicación |
+| --- | --- | --- |
+| Ante la ley | completo | *Selbstwehr*, 1915 |
+| Un mensaje imperial | completo | *Selbstwehr*, 1919 |
+| La mañana de Gregor Samsa | *La metamorfosis*, los cuatro primeros párrafos | *Die weißen Blätter*, 1915 |
+| En la galería | completo | *Un médico rural*, 1919 |
+| Odradek | «Las preocupaciones de un padre de familia», completo | *Selbstwehr*, 1919 |
+| Los árboles | completo | *Hyperion*, 1908 |
+| Alguien tenía que haber calumniado a Josef K. | *El proceso*, comienzo del capítulo I | 1925 |
+| Era tarde por la noche | *El castillo*, comienzo del capítulo I | 1926 |
+
+Los textos vienen de las transcripciones de Wikisource en alemán, que siguen
+la ortografía de cada primera edición (*daß*, *Oeffnete*, *Uebrigens*). Las cinco
+obras: una cárcel de Piranesi, las puertas abiertas de Hammershøi, el
+emperador Qianlong de Castiglione, una lámina de metamorfosis de Maria
+Sibylla Merian y la amazona del Cirque Fernando de Toulouse-Lautrec.
+
 ## Pantalla de carga
 
 Mientras se cargan los archivos de la sala, `index.html` muestra la portada
