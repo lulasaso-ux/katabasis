@@ -2443,6 +2443,41 @@
    "name_en": "To the Sea",
    "title_es": "Al mar",
    "title_en": "To the Sea"
+  },
+  "pkg-exod-blood": {
+   "type": "fragment",
+   "name_es": "I. El agua hecha sangre",
+   "name_en": "I. Water turned to blood",
+   "title_es": "Éxodo",
+   "title_en": "Exodus"
+  },
+  "pkg-exod-passover": {
+   "type": "fragment",
+   "name_es": "II. La sangre del cordero",
+   "name_en": "II. The blood of the lamb",
+   "title_es": "Éxodo",
+   "title_en": "Exodus"
+  },
+  "pkg-exod-sea": {
+   "type": "fragment",
+   "name_es": "III. El paso del mar",
+   "name_en": "III. The crossing of the sea",
+   "title_es": "Éxodo",
+   "title_en": "Exodus"
+  },
+  "pkg-exod-sinai": {
+   "type": "fragment",
+   "name_es": "IV. Las diez palabras",
+   "name_en": "IV. The ten words",
+   "title_es": "Éxodo",
+   "title_en": "Exodus"
+  },
+  "pkg-exod-face": {
+   "type": "fragment",
+   "name_es": "V. El rostro de Moisés",
+   "name_en": "V. The face of Moses",
+   "title_es": "Éxodo",
+   "title_en": "Exodus"
   }
  }
 }

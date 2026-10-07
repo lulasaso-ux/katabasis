@@ -2659,6 +2659,15 @@
       },
       "source": "https://www.wikidata.org/wiki/Q501",
       "checked": "2026-10-02"
+    },
+    {
+      "author": "Exodus · Éxodo",
+      "birth": null,
+      "death": null,
+      "source": null,
+      "checked": "2026-10-07",
+      "note_es": "Autoría colectiva o anónima: la tradición atribuye el libro a Moisés, pero no se le asigna una vida individual.",
+      "note_en": "Collective or anonymous authorship: tradition attributes the book to Moses, but no individual lifespan is assigned."
     }
   ]
 }
