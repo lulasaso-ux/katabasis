@@ -41,12 +41,13 @@
     const x=year=>Math.max(0,Math.min(1000,(year-era.min)/(era.max-era.min)*1000));
     const start=x(person.birth.min),end=x(person.death.max);
     const uncertain=person.birth.approximate||person.death.approximate;
-    return `<svg class="life-bar" viewBox="-6 0 1012 34" preserveAspectRatio="none" aria-hidden="true">${era.ticks.map(t=>`<line class="life-grid" x1="${x(t)}" x2="${x(t)}" y1="0" y2="34"/>`).join('')}<line class="life-span${uncertain?' uncertain':''}" x1="${start}" x2="${end}" y1="17" y2="17"/><circle class="life-start" cx="${start}" cy="17" r="4"/><circle class="life-end" cx="${end}" cy="17" r="4"/></svg>`;
+    return `<svg class="life-bar" data-start="${start}" data-end="${end}" viewBox="-6 0 1012 34" preserveAspectRatio="none" aria-hidden="true">${era.ticks.map(t=>`<line class="life-grid" x1="${x(t)}" x2="${x(t)}" y1="0" y2="34"/>`).join('')}<line class="life-span${uncertain?' uncertain':''}" x1="${start}" x2="${end}" y1="17" y2="17"/><circle class="life-start" cx="${start}" cy="17" r="4"/><circle class="life-end" cx="${end}" cy="17" r="4"/></svg>`;
   }
   function row(person,era,lang) {
     const es=lang==='es',count=person.works.length,dates=lifespan(person,lang);
     const source=person.source||person.works[0].source;
-    return `<details class="life-row" data-timeline-author="${escape(person.author)}"><summary><span class="life-person"><strong>${escape(person.author)}</strong><span>${escape(dates)}</span></span>${era.id==='undated'?'<span class="life-unplaced" aria-hidden="true">· · ·</span>':plot(person,era)}<span class="life-count">${count} ${es?(count===1?'lectura':'lecturas'):(count===1?'reading':'readings')} <span aria-hidden="true">＋</span></span></summary><div class="life-detail">${person['note_'+lang]?`<p>${escape(person['note_'+lang])}</p>`:''}<p class="life-source"><a href="${escape(source)}" target="_blank" rel="noopener noreferrer">${es?(person.source?'Fuente biográfica':'Fuente de la tradición'):(person.source?'Biographical source':'Tradition source')} ↗</a></p><ul>${person.works.map(w=>`<li><button class="text-button" data-book="${escape(w.id)}">${escape(es?(w.title_es||w.title):w.title)} ↗</button><span>${escape(w.year)}</span></li>`).join('')}</ul></div></details>`;
+    const span=person.birth&&person.death?` data-birth="${person.birth.min}" data-death="${person.death.max}" data-birth-label="${escape(date(person.birth,lang))}" data-death-label="${escape(date(person.death,lang))}"`:'';
+    return `<details class="life-row" data-timeline-author="${escape(person.author)}"${span}><summary><span class="life-person"><strong>${escape(person.author)}</strong><span>${escape(dates)}</span></span>${era.id==='undated'?'<span class="life-unplaced" aria-hidden="true">· · ·</span>':plot(person,era)}<span class="life-count">${count} ${es?(count===1?'lectura':'lecturas'):(count===1?'reading':'readings')} <span aria-hidden="true">＋</span></span></summary><div class="life-detail">${person['note_'+lang]?`<p>${escape(person['note_'+lang])}</p>`:''}<p class="life-source"><a href="${escape(source)}" target="_blank" rel="noopener noreferrer">${es?(person.source?'Fuente biográfica':'Fuente de la tradición'):(person.source?'Biographical source':'Tradition source')} ↗</a></p><ul>${person.works.map(w=>`<li><button class="text-button" data-book="${escape(w.id)}">${escape(es?(w.title_es||w.title):w.title)} ↗</button><span>${escape(w.year)}</span></li>`).join('')}</ul></div></details>`;
   }
   function results(readings,biographies,lang,query='',eraFilter='all') {
     const es=lang==='es',all=authors(readings,biographies),q=normalise(query.trim());
@@ -59,13 +60,48 @@
       html+=`<section class="life-era" aria-labelledby="life-era-${era.id}"><div class="life-era-heading"><span class="tiny-title">${people.length} ${es?(people.length===1?'voz':'voces'):(people.length===1?'voice':'voices')}</span><h3 id="life-era-${era.id}">${label(era,lang)}</h3></div>`;
       if(era.id==='undated')html+=`<p class="life-uncertain-note">${es?'La colección también incluye autorías anónimas, colectivas o de biografía incierta. Permanecen aquí, sin inventar un nacimiento o una muerte.':'The collection also includes anonymous, collective or biographically uncertain authorship. These remain here without invented birth or death dates.'}</p>`;
       else html+=`<div class="life-axis" aria-hidden="true"><span></span><div>${era.ticks.map(t=>`<span style="left:${(t-era.min)/(era.max-era.min)*100}%">${year(t,lang)}</span>`).join('')}</div><span></span></div>`;
-      html+=people.map(p=>row(p,era,lang)).join('')+'</section>';
+      html+=people.map(p=>row(p,era,lang)).join('');
+      if(era.id!=='undated')html+='<div class="life-guides" aria-hidden="true"><i class="life-guide" data-guide="start"><span></span></i><i class="life-guide" data-guide="end"><span></span></i></div>';
+      html+='</section>';
     }
     return html;
   }
   function render(readings,biographies,lang,query='',eraFilter='all') {
     const es=lang==='es',people=authors(readings,biographies),chosen=currentEra(people,eraFilter);
     return `<div class="timeline-heading"><p class="tiny-title">${es?'Después del mapa, el tiempo':'Beyond the map, time'}</p><h2 id="timeline-title">${es?'Las vidas detrás de las obras':'The lives behind the works'}</h2><p>${es?'Una línea de vida para cada autor: nacimiento, muerte y las voces que compartieron una época. Abre un nombre para encontrar sus lecturas.':'A lifeline for each author: birth, death and the voices that shared an age. Open a name to find their readings.'}</p></div><div class="timeline-legend"><span><i class="legend-life"></i>${es?'Nacimiento → muerte':'Birth → death'}</span><span><i class="legend-life approximate"></i>${es?'c. = fecha aproximada':'c. = approximate date'}</span></div><p class="timeline-method">${es?'Las escalas cambian entre épocas para poder leerlas; dentro de cada época, las distancias representan años. Aparecen todos los autores de los paquetes activos, independientemente del país seleccionado arriba.':'Scales change between periods for readability; within each period, distances represent years. All authors from enabled packages appear, regardless of the country selected above.'}</p><div class="timeline-controls"><label for="timeline-query">${es?'Buscar autor':'Find an author'}<input id="timeline-query" type="search" value="${escape(query)}" placeholder="${es?'Un nombre, una voz…':'A name, a voice…'}" autocomplete="off" aria-controls="timeline-results"></label><label for="timeline-era">${es?'Periodo, por año de nacimiento':'Period, by year of birth'}<select id="timeline-era" aria-controls="timeline-results">${eras.map(e=>{const n=people.filter(p=>eraOf(p)===e.id).length;return `<option value="${e.id}" ${chosen===e.id?'selected':''} ${n?'':'disabled'}>${escape(label(e,lang))}</option>`}).join('')}</select></label></div><div id="timeline-results">${results(readings,biographies,lang,query,chosen)}</div>`;
+  }
+  // Hovering or focusing a lifeline projects its birth and death down the whole period,
+  // so the authors who lived at the same time stand out.
+  function guide(summary) {
+    const row=summary&&summary.closest('.life-row'),section=row&&row.closest('.life-era'),bar=row&&summary.querySelector('.life-bar');
+    const current=root.document.querySelector('.life-era.guiding');
+    if(current&&current!==section)clearGuide(current);
+    if(!section||!bar||!row.dataset.birth)return;
+    const box=section.getBoundingClientRect(),r=bar.getBoundingClientRect(),axis=section.querySelector('.life-axis');
+    const px=v=>r.left-box.left+(Number(v)+6)/1012*r.width;
+    const guides=section.querySelector('.life-guides');
+    guides.style.setProperty('--guide-top',(axis?axis.offsetTop+axis.offsetHeight-6:0)+'px');
+    for(const [k,label] of [['start','birthLabel'],['end','deathLabel']]){
+      const line=guides.querySelector(`[data-guide="${k}"]`);
+      line.style.left=px(bar.dataset[k])+'px';line.firstChild.textContent=row.dataset[label];
+    }
+    const b=+row.dataset.birth,d=+row.dataset.death;
+    for(const other of section.querySelectorAll('.life-row[data-birth]'))
+      other.classList.toggle('contemporary',other!==row&&+other.dataset.birth<=d&&+other.dataset.death>=b);
+    section.querySelectorAll('.guide-source').forEach(x=>x.classList.remove('guide-source'));
+    row.classList.add('guide-source');section.classList.add('guiding');
+  }
+  function clearGuide(section) {
+    section.classList.remove('guiding');
+    section.querySelectorAll('.contemporary,.guide-source').forEach(x=>x.classList.remove('contemporary','guide-source'));
+  }
+  if(root.document&&!root.__katabasisLifeGuides){
+    root.__katabasisLifeGuides=true;
+    const at=target=>target instanceof Element?target.closest('.life-row > summary'):null;
+    root.document.addEventListener('pointerover',e=>{const s=at(e.target);if(s)guide(s);else if(!e.target.closest?.('.life-era'))root.document.querySelectorAll('.life-era.guiding').forEach(clearGuide);});
+    root.document.addEventListener('pointerleave',()=>root.document.querySelectorAll('.life-era.guiding').forEach(clearGuide));
+    root.document.addEventListener('focusin',e=>{const s=at(e.target);if(s)guide(s);});
+    root.document.addEventListener('focusout',e=>{const s=at(e.target);if(s&&!at(e.relatedTarget))s.closest('.life-era')&&clearGuide(s.closest('.life-era'));});
   }
   root.KatabasisTimeline={authors,eraOf,lifespan,results,render,eras,label,currentEra};
 })(globalThis);

@@ -2555,6 +2555,48 @@
    "name_en": "The Student",
    "title_es": "El estudiante",
    "title_en": "The Student"
+  },
+  "pkg-nobel-sienkiewicz": {
+   "type": "fragment",
+   "name_es": "El ligio y el uro",
+   "name_en": "The Lygian and the aurochs",
+   "title_es": "Quo vadis",
+   "title_en": "Quo Vadis"
+  },
+  "pkg-nobel-carducci-pianto": {
+   "type": "poem",
+   "name_es": "Llanto antiguo",
+   "name_en": "Ancient Lament",
+   "title_es": "Llanto antiguo",
+   "title_en": "Ancient Lament"
+  },
+  "pkg-nobel-carducci-martino": {
+   "type": "poem",
+   "name_es": "San Martín",
+   "name_en": "Saint Martin’s Day",
+   "title_es": "San Martín",
+   "title_en": "Saint Martin’s Day"
+  },
+  "pkg-nobel-kipling-if": {
+   "type": "poem",
+   "name_es": "Si…",
+   "name_en": "If—",
+   "title_es": "Si…",
+   "title_en": "If—"
+  },
+  "pkg-nobel-kipling-recessional": {
+   "type": "poem",
+   "name_es": "Recesional",
+   "name_en": "Recessional",
+   "title_es": "Recesional",
+   "title_en": "Recessional"
+  },
+  "pkg-nobel-eucken": {
+   "type": "fragment",
+   "name_es": "La pregunta por el sentido",
+   "name_en": "The question of meaning",
+   "title_es": "El sentido y el valor de la vida",
+   "title_en": "The Meaning and Value of Life"
   }
  }
 }

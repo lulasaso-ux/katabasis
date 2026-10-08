@@ -2713,6 +2713,66 @@
       },
       "source": "https://www.wikidata.org/wiki/Q5685",
       "checked": "2026-10-08"
+    },
+    {
+      "author": "Henryk Sienkiewicz",
+      "birth": {
+        "min": 1846,
+        "max": 1846,
+        "approximate": false
+      },
+      "death": {
+        "min": 1916,
+        "max": 1916,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q41502",
+      "checked": "2026-10-08"
+    },
+    {
+      "author": "Giosuè Carducci",
+      "birth": {
+        "min": 1835,
+        "max": 1835,
+        "approximate": false
+      },
+      "death": {
+        "min": 1907,
+        "max": 1907,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q43440",
+      "checked": "2026-10-08"
+    },
+    {
+      "author": "Rudyard Kipling",
+      "birth": {
+        "min": 1865,
+        "max": 1865,
+        "approximate": false
+      },
+      "death": {
+        "min": 1936,
+        "max": 1936,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q34743",
+      "checked": "2026-10-08"
+    },
+    {
+      "author": "Rudolf Eucken",
+      "birth": {
+        "min": 1846,
+        "max": 1846,
+        "approximate": false
+      },
+      "death": {
+        "min": 1926,
+        "max": 1926,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q47695",
+      "checked": "2026-10-08"
     }
   ]
 }

@@ -525,6 +525,27 @@ ambulantes»:
 Los textos vienen de Wikisource en ruso. Nekrásov, Turguénev y Chéjov tienen
 ahora su ficha de vida.
 
+## Premios Nobel de Literatura · 1905–1908
+
+| Paquete | Lecturas | Obras visuales |
+| --- | ---: | ---: |
+| Premios Nobel de Literatura · 1905–1908 | 6 | 5 |
+
+Sigue al paquete de 1901–1904 con los cuatro premios siguientes:
+
+| Año | Autor | Lectura | Original |
+| --- | --- | --- | --- |
+| 1905 | Henryk Sienkiewicz | El ligio y el uro (*Quo vadis*, III, 23) | polaco |
+| 1906 | Giosuè Carducci | «Llanto antiguo» y «San Martín», completos | italiano |
+| 1907 | Rudyard Kipling | «If—» y «Recessional», completos | inglés |
+| 1908 | Rudolf Eucken | Comienzo de *El sentido y el valor de la vida* | alemán |
+
+Las obras son los retratos de Sienkiewicz (Pochwalski), Carducci (Corcos) y
+Kipling (Philip Burne-Jones, su primo), una fotografía de Eucken, del que no
+hay un retrato pintado de dominio público, y la *Dirce cristiana* de
+Siemiradzki, pintada un año después de *Quo vadis*. El texto de Eucken es el
+de la quinta edición (1917), que él mismo reescribió durante la guerra.
+
 ## Pantalla de carga
 
 Mientras se cargan los archivos de la sala, `index.html` muestra la portada
