@@ -672,14 +672,18 @@ Desde su ficha, una obra se abre como objeto que se gira y se acerca:
   Met, con sus asas aparte; la fotografía se proyecta sobre el cuerpo. Detrás
   del ánfora hay otra figura que la fotografía no muestra: esa cara queda en
   barniz negro.
-- El kuros recibe un volumen estimado a partir de su silueta. No es un
-  escaneo.
-- Una fotografía es una copia en papel; una obra sobre papel, la hoja; un
-  fresco, una placa de revoque; una pintura, el lienzo en su marco.
+- Las esculturas (el kuros, la Medea de Story, el Voltaire de Houdon, el joven
+  Marco Aurelio, la cabeza de Crisipo y la estatuilla del actor cómico)
+  reciben un volumen estimado a partir de su silueta, recortada del fondo de
+  la fotografía. No son escaneos.
+- Una fotografía es una copia en papel; una obra sobre papel, pergamino o
+  vitela, la hoja, y una página de manuscrito, la hoja sin marco, recortada
+  del fondo cuando la foto la muestra sobre un fondo liso; un fresco, una
+  placa de revoque; una pintura, el lienzo en su marco.
 - Lo que se reconstruye desde una sola fotografía gira solo hasta donde se
-  conoce: el kuros 42° a cada lado, las vasijas 80°.
+  conoce: las esculturas 42° a cada lado, las vasijas 80°.
 
-Los perfiles, las asas y la profundidad del kuros están en
+Los perfiles, las asas y la profundidad de las esculturas están en
 `app/obras3d/models.json`; `app/obras3d.js` construye las obras con three.js
 r160 (licencia MIT, en `app/vendor/three/`), que se carga solo al abrir la
 primera.
