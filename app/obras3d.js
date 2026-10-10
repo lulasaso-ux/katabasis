@@ -10,29 +10,39 @@
   // point there is no record of what it looks like, so the view stops (with a little give) there.
   // three.js (MIT) is loaded only when a work is first opened.
   const L = (es, en) => (typeof lang !== 'undefined' && lang === 'en' ? en : es);
-  const MODELS = { 'hirschfeld-krater': 'krater', 'berlin-painter-amphora': 'amphora', 'attic-kouros': 'kouros' };
-  const LIMIT = { krater: 80, amphora: 80, kouros: 42 };
+  // Works with their own model in app/obras3d/models.json: two vases turned on their profile, and
+  // sculptures whose volume is estimated from the silhouette in the museum photograph.
+  const VASES = { 'hirschfeld-krater': 'krater', 'berlin-painter-amphora': 'amphora' };
+  const STATUES = { 'attic-kouros': 'kouros', 'chrysippos-portrait': 'chrysippos-portrait', 'marcus-aurelius-young': 'marcus-aurelius-young', 'trag-story-medea': 'trag-story-medea', 'com-actor-statuette': 'com-actor-statuette', 'rep-houdon-voltaire': 'rep-houdon-voltaire' };
+  const MODELS = { ...VASES, ...STATUES };
+  const limitOf = id => (VASES[id] ? 80 : STATUES[id] ? 25 : 0);
   let lib = null, models = null, viewer = null;
 
   const field = (p, k) => (typeof paintField === 'function' ? paintField(p, k) : p[k + '_es'] || p[k]) || '';
   function kind(p) {
     if (!p) return '';
-    if (MODELS[p.id]) return MODELS[p.id] === 'kouros' ? 'statue' : 'vase';
+    if (VASES[p.id]) return 'vase';
+    if (STATUES[p.id]) return 'statue';
     const k = (p.art_kind_es || '') + ' ' + (p.medium_es || '');
     if (/fotograf[ií]a(?!.*fotomec)/i.test(p.art_kind_es || '')) return 'photo';
     if (/escultura|cer[aá]mica/i.test(k)) return '';
     if (/fresco/i.test(k)) return 'fresco';
+    // Leaves of manuscripts and anything on paper, parchment or vellum are sheets, not framed
+    // pictures, even when painted in tempera; only oil on paper is treated as a painting.
+    if (/manuscrito/i.test(p.art_kind_es || '')) return 'page';
+    if (/papel|pergamino|vitela/i.test(p.medium_es || '') && !/[óo]leo/i.test(p.medium_es || '')) return 'paper';
     if (/[óo]leo|temple|t[ée]mpera|lienzo|tabla|tela|cobre/i.test(p.medium_es || '')) return 'painting';
-    if (/grabado|aguafuerte|buril|litograf|dibujo|acuarela|gouache|papel|pergamino|vitela|miniatura|manuscrito|ilustraci|estampa|tinta/i.test(k)) return 'paper';
+    if (/grabado|aguafuerte|buril|litograf|dibujo|acuarela|gouache|miniatura|ilustraci|estampa|tinta/i.test(k)) return 'paper';
     if (/pintura|retrato|paisaje|bodeg[oó]n|alegor/i.test(p.art_kind_es || '') || !p.art_kind_es) return 'painting';
     return '';
   }
   const available = p => !!kind(p) && !!p.image;
   const NOTE = {
     vase: () => L('Torneada sobre su propio perfil, tomado de la fotografía del museo', 'Turned on its own profile, taken from the museum photograph'),
-    statue: () => L('Volumen estimado a partir de la fotografía; no es un escaneo', 'Volume estimated from the photograph; not a scan'),
+    statue: () => L('Relieve estimado a partir de la fotografía; no es un escaneo', 'Relief estimated from the photograph; not a scan'),
     photo: () => L('Una fotografía: la copia en papel', 'A photograph: the print on paper'),
     paper: () => L('Una obra sobre papel', 'A work on paper'),
+    page: () => L('Una página de un libro manuscrito, sin marco', 'A page of a manuscript book, unframed'),
     fresco: () => L('Pintura al fresco: el color en el revoque', 'Fresco: the colour in the plaster'),
     painting: () => L('El cuadro en su marco', 'The painting in its frame')
   };
@@ -88,16 +98,30 @@
   }
 
   function statue(T, m, map, back) {
-    const { gw, gh, step: S, x0, y0 } = m, raw = atob(m.depth), q = new Uint8Array(raw.length);
-    for (let i = 0; i < raw.length; i++) q[i] = raw.charCodeAt(i);
-    const inside = (i, j) => i >= 0 && j >= 0 && i < gw && j < gh && q[j * gw + i] > 0;
+    // Front: the rounded section of the silhouette plus the relief that a monocular depth model
+    // (Depth Anything V2) reads in the photograph, precomputed in m.depth. Back: the rounded
+    // section alone (m.back), since nothing is known of it. Both are bytes, 0 outside the figure.
+    const { gw, gh, step: S, x0, y0 } = m;
+    const bytes = b64 => { const r = atob(b64), q = new Uint8Array(r.length); for (let i = 0; i < r.length; i++) q[i] = r.charCodeAt(i); return q; };
+    const qf = bytes(m.depth), qb = m.back ? bytes(m.back) : qf;
+    const inside = (i, j) => i >= 0 && j >= 0 && i < gw && j < gh && qf[j * gw + i] > 0;
+    const edge = (i, j) => !inside(i - 1, j) || !inside(i + 1, j) || !inside(i, j - 1) || !inside(i, j + 1);
     const cx = x0 + (gw - 1) * S / 2, yc = y0 + (gh - 1) * S / 2;
+    // Outline: rim vertices are pulled toward the average of their rim neighbours, which rounds off
+    // the steps of the grid; front and back share them so the two halves stay sealed.
+    const rim = new Map();
+    for (let j = 0; j < gh; j++) for (let i = 0; i < gw; i++) {
+      if (!inside(i, j) || !edge(i, j)) continue;
+      let sx = 0, sy = 0, n = 0;
+      for (let dj = -1; dj <= 1; dj++) for (let di = -1; di <= 1; di++) if (inside(i + di, j + dj) && edge(i + di, j + dj)) { sx += i + di; sy += j + dj; n++; }
+      rim.set(j * gw + i, [sx / n, sy / n]);
+    }
     const sheet = sign => {
-      const pos = [], uv = [], idx = [], id = new Int32Array(gw * gh).fill(-1);
+      const q = sign > 0 ? qf : qb, pos = [], uv = [], idx = [], id = new Int32Array(gw * gh).fill(-1);
       for (let j = 0; j < gh; j++) for (let i = 0; i < gw; i++) {
         if (!inside(i, j)) continue;
-        const edge = !inside(i - 1, j) || !inside(i + 1, j) || !inside(i, j - 1) || !inside(i, j + 1);
-        const z = edge ? 0 : (q[j * gw + i] - 1) / 254 * m.depth_max * 0.72, px = x0 + i * S, py = y0 + j * S;
+        const r = rim.get(j * gw + i), gi = r ? r[0] : i, gj = r ? r[1] : j;
+        const z = r ? 0 : (q[j * gw + i] - 1) / 254 * m.depth_max, px = x0 + gi * S, py = y0 + gj * S;
         id[j * gw + i] = pos.length / 3; pos.push(px - cx, -(py - yc), sign * z); uv.push(px / m.W, 1 - py / m.H);
       }
       for (let j = 0; j < gh - 1; j++) for (let i = 0; i < gw - 1; i++) {
@@ -124,14 +148,43 @@
     const x = c.getContext('2d'); x.fillStyle = '#f4f1ea'; x.fillRect(0, 0, c.width, c.height);
     x.drawImage(img, side * s, side * s, ar * s, 1 * s);
     const t = new T.CanvasTexture(c); t.colorSpace = T.SRGBColorSpace; t.anisotropy = 8;
+    const cut = photo ? null : cutout(img), alphaMap = cut ? new T.CanvasTexture(cut) : null;
     const geo = new T.PlaneGeometry(W, H, 60, 1), p = geo.attributes.position;
     for (let i = 0; i < p.count; i++) { const u = p.getX(i) / (W / 2); p.setZ(i, -(photo ? 0.05 : 0.03) * u * u); }
     geo.computeVertexNormals();
-    const front = new T.Mesh(geo, photo ? new T.MeshPhysicalMaterial({ map: t, roughness: 0.32, clearcoat: 0.6, clearcoatRoughness: 0.25 }) : new T.MeshStandardMaterial({ map: t, roughness: 0.92 }));
+    const cutOpts = alphaMap ? { alphaMap, alphaTest: 0.5 } : {};
+    const front = new T.Mesh(geo, photo ? new T.MeshPhysicalMaterial({ map: t, roughness: 0.32, clearcoat: 0.6, clearcoatRoughness: 0.25 }) : new T.MeshStandardMaterial({ map: t, roughness: 0.92, ...cutOpts }));
     const bg = geo.clone(); bg.translate(0, 0, -0.004);
-    const back = new T.Mesh(bg, new T.MeshStandardMaterial({ color: '#e9e3d6', roughness: 0.95, side: T.BackSide }));
+    const back = new T.Mesh(bg, new T.MeshStandardMaterial({ color: k === 'page' ? '#d9c7a2' : '#e9e3d6', roughness: 0.95, side: T.BackSide, ...cutOpts }));
     front.castShadow = back.castShadow = true;
     const g = new T.Group(); g.add(front, back); g.scale.setScalar(1 / Math.max(W, H)); return g;
+  }
+
+  // When a sheet was photographed on a plain, neutral backdrop (a manuscript leaf with ragged
+  // edges, say), cut the backdrop away so the sheet keeps its own outline. Returns a mask canvas,
+  // or null when the image runs to its edges or the backdrop is not plain enough to be sure.
+  function cutout(img) {
+    const s = 256 / Math.max(img.width, img.height), w = Math.max(8, Math.round(img.width * s)), h = Math.max(8, Math.round(img.height * s));
+    const c = document.createElement('canvas'); c.width = w; c.height = h;
+    const x = c.getContext('2d'); x.drawImage(img, 0, 0, w, h);
+    const px = x.getImageData(0, 0, w, h).data, at = (i, j) => 4 * (j * w + i);
+    const corners = [[1, 1], [w - 2, 1], [1, h - 2], [w - 2, h - 2]].map(([i, j]) => [px[at(i, j)], px[at(i, j) + 1], px[at(i, j) + 2]]);
+    const mean = [0, 1, 2].map(ch => corners.reduce((a, c) => a + c[ch], 0) / 4);
+    if (corners.some(c => Math.max(...c) - Math.min(...c) > 40 || c.some((v, ch) => Math.abs(v - mean[ch]) > 24))) return null;
+    if (Math.min(...mean) > 232) return null;  // a white backdrop cannot be told from white paper
+    const bgd = new Uint8Array(w * h), q = [], near = k => Math.abs(px[k] - mean[0]) + Math.abs(px[k + 1] - mean[1]) + Math.abs(px[k + 2] - mean[2]) < 54;
+    const push = (i, j) => { const n = j * w + i; if (!bgd[n] && near(4 * n)) { bgd[n] = 1; q.push(n); } };
+    for (let i = 0; i < w; i++) { push(i, 0); push(i, h - 1); }
+    for (let j = 0; j < h; j++) { push(0, j); push(w - 1, j); }
+    while (q.length) { const n = q.pop(), i = n % w, j = (n / w) | 0; if (i > 0) push(i - 1, j); if (i < w - 1) push(i + 1, j); if (j > 0) push(i, j - 1); if (j < h - 1) push(i, j + 1); }
+    let count = 0; for (let n = 0; n < w * h; n++) count += bgd[n];
+    if (count < 0.03 * w * h || count > 0.6 * w * h) return null;
+    const m = x.createImageData(w, h);
+    for (let n = 0; n < w * h; n++) { const v = bgd[n] ? 0 : 255; m.data[4 * n] = m.data[4 * n + 1] = m.data[4 * n + 2] = v; m.data[4 * n + 3] = 255; }
+    x.putImageData(m, 0, 0);
+    const out = document.createElement('canvas'); out.width = w * 4; out.height = h * 4;
+    const o = out.getContext('2d'); o.filter = 'blur(3px)'; o.imageSmoothingEnabled = true; o.drawImage(c, 0, 0, out.width, out.height);
+    return out;
   }
 
   function slab(T, map, img, k) {
@@ -218,7 +271,7 @@
       const c = document.createElement('canvas'); c.width = img.width; c.height = img.height;
       const x = c.getContext('2d'); x.filter = 'blur(14px)'; x.drawImage(img, 0, 0);
       obj = statue(T, models[model], texOf(img), texOf(c));
-    } else if (k === 'photo' || k === 'paper') obj = sheetOfPaper(T, img, k);
+    } else if (k === 'photo' || k === 'paper' || k === 'page') obj = sheetOfPaper(T, img, k);
     else obj = slab(T, texOf(img), img, k);
     scene.add(obj);
     const box = new T.Box3().setFromObject(obj), dims = box.getSize(new T.Vector3());
@@ -231,7 +284,7 @@
     const controls = new OrbitControls(camera, renderer.domElement);
     controls.enableDamping = true; controls.minDistance = 0.08; controls.maxDistance = 9; controls.zoomToCursor = true; controls.maxPolarAngle = Math.PI * 0.62;
     let springBack = null;
-    const limit = LIMIT[model];
+    const limit = limitOf(p.id);
     if (limit) {
       const lim = T.MathUtils.degToRad(limit), give = T.MathUtils.degToRad(9), tip = stage.querySelector('.obra3d-limit');
       controls.minAzimuthAngle = -lim - give; controls.maxAzimuthAngle = lim + give;
@@ -254,7 +307,7 @@
         camera.position.copy(controls.target).add(off);
       };
     }
-    const HOME = { vase: [-22, 6, 2.7], statue: [-20, 4, 2.8], photo: [-24, 10, 2.4], paper: [-20, 8, 2.2], fresco: [-22, 6, 2.3], painting: [-24, 6, 2.4] }[k];
+    const HOME = { vase: [-22, 6, 2.7], statue: [-12, 4, 2.8], photo: [-24, 10, 2.4], paper: [-20, 8, 2.2], page: [-20, 8, 2.2], fresco: [-22, 6, 2.3], painting: [-24, 6, 2.4] }[k];
     const home = () => {
       const [az, el, dist0] = HOME, a = T.MathUtils.degToRad(az), e = T.MathUtils.degToRad(el);
       const dist = dist0 * Math.max(1, 0.85 / camera.aspect);
