@@ -844,6 +844,14 @@ agrupado por autor en orden alfabético, con las obras en el orden del catálogo
 y las pinturas al final. Cada pasaje puede abrirse en el libro (se señala el
 lugar), compartirse como imagen, anotarse de nuevo o quitarse.
 
+Una lectura o una pintura puede reunir **varias notas**, cada una marcada con
+su origen: *Antología* (las que se escriben leyendo, con el botón «Nota» del
+libro o desde el cuaderno), *Primeras líneas* o *Reconstrucción* (las de los
+ejercicios de Aprender, con lo que se escribió en ellos). Las notas de una
+lectura guardada van en su tarjeta; las de una lectura no guardada, en una
+tarjeta propia. Los cuadernos anteriores, con una sola nota por elemento, se
+convierten solos al abrirse.
+
 Todo se guarda solo en el navegador (`katabasis-notebook-v1` y
 `katabasis-favorites-v1` en `localStorage`); nadie más lo ve. «Descargar mi
 antología» produce un texto (.txt) con los pasajes, sus obras y las notas, y
@@ -868,8 +876,34 @@ puntos ni las palabras de la línea dada.
 Los textos salen de los paquetes activos, en el idioma de la interfaz. Se
 descartan las líneas demasiado cortas o largas y los estribillos repetidos, y
 se evitan los textos vistos en las últimas rondas. Lo escrito no se envía a
-ningún sitio. Tras revelar el texto, un botón permite guardarlo en el cuaderno:
-el fragmento del autor queda como pasaje, y lo que escribió el jugador, con la
-línea dada en su sitio, como su nota, que aún se puede editar antes de
+ningún sitio. Tras revelar el texto, un botón permite guardarlo en el cuaderno
+como nota de esa lectura, de origen *Primeras líneas*: la línea dada y lo que
+escribió el jugador, con un comentario que aún se puede añadir antes de
 guardar.
 `app/firstlines.js` y `app/firstlines.css` contienen el ejercicio.
+
+## Reconstruir
+
+En Aprender, **Reconstruir** sigue el ejercicio que Benjamin Franklin cuenta en
+su *Autobiografía*: leía un ensayo de *The Spectator*, apuntaba en pocas
+palabras lo que decía cada parte, cerraba el libro y lo volvía a escribir con
+sus palabras; después comparaba su versión con el original para encontrar sus
+fallas.
+
+Se eligen de una a diez lecturas, breves (de 60 a 450 palabras) y de los
+paquetes activos, evitando las de rondas recientes. El ejercicio tiene tres
+pasos:
+
+1. **Leer.** Cada lectura se muestra entera, con su tiempo estimado y un
+   espacio opcional para anotar los hitos.
+2. **De memoria.** Con los libros cerrados, se reescribe cada lectura; solo se
+   ven el título, el autor, la extensión del original y los hitos propios.
+3. **Comparar.** La versión propia y el original, lado a lado. Se indica cuánto
+   más larga o corta salió y cuántas palabras con peso del original se
+   conservaron, marcadas en ambos textos, y hay un espacio para anotar dónde se
+   alargó, se apuró o se perdió el hilo.
+
+Al final, todo queda en el cuaderno como notas de origen *Reconstrucción*, una
+por lectura, con los hitos, la versión de memoria y el comentario. Nada se
+envía a ningún sitio. `app/rebuild.js` y `app/rebuild.css` contienen el
+ejercicio.
