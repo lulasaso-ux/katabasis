@@ -38,10 +38,34 @@
 .note-toast{position:absolute;left:50%;bottom:140px;transform:translateX(-50%) translateY(8px);margin:0;padding:10px 16px;border-radius:999px;background:var(--ink);color:#fbf4e6;font:14px var(--sans);opacity:0;pointer-events:none;transition:opacity .2s,transform .2s;z-index:6}
 .note-toast.on{opacity:1;transform:translateX(-50%) translateY(0)}
 .note-found{background:#fbeccf;box-shadow:0 0 0 6px #fbeccf;border-radius:2px;transition:background 1.2s}
+.note-entries{display:flex;flex-direction:column;gap:12px;margin-top:14px}
+.note-entry{padding:12px 0 0;border-top:1px dashed #e0d2bd}
+.note-entries .note-entry:first-child{border-top:0;padding-top:0}
+.note-entry .note-body{margin-top:8px}
+.note-entry .note-card-foot{margin-top:8px}
+.note-badge{display:inline-block;padding:3px 9px;border-radius:999px;font:600 11px/1.3 var(--sans);letter-spacing:.06em;text-transform:uppercase;background:#efe4d2;color:#7a5a37}
+.note-badge-lines{background:#e4ece0;color:#4c6a3c}
+.note-badge-rebuild{background:#e3e6f0;color:#46507a}
+.note-extra{margin:8px 0 0}
+.note-extra summary{cursor:pointer;font:600 13px var(--sans);color:#6b5340}
+.note-extra p{margin:6px 0 0;padding:10px 12px;background:#fbf7ef;border:1px solid #ece2d1;border-radius:4px;font:16px/1.55 var(--serif);white-space:pre-line;overflow-wrap:anywhere}
+.note-quote-small{margin:8px 0 0;padding:2px 0 2px 12px;border-left:3px solid #c9a46e;font:16px/1.5 var(--serif);color:#4b3629;white-space:pre-line;max-height:12em;overflow:auto}
+.note-card-note{display:block;padding:20px 24px 16px;background:var(--paper);border:1px solid var(--line);border-left:3px solid #9fa9c9;border-radius:4px}
+.note-about{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 12px;margin:0 0 10px;font:15px/1.4 var(--sans);color:var(--muted)}
+.note-about em{font:italic 18px var(--serif);color:var(--ink)}
+.note-about .text-button{font-size:14px}
+.note-origin{margin:-4px 0 0;font:600 12px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:#7a5a37}
+.note-origin:empty{display:none}
+.note-mine{padding:10px 12px;background:#f6efe3;border-radius:4px;max-height:30dvh;overflow:auto}
+.note-mine[hidden]{display:none}
+.note-mine span{display:block;margin-bottom:4px;font:600 11px/1 var(--sans);letter-spacing:.08em;text-transform:uppercase;color:#8a6a45}
+.note-mine p{margin:0;font:16px/1.55 var(--serif);white-space:pre-line;overflow-wrap:anywhere}
 @media(max-width:730px){
+  .note-card-note{padding:16px 16px 12px}
   .note-card-passage{padding:18px 18px 14px}
   .note-quote{font-size:19px}
   .note-dialog{width:100vw;max-width:100vw;max-height:100dvh;height:auto;margin:auto 0 0;border-radius:10px 10px 0 0}
   .note-dialog form{padding:20px 18px 18px}
   .note-toast{bottom:150px}
 }
+.note-card-note .note-entry{border-top:0;padding-top:0}
