@@ -129,9 +129,9 @@
     if (b.matches('[data-lines-next]')) { next(); return refresh('[data-lines-part="after"]'); }
     if (b.matches('[data-lines-again]')) { begin(1); return refresh('[data-lines-part="after"]'); }
     if (b.matches('[data-lines-note]')) {
-      const w = st.w, rows = rowsOf(w), k = st.round, upto = Math.min(rows.length, k + 8);
+      const w = st.w, rows = rowsOf(w), k = st.round;
       const mine = [st.before.trim(), rows[k - 1], st.after.trim()].filter(Boolean).join('\n');
-      KatabasisNotebook.open({ kind: 'new', reading: w.id, text: rows.slice(0, upto).join('\n'), note: mine, onSave: () => { st.saved = true; if (st.phase === 'reveal') refresh(); } });
+      KatabasisNotebook.open({ kind: 'add', ref: 'reading:' + w.id, source: 'lines', quote: rows[k - 1], mine, onSave: () => { st.saved = true; if (st.phase === 'reveal') refresh(); } });
       return;
     }
     if (b.dataset.linesOpen) { const w = works.find(x => x.id === b.dataset.linesOpen); if (w) openBook(w.id); }
