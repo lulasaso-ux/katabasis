@@ -163,31 +163,66 @@
   // When a sheet was photographed on a plain, neutral backdrop (a manuscript leaf with ragged
   // edges, say), cut the backdrop away so the sheet keeps its own outline. Returns a mask canvas,
   // or null when the image runs to its edges or the backdrop is not plain enough to be sure.
-  function cutout(img) {
-    const s = 256 / Math.max(img.width, img.height), w = Math.max(8, Math.round(img.width * s)), h = Math.max(8, Math.round(img.height * s));
+  // Cuts a plain backdrop away from the edges of a photograph. Returns a mask canvas (with .border,
+  // the share of the image's edge that was backdrop) or null.
+  //  · paper: a sheet on a plain, non-white backdrop; all four corners must agree.
+  //  · framed: a painting on a light neutral backdrop, either the whole object in its own frame
+  //    (backdrop all round) or a canvas with a shaped top whose corners show the backdrop. Only
+  //    light neutral corners count, so dark painted corners are never taken for backdrop.
+  function cutout(img, framed = false) {
+    if (!img.width || !img.height) return null;
+    const s = (framed ? 512 : 256) / Math.max(img.width, img.height), w = Math.max(8, Math.round(img.width * s)), h = Math.max(8, Math.round(img.height * s));
     const c = document.createElement('canvas'); c.width = w; c.height = h;
     const x = c.getContext('2d'); x.drawImage(img, 0, 0, w, h);
     const px = x.getImageData(0, 0, w, h).data, at = (i, j) => 4 * (j * w + i);
     const corners = [[1, 1], [w - 2, 1], [1, h - 2], [w - 2, h - 2]].map(([i, j]) => [px[at(i, j)], px[at(i, j) + 1], px[at(i, j) + 2]]);
-    const mean = [0, 1, 2].map(ch => corners.reduce((a, c) => a + c[ch], 0) / 4);
-    if (corners.some(c => Math.max(...c) - Math.min(...c) > 40 || c.some((v, ch) => Math.abs(v - mean[ch]) > 24))) return null;
-    if (Math.min(...mean) > 232) return null;  // a white backdrop cannot be told from white paper
+    const light = c => Math.min(...c) >= 200 && Math.max(...c) - Math.min(...c) <= 20;
+    const seeds = framed ? corners.filter(light) : corners;
+    if (!seeds.length) return null;
+    const mean = [0, 1, 2].map(ch => seeds.reduce((a, c) => a + c[ch], 0) / seeds.length);
+    if (!framed) {
+      if (corners.some(c => Math.max(...c) - Math.min(...c) > 40 || c.some((v, ch) => Math.abs(v - mean[ch]) > 24))) return null;
+      if (Math.min(...mean) > 232) return null;  // on paper, a white backdrop cannot be told from the sheet
+    }
     const bgd = new Uint8Array(w * h), q = [], near = k => Math.abs(px[k] - mean[0]) + Math.abs(px[k + 1] - mean[1]) + Math.abs(px[k + 2] - mean[2]) < 54;
     const push = (i, j) => { const n = j * w + i; if (!bgd[n] && near(4 * n)) { bgd[n] = 1; q.push(n); } };
-    for (let i = 0; i < w; i++) { push(i, 0); push(i, h - 1); }
-    for (let j = 0; j < h; j++) { push(0, j); push(w - 1, j); }
+    if (framed) for (const [i, j] of [[1, 1], [w - 2, 1], [1, h - 2], [w - 2, h - 2]]) push(i, j);
+    else { for (let i = 0; i < w; i++) { push(i, 0); push(i, h - 1); } for (let j = 0; j < h; j++) { push(0, j); push(w - 1, j); } }
     while (q.length) { const n = q.pop(), i = n % w, j = (n / w) | 0; if (i > 0) push(i - 1, j); if (i < w - 1) push(i + 1, j); if (j > 0) push(i, j - 1); if (j < h - 1) push(i, j + 1); }
-    let count = 0; for (let n = 0; n < w * h; n++) count += bgd[n];
-    if (count < 0.03 * w * h || count > 0.6 * w * h) return null;
+    let count = 0, edge = 0, sum = 0, sum2 = 0;
+    for (let n = 0; n < w * h; n++) if (bgd[n]) { count++; const v = px[4 * n] + px[4 * n + 1] + px[4 * n + 2]; sum += v; sum2 += v * v; }
+    const flat = count ? Math.sqrt(Math.max(0, sum2 / count - (sum / count) ** 2)) / 3 : 99;
+    // a real backdrop is flat; sky, a white dress or a pale wall in the painting are not
+    if (framed && flat > 5) return null;
+    for (let i = 0; i < w; i++) edge += bgd[i] + bgd[(h - 1) * w + i];
+    for (let j = 0; j < h; j++) edge += bgd[j * w] + bgd[j * w + w - 1];
+    if (count < (framed ? 0.006 : 0.03) * w * h || count > 0.6 * w * h) return null;
     const m = x.createImageData(w, h);
     for (let n = 0; n < w * h; n++) { const v = bgd[n] ? 0 : 255; m.data[4 * n] = m.data[4 * n + 1] = m.data[4 * n + 2] = v; m.data[4 * n + 3] = 255; }
     x.putImageData(m, 0, 0);
-    const out = document.createElement('canvas'); out.width = w * 4; out.height = h * 4;
-    const o = out.getContext('2d'); o.filter = 'blur(3px)'; o.imageSmoothingEnabled = true; o.drawImage(c, 0, 0, out.width, out.height);
+    const k = framed ? 2 : 4, out = document.createElement('canvas'); out.width = w * k; out.height = h * k;
+    const o = out.getContext('2d'); o.filter = 'blur(2px)'; o.imageSmoothingEnabled = true; o.drawImage(c, 0, 0, out.width, out.height);
+    out.border = edge / (2 * (w + h)); out.share = count / (w * h); out.flat = flat;
     return out;
   }
 
-  function slab(T, map, img, k) {
+  // A painting whose photograph already shows its own frame (an arched or carved one, say): the
+  // object keeps that outline, cut from the backdrop, and no frame of ours is added around it.
+  function ownFrame(T, map, img, cut) {
+    const ar = img.width / img.height, W = ar, H = 1, g = new T.Group(), alphaMap = new T.CanvasTexture(cut);
+    const geo = new T.PlaneGeometry(W, H);
+    const front = new T.Mesh(geo, new T.MeshStandardMaterial({ map, alphaMap, alphaTest: 0.5, roughness: 0.5, metalness: 0.1 }));
+    front.castShadow = true; g.add(front);
+    // the thickness of the frame: layers of the same outline, stacked behind
+    const edge = new T.MeshStandardMaterial({ color: '#7a5a26', alphaMap, alphaTest: 0.5, roughness: 0.5, metalness: 0.6, side: T.DoubleSide });
+    for (let i = 1; i <= 10; i++) { const l = new T.Mesh(geo, edge); l.position.z = -i * 0.005; g.add(l); }
+    const back = new T.Mesh(geo, new T.MeshStandardMaterial({ color: '#4a3524', alphaMap, alphaTest: 0.5, roughness: 0.9, side: T.BackSide }));
+    back.position.z = -0.052; g.add(back);
+    g.scale.setScalar(1 / Math.max(W, H));
+    return g;
+  }
+
+  function slab(T, map, img, k, shape) {
     const ar = img.width / img.height, w = ar, h = 1, g = new T.Group();
     if (k === 'fresco') {
       const plaster = new T.MeshStandardMaterial({ color: '#d9ccb4', roughness: 1 });
@@ -195,7 +230,14 @@
       g.children[0].castShadow = true; g.scale.setScalar(1 / Math.max(w, h)); return g;
     }
     const f = 0.11, side = new T.MeshStandardMaterial({ color: '#d8cdb8', roughness: 0.9 });
-    g.add(new T.Mesh(new T.BoxGeometry(w, h, 0.03), [side, side, side, side, new T.MeshStandardMaterial({ map, roughness: 0.55 }), side]));
+    if (shape) {
+      // A canvas with a shaped top (an arch, say): the canvas keeps its outline and the frame's
+      // gilt slip fills the corners around it, as in the gallery.
+      const alphaMap = new T.CanvasTexture(shape);
+      const canvas = new T.Mesh(new T.PlaneGeometry(w, h), new T.MeshStandardMaterial({ map, alphaMap, alphaTest: 0.5, roughness: 0.55 }));
+      canvas.position.z = 0.016; g.add(canvas);
+      g.add(new T.Mesh(new T.BoxGeometry(w, h, 0.03), new T.MeshStandardMaterial({ color: '#b48a3c', metalness: 0.85, roughness: 0.4 })));
+    } else g.add(new T.Mesh(new T.BoxGeometry(w, h, 0.03), [side, side, side, side, new T.MeshStandardMaterial({ map, roughness: 0.55 }), side]));
     const s = new T.Shape(); s.moveTo(-w / 2 - f, -h / 2 - f); s.lineTo(w / 2 + f, -h / 2 - f); s.lineTo(w / 2 + f, h / 2 + f); s.lineTo(-w / 2 - f, h / 2 + f);
     const hole = new T.Path(); hole.moveTo(-w / 2 + 0.01, -h / 2 + 0.01); hole.lineTo(-w / 2 + 0.01, h / 2 - 0.01); hole.lineTo(w / 2 - 0.01, h / 2 - 0.01); hole.lineTo(w / 2 - 0.01, -h / 2 + 0.01); s.holes.push(hole);
     const fg = new T.ExtrudeGeometry(s, { depth: 0.05, bevelEnabled: true, bevelThickness: 0.025, bevelSize: 0.03, bevelSegments: 6 }); fg.translate(0, 0, -0.01);
@@ -272,7 +314,11 @@
       const x = c.getContext('2d'); x.filter = 'blur(14px)'; x.drawImage(img, 0, 0);
       obj = statue(T, models[model], texOf(img), texOf(c));
     } else if (k === 'photo' || k === 'paper' || k === 'page') obj = sheetOfPaper(T, img, k);
-    else obj = slab(T, texOf(img), img, k);
+    else {
+      const own = k === 'painting' ? cutout(img, true) : null;
+      if (own && own.border > 0.85 && own.share > 0.08) { obj = ownFrame(T, texOf(img), img, own); const n = stage.closest('dialog')?.querySelector('.obra3d-note'); if (n) n.textContent = L('El cuadro en su propio marco, como lo fotografió el museo', 'The painting in its own frame, as the museum photographed it'); }
+      else obj = slab(T, texOf(img), img, k, own);
+    }
     scene.add(obj);
     const box = new T.Box3().setFromObject(obj), dims = box.getSize(new T.Vector3());
     obj.position.sub(box.getCenter(new T.Vector3()));

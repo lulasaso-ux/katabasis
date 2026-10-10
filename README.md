@@ -679,6 +679,13 @@ Desde su ficha, una obra se abre como objeto que se gira y se acerca:
   monocular (Depth Anything V2, small, Apache 2.0) lee en la foto, calculado
   una vez y guardado. La espalda solo tiene la sección redondeada. No son
   escaneos.
+- Una pintura que el museo fotografió dentro de su propio marco, sobre un fondo
+  claro y liso (la *Esmeralda* de Steuben, en su marco de arco apuntado), se
+  recorta del fondo y conserva ese marco; no se le añade otro. Un lienzo de
+  borde superior en arco (la *Ofelia* de Millais, el *Simeón* de Rembrandt) va
+  en el marco dorado con las esquinas de dorado, como en la sala. Solo cuentan
+  fondos claros y uniformes, así que un cielo o un vestido blanco no se
+  confunden con el fondo.
 - Una fotografía es una copia en papel; una obra sobre papel, pergamino o
   vitela, la hoja, y una página de manuscrito, la hoja sin marco, recortada
   del fondo cuando la foto la muestra sobre un fondo liso; un fresco, una
