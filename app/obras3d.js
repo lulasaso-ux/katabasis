@@ -15,7 +15,7 @@
   const VASES = { 'hirschfeld-krater': 'krater', 'berlin-painter-amphora': 'amphora' };
   const STATUES = { 'attic-kouros': 'kouros', 'chrysippos-portrait': 'chrysippos-portrait', 'marcus-aurelius-young': 'marcus-aurelius-young', 'trag-story-medea': 'trag-story-medea', 'com-actor-statuette': 'com-actor-statuette', 'rep-houdon-voltaire': 'rep-houdon-voltaire' };
   const MODELS = { ...VASES, ...STATUES };
-  const limitOf = id => (VASES[id] ? 80 : STATUES[id] ? 42 : 0);
+  const limitOf = id => (VASES[id] ? 80 : STATUES[id] ? 25 : 0);
   let lib = null, models = null, viewer = null;
 
   const field = (p, k) => (typeof paintField === 'function' ? paintField(p, k) : p[k + '_es'] || p[k]) || '';
@@ -39,7 +39,7 @@
   const available = p => !!kind(p) && !!p.image;
   const NOTE = {
     vase: () => L('Torneada sobre su propio perfil, tomado de la fotografía del museo', 'Turned on its own profile, taken from the museum photograph'),
-    statue: () => L('Volumen estimado a partir de la fotografía; no es un escaneo', 'Volume estimated from the photograph; not a scan'),
+    statue: () => L('Relieve estimado a partir de la fotografía; no es un escaneo', 'Relief estimated from the photograph; not a scan'),
     photo: () => L('Una fotografía: la copia en papel', 'A photograph: the print on paper'),
     paper: () => L('Una obra sobre papel', 'A work on paper'),
     page: () => L('Una página de un libro manuscrito, sin marco', 'A page of a manuscript book, unframed'),
@@ -98,16 +98,30 @@
   }
 
   function statue(T, m, map, back) {
-    const { gw, gh, step: S, x0, y0 } = m, raw = atob(m.depth), q = new Uint8Array(raw.length);
-    for (let i = 0; i < raw.length; i++) q[i] = raw.charCodeAt(i);
-    const inside = (i, j) => i >= 0 && j >= 0 && i < gw && j < gh && q[j * gw + i] > 0;
+    // Front: the rounded section of the silhouette plus the relief that a monocular depth model
+    // (Depth Anything V2) reads in the photograph, precomputed in m.depth. Back: the rounded
+    // section alone (m.back), since nothing is known of it. Both are bytes, 0 outside the figure.
+    const { gw, gh, step: S, x0, y0 } = m;
+    const bytes = b64 => { const r = atob(b64), q = new Uint8Array(r.length); for (let i = 0; i < r.length; i++) q[i] = r.charCodeAt(i); return q; };
+    const qf = bytes(m.depth), qb = m.back ? bytes(m.back) : qf;
+    const inside = (i, j) => i >= 0 && j >= 0 && i < gw && j < gh && qf[j * gw + i] > 0;
+    const edge = (i, j) => !inside(i - 1, j) || !inside(i + 1, j) || !inside(i, j - 1) || !inside(i, j + 1);
     const cx = x0 + (gw - 1) * S / 2, yc = y0 + (gh - 1) * S / 2;
+    // Outline: rim vertices are pulled toward the average of their rim neighbours, which rounds off
+    // the steps of the grid; front and back share them so the two halves stay sealed.
+    const rim = new Map();
+    for (let j = 0; j < gh; j++) for (let i = 0; i < gw; i++) {
+      if (!inside(i, j) || !edge(i, j)) continue;
+      let sx = 0, sy = 0, n = 0;
+      for (let dj = -1; dj <= 1; dj++) for (let di = -1; di <= 1; di++) if (inside(i + di, j + dj) && edge(i + di, j + dj)) { sx += i + di; sy += j + dj; n++; }
+      rim.set(j * gw + i, [sx / n, sy / n]);
+    }
     const sheet = sign => {
-      const pos = [], uv = [], idx = [], id = new Int32Array(gw * gh).fill(-1);
+      const q = sign > 0 ? qf : qb, pos = [], uv = [], idx = [], id = new Int32Array(gw * gh).fill(-1);
       for (let j = 0; j < gh; j++) for (let i = 0; i < gw; i++) {
         if (!inside(i, j)) continue;
-        const edge = !inside(i - 1, j) || !inside(i + 1, j) || !inside(i, j - 1) || !inside(i, j + 1);
-        const z = edge ? 0 : (q[j * gw + i] - 1) / 254 * m.depth_max * 0.72, px = x0 + i * S, py = y0 + j * S;
+        const r = rim.get(j * gw + i), gi = r ? r[0] : i, gj = r ? r[1] : j;
+        const z = r ? 0 : (q[j * gw + i] - 1) / 254 * m.depth_max, px = x0 + gi * S, py = y0 + gj * S;
         id[j * gw + i] = pos.length / 3; pos.push(px - cx, -(py - yc), sign * z); uv.push(px / m.W, 1 - py / m.H);
       }
       for (let j = 0; j < gh - 1; j++) for (let i = 0; i < gw - 1; i++) {
@@ -293,7 +307,7 @@
         camera.position.copy(controls.target).add(off);
       };
     }
-    const HOME = { vase: [-22, 6, 2.7], statue: [-20, 4, 2.8], photo: [-24, 10, 2.4], paper: [-20, 8, 2.2], page: [-20, 8, 2.2], fresco: [-22, 6, 2.3], painting: [-24, 6, 2.4] }[k];
+    const HOME = { vase: [-22, 6, 2.7], statue: [-12, 4, 2.8], photo: [-24, 10, 2.4], paper: [-20, 8, 2.2], page: [-20, 8, 2.2], fresco: [-22, 6, 2.3], painting: [-24, 6, 2.4] }[k];
     const home = () => {
       const [az, el, dist0] = HOME, a = T.MathUtils.degToRad(az), e = T.MathUtils.degToRad(el);
       const dist = dist0 * Math.max(1, 0.85 / camera.aspect);
