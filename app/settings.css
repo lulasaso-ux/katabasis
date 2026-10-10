@@ -1,0 +1,26 @@
+/* Configuración: botón con engranaje en la barra lateral y panel de ajustes. Nivel de ornamentos en <html data-ornaments>: 0 nada, 2 inmersivo (pronto). */
+.settings-open{display:flex;align-items:center;gap:12px;width:100%;background:none;border:0;color:#d3bfa9;font:inherit;font-size:14px;padding:10px 0;margin-top:18px;cursor:pointer;text-align:left}
+.settings-open .icon{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linejoin:round;transition:transform .4s ease}
+.settings-open:hover{color:#f1e3cf}.settings-open:hover .icon{transform:rotate(45deg)}
+.settings-open:focus-visible{outline:2px solid #e1c28f;outline-offset:3px;border-radius:3px}
+.mobile-settings{width:auto;margin:0;padding:8px;color:inherit}
+#settings{width:min(760px,calc(100vw - 32px));max-height:calc(100vh - 48px);border:0;border-radius:8px;padding:0;background:var(--paper,#fbf7ef);color:var(--ink-text,#3d2a1f);box-shadow:0 24px 60px #2a191066}
+#settings::backdrop{background:#2a1910a6}
+.settings-head{display:flex;justify-content:space-between;align-items:flex-start;padding:28px 32px 18px;border-bottom:1px solid var(--line,#e2d6c4)}
+.settings-head h2{font:normal 32px/1.15 var(--serif,Georgia,serif);margin:6px 0 0}
+.settings-head .close{background:none;border:1px solid var(--line,#d9c6a9);border-radius:50%;width:40px;height:40px;font-size:22px;line-height:1;color:inherit;cursor:pointer}
+.settings-section{padding:22px 32px 32px}.settings-section h3{font:normal 22px/1.2 var(--serif,Georgia,serif);margin:0 0 6px}
+.settings-intro{color:var(--muted,#7a6250);font-size:14px;line-height:1.55;margin:0 0 18px;max-width:60ch}
+.settings-levels{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.settings-level{position:relative;display:flex;flex-direction:column;gap:12px;border:1px solid var(--line,#e2d6c4);border-radius:6px;padding:12px;cursor:pointer;background:#fffdf8}
+.settings-level:has(input:checked){border-color:#a67532;box-shadow:0 0 0 2px #a6753233}
+.settings-level:has(input:focus-visible){outline:2px solid #8b632d;outline-offset:3px}
+.settings-level.soon{cursor:default;opacity:.62}
+.settings-level input{position:absolute;opacity:0;pointer-events:none}
+.settings-level-text strong{display:block;font-size:15px;font-weight:600}.settings-level-text small{display:block;font-size:12.5px;line-height:1.5;color:var(--muted,#7a6250);margin-top:3px}
+.settings-preview{display:flex;flex-direction:column;gap:7px;height:96px;border-radius:4px;background:#fffaf1;border:1px solid #eadfcd;padding:0 14px 12px;overflow:hidden}
+.settings-preview i{display:block;height:18px;margin:0 -14px 6px}.settings-preview b{display:block;height:6px;border-radius:3px;background:#d8cbb8}.settings-preview b:nth-child(3){width:82%}.settings-preview b:nth-child(4){width:64%}
+.settings-preview.level-2{background:radial-gradient(ellipse at 30% 20%,#f3e2bd,#e2c792 70%,#cfae74)}.settings-preview.level-2 i{background:linear-gradient(180deg,#3a2a20,#5a3a26)}.settings-preview.level-2 b{background:#a98a5c}
+@media(max-width:730px){#settings{width:100vw;max-width:none;height:100%;max-height:none;border-radius:0}.settings-head,.settings-section{padding-left:18px;padding-right:18px}.settings-levels{grid-template-columns:1fr}.settings-level{flex-direction:row;align-items:center}.settings-preview{width:110px;flex-shrink:0;height:80px}}
+
+@media(prefers-reduced-motion:reduce){.settings-open .icon{transition:none}}

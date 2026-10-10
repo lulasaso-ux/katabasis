@@ -663,6 +663,27 @@ original se asignan en `painting_regions` de
 `app/reading-package-additions.json`, que también añade Bélgica y Suiza al
 mapa.
 
+## Obras en 3D
+
+Desde su ficha, una obra se abre como objeto que se gira y se acerca:
+
+- La crátera del Taller de Hirschfeld y el ánfora del Pintor de Berlín se
+  tornean sobre su propio perfil, medido fila por fila en la fotografía del
+  Met, con sus asas aparte; la fotografía se proyecta sobre el cuerpo. Detrás
+  del ánfora hay otra figura que la fotografía no muestra: esa cara queda en
+  barniz negro.
+- El kuros recibe un volumen estimado a partir de su silueta. No es un
+  escaneo.
+- Una fotografía es una copia en papel; una obra sobre papel, la hoja; un
+  fresco, una placa de revoque; una pintura, el lienzo en su marco.
+- Lo que se reconstruye desde una sola fotografía gira solo hasta donde se
+  conoce: el kuros 42° a cada lado, las vasijas 80°.
+
+Los perfiles, las asas y la profundidad del kuros están en
+`app/obras3d/models.json`; `app/obras3d.js` construye las obras con three.js
+r160 (licencia MIT, en `app/vendor/three/`), que se carga solo al abrir la
+primera.
+
 ## Palabra por palabra
 
 Cada lectura permite, sobre el texto original, mostrar debajo de cada palabra
