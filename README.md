@@ -546,6 +546,29 @@ hay un retrato pintado de dominio público, y la *Dirce cristiana* de
 Siemiradzki, pintada un año después de *Quo vadis*. El texto de Eucken es el
 de la quinta edición (1917), que él mismo reescribió durante la guerra.
 
+## Poetas de la Confederación
+
+**Poetas de la Confederación** (*Confederation Poets*) reúne a los primeros
+poetas del Canadá confederado en 1867, todos nacidos alrededor de 1860. Son
+cinco poemas completos en inglés, tomados de las primeras ediciones en Project
+Gutenberg, con nuevas traducciones de lectura al español:
+
+- Charles G. D. Roberts, «The Potato Harvest» (*In Divers Tones*, 1886).
+- Archibald Lampman, «Heat» (*Among the Millet*, 1888).
+- Bliss Carman, «Low Tide on Grand Pré» (*Low Tide on Grand Pré*, 1893).
+- Duncan Campbell Scott, «At the Cedars» (*The Magic House*, 1893); se omite
+  la dedicatoria «To W. W. C.» y los guiones dobles de la transcripción se dan
+  como rayas.
+- Wilfred Campbell, «How One Winter Came in the Lake Region» (*The Dread
+  Voyage*, 1893).
+
+Las cuatro obras visuales son pinturas canadienses de su tiempo, de dominio
+público, en Wikimedia Commons: *La Traite du matin* de Horatio Walker (1910,
+Musée national des beaux-arts du Québec), *The Last Day of the Drought* de
+Homer Watson (1881, Royal Collection), *Song of Les Érables Rapids, Ottawa
+River* de Lucius O’Brien (1876, Galería Nacional de Canadá) y *Winter near
+Montreal* de Maurice Cullen (hacia 1891–1901, Art Gallery of Ontario).
+
 ## Pantalla de carga
 
 Mientras se cargan los archivos de la sala, `index.html` muestra la portada

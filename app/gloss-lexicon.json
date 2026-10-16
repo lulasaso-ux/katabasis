@@ -45415,7 +45415,7 @@
    ""
   ],
   "steep": [
-   "pared",
+   "empinado, escarpa",
    ""
   ],
   "steepest": [
@@ -48696,6 +48696,902 @@
   ],
   "amen": [
    "amén",
+   ""
+  ],
+  "plough": [
+   "arado",
+   ""
+  ],
+  "borne": [
+   "alzado, llevado",
+   ""
+  ],
+  "aslant": [
+   "al sesgo, oblicuo",
+   ""
+  ],
+  "amber": [
+   "ámbar",
+   ""
+  ],
+  "wastes": [
+   "páramos, extensiones",
+   ""
+  ],
+  "washing": [
+   "bañando",
+   ""
+  ],
+  "ridge": [
+   "loma, cresta",
+   ""
+  ],
+  "clamor": [
+   "clamor",
+   ""
+  ],
+  "crows": [
+   "cuervos",
+   ""
+  ],
+  "tides": [
+   "mareas",
+   ""
+  ],
+  "roosts": [
+   "perchas, dormideros",
+   ""
+  ],
+  "pines": [
+   "pinos",
+   ""
+  ],
+  "wind-torn": [
+   "rotos por el viento",
+   ""
+  ],
+  "snake-fence": [
+   "cerca en zigzag",
+   ""
+  ],
+  "zigzags": [
+   "zigzaguea",
+   ""
+  ],
+  "pond": [
+   "estanque",
+   ""
+  ],
+  "homestead": [
+   "granja",
+   ""
+  ],
+  "summonings": [
+   "llamadas",
+   ""
+  ],
+  "supper": [
+   "cena",
+   ""
+  ],
+  "horn": [
+   "cuerno",
+   ""
+  ],
+  "flush": [
+   "rubor",
+   ""
+  ],
+  "cart": [
+   "carro",
+   ""
+  ],
+  "stoop-necked": [
+   "de cuello encorvado",
+   ""
+  ],
+  "oxen": [
+   "bueyes",
+   ""
+  ],
+  "ranged": [
+   "en fila",
+   ""
+  ],
+  "day-worn": [
+   "gastados por el día",
+   ""
+  ],
+  "harvest": [
+   "cosecha",
+   ""
+  ],
+  "folk": [
+   "gente",
+   ""
+  ],
+  "emptying": [
+   "vaciando",
+   ""
+  ],
+  "baskets": [
+   "cestas",
+   ""
+  ],
+  "hush": [
+   "silencio",
+   ""
+  ],
+  "thunders": [
+   "truenos",
+   ""
+  ],
+  "dusk": [
+   "anochecer, penumbra",
+   ""
+  ],
+  "hillside": [
+   "ladera",
+   ""
+  ],
+  "lumbers": [
+   "avanza pesadamente",
+   ""
+  ],
+  "wain": [
+   "carreta",
+   ""
+  ],
+  "fades": [
+   "se apaga, se desvanece",
+   ""
+  ],
+  "plains": [
+   "llanuras",
+   ""
+  ],
+  "reel": [
+   "vacilan, se tambalean",
+   ""
+  ],
+  "southward": [
+   "hacia el sur",
+   ""
+  ],
+  "swim": [
+   "nadar",
+   ""
+  ],
+  "steals": [
+   "avanza sigilosa",
+   ""
+  ],
+  "hay-cart": [
+   "carro de heno",
+   ""
+  ],
+  "dustily": [
+   "entre el polvo",
+   ""
+  ],
+  "idly": [
+   "ociosamente",
+   ""
+  ],
+  "clacking": [
+   "traqueteando",
+   ""
+  ],
+  "cart's": [
+   "del carro",
+   ""
+  ],
+  "wagoner": [
+   "carretero",
+   ""
+  ],
+  "slouching": [
+   "caminando encorvado",
+   ""
+  ],
+  "half-hidden": [
+   "medio oculto",
+   ""
+  ],
+  "windless": [
+   "sin viento",
+   ""
+  ],
+  "blur": [
+   "neblina, borrón",
+   ""
+  ],
+  "puffing": [
+   "levantando en bocanadas",
+   ""
+  ],
+  "knees": [
+   "rodillas",
+   ""
+  ],
+  "wagon": [
+   "carreta",
+   ""
+  ],
+  "sole": [
+   "única",
+   ""
+  ],
+  "heat-held": [
+   "presa del calor",
+   ""
+  ],
+  "soaks": [
+   "empapa",
+   ""
+  ],
+  "grass": [
+   "hierba",
+   ""
+  ],
+  "marguerites": [
+   "margaritas",
+   ""
+  ],
+  "buttercups": [
+   "botones de oro",
+   ""
+  ],
+  "brook": [
+   "arroyo",
+   ""
+  ],
+  "disturbs": [
+   "molesta",
+   ""
+  ],
+  "spider": [
+   "araña",
+   ""
+  ],
+  "midge": [
+   "mosquito",
+   ""
+  ],
+  "water-bugs": [
+   "zapateros de agua",
+   ""
+  ],
+  "elm-tree": [
+   "olmo",
+   ""
+  ],
+  "flood": [
+   "inundan",
+   ""
+  ],
+  "cud": [
+   "rumia",
+   ""
+  ],
+  "somewhere": [
+   "en algún lugar",
+   ""
+  ],
+  "noon": [
+   "mediodía",
+   ""
+  ],
+  "thrush": [
+   "zorzal",
+   ""
+  ],
+  "slides": [
+   "desliza",
+   ""
+  ],
+  "leisurely": [
+   "sin prisa",
+   ""
+  ],
+  "revolving": [
+   "que da vueltas",
+   ""
+  ],
+  "intervals": [
+   "intervalos",
+   ""
+  ],
+  "cricket": [
+   "grillo",
+   ""
+  ],
+  "droughty": [
+   "reseca",
+   ""
+  ],
+  "grass-hoppers": [
+   "saltamontes",
+   ""
+  ],
+  "spin": [
+   "hilan",
+   ""
+  ],
+  "ear": [
+   "oído",
+   ""
+  ],
+  "innumerable": [
+   "innumerable",
+   ""
+  ],
+  "sky-line": [
+   "horizonte",
+   ""
+  ],
+  "blinds": [
+   "ciega",
+   ""
+  ],
+  "haze": [
+   "bruma",
+   ""
+  ],
+  "drenched": [
+   "empapadas",
+   ""
+  ],
+  "sloped": [
+   "inclinada",
+   ""
+  ],
+  "drain": [
+   "bebo hasta el fondo",
+   ""
+  ],
+  "blessèd": [
+   "bendito",
+   ""
+  ],
+  "barren": [
+   "yermas",
+   ""
+  ],
+  "unelusive": [
+   "tangibles, nada esquivas",
+   ""
+  ],
+  "glories": [
+   "glorias",
+   ""
+  ],
+  "bide": [
+   "durarán, se quedarán",
+   ""
+  ],
+  "ecstasy": [
+   "éxtasis",
+   ""
+  ],
+  "lingers": [
+   "se demora",
+   ""
+  ],
+  "luminous": [
+   "luminoso",
+   ""
+  ],
+  "uncomforted": [
+   "sin consuelo",
+   ""
+  ],
+  "athrough": [
+   "a través de",
+   ""
+  ],
+  "acadie": [
+   "Acadia",
+   ""
+  ],
+  "grasses": [
+   "hierbas",
+   ""
+  ],
+  "drowsy": [
+   "adormilado",
+   ""
+  ],
+  "inland": [
+   "tierra adentro",
+   ""
+  ],
+  "after-heat": [
+   "calor que queda",
+   ""
+  ],
+  "freed": [
+   "soltamos",
+   ""
+  ],
+  "birch": [
+   "canoa de abedul",
+   ""
+  ],
+  "elms": [
+   "olmos",
+   ""
+  ],
+  "dripping": [
+   "goteante",
+   ""
+  ],
+  "blade": [
+   "pala del remo",
+   ""
+  ],
+  "drift": [
+   "dejarnos llevar",
+   ""
+  ],
+  "scented": [
+   "perfumado",
+   ""
+  ],
+  "fine": [
+   "fino",
+   ""
+  ],
+  "musk": [
+   "almizcle",
+   ""
+  ],
+  "awhile": [
+   "por un momento",
+   ""
+  ],
+  "uplift": [
+   "se alzan",
+   ""
+  ],
+  "sunder": [
+   "separan",
+   ""
+  ],
+  "adrift": [
+   "a la deriva",
+   ""
+  ],
+  "subtler": [
+   "más sutil",
+   ""
+  ],
+  "loosed": [
+   "desató",
+   ""
+  ],
+  "taught": [
+   "enseñó",
+   ""
+  ],
+  "wonder-thing": [
+   "prodigio",
+   ""
+  ],
+  "faltered": [
+   "vaciló",
+   ""
+  ],
+  "deemed": [
+   "creí, juzgué",
+   ""
+  ],
+  "ripe": [
+   "maduro",
+   ""
+  ],
+  "underneath": [
+   "debajo de",
+   ""
+  ],
+  "regret": [
+   "pesar",
+   ""
+  ],
+  "morrow": [
+   "mañana",
+   ""
+  ],
+  "drifting": [
+   "a la deriva",
+   ""
+  ],
+  "barrens": [
+   "yermos",
+   ""
+  ],
+  "driven": [
+   "arreado, empujado",
+   ""
+  ],
+  "girls": [
+   "muchachas, hijas",
+   ""
+  ],
+  "baptiste": [
+   "Baptiste",
+   ""
+  ],
+  "virginie": [
+   "Virginie",
+   ""
+  ],
+  "cedars": [
+   "Los Cedros (rápidos)",
+   ""
+  ],
+  "rapids": [
+   "rápidos",
+   ""
+  ],
+  "dammed": [
+   "represados",
+   ""
+  ],
+  "logs": [
+   "troncos",
+   ""
+  ],
+  "tight": [
+   "apretados",
+   ""
+  ],
+  "rammed": [
+   "metidos a golpes",
+   ""
+  ],
+  "crammed": [
+   "atiborrados",
+   ""
+  ],
+  "worked": [
+   "trabajamos",
+   ""
+  ],
+  "budge": [
+   "moverse",
+   ""
+  ],
+  "she's": [
+   "ella está (el atasco)",
+   ""
+  ],
+  "wedge": [
+   "cuña",
+   ""
+  ],
+  "ledge": [
+   "laja, saliente de roca",
+   ""
+  ],
+  "foreman": [
+   "capataz",
+   ""
+  ],
+  "mon": [
+   "mi (francés)",
+   ""
+  ],
+  "dieu": [
+   "Dios (francés)",
+   ""
+  ],
+  "cursed": [
+   "maldijo",
+   ""
+  ],
+  "cant-dogs": [
+   "ganchos de balsero",
+   ""
+  ],
+  "arow": [
+   "en fila",
+   ""
+  ],
+  "he-yo-ho": [
+   "¡he-yo-ho! (grito de esfuerzo)",
+   ""
+  ],
+  "shove": [
+   "empujón",
+   ""
+  ],
+  "gang": [
+   "cuadrilla",
+   ""
+  ],
+  "yelled": [
+   "gritó",
+   ""
+  ],
+  "grind": [
+   "crujido",
+   ""
+  ],
+  "wolf's": [
+   "del lobo",
+   ""
+  ],
+  "flash": [
+   "relámpago",
+   ""
+  ],
+  "mash": [
+   "amasijo",
+   ""
+  ],
+  "isaac": [
+   "Isaac",
+   ""
+  ],
+  "dufour": [
+   "Dufour",
+   ""
+  ],
+  "leaped": [
+   "saltó",
+   ""
+  ],
+  "log": [
+   "tronco",
+   ""
+  ],
+  "rush": [
+   "avalancha, embestida",
+   ""
+  ],
+  "bind": [
+   "atasco",
+   ""
+  ],
+  "jam": [
+   "atasco de troncos",
+   ""
+  ],
+  "roared": [
+   "rugía",
+   ""
+  ],
+  "balanced": [
+   "equilibraba",
+   ""
+  ],
+  "pole": [
+   "pértiga",
+   ""
+  ],
+  "cheered": [
+   "vitoreamos",
+   ""
+  ],
+  "block": [
+   "bloque",
+   ""
+  ],
+  "stopped": [
+   "se detuvo",
+   ""
+  ],
+  "crushed": [
+   "aplastado",
+   ""
+  ],
+  "picking": [
+   "recogiendo",
+   ""
+  ],
+  "berries": [
+   "bayas",
+   ""
+  ],
+  "curls": [
+   "se riza",
+   ""
+  ],
+  "launched": [
+   "echó al agua",
+   ""
+  ],
+  "canoe": [
+   "canoa",
+   ""
+  ],
+  "cracked": [
+   "se partió",
+   ""
+  ],
+  "shell": [
+   "cáscara",
+   ""
+  ],
+  "autumn": [
+   "otoño",
+   ""
+  ],
+  "clothed": [
+   "vestido",
+   ""
+  ],
+  "blear": [
+   "turbio",
+   ""
+  ],
+  "nestle": [
+   "acurrucarse",
+   ""
+  ],
+  "cloud": [
+   "nube",
+   ""
+  ],
+  "ghost": [
+   "fantasma",
+   ""
+  ],
+  "lake": [
+   "lago",
+   ""
+  ],
+  "shores": [
+   "orillas",
+   ""
+  ],
+  "forgot": [
+   "olvidó",
+   ""
+  ],
+  "chafe": [
+   "rozar",
+   ""
+  ],
+  "fret": [
+   "inquietarse",
+   ""
+  ],
+  "caverns": [
+   "cavernas",
+   ""
+  ],
+  "mute": [
+   "mudos",
+   ""
+  ],
+  "blackened": [
+   "ennegrecido",
+   ""
+  ],
+  "jay": [
+   "arrendajo",
+   ""
+  ],
+  "swamps": [
+   "pantanos",
+   ""
+  ],
+  "lizard's": [
+   "del lagarto",
+   ""
+  ],
+  "lonesome": [
+   "solitario",
+   ""
+  ],
+  "lute": [
+   "laúd",
+   ""
+  ],
+  "pipe": [
+   "silbar",
+   ""
+  ],
+  "gnarlèd": [
+   "nudosa",
+   ""
+  ],
+  "root": [
+   "raíz",
+   ""
+  ],
+  "tree-toad": [
+   "ranita de árbol",
+   ""
+  ],
+  "trilled": [
+   "trinaba",
+   ""
+  ],
+  "season's": [
+   "de la estación",
+   ""
+  ],
+  "runnels": [
+   "cauces, regueros",
+   ""
+  ],
+  "dry": [
+   "secos",
+   ""
+  ],
+  "ominous": [
+   "ominoso",
+   ""
+  ],
+  "weird": [
+   "extraña",
+   ""
+  ],
+  "flooding": [
+   "inundando",
+   ""
+  ],
+  "ruddy": [
+   "rojizo",
+   ""
+  ],
+  "sere": [
+   "marchitos, secos",
+   ""
+  ],
+  "parched": [
+   "resecos",
+   ""
+  ],
+  "marshes": [
+   "marismas",
+   ""
+  ],
+  "creeks": [
+   "riachuelos",
+   ""
+  ],
+  "stole": [
+   "bajaban furtivos",
+   ""
+  ],
+  "wind-breath": [
+   "soplo de viento",
+   ""
+  ],
+  "veins": [
+   "venas",
+   ""
+  ],
+  "joyous": [
+   "gozoso",
+   ""
+  ],
+  "tremor": [
+   "temblor",
+   ""
+  ],
+  "icy": [
+   "helado",
+   ""
+  ],
+  "woke": [
+   "desperté",
+   ""
+  ],
+  "north's": [
+   "del norte",
+   ""
+  ],
+  "vibrant": [
+   "vibrantes",
+   ""
+  ],
+  "strains": [
+   "acordes",
    ""
   ]
  },
