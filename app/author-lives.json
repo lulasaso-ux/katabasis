@@ -2878,6 +2878,66 @@
       },
       "source": "https://www.wikidata.org/wiki/Q41523",
       "checked": "2026-10-17"
+    },
+    {
+      "author": "Napoleon Bonaparte",
+      "birth": {
+        "min": 1769,
+        "max": 1769,
+        "approximate": false
+      },
+      "death": {
+        "min": 1821,
+        "max": 1821,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q517",
+      "checked": "2026-10-17"
+    },
+    {
+      "author": "Julius Caesar",
+      "birth": {
+        "min": -100,
+        "max": -100,
+        "approximate": false
+      },
+      "death": {
+        "min": -44,
+        "max": -44,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1048",
+      "checked": "2026-10-17"
+    },
+    {
+      "author": "Simón Bolívar",
+      "birth": {
+        "min": 1783,
+        "max": 1783,
+        "approximate": false
+      },
+      "death": {
+        "min": 1830,
+        "max": 1830,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q8605",
+      "checked": "2026-10-17"
+    },
+    {
+      "author": "Xenophon",
+      "birth": {
+        "min": -431,
+        "max": -425,
+        "approximate": true
+      },
+      "death": {
+        "min": -355,
+        "max": -350,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q129772",
+      "checked": "2026-10-17"
     }
   ]
 }

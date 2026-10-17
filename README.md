@@ -617,6 +617,36 @@ Honthorst (1624, Hamburger Kunsthalle), *Los lictores llevan a Bruto los
 cuerpos de sus hijos* de Jacques-Louis David (1789, Louvre) y *Camilo entrega
 el maestro de Falerios a sus alumnos* de Nicolas Poussin (1637, Louvre).
 
+## En Passant
+
+**En Passant** reúne textos de los que pasaron, cada uno en su lengua original,
+con nuevas traducciones de lectura:
+
+- Napoleón Bonaparte, la proclama al Ejército de Italia del 27 de marzo de 1796
+  («Soldats, vous êtes nus…»), según *Histoire de l’empereur Napoléon Ier*
+  (Dulau, Londres, 1867), y la carta a Josefina desde Port-Maurice del 3 de
+  abril de 1796, según las *Œuvres littéraires* editadas por Tancrède Martel
+  (Savine, 1888); ambas en Wikisource en francés.
+- Julio César, *Sobre la guerra de las Galias*, 1, 1, 1–4 («Gallia est omnis
+  divisa in partes tres»), en la edición de T. Rice Holmes (Oxford, 1914) de
+  Perseus; se omiten las secciones 5–7, que el editor pone entre corchetes.
+- Simón Bolívar, «Mi delirio sobre el Chimborazo» (1822), completo, según
+  Wikisource en español.
+- Jenofonte, *Anábasis*, 4, 7, 19–27 («¡El mar! ¡El mar!»), en la edición de
+  E. C. Marchant (Oxford, 1904) de Perseus.
+
+*Clisson et Eugénie*, la novela breve que Bonaparte escribió en 1795, no está:
+su manuscrito se dispersó, y el texto completo solo existe en reconstrucciones
+modernas (la de 2007 es la que circula), que no son de dominio público.
+
+Las cuatro pinturas son de dominio público: *Bonaparte cruzando el Gran San
+Bernardo* de Jacques-Louis David (1801, Malmaison), *Julio César llega al
+Rubicón* de Gustave Boulanger (1854, Musée de Picardie), *Paso del ejército
+libertador por el páramo de Pisba* de Francisco Antonio Cano (1922, Casa Museo
+Quinta de Bolívar; la reproducción viene de Google Arts & Culture, porque la
+de Wikimedia Commons es muy pequeña) y *Episodio de la retirada de los Diez
+Mil* de Adrien Guignet (1843, Louvre).
+
 ## Pantalla de carga
 
 Mientras se cargan los archivos de la sala, `index.html` muestra la portada
