@@ -2723,6 +2723,41 @@
    "name_en": "The Schoolmaster of Falerii",
    "title_es": "Vida de Camilo",
    "title_en": "Life of Camillus"
+  },
+  "ep-napoleon-proclamation": {
+   "type": "complete",
+   "name_es": "Soldados, estáis desnudos",
+   "name_en": "Soldiers, You Are Naked",
+   "title_es": "Soldados, estáis desnudos",
+   "title_en": "Soldiers, You Are Naked"
+  },
+  "ep-napoleon-josephine": {
+   "type": "letter",
+   "name_es": "Vivir para Josefina",
+   "name_en": "To Live for Josephine",
+   "title_es": "Cartas a Josefina",
+   "title_en": "Letters to Josephine"
+  },
+  "ep-caesar-gallia": {
+   "type": "fragment",
+   "name_es": "Toda la Galia",
+   "name_en": "All Gaul",
+   "title_es": "Sobre la guerra de las Galias",
+   "title_en": "The Gallic War"
+  },
+  "ep-bolivar-chimborazo": {
+   "type": "complete",
+   "name_es": "Mi delirio sobre el Chimborazo",
+   "name_en": "My Delirium on Chimborazo",
+   "title_es": "Mi delirio sobre el Chimborazo",
+   "title_en": "My Delirium on Chimborazo"
+  },
+  "ep-xenophon-thalatta": {
+   "type": "fragment",
+   "name_es": "¡El mar! ¡El mar!",
+   "name_en": "The Sea! The Sea!",
+   "title_es": "Anábasis",
+   "title_en": "Anabasis"
   }
  }
 }
