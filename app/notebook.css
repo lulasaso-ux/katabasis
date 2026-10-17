@@ -69,3 +69,26 @@
   .note-toast{bottom:150px}
 }
 .note-card-note .note-entry{border-top:0;padding-top:0}
+/* A text's passages and notes as one thread, oldest first, joined by a line like a thread of posts. */
+.note-thread{list-style:none;margin:14px 0 4px;padding:0}
+.thread-post{position:relative;padding:0 0 18px 28px}
+.thread-post::before{content:"";position:absolute;left:4px;top:4px;width:11px;height:11px;border-radius:50%;background:#c9a46e;box-shadow:0 0 0 3px var(--paper)}
+.thread-post::after{content:"";position:absolute;left:9px;top:20px;bottom:0;width:2px;background:#e0d2bd}
+.thread-post:last-child{padding-bottom:0}
+.thread-post:last-child::after{display:none}
+.thread-post .note-entry{border-top:0;padding-top:0}
+.thread-post .note-quote{margin-top:8px;font-size:19px}
+.thread-post .note-quote.verse-text{font-size:18px}
+.note-badge-passage{background:#f3e3c4;color:#80571f}
+.thread-size{margin:10px 0 0;font:600 12px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:#8a6a45}
+.note-card-note .note-about{margin-bottom:0}
+.note-card-note .note-card-actions{margin-top:16px}
+@media(max-width:730px){
+  .thread-post{padding-left:22px}
+  .thread-post::before{left:1px}
+  .thread-post::after{left:6px}
+  .thread-post .note-quote{font-size:18px}
+  /* The save button moves above, so the thread can use the card's full width. */
+  .saved-item.note-card>.favorite-button{order:-1;margin-left:auto}
+  .saved-item.note-card>.saved-copy{flex-basis:100%}
+}

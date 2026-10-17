@@ -925,10 +925,11 @@ lugar), compartirse como imagen, anotarse de nuevo o quitarse.
 Una lectura o una pintura puede reunir **varias notas**, cada una marcada con
 su origen: *Antología* (las que se escriben leyendo, con el botón «Nota» del
 libro o desde el cuaderno), *Primeras líneas* o *Reconstrucción* (las de los
-ejercicios de Aprender, con lo que se escribió en ellos). Las notas de una
-lectura guardada van en su tarjeta; las de una lectura no guardada, en una
-tarjeta propia. Los cuadernos anteriores, con una sola nota por elemento, se
-convierten solos al abrirse.
+ejercicios de Aprender, con lo que se escribió en ellos). Todo lo que se
+guarda de un mismo texto, sus pasajes y sus notas, forma un **hilo** en una
+sola tarjeta, en el orden en que se creó, esté o no guardada la lectura. Los
+cuadernos anteriores, con una sola nota por elemento, se convierten solos al
+abrirse. En el texto descargado cada obra lleva también su hilo en orden.
 
 Todo se guarda solo en el navegador (`katabasis-notebook-v1` y
 `katabasis-favorites-v1` en `localStorage`); nadie más lo ve. «Descargar mi
