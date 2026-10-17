@@ -569,6 +569,25 @@ Homer Watson (1881, Royal Collection), *Song of Les Érables Rapids, Ottawa
 River* de Lucius O’Brien (1876, Galería Nacional de Canadá) y *Winter near
 Montreal* de Maurice Cullen (hacia 1891–1901, Art Gallery of Ontario).
 
+## Cuentos de los Hermanos Grimm
+
+**Cuentos de los Hermanos Grimm** (*Tales of the Brothers Grimm*) trae cinco
+cuentos completos de los *Kinder- und Hausmärchen* en alemán, con nuevas
+traducciones de lectura al español y al inglés: «Der Froschkönig oder der
+eiserne Heinrich» (KHM 1), «Frau Holle» (KHM 24), «Rotkäppchen» (KHM 26),
+«Die Bremer Stadtmusikanten» (KHM 27) y «Rumpelstilzchen» (KHM 55). El texto
+sigue las últimas ediciones de los hermanos en la ortografía de *Deutsche
+Märchen gesammelt durch die Brüder Grimm* (ed. M. Thilo-Luyken, Langewiesche-
+Brandt, 1921; Project Gutenberg #77905). Los guiones dobles entre
+interlocutores se dan como rayas.
+
+Las cuatro ilustraciones son de dominio público, en Wikimedia Commons: la
+princesa junto a la fuente de Walter Crane (*The Frog Prince*, 1874), la
+señora Holle de Otto Ubbelohde (1906–1908, para los cuentos completos de
+1907–1909), Caperucita Roja de Arthur Rackham (antes de 1909) y *The
+Travelling Musicians* de George Cruikshank (aguafuerte para *German Popular
+Stories*, 1823).
+
 ## Pantalla de carga
 
 Mientras se cargan los archivos de la sala, `index.html` muestra la portada

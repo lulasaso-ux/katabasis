@@ -2632,6 +2632,41 @@
    "name_en": "How One Winter Came in the Lake Region",
    "title_es": "Cómo llegó un invierno a la región de los lagos",
    "title_en": "How One Winter Came in the Lake Region"
+  },
+  "grimm-froschkoenig": {
+   "type": "complete",
+   "name_es": "El rey rana o Enrique el de hierro",
+   "name_en": "The Frog King, or Iron Henry",
+   "title_es": "El rey rana o Enrique el de hierro",
+   "title_en": "The Frog King, or Iron Henry"
+  },
+  "grimm-frau-holle": {
+   "type": "complete",
+   "name_es": "La señora Holle",
+   "name_en": "Mother Holle",
+   "title_es": "La señora Holle",
+   "title_en": "Mother Holle"
+  },
+  "grimm-rotkaeppchen": {
+   "type": "complete",
+   "name_es": "Caperucita Roja",
+   "name_en": "Little Red Cap",
+   "title_es": "Caperucita Roja",
+   "title_en": "Little Red Cap"
+  },
+  "grimm-bremer-stadtmusikanten": {
+   "type": "complete",
+   "name_es": "Los músicos de Bremen",
+   "name_en": "The Bremen Town Musicians",
+   "title_es": "Los músicos de Bremen",
+   "title_en": "The Bremen Town Musicians"
+  },
+  "grimm-rumpelstilzchen": {
+   "type": "complete",
+   "name_es": "Rumpelstilzchen",
+   "name_en": "Rumpelstiltskin",
+   "title_es": "Rumpelstilzchen",
+   "title_en": "Rumpelstiltskin"
   }
  }
 }
