@@ -2632,6 +2632,97 @@
    "name_en": "How One Winter Came in the Lake Region",
    "title_es": "Cómo llegó un invierno a la región de los lagos",
    "title_en": "How One Winter Came in the Lake Region"
+  },
+  "grimm-froschkoenig": {
+   "type": "complete",
+   "name_es": "El rey rana o Enrique el de hierro",
+   "name_en": "The Frog King, or Iron Henry",
+   "title_es": "El rey rana o Enrique el de hierro",
+   "title_en": "The Frog King, or Iron Henry"
+  },
+  "grimm-frau-holle": {
+   "type": "complete",
+   "name_es": "La señora Holle",
+   "name_en": "Mother Holle",
+   "title_es": "La señora Holle",
+   "title_en": "Mother Holle"
+  },
+  "grimm-rotkaeppchen": {
+   "type": "complete",
+   "name_es": "Caperucita Roja",
+   "name_en": "Little Red Cap",
+   "title_es": "Caperucita Roja",
+   "title_en": "Little Red Cap"
+  },
+  "grimm-bremer-stadtmusikanten": {
+   "type": "complete",
+   "name_es": "Los músicos de Bremen",
+   "name_en": "The Bremen Town Musicians",
+   "title_es": "Los músicos de Bremen",
+   "title_en": "The Bremen Town Musicians"
+  },
+  "grimm-rumpelstilzchen": {
+   "type": "complete",
+   "name_es": "Rumpelstilzchen",
+   "name_en": "Rumpelstiltskin",
+   "title_es": "Rumpelstilzchen",
+   "title_en": "Rumpelstiltskin"
+  },
+  "vp-theseus": {
+   "type": "fragment",
+   "name_es": "La vela negra y el hilo de Ariadna",
+   "name_en": "The Black Sail and Ariadne’s Thread",
+   "title_es": "Vida de Teseo",
+   "title_en": "Life of Theseus"
+  },
+  "vp-romulus": {
+   "type": "fragment",
+   "name_es": "La loba",
+   "name_en": "The She-Wolf",
+   "title_es": "Vida de Rómulo",
+   "title_en": "Life of Romulus"
+  },
+  "vp-lycurgus": {
+   "type": "fragment",
+   "name_es": "La crianza de los niños espartanos",
+   "name_en": "The Upbringing of Spartan Boys",
+   "title_es": "Vida de Licurgo",
+   "title_en": "Life of Lycurgus"
+  },
+  "vp-numa": {
+   "type": "fragment",
+   "name_es": "Numa y la ninfa Egeria",
+   "name_en": "Numa and the Nymph Egeria",
+   "title_es": "Vida de Numa",
+   "title_en": "Life of Numa"
+  },
+  "vp-solon": {
+   "type": "fragment",
+   "name_es": "Solón ante Creso",
+   "name_en": "Solon before Croesus",
+   "title_es": "Vida de Solón",
+   "title_en": "Life of Solon"
+  },
+  "vp-publicola": {
+   "type": "fragment",
+   "name_es": "Bruto juzga a sus hijos",
+   "name_en": "Brutus Judges His Sons",
+   "title_es": "Vida de Publícola",
+   "title_en": "Life of Publicola"
+  },
+  "vp-themistocles": {
+   "type": "fragment",
+   "name_es": "Salamina",
+   "name_en": "Salamis",
+   "title_es": "Vida de Temístocles",
+   "title_en": "Life of Themistocles"
+  },
+  "vp-camillus": {
+   "type": "fragment",
+   "name_es": "El maestro de Falerios",
+   "name_en": "The Schoolmaster of Falerii",
+   "title_es": "Vida de Camilo",
+   "title_en": "Life of Camillus"
   }
  }
 }

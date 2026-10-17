@@ -2848,6 +2848,36 @@
       },
       "source": "https://www.wikidata.org/wiki/Q8020362",
       "checked": "2026-10-16"
+    },
+    {
+      "author": "Jacob & Wilhelm Grimm",
+      "birth": {
+        "min": 1785,
+        "max": 1786,
+        "approximate": true
+      },
+      "death": {
+        "min": 1859,
+        "max": 1863,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q2793",
+      "checked": "2026-10-17"
+    },
+    {
+      "author": "Plutarch",
+      "birth": {
+        "min": 45,
+        "max": 50,
+        "approximate": true
+      },
+      "death": {
+        "min": 119,
+        "max": 125,
+        "approximate": true
+      },
+      "source": "https://www.wikidata.org/wiki/Q41523",
+      "checked": "2026-10-17"
     }
   ]
 }
