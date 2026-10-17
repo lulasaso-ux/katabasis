@@ -588,6 +588,35 @@ señora Holle de Otto Ubbelohde (1906–1908, para los cuentos completos de
 Travelling Musicians* de George Cruikshank (aguafuerte para *German Popular
 Stories*, 1823).
 
+## Vidas paralelas I y II
+
+**Vidas paralelas I** y **Vidas paralelas II** (*Parallel Lives I* y *II*)
+traen, en griego, las cuatro primeras parejas de las *Vidas paralelas* de
+Plutarco en su orden tradicional, un pasaje de cada vida, con nuevas
+traducciones de lectura al español y al inglés:
+
+- I: Teseo 17–19 (la vela negra, Ariadna y el Minotauro) y Rómulo 3–4 (la
+  loba); Licurgo 16–18.1 (la crianza de los niños espartanos) y Numa 4 (la
+  ninfa Egeria).
+- II: Solón 27–28 (Solón ante Creso) y Publícola 4–6 (Bruto juzga a sus
+  hijos); Temístocles 12–14 (Salamina) y Camilo 10–12 (el maestro de
+  Falerios).
+
+El griego es el de la edición Loeb de Bernadotte Perrin (1914) en los textos
+TEI de la Perseus Digital Library, con una fila por sección. Se corrigen
+algunos descuidos evidentes del archivo digital: mayúsculas de nombres
+propios, acentos graves, puntos que faltan, letras sueltas, un paréntesis en
+Camilo 11.2 y una oración que el archivo reparte entre Camilo 10.1 y 10.2.
+
+Las seis pinturas son de dominio público, en Wikimedia Commons: *Ariadna da a
+Teseo el ovillo* de Johann Heinrich Tischbein el Viejo (1779, colección
+particular), *Rómulo y Remo* de Rubens (hacia 1615–1616, Pinacoteca
+Capitolina), *La selección de los niños en Esparta* de Jean-Pierre Saint-Ours
+(1786, Musée d’art et d’histoire de Ginebra), *Solón y Creso* de Gerard van
+Honthorst (1624, Hamburger Kunsthalle), *Los lictores llevan a Bruto los
+cuerpos de sus hijos* de Jacques-Louis David (1789, Louvre) y *Camilo entrega
+el maestro de Falerios a sus alumnos* de Nicolas Poussin (1637, Louvre).
+
 ## Pantalla de carga
 
 Mientras se cargan los archivos de la sala, `index.html` muestra la portada
