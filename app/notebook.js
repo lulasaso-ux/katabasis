@@ -143,34 +143,39 @@
   }
 
   // ---- the notebook page ------------------------------------------------------------------------
-  // Saved readings and artworks carry their notes with them; notes on readings that are not saved
-  // stand on their own.
-  function entries() {
-    const list = passages().map(p => ({ kind: 'passage', p, w: reading(p.reading), at: p.at || 0 }));
-    const favs = [...favorites.values()], held = new Set();
-    favs.forEach((f, i) => {
-      const item = favoriteItem(f.type, f.id), ref = itemKey(f.type, f.id);
-      if (!item) return;
-      held.add(ref);
-      const own = notesOf(ref), last = own.length ? own[own.length - 1].at : 0;
-      list.push({ kind: f.type, id: f.id, item, w: f.type === 'reading' ? item : null, at: Math.max(data.times[ref] || i / 1e6, last) });
+  // Everything kept from one text, its saved passages and its notes, is one thread, in the order it
+  // was written, like a thread of posts. A saved reading or artwork heads its own thread even before
+  // it gathers any.
+  function threads() {
+    const by = new Map();
+    const thread = ref => {
+      if (!by.has(ref)) { const type = refType(ref), item = refItem(ref); by.set(ref, { ref, type, id: ref.slice(type.length + 1), item, w: type === 'reading' ? item : null, saved: false, savedAt: 0, posts: [] }); }
+      return by.get(ref);
+    };
+    for (const p of passages()) thread(itemKey('reading', reading(p.reading).id)).posts.push({ kind: 'passage', p, at: p.at || 0 });
+    for (const n of notes()) thread(n.ref).posts.push({ kind: 'note', n, at: n.at || 0 });
+    [...favorites.values()].forEach((f, i) => {
+      if (!favoriteItem(f.type, f.id)) return;
+      const t = thread(itemKey(f.type, f.id));
+      t.saved = true; t.savedAt = data.times[t.ref] || i / 1e6;
     });
-    for (const n of notes()) if (!held.has(n.ref)) list.push({ kind: 'note', n, w: refType(n.ref) === 'reading' ? refItem(n.ref) : null, item: refItem(n.ref), at: n.at || 0 });
+    const list = [...by.values()].filter(t => t.item);
+    for (const t of list) { t.posts.sort((a, b) => a.at - b.at); t.at = Math.max(t.savedAt, ...t.posts.map(x => x.at)); }
     return list;
   }
   function sortRecent(list) { return list.sort((a, b) => b.at - a.at); }
   // The anthology: authors in alphabetical order, their works in catalogue order, then artworks.
   function groups(list) {
     const order = new Map(works.map((w, i) => [w.id, i])), by = new Map();
-    for (const e of list) {
-      const g = e.w ? e.w.author : '\u0000art';
+    for (const t of list) {
+      const g = t.w ? t.w.author : '\u0000art';
       if (!by.has(g)) by.set(g, []);
-      by.get(g).push(e);
+      by.get(g).push(t);
     }
     const keys = [...by.keys()].sort((a, b) => a === '\u0000art' ? 1 : b === '\u0000art' ? -1 : a.localeCompare(b, lang));
     return keys.map(k => ({
       title: k === '\u0000art' ? L('Pinturas y grabados', 'Paintings and prints') : k,
-      items: by.get(k).sort((a, b) => (a.w && b.w ? order.get(a.w.id) - order.get(b.w.id) : 0) || (a.kind === 'passage') - (b.kind === 'passage') || a.at - b.at)
+      items: by.get(k).sort((a, b) => (a.w && b.w ? order.get(a.w.id) - order.get(b.w.id) : 0) || a.at - b.at)
     }));
   }
   function noteBlock(text) {
@@ -188,41 +193,37 @@
         <button class="text-button" data-note-entry="${escH(n.id)}">${n.text ? L('Editar nota', 'Edit note') : L('Escribir nota', 'Write a note')}</button>
         <button class="text-button note-remove" data-note-drop="${escH(n.id)}">${L('Quitar', 'Remove')}</button></span></div></div>`;
   }
-  function passageCard(e) {
-    const { p, w } = e;
-    return `<article class="note-card note-card-passage"><blockquote class="note-quote ${w.kind === 'Poem' ? 'verse-text' : ''}">${escH(p.text)}</blockquote>
-      <p class="note-cite">— ${escH(w.author.split(' · ')[0])} · <em>${escH(bookTitleOf(w))}</em>${titleOf(w) !== bookTitleOf(w) ? ` · ${escH(titleOf(w))}` : ''}</p>
+  // A saved verse or passage, with the note written on it.
+  function passageItem(p, w) {
+    return `<div class="note-entry note-entry-passage"><span class="note-badge note-badge-passage">${L('Pasaje', 'Passage')}</span>
+      <blockquote class="note-quote ${w.kind === 'Poem' ? 'verse-text' : ''}">${escH(p.text)}</blockquote>
       ${noteBlock(p.note)}
       <div class="note-card-foot"><span class="note-date">${escH(when(p.at))}</span><span class="note-card-actions">
         <button class="text-button" data-note-edit="${escH(p.id)}">${p.note ? L('Editar nota', 'Edit note') : L('Escribir nota', 'Write a note')}</button>
         <button class="text-button" data-note-open="${escH(p.id)}">${L('Abrir en el libro', 'Open in the book')} ↗</button>
         <button class="text-button" data-note-share="${escH(p.id)}">${L('Compartir', 'Share')}</button>
-        <button class="text-button note-remove" data-note-remove="${escH(p.id)}">${L('Quitar', 'Remove')}</button></span></div></article>`;
+        <button class="text-button note-remove" data-note-remove="${escH(p.id)}">${L('Quitar', 'Remove')}</button></span></div></div>`;
   }
-  function itemCard(e) {
-    const { kind: type, id, item } = e, enabled = isEnabled(item), p = packages.find(x => x.id === item.package_id), own = notesOf(itemKey(type, id));
-    const title = type === 'reading' ? titleOf(item) : paintField(item, 'title'), author = type === 'reading' ? item.author : paintField(item, 'artist');
-    return `<article class="saved-item note-card">${type === 'painting' ? `<img class="saved-art" src="${item.image}" alt="${escH(paintField(item, 'alt'))}" loading="lazy">` : ''}<div class="saved-copy"><p class="saved-meta">${type === 'reading' ? `${escH(kindOf(item))} · ${minutes(item)}` : escH(paintField(item, 'art_kind'))}</p><h3>${escH(title)}</h3><p>${escH(author)}</p>${!enabled ? `<p class="saved-package">${escH(packageName(p))} · ${L('paquete desactivado', 'package disabled')}</p>` : ''}
-      ${own.length ? `<div class="note-entries">${own.map(noteItem).join('')}</div>` : ''}
-      <span class="note-card-actions"><button class="text-button saved-open" data-saved-open="${escH(id)}" data-saved-type="${type}">${!enabled ? L('Activar paquete y abrir', 'Enable package and open') : type === 'reading' ? L('Abrir el libro', 'Open the book') : L('Ver ilustración', 'View artwork')} <span aria-hidden="true">↗</span></button>
-      <button class="text-button" data-note-item="${type}" data-note-id="${escH(id)}">${own.length ? L('Añadir otra nota', 'Add another note') : L('Escribir nota', 'Write a note')}</button></span></div>${favoriteButton(type, id)}</article>`;
-  }
-  // A note on a reading or artwork that is not saved itself.
-  function noteCard(e) {
-    const { n, item } = e, type = refType(n.ref), id = n.ref.slice(type.length + 1);
+  const postsOf = t => t.posts.length ? `<ol class="note-thread">${t.posts.map(x => `<li class="thread-post">${x.kind === 'passage' ? passageItem(x.p, t.w) : noteItem(x.n)}</li>`).join('')}</ol>` : '';
+  // One card per text: its heading, then the thread.
+  function threadCard(t) {
+    const { type, id, item } = t, enabled = isEnabled(item), p = packages.find(x => x.id === item.package_id), k = t.posts.length;
     const title = type === 'reading' ? titleOf(item) : paintField(item, 'title'), author = type === 'reading' ? item.author.split(' · ')[0] : paintField(item, 'artist');
-    return `<article class="note-card note-card-note"><p class="note-about">${L('Nota sobre', 'Note on')} <em>${escH(title)}</em> · ${escH(author)}
-      <button class="text-button" data-saved-open="${escH(id)}" data-saved-type="${type}">${type === 'reading' ? L('Abrir el libro', 'Open the book') : L('Ver ilustración', 'View artwork')} ↗</button></p>${noteItem(n)}</article>`;
+    const open = `<button class="text-button saved-open" data-saved-open="${escH(id)}" data-saved-type="${type}">${!enabled ? L('Activar paquete y abrir', 'Enable package and open') : type === 'reading' ? L('Abrir el libro', 'Open the book') : L('Ver ilustración', 'View artwork')} <span aria-hidden="true">↗</span></button>`;
+    const add = `<button class="text-button" data-note-item="${type}" data-note-id="${escH(id)}">${k ? L('Añadir al hilo', 'Add to the thread') : L('Escribir nota', 'Write a note')}</button>`;
+    const size = k > 1 ? `<p class="thread-size">${L(`Hilo · ${k} entradas`, `Thread · ${k} entries`)}</p>` : '';
+    if (!t.saved) return `<article class="note-card note-card-note"><p class="note-about">${L('Sobre', 'On')} <em>${escH(title)}</em> · ${escH(author)}</p>${size}${postsOf(t)}<span class="note-card-actions">${open}${add}</span></article>`;
+    return `<article class="saved-item note-card">${type === 'painting' ? `<img class="saved-art" src="${item.image}" alt="${escH(paintField(item, 'alt'))}" loading="lazy">` : ''}<div class="saved-copy"><p class="saved-meta">${type === 'reading' ? `${escH(kindOf(item))} · ${minutes(item)}` : escH(paintField(item, 'art_kind'))}</p><h3>${escH(title)}</h3><p>${escH(type === 'reading' ? item.author : author)}</p>${!enabled ? `<p class="saved-package">${escH(packageName(p))} · ${L('paquete desactivado', 'package disabled')}</p>` : ''}
+      ${size}${postsOf(t)}<span class="note-card-actions">${open}${add}</span></div>${favoriteButton(type, id)}</article>`;
   }
-  const card = e => e.kind === 'passage' ? passageCard(e) : e.kind === 'note' ? noteCard(e) : itemCard(e);
   function render(el) {
-    const scroll = el.scrollTop, list = entries(), n = passages().length, k = notes().length, r = list.filter(e => e.kind === 'reading').length, a = list.filter(e => e.kind === 'painting').length;
+    const scroll = el.scrollTop, list = threads(), n = passages().length, k = notes().length, r = list.filter(t => t.saved && t.type === 'reading').length, a = list.filter(t => t.saved && t.type === 'painting').length;
     const counts = [n ? `${n} ${n === 1 ? L('pasaje', 'passage') : L('pasajes', 'passages')}` : '', k ? `${k} ${k === 1 ? L('nota', 'note') : L('notas', 'notes')}` : '', r ? `${r} ${r === 1 ? L('lectura', 'reading') : L('lecturas', 'readings')}` : '', a ? `${a} ${a === 1 ? L('obra visual', 'artwork') : L('obras visuales', 'artworks')}` : ''].filter(Boolean).join(' · ');
     const body = !list.length
       ? `<div class="favorites-empty"><p>${L('Tu cuaderno está en blanco.', 'Your notebook is blank.')}</p><p>${L('Selecciona un verso o un pasaje en una lectura y pulsa «Guardar pasaje»: podrás escribirle una nota. «Guardar» conserva también lecturas y pinturas enteras, y «Nota» deja varias notas sobre una lectura. Los ejercicios de Aprender también escriben aquí.', 'Select a verse or passage in a reading and choose “Save passage”: you can write it a note. “Save” also keeps whole readings and artworks, and “Note” leaves several notes on a reading. The Learn exercises write here too.')}</p><button class="book-btn" data-saved-discover>${L('Ir a la antología', 'Go to the anthology')}</button></div>`
       : view === 'anthology'
-        ? groups(list).map(g => `<section class="note-group"><h3 class="note-author">${escH(g.title)}</h3><div class="favorites-list">${g.items.map(card).join('')}</div></section>`).join('')
-        : `<div class="favorites-list">${sortRecent(list).map(card).join('')}</div>`;
+        ? groups(list).map(g => `<section class="note-group"><h3 class="note-author">${escH(g.title)}</h3><div class="favorites-list">${g.items.map(threadCard).join('')}</div></section>`).join('')
+        : `<div class="favorites-list">${sortRecent(list).map(threadCard).join('')}</div>`;
     el.innerHTML = `<div class="favorites-inner notebook"><div class="favorites-heading"><p class="tiny-title">${L('Tu antología', 'Your anthology')}</p><h2 id="favorites-title" tabindex="-1">${L('Cuaderno de lectura', 'Reading notebook')}</h2><p>${L('Los versos y pasajes que guardas y tus notas privadas, las que escribes leyendo y las que salen de los ejercicios. Con el tiempo, tu propia antología dentro de Katabasis.', 'The verses and passages you keep and your private notes, written while reading or in the exercises. In time, your own anthology within Katabasis.')}</p></div>
       ${list.length ? `<div class="note-toolbar"><p class="favorites-total">${counts}</p><div class="share-seg note-views" role="group" aria-label="${L('Orden', 'Order')}"><button type="button" data-note-view="recent" aria-pressed="${view === 'recent'}">${L('Recientes', 'Recent')}</button><button type="button" data-note-view="anthology" aria-pressed="${view === 'anthology'}">${L('Mi antología', 'My anthology')}</button></div></div>` : ''}
       ${body}
@@ -240,23 +241,24 @@
   }
   function exportText() {
     const out = [L('MI ANTOLOGÍA', 'MY ANTHOLOGY'), L('Cuaderno de lectura de Katabasis', 'Katabasis reading notebook') + ' · ' + when(Date.now()), ''];
-    for (const g of groups(entries())) {
+    const indent = t => '   ' + String(t).replace(/\n/g, '\n   ');
+    for (const g of groups(threads())) {
       out.push('', g.title.toUpperCase(), '');
-      for (const e of g.items) {
-        if (e.kind === 'passage') {
-          out.push(e.p.text, '— ' + bookTitleOf(e.w) + (titleOf(e.w) !== bookTitleOf(e.w) ? ' · ' + titleOf(e.w) : ''));
-          if (e.p.note) out.push('', '   ' + L('Nota: ', 'Note: ') + e.p.note.replace(/\n/g, '\n   '));
-        } else {
-          const ref = e.kind === 'note' ? e.n.ref : itemKey(e.kind, e.id), type = refType(ref);
-          const head = type === 'reading' ? titleOf(e.item) : `${paintField(e.item, 'title')} — ${e.item.artist}`;
-          out.push(e.kind === 'note' ? `${L('Nota sobre', 'Note on')} ${head}` : type === 'reading' ? `${head} (${L('lectura completa', 'whole reading')})` : head);
-          const indent = t => '   ' + String(t).replace(/\n/g, '\n   ');
-          for (const n of e.kind === 'note' ? [e.n] : notesOf(ref)) {
-            out.push('', `   [${sourceName(n.source)} · ${when(n.at)}]`);
-            if (n.marks) out.push(indent(L('Hitos: ', 'Milestones: ') + n.marks));
-            if (n.mine) out.push(indent((n.source === 'rebuild' ? L('Mi reconstrucción: ', 'My rebuild: ') : L('Lo que escribí: ', 'What I wrote: ')) + n.mine));
-            if (n.text) out.push(indent(L('Nota: ', 'Note: ') + n.text));
+      for (const t of g.items) {
+        const head = t.type === 'reading' ? titleOf(t.item) : `${paintField(t.item, 'title')} — ${t.item.artist}`;
+        out.push(t.saved && t.type === 'reading' ? `${head} (${L('lectura guardada', 'saved reading')})` : head);
+        for (const x of t.posts) {
+          out.push('');
+          if (x.kind === 'passage') {
+            out.push(`   [${L('Pasaje', 'Passage')} · ${when(x.p.at)}]`, indent(x.p.text));
+            if (x.p.note) out.push(indent(L('Nota: ', 'Note: ') + x.p.note));
+            continue;
           }
+          const n = x.n;
+          out.push(`   [${sourceName(n.source)} · ${when(n.at)}]`);
+          if (n.marks) out.push(indent(L('Hitos: ', 'Milestones: ') + n.marks));
+          if (n.mine) out.push(indent((n.source === 'rebuild' ? L('Mi reconstrucción: ', 'My rebuild: ') : L('Lo que escribí: ', 'What I wrote: ')) + n.mine));
+          if (n.text) out.push(indent(L('Nota: ', 'Note: ') + n.text));
         }
         out.push('', '* * *', '');
       }
