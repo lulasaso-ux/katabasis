@@ -2597,6 +2597,41 @@
    "name_en": "The question of meaning",
    "title_es": "El sentido y el valor de la vida",
    "title_en": "The Meaning and Value of Life"
+  },
+  "cnf-roberts-potato": {
+   "type": "poem",
+   "name_es": "La cosecha de papas",
+   "name_en": "The Potato Harvest",
+   "title_es": "La cosecha de papas",
+   "title_en": "The Potato Harvest"
+  },
+  "cnf-lampman-heat": {
+   "type": "poem",
+   "name_es": "Calor",
+   "name_en": "Heat",
+   "title_es": "Calor",
+   "title_en": "Heat"
+  },
+  "cnf-carman-grand-pre": {
+   "type": "poem",
+   "name_es": "Marea baja en Grand Pré",
+   "name_en": "Low Tide on Grand Pré",
+   "title_es": "Marea baja en Grand Pré",
+   "title_en": "Low Tide on Grand Pré"
+  },
+  "cnf-scott-cedars": {
+   "type": "poem",
+   "name_es": "En Los Cedros",
+   "name_en": "At the Cedars",
+   "title_es": "En Los Cedros",
+   "title_en": "At the Cedars"
+  },
+  "cnf-campbell-winter": {
+   "type": "poem",
+   "name_es": "Cómo llegó un invierno a la región de los lagos",
+   "name_en": "How One Winter Came in the Lake Region",
+   "title_es": "Cómo llegó un invierno a la región de los lagos",
+   "title_en": "How One Winter Came in the Lake Region"
   }
  }
 }

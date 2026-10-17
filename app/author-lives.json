@@ -2773,6 +2773,81 @@
       },
       "source": "https://www.wikidata.org/wiki/Q47695",
       "checked": "2026-10-08"
+    },
+    {
+      "author": "Charles G. D. Roberts",
+      "birth": {
+        "min": 1860,
+        "max": 1860,
+        "approximate": false
+      },
+      "death": {
+        "min": 1943,
+        "max": 1943,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q5077925",
+      "checked": "2026-10-16"
+    },
+    {
+      "author": "Archibald Lampman",
+      "birth": {
+        "min": 1861,
+        "max": 1861,
+        "approximate": false
+      },
+      "death": {
+        "min": 1899,
+        "max": 1899,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q2228698",
+      "checked": "2026-10-16"
+    },
+    {
+      "author": "Bliss Carman",
+      "birth": {
+        "min": 1861,
+        "max": 1861,
+        "approximate": false
+      },
+      "death": {
+        "min": 1929,
+        "max": 1929,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q3068116",
+      "checked": "2026-10-16"
+    },
+    {
+      "author": "Duncan Campbell Scott",
+      "birth": {
+        "min": 1862,
+        "max": 1862,
+        "approximate": false
+      },
+      "death": {
+        "min": 1947,
+        "max": 1947,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1265363",
+      "checked": "2026-10-16"
+    },
+    {
+      "author": "Wilfred Campbell",
+      "birth": {
+        "min": 1858,
+        "max": 1861,
+        "approximate": true
+      },
+      "death": {
+        "min": 1918,
+        "max": 1918,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q8020362",
+      "checked": "2026-10-16"
     }
   ]
 }
