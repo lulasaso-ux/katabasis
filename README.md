@@ -581,93 +581,13 @@ Märchen gesammelt durch die Brüder Grimm* (ed. M. Thilo-Luyken, Langewiesche-
 Brandt, 1921; Project Gutenberg #77905). Los guiones dobles entre
 interlocutores se dan como rayas.
 
-Las cuatro ilustraciones son de dominio público, en Wikimedia Commons: la
-princesa junto a la fuente de Walter Crane (*The Frog Prince*, 1874), la
-señora Holle de Otto Ubbelohde (1906–1908, para los cuentos completos de
-1907–1909), Caperucita Roja de Arthur Rackham (antes de 1909) y *The
-Travelling Musicians* de George Cruikshank (aguafuerte para *German Popular
-Stories*, 1823).
-
-## Vidas paralelas I y II
-
-**Vidas paralelas I** y **Vidas paralelas II** (*Parallel Lives I* y *II*)
-traen, en griego, las cuatro primeras parejas de las *Vidas paralelas* de
-Plutarco en su orden tradicional, un pasaje de cada vida, con nuevas
-traducciones de lectura al español y al inglés:
-
-- I: Teseo 17–19 (la vela negra, Ariadna y el Minotauro) y Rómulo 3–4 (la
-  loba); Licurgo 16–18.1 (la crianza de los niños espartanos) y Numa 4 (la
-  ninfa Egeria).
-- II: Solón 27–28 (Solón ante Creso) y Publícola 4–6 (Bruto juzga a sus
-  hijos); Temístocles 12–14 (Salamina) y Camilo 10–12 (el maestro de
-  Falerios).
-
-El griego es el de la edición Loeb de Bernadotte Perrin (1914) en los textos
-TEI de la Perseus Digital Library, con una fila por sección. Se corrigen
-algunos descuidos evidentes del archivo digital: mayúsculas de nombres
-propios, acentos graves, puntos que faltan, letras sueltas, un paréntesis en
-Camilo 11.2 y una oración que el archivo reparte entre Camilo 10.1 y 10.2.
-
-Las seis pinturas son de dominio público, en Wikimedia Commons: *Ariadna da a
-Teseo el ovillo* de Johann Heinrich Tischbein el Viejo (1779, colección
-particular), *Rómulo y Remo* de Rubens (hacia 1615–1616, Pinacoteca
-Capitolina), *La selección de los niños en Esparta* de Jean-Pierre Saint-Ours
-(1786, Musée d’art et d’histoire de Ginebra), *Solón y Creso* de Gerard van
-Honthorst (1624, Hamburger Kunsthalle), *Los lictores llevan a Bruto los
-cuerpos de sus hijos* de Jacques-Louis David (1789, Louvre) y *Camilo entrega
-el maestro de Falerios a sus alumnos* de Nicolas Poussin (1637, Louvre).
-
-## En Passant
-
-**En Passant** reúne textos de los que pasaron, cada uno en su lengua original,
-con nuevas traducciones de lectura:
-
-- Napoleón Bonaparte, la proclama al Ejército de Italia del 27 de marzo de 1796
-  («Soldats, vous êtes nus…»), según *Histoire de l’empereur Napoléon Ier*
-  (Dulau, Londres, 1867), y la carta a Josefina desde Port-Maurice del 3 de
-  abril de 1796, según las *Œuvres littéraires* editadas por Tancrède Martel
-  (Savine, 1888); ambas en Wikisource en francés.
-- Julio César, *Sobre la guerra de las Galias*, 1, 1, 1–4 («Gallia est omnis
-  divisa in partes tres»), en la edición de T. Rice Holmes (Oxford, 1914) de
-  Perseus; se omiten las secciones 5–7, que el editor pone entre corchetes.
-- Simón Bolívar, «Mi delirio sobre el Chimborazo» (1822), completo, según
-  Wikisource en español.
-- Jenofonte, *Anábasis*, 4, 7, 19–27 («¡El mar! ¡El mar!»), en la edición de
-  E. C. Marchant (Oxford, 1904) de Perseus.
-
-*Clisson et Eugénie*, la novela breve que Bonaparte escribió en 1795, no está:
-su manuscrito se dispersó, y el texto completo solo existe en reconstrucciones
-modernas (la de 2007 es la que circula), que no son de dominio público.
-
-Las cuatro pinturas son de dominio público: *Bonaparte cruzando el Gran San
-Bernardo* de Jacques-Louis David (1801, Malmaison), *Julio César llega al
-Rubicón* de Gustave Boulanger (1854, Musée de Picardie), *Paso del ejército
-libertador por el páramo de Pisba* de Francisco Antonio Cano (1922, Casa Museo
-Quinta de Bolívar; la reproducción viene de Google Arts & Culture, porque la
-de Wikimedia Commons es muy pequeña) y *Episodio de la retirada de los Diez
-Mil* de Adrien Guignet (1843, Louvre).
-
-## Víspera de Todos los Santos
-
-**Víspera de Todos los Santos** (*All Hallows’ Eve*) reúne los clásicos del
-terror en inglés, con nuevas traducciones de lectura al español:
-
-- Mary Shelley, *Frankenstein*, capítulo 5 (la criatura abre los ojos), texto
-  revisado de 1831 (Colburn y Bentley; Project Gutenberg #42324).
-- Robert Louis Stevenson, *Strange Case of Dr Jekyll and Mr Hyde* (1886), la
-  primera transformación, de la declaración final de Jekyll (Gutenberg #43).
-- H. G. Wells, *The Invisible Man* (1897), capítulo 7: el forastero se quita
-  las vendas (Gutenberg #5230).
-- Bram Stoker, *Dracula* (1897), capítulo 2: la llegada de Harker al castillo,
-  hasta «los hijos de la noche» (Gutenberg #345).
-- Ambrose Bierce, «An Inhabitant of Carcosa» (1886), completo, en el texto de
-  *Can Such Things Be?* (Cassell, 1893; Gutenberg #4366).
-
-Las cuatro ilustraciones son de dominio público, en Wikimedia Commons: el
+Las cuatro imágenes son de dominio público, en Wikimedia Commons: el
 frontispicio de Theodor von Holst para *Frankenstein* (1831), la doble
 exposición de Henry Van der Weyde con Richard Mansfield como Jekyll y Hyde
-(hacia 1887–1895), la portada de *Dracula* de Archibald Constable (1901) y la
-tapa de la primera edición de *The Invisible Man* (C. Arthur Pearson, 1897).
+(hacia 1887–1895), el grabado de David Henry Friston para «Carmilla» de
+Sheridan Le Fanu (1872), junto a *Dracula*, y *El sueño de la razón produce
+monstruos* de Goya (*Los Caprichos*, lámina 43, 1799), junto a Carcosa y
+*Frankenstein*.
 
 ## Pantalla de carga
 
