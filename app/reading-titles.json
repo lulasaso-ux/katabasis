@@ -2758,6 +2758,41 @@
    "name_en": "The Sea! The Sea!",
    "title_es": "Anábasis",
    "title_en": "Anabasis"
+  },
+  "hw-frankenstein": {
+   "type": "fragment",
+   "name_es": "Una lúgubre noche de noviembre",
+   "name_en": "A Dreary Night of November",
+   "title_es": "Frankenstein o el moderno Prometeo",
+   "title_en": "Frankenstein; or, The Modern Prometheus"
+  },
+  "hw-jekyll": {
+   "type": "fragment",
+   "name_es": "La primera transformación",
+   "name_en": "The First Transformation",
+   "title_es": "El extraño caso del Dr. Jekyll y Mr. Hyde",
+   "title_en": "Strange Case of Dr Jekyll and Mr Hyde"
+  },
+  "hw-invisible-man": {
+   "type": "fragment",
+   "name_es": "Debajo de las vendas",
+   "name_en": "Under the Bandages",
+   "title_es": "El hombre invisible",
+   "title_en": "The Invisible Man"
+  },
+  "hw-dracula": {
+   "type": "fragment",
+   "name_es": "Bienvenido a mi casa",
+   "name_en": "Welcome to My House",
+   "title_es": "Drácula",
+   "title_en": "Dracula"
+  },
+  "hw-carcosa": {
+   "type": "complete",
+   "name_es": "Un habitante de Carcosa",
+   "name_en": "An Inhabitant of Carcosa",
+   "title_es": "Un habitante de Carcosa",
+   "title_en": "An Inhabitant of Carcosa"
   }
  }
 }
