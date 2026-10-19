@@ -647,6 +647,28 @@ Quinta de Bolívar; la reproducción viene de Google Arts & Culture, porque la
 de Wikimedia Commons es muy pequeña) y *Episodio de la retirada de los Diez
 Mil* de Adrien Guignet (1843, Louvre).
 
+## Víspera de Todos los Santos
+
+**Víspera de Todos los Santos** (*All Hallows’ Eve*) reúne los clásicos del
+terror en inglés, con nuevas traducciones de lectura al español:
+
+- Mary Shelley, *Frankenstein*, capítulo 5 (la criatura abre los ojos), texto
+  revisado de 1831 (Colburn y Bentley; Project Gutenberg #42324).
+- Robert Louis Stevenson, *Strange Case of Dr Jekyll and Mr Hyde* (1886), la
+  primera transformación, de la declaración final de Jekyll (Gutenberg #43).
+- H. G. Wells, *The Invisible Man* (1897), capítulo 7: el forastero se quita
+  las vendas (Gutenberg #5230).
+- Bram Stoker, *Dracula* (1897), capítulo 2: la llegada de Harker al castillo,
+  hasta «los hijos de la noche» (Gutenberg #345).
+- Ambrose Bierce, «An Inhabitant of Carcosa» (1886), completo, en el texto de
+  *Can Such Things Be?* (Cassell, 1893; Gutenberg #4366).
+
+Las cuatro ilustraciones son de dominio público, en Wikimedia Commons: el
+frontispicio de Theodor von Holst para *Frankenstein* (1831), la doble
+exposición de Henry Van der Weyde con Richard Mansfield como Jekyll y Hyde
+(hacia 1887–1895), la portada de *Dracula* de Archibald Constable (1901) y la
+tapa de la primera edición de *The Invisible Man* (C. Arthur Pearson, 1897).
+
 ## Pantalla de carga
 
 Mientras se cargan los archivos de la sala, `index.html` muestra la portada

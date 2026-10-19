@@ -2938,6 +2938,66 @@
       },
       "source": "https://www.wikidata.org/wiki/Q129772",
       "checked": "2026-10-17"
+    },
+    {
+      "author": "Mary Shelley",
+      "birth": {
+        "min": 1797,
+        "max": 1797,
+        "approximate": false
+      },
+      "death": {
+        "min": 1851,
+        "max": 1851,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q47152",
+      "checked": "2026-10-19"
+    },
+    {
+      "author": "Robert Louis Stevenson",
+      "birth": {
+        "min": 1850,
+        "max": 1850,
+        "approximate": false
+      },
+      "death": {
+        "min": 1894,
+        "max": 1894,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q1512",
+      "checked": "2026-10-19"
+    },
+    {
+      "author": "H. G. Wells",
+      "birth": {
+        "min": 1866,
+        "max": 1866,
+        "approximate": false
+      },
+      "death": {
+        "min": 1946,
+        "max": 1946,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q42511",
+      "checked": "2026-10-19"
+    },
+    {
+      "author": "Bram Stoker",
+      "birth": {
+        "min": 1847,
+        "max": 1847,
+        "approximate": false
+      },
+      "death": {
+        "min": 1912,
+        "max": 1912,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q36184",
+      "checked": "2026-10-19"
     }
   ]
 }
