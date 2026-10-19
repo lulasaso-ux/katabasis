@@ -2998,6 +2998,51 @@
       },
       "source": "https://www.wikidata.org/wiki/Q36184",
       "checked": "2026-10-19"
+    },
+    {
+      "author": "H. Rider Haggard",
+      "birth": {
+        "min": 1856,
+        "max": 1856,
+        "approximate": false
+      },
+      "death": {
+        "min": 1925,
+        "max": 1925,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q237196",
+      "checked": "2026-10-19"
+    },
+    {
+      "author": "Jules Verne",
+      "birth": {
+        "min": 1828,
+        "max": 1828,
+        "approximate": false
+      },
+      "death": {
+        "min": 1905,
+        "max": 1905,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q33977",
+      "checked": "2026-10-19"
+    },
+    {
+      "author": "Edgar Rice Burroughs",
+      "birth": {
+        "min": 1875,
+        "max": 1875,
+        "approximate": false
+      },
+      "death": {
+        "min": 1950,
+        "max": 1950,
+        "approximate": false
+      },
+      "source": "https://www.wikidata.org/wiki/Q148234",
+      "checked": "2026-10-19"
     }
   ]
 }

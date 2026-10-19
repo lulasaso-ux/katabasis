@@ -589,6 +589,30 @@ Sheridan Le Fanu (1872), junto a *Dracula*, y *El sueño de la razón produce
 monstruos* de Goya (*Los Caprichos*, lámina 43, 1799), junto a Carcosa y
 *Frankenstein*.
 
+## Mundo perdido
+
+**Mundo perdido** (*Lost World*) reúne fragmentos de cinco novelas de aventuras,
+con nuevas traducciones de lectura al español (y al inglés en el caso de Verne):
+
+- H. Rider Haggard, *King Solomon’s Mines* (1885), capítulo 17: la cámara del
+  tesoro y la muerte de Gagool (Project Gutenberg #2166).
+- Jules Verne, *Voyage au centre de la Terre* (1864), capítulos 32 y 33: el
+  combate del ictiosaurio y el plesiosaurio, en el original francés
+  (Gutenberg #4791).
+- Arthur Conan Doyle, *The Lost World* (1912), capítulo 10: los iguanodontes
+  del claro (Gutenberg #139).
+- H. Rider Haggard, *She: A History of Adventure* (1887), capítulo 26: Ayesha
+  en la columna de fuego (Gutenberg #3155).
+- Edgar Rice Burroughs, *At the Earth’s Core* (1914), capítulo 2: la llegada a
+  Pellucidar (Gutenberg #123).
+
+Las cuatro ilustraciones son de dominio público, en Wikimedia Commons: el
+grabado de Édouard Riou del combate de los monstruos marinos (Hetzel, 1867),
+la lámina de Walter Paget para la edición ilustrada de *King Solomon’s Mines*
+(Cassell, 1888), el claro de los iguanodontes de Patrick L. Forbes en la
+primera edición de *The Lost World* (Hodder & Stoughton, 1912) y la lámina de
+Maurice Greiffenhagen de Ayesha en el fuego (Longmans, 1888).
+
 ## Pantalla de carga
 
 Mientras se cargan los archivos de la sala, `index.html` muestra la portada

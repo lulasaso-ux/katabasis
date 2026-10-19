@@ -2793,6 +2793,41 @@
    "name_en": "An Inhabitant of Carcosa",
    "title_es": "Un habitante de Carcosa",
    "title_en": "An Inhabitant of Carcosa"
+  },
+  "mp-solomon-treasure": {
+   "type": "fragment",
+   "name_es": "La cámara del tesoro",
+   "name_en": "The Treasure Chamber",
+   "title_es": "Las minas del rey Salomón",
+   "title_en": "King Solomon’s Mines"
+  },
+  "mp-verne-sea-monsters": {
+   "type": "fragment",
+   "name_es": "El combate de los monstruos",
+   "name_en": "The Battle of the Monsters",
+   "title_es": "Viaje al centro de la Tierra",
+   "title_en": "Journey to the Centre of the Earth"
+  },
+  "mp-lost-world-iguanodons": {
+   "type": "fragment",
+   "name_es": "Cinco iguanodontes vivos",
+   "name_en": "Five Live Iguanodons",
+   "title_es": "El mundo perdido",
+   "title_en": "The Lost World"
+  },
+  "mp-she-pillar-of-fire": {
+   "type": "fragment",
+   "name_es": "La columna de fuego",
+   "name_en": "The Pillar of Fire",
+   "title_es": "Ella",
+   "title_en": "She: A History of Adventure"
+  },
+  "mp-earths-core-pellucidar": {
+   "type": "fragment",
+   "name_es": "No había horizonte",
+   "name_en": "There Was No Horizon",
+   "title_es": "En el centro de la Tierra",
+   "title_en": "At the Earth’s Core"
   }
  }
 }
